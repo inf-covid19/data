@@ -6,9 +6,14 @@ COUNTRIES_DATA = 'https://opendata.ecdc.europa.eu/covid19/casedistribution/csv'
 
 def scrape_countries():
     cwd = getcwd()
+
     prev_country = ''
     header = ''
     curr_lines = []
+
+    def write_file():
+        with open(path.join(cwd, 'data', 'countries', f'{prev_country}.csv'), 'w') as country_file:
+            country_file.writelines([header] + curr_lines)
 
     for line_bin in request.urlopen(COUNTRIES_DATA):
         line = line_bin.decode('iso-8859-1')
@@ -17,8 +22,9 @@ def scrape_countries():
             continue
         country = line.split(',')[6].lower()
         if len(prev_country) > 0 and country != prev_country:
-            with open(path.join(cwd, 'data', 'countries', f'{prev_country}.csv'), 'w') as country_file:
-                country_file.writelines([header] + curr_lines)
+            write_file()
             curr_lines = []
         curr_lines.append(line)
         prev_country = country
+
+    write_file()
