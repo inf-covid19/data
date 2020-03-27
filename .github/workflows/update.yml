@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "35 * * * *"
+    - cron: "45 * * * *"
 
 jobs:
   scrape_and_update:
