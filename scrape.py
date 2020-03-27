@@ -18,6 +18,6 @@ def scrape(fn):
 
 
 if __name__ == "__main__":
-    scrape(scrape_countries)
-    scrape(scrape_brazil)
+    # scrape(scrape_countries)
+    # scrape(scrape_brazil)
     scrape(scrape_sweden)
