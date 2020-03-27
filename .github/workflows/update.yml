@@ -1,0 +1,35 @@
+on:
+  schedule:
+    - cron: "30 * * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+
+      - name: Install dependencies with pipenv
+        run: |
+          pip install pipenv
+          pipenv install --deploy --dev
+
+      - name: Perform update
+        run: pipenv run python scrape.py
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Scheduled updates ($(date +'%F %T %Z'))"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
