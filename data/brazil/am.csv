@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-03-26,AM,,state,67,1,True,4144597,13,1.61656,0.0149
+2020-03-27,AM,,state,81,1,True,4144597,13,1.95435,0.0123
+2020-03-26,AM,,state,67,1,False,4144597,13,1.61656,0.0149
 2020-03-25,AM,,state,54,1,False,4144597,13,1.30290,0.0185
 2020-03-24,AM,,state,47,1,False,4144597,13,1.13401,0.0213
 2020-03-23,AM,,state,32,0,False,4144597,13,0.77209,
@@ -16,8 +17,11 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-03-19,AM,Importados/Indefinidos,city,3,,False,,,,
 2020-03-18,AM,Importados/Indefinidos,city,2,,False,,,,
 2020-03-13,AM,Importados/Indefinidos,city,1,,False,,,,
-2020-03-26,AM,Boca do Acre,city,1,,True,34308,1300706,2.91477,
-2020-03-26,AM,Manaus,city,63,,True,2182763,1302603,2.88625,
+2020-03-27,AM,Boca do Acre,city,1,,True,34308,1300706,2.91477,
+2020-03-26,AM,Boca do Acre,city,1,,False,34308,1300706,2.91477,
+2020-03-27,AM,Manacapuru,city,2,,True,97377,1302504,2.05387,
+2020-03-27,AM,Manaus,city,75,,True,2182763,1302603,3.43601,
+2020-03-26,AM,Manaus,city,63,,False,2182763,1302603,2.88625,
 2020-03-25,AM,Manaus,city,52,,False,2182763,1302603,2.38230,
 2020-03-24,AM,Manaus,city,45,,False,2182763,1302603,2.06161,
 2020-03-23,AM,Manaus,city,31,,False,2182763,1302603,1.42022,
@@ -27,8 +31,10 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-03-19,AM,Manaus,city,3,,False,2182763,1302603,0.13744,
 2020-03-18,AM,Manaus,city,2,,False,2182763,1302603,0.09163,
 2020-03-13,AM,Manaus,city,1,0,False,2182763,1302603,0.04581,
-2020-03-26,AM,Parintins,city,2,1,True,114273,1303403,1.75019,0.5000
+2020-03-27,AM,Parintins,city,2,1,True,114273,1303403,1.75019,0.5000
+2020-03-26,AM,Parintins,city,2,1,False,114273,1303403,1.75019,0.5000
 2020-03-25,AM,Parintins,city,2,1,False,114273,1303403,1.75019,0.5000
 2020-03-24,AM,Parintins,city,2,1,False,114273,1303403,1.75019,0.5000
 2020-03-23,AM,Parintins,city,1,0,False,114273,1303403,0.87510,
-2020-03-26,AM,Santo Antônio do Içá,city,1,,True,21602,1303700,4.62920,
+2020-03-27,AM,Santo Antônio do Içá,city,1,,True,21602,1303700,4.62920,
+2020-03-26,AM,Santo Antônio do Içá,city,1,,False,21602,1303700,4.62920,
