@@ -1,6 +1,8 @@
+name: Scheduled Update
+
 on:
   schedule:
-    - cron: "45 * * * *"
+    - cron: "* */2 * * *"
 
 jobs:
   scrape_and_update:
