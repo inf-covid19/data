@@ -1,13 +1,17 @@
 import requests
-from bs4 import BeautifulSoup
 from os import getcwd, path, rename
 
 import datetime
 from helpers import ensure_dirs
 
+DATA_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/0/query?f=json&where=Region%20%3C%3E%20%27dummy%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Region%20asc&outSR=102100&resultOffset=0&resultRecordCount=25&cacheHint=true'
 
-URL = 'https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage/'
+ALL_TIME_CASES_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/1/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Statistikdatum%20desc&outSR=102100&resultOffset=0&resultRecordCount=2000&cacheHint=true'
+CASES_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/0/query?f=json&where=Region%20%3C%3E%20%27dummy%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Region&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Totalt_antal_fall%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&cacheHint=true'
 
+
+DEATHS_BY_AGE = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/4/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=%C3%85ldersgrupp2&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Totalt_antal_avlidna%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&cacheHint=true'
+CASES_BY_AGE = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/4/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=%C3%85ldersgrupp2&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Totalt_antal_fall%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&cacheHint=true'
 
 def scrape_sweden():
     cwd = getcwd()
@@ -16,19 +20,21 @@ def scrape_sweden():
     ensure_dirs(sweden_dir, tmp_dir)
 
     today = str(datetime.date.today())
-    page = requests.get(URL)
-    soup = BeautifulSoup(page.content, 'html.parser')
-
-    header = 'date,county,county_iso,city,place_type,confirmed,deaths,estimated_population_2019,area_km2,confirmed_per_100k_inhabitants\n'
+    r = requests.get(DATA_PER_COUNTY)
+    data = r.json()
 
     updated_county_files = []
+    header = 'date,county,county_iso,city,place_type,confirmed,deaths,estimated_population_2019,area_km2,confirmed_per_100k_inhabitants,critical\n'
 
-    for tr in soup.table.tbody.find_all('tr')[:-1]:
-        cols = [td.get_text() for td in tr.find_all('td')]
+    for feat in data['features']:
+        attributes = feat['attributes']
 
-        county = cols[0]
+        county = attributes['Region']
         iso = COUNTY_ISO_MAPPED[county].lower()
-        values = [''.join(x.split(' ')) for x in cols[1:]]
+        confirmed = attributes['Totalt_antal_fall']
+        deaths = attributes['Totalt_antal_avlidna']
+        confirmed_per_100k = attributes['Fall_per_100000_inv']
+        critical = attributes['Totalt_antal_intensivvårdade']
 
         line = ','.join([
             today,
@@ -36,11 +42,12 @@ def scrape_sweden():
             iso.upper(),
             '',
             'county',
-            values[0],
-            values[3],
+            str(confirmed),
+            str(deaths),
             str(COUNTY_POPULATION_MAPPED[county]),
             str(COUNTY_AREA_MAPPED[county]),
-            values[1]
+            str(confirmed_per_100k),
+            str(critical) if critical is not None else '',
         ])
 
         county_file = path.join(sweden_dir, f'{iso}.csv')
@@ -82,7 +89,7 @@ COUNTY_ISO_MAPPED = {
     'Västerbotten': 'SE-AC',
     'Norrbotten': 'SE-BD',
     'Uppsala': 'SE-C',
-    'Södermanland': 'SE-D',
+    'Sörmland': 'SE-D',
     'Östergötland': 'SE-E',
     'Jönköping': 'SE-F',
     'Kronoberg': 'SE-G',
@@ -98,7 +105,7 @@ COUNTY_ISO_MAPPED = {
     'Dalarna': 'SE-W',
     'Gävleborg': 'SE-X',
     'Västernorrland': 'SE-Y',
-    'Jämtland': 'SE-Z',
+    'Jämtland Härjedalen': 'SE-Z',
 }
 
 COUNTY_AREA_MAPPED = {
@@ -106,7 +113,7 @@ COUNTY_AREA_MAPPED = {
     'Västerbotten': 55186.2,
     'Norrbotten': 98244.8,
     'Uppsala': 8207.2,
-    'Södermanland': 6102.3,
+    'Sörmland': 6102.3,
     'Östergötland': 10602.0,
     'Jönköping': 10495.1,
     'Kronoberg': 8466.0,
@@ -122,7 +129,7 @@ COUNTY_AREA_MAPPED = {
     'Dalarna': 28188.8,
     'Gävleborg': 18198.9,
     'Västernorrland': 21683.8,
-    'Jämtland': 49341.2
+    'Jämtland Härjedalen': 49341.2
 }
 
 # http://citypopulation.de/en/sweden/cities/mun/
@@ -131,7 +138,7 @@ COUNTY_POPULATION_MAPPED = {
     'Västerbotten': 270154,
     'Norrbotten': 250497,
     'Uppsala': 376354,
-    'Södermanland': 294695,
+    'Sörmland': 294695,
     'Östergötland': 461583,
     'Jönköping': 360825,
     'Kronoberg': 199886,
@@ -147,5 +154,5 @@ COUNTY_POPULATION_MAPPED = {
     'Dalarna': 287191,
     'Gävleborg': 286547,
     'Västernorrland': 245453,
-    'Jämtland': 130280,
+    'Jämtland Härjedalen': 130280,
 }
