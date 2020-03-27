@@ -1,9 +1,9 @@
 on:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "35 * * * *"
 
 jobs:
-  scrape:
+  scrape_and_update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
