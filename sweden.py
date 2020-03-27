@@ -1,19 +1,31 @@
-import requests
 from os import getcwd, path, rename
-
 import datetime
-from helpers import ensure_dirs
+import requests
+
+from helpers import ensure_dirs, ensure_consistency
 
 DATA_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/0/query?f=json&where=Region%20%3C%3E%20%27dummy%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Region%20asc&outSR=102100&resultOffset=0&resultRecordCount=25&cacheHint=true'
-
-ALL_TIME_CASES_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/1/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Statistikdatum%20desc&outSR=102100&resultOffset=0&resultRecordCount=2000&cacheHint=true'
-CASES_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/0/query?f=json&where=Region%20%3C%3E%20%27dummy%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Region&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Totalt_antal_fall%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&cacheHint=true'
-
-
 DEATHS_BY_AGE = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/4/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=%C3%85ldersgrupp2&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Totalt_antal_avlidna%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&cacheHint=true'
 CASES_BY_AGE = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/4/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=%C3%85ldersgrupp2&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Totalt_antal_fall%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&cacheHint=true'
 
+# ALL_TIME_CASES_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/1/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Statistikdatum%20desc&outSR=102100&resultOffset=0&resultRecordCount=2000&cacheHint=true'
+# CASES_PER_COUNTY = 'https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/0/query?f=json&where=Region%20%3C%3E%20%27dummy%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&groupByFieldsForStatistics=Region&orderByFields=value%20desc&outStatistics=%5B%7B%22statisticType%22%3A%22sum%22%2C%22onStatisticField%22%3A%22Totalt_antal_fall%22%2C%22outStatisticFieldName%22%3A%22value%22%7D%5D&outSR=102100&cacheHint=true'
+
+
 def scrape_sweden():
+    scrape_by_counties()
+    scrape_additional()
+
+
+def scrape_additional():
+    cwd = getcwd()
+    ensure_dirs(path.join(cwd, 'data', 'sweden', 'additional'))
+
+    scrape_cases_by_age()
+    scrape_deaths_by_age()
+
+
+def scrape_by_counties():
     cwd = getcwd()
     sweden_dir = path.join(cwd, 'data', 'sweden')
     tmp_dir = path.join(cwd, 'tmp')
@@ -61,27 +73,50 @@ def scrape_sweden():
         if not is_empty:
             updated_county_files.append(county_file)
 
-    for county_file in updated_county_files:
-        tmp_file = path.join(tmp_dir, 'tmp-county-sweden.csv')
-        rename(county_file, tmp_file)
+    ensure_consistency(updated_county_files, lambda a: a[:5])
 
-        with open(tmp_file, 'r') as tmp_f:
-            with open(county_file, 'a+') as county_f:
-                header = ''
-                prev_data = None
-                curr_line = ''
-                for line in tmp_f:
-                    if header == '':
-                        header = line
-                        county_f.write(header)
-                        continue
-                    data = line.split(',')[:5]
-                    if prev_data is not None and prev_data != data:
-                        county_f.write(curr_line)
-                    curr_line = line
-                    prev_data = data
-                county_f.write(curr_line)
 
+def scrape_by_age(url, filename):
+    today = str(datetime.date.today())
+    r = requests.get(url)
+    data = r.json()
+
+    header = 'date,0-9,10-19,20-29,30-39,40-49,50-59,60-69,70-79,80-90,90+,unknown'
+
+    data_dict = {'date': today}
+    for feat in data['features']:
+        group = feat['attributes']['Åldersgrupp2']
+        value = feat['attributes']['value']
+
+        if group == 'Uppgift saknas':
+            data_dict['unknown'] = value
+            continue
+
+        group = group.replace('år', ' ').strip()
+        data_dict[group] = value
+
+    today_line = ','.join(
+        [str(data_dict[k]) if k in data_dict else '' for k in header.split(',')])
+
+    cases_by_age_file = path.join(
+        getcwd(), 'data', 'sweden', 'additional', filename)
+    is_empty = not path.exists(cases_by_age_file)
+
+    with open(cases_by_age_file, 'a+') as f:
+        if is_empty:
+            f.write(header+'\n')
+        f.write(today_line+'\n')
+
+    if not is_empty:
+        ensure_consistency([cases_by_age_file], lambda a: a[0])
+
+
+def scrape_cases_by_age():
+    scrape_by_age(CASES_BY_AGE, 'cases_by_age.csv')
+
+
+def scrape_deaths_by_age():
+    scrape_by_age(DEATHS_BY_AGE, 'deaths_by_age.csv')
 
 
 COUNTY_ISO_MAPPED = {
