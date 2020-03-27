@@ -1,7 +1,9 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
+
+set -e
 
 cd /home/felipemfp/Workspace/covid19-data
-pipenv run python scrape.py
+/home/linuxbrew/.linuxbrew/bin/pipenv run python scrape.py
 git add .
 git commit -m "Updates"
 git push
