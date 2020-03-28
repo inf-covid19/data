@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-03-26,RJ,,state,421,9,True,17264943,33,2.43847,0.0214
+2020-03-27,RJ,,state,493,10,True,17264943,33,2.85550,0.0203
+2020-03-26,RJ,,state,421,9,False,17264943,33,2.43847,0.0214
 2020-03-25,RJ,,state,370,8,False,17264943,33,2.14307,0.0216
 2020-03-24,RJ,,state,305,6,False,17264943,33,1.76659,0.0197
 2020-03-23,RJ,,state,233,4,False,17264943,33,1.34956,0.0172
@@ -13,13 +14,15 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-03-08,RJ,,state,3,0,False,17264943,33,0.01738,
 2020-03-06,RJ,,state,2,0,False,17264943,33,0.01158,
 2020-03-05,RJ,,state,1,0,False,17264943,33,0.00579,
-2020-03-26,RJ,Importados/Indefinidos,city,0,0,True,,,,
+2020-03-27,RJ,Importados/Indefinidos,city,0,0,True,,,,
+2020-03-26,RJ,Importados/Indefinidos,city,0,0,False,,,,
 2020-03-25,RJ,Importados/Indefinidos,city,0,0,False,,,,
 2020-03-24,RJ,Importados/Indefinidos,city,2,0,False,,,,
 2020-03-23,RJ,Importados/Indefinidos,city,2,0,False,,,,
 2020-03-22,RJ,Importados/Indefinidos,city,2,0,False,,,,
 2020-03-21,RJ,Importados/Indefinidos,city,4,0,False,,,,
-2020-03-26,RJ,Barra Mansa,city,1,0,True,184412,3300407,0.54226,
+2020-03-27,RJ,Barra Mansa,city,1,0,True,184412,3300407,0.54226,
+2020-03-26,RJ,Barra Mansa,city,1,0,False,184412,3300407,0.54226,
 2020-03-25,RJ,Barra Mansa,city,1,0,False,184412,3300407,0.54226,
 2020-03-24,RJ,Barra Mansa,city,1,0,False,184412,3300407,0.54226,
 2020-03-23,RJ,Barra Mansa,city,1,0,False,184412,3300407,0.54226,
@@ -33,14 +36,18 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-03-08,RJ,Barra Mansa,city,1,0,False,184412,3300407,0.54226,
 2020-03-06,RJ,Barra Mansa,city,1,0,False,184412,3300407,0.54226,
 2020-03-05,RJ,Barra Mansa,city,1,0,False,184412,3300407,0.54226,
-2020-03-26,RJ,Belford Roxo,city,1,0,True,510906,3300456,0.19573,
-2020-03-26,RJ,Campos dos Goytacazes,city,1,0,True,507548,3301009,0.19703,
+2020-03-27,RJ,Belford Roxo,city,1,0,True,510906,3300456,0.19573,
+2020-03-26,RJ,Belford Roxo,city,1,0,False,510906,3300456,0.19573,
+2020-03-27,RJ,Campos dos Goytacazes,city,1,0,True,507548,3301009,0.19703,
+2020-03-26,RJ,Campos dos Goytacazes,city,1,0,False,507548,3301009,0.19703,
 2020-03-25,RJ,Campos dos Goytacazes,city,1,0,False,507548,3301009,0.19703,
 2020-03-24,RJ,Campos dos Goytacazes,city,1,0,False,507548,3301009,0.19703,
-2020-03-26,RJ,Duque de Caxias,city,2,0,True,919596,3301702,0.21749,
+2020-03-27,RJ,Duque de Caxias,city,3,0,True,919596,3301702,0.32623,
+2020-03-26,RJ,Duque de Caxias,city,2,0,False,919596,3301702,0.21749,
 2020-03-25,RJ,Duque de Caxias,city,2,0,False,919596,3301702,0.21749,
 2020-03-24,RJ,Duque de Caxias,city,1,0,False,919596,3301702,0.10874,
-2020-03-26,RJ,Guapimirim,city,1,0,True,60517,3301850,1.65243,
+2020-03-27,RJ,Guapimirim,city,1,0,True,60517,3301850,1.65243,
+2020-03-26,RJ,Guapimirim,city,1,0,False,60517,3301850,1.65243,
 2020-03-25,RJ,Guapimirim,city,1,0,False,60517,3301850,1.65243,
 2020-03-24,RJ,Guapimirim,city,1,0,False,60517,3301850,1.65243,
 2020-03-23,RJ,Guapimirim,city,1,0,False,60517,3301850,1.65243,
@@ -48,14 +55,17 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-03-21,RJ,Guapimirim,city,1,0,False,60517,3301850,1.65243,
 2020-03-19,RJ,Guapimirim,city,1,0,False,60517,3301850,1.65243,
 2020-03-18,RJ,Guapimirim,city,1,0,False,60517,3301850,1.65243,
-2020-03-26,RJ,Miguel Pereira,city,1,1,True,25538,3302908,3.91573,1.0000
+2020-03-27,RJ,Itaboraí,city,1,0,True,240592,3301900,0.41564,
+2020-03-27,RJ,Miguel Pereira,city,1,1,True,25538,3302908,3.91573,1.0000
+2020-03-26,RJ,Miguel Pereira,city,1,1,False,25538,3302908,3.91573,1.0000
 2020-03-25,RJ,Miguel Pereira,city,1,1,False,25538,3302908,3.91573,1.0000
 2020-03-24,RJ,Miguel Pereira,city,1,1,False,25538,3302908,3.91573,1.0000
 2020-03-23,RJ,Miguel Pereira,city,1,1,False,25538,3302908,3.91573,1.0000
 2020-03-22,RJ,Miguel Pereira,city,1,1,False,25538,3302908,3.91573,1.0000
 2020-03-21,RJ,Miguel Pereira,city,1,1,False,25538,3302908,3.91573,1.0000
 2020-03-19,RJ,Miguel Pereira,city,1,1,False,25538,3302908,3.91573,1.0000
-2020-03-26,RJ,Niterói,city,31,1,True,513584,3303302,6.03601,0.0323
+2020-03-27,RJ,Niterói,city,36,1,True,513584,3303302,7.00956,0.0278
+2020-03-26,RJ,Niterói,city,31,1,False,513584,3303302,6.03601,0.0323
 2020-03-25,RJ,Niterói,city,19,1,False,513584,3303302,3.69949,0.0526
 2020-03-24,RJ,Niterói,city,12,1,False,513584,3303302,2.33652,0.0833
 2020-03-23,RJ,Niterói,city,10,1,False,513584,3303302,1.94710,0.1000
@@ -66,15 +76,18 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-03-16,RJ,Niterói,city,1,0,False,513584,3303302,0.19471,
 2020-03-15,RJ,Niterói,city,1,0,False,513584,3303302,0.19471,
 2020-03-12,RJ,Niterói,city,1,0,False,513584,3303302,0.19471,
-2020-03-26,RJ,Petrópolis,city,3,1,True,306191,3303906,0.97978,0.3333
+2020-03-27,RJ,Petrópolis,city,3,1,True,306191,3303906,0.97978,0.3333
+2020-03-26,RJ,Petrópolis,city,3,1,False,306191,3303906,0.97978,0.3333
 2020-03-25,RJ,Petrópolis,city,3,1,False,306191,3303906,0.97978,0.3333
 2020-03-24,RJ,Petrópolis,city,3,1,False,306191,3303906,0.97978,0.3333
 2020-03-23,RJ,Petrópolis,city,3,1,False,306191,3303906,0.97978,0.3333
 2020-03-22,RJ,Petrópolis,city,3,1,False,306191,3303906,0.97978,0.3333
 2020-03-21,RJ,Petrópolis,city,3,1,False,306191,3303906,0.97978,0.3333
-2020-03-26,RJ,Resende,city,1,0,True,131341,3304201,0.76138,
+2020-03-27,RJ,Resende,city,0,0,True,131341,3304201,,
+2020-03-26,RJ,Resende,city,1,0,False,131341,3304201,0.76138,
 2020-03-25,RJ,Resende,city,1,0,False,131341,3304201,0.76138,
-2020-03-26,RJ,Rio de Janeiro,city,368,6,True,6718903,3304557,5.47708,0.0163
+2020-03-27,RJ,Rio de Janeiro,city,431,6,True,6718903,3304557,6.41474,0.0139
+2020-03-26,RJ,Rio de Janeiro,city,368,6,False,6718903,3304557,5.47708,0.0163
 2020-03-25,RJ,Rio de Janeiro,city,331,5,False,6718903,3304557,4.92640,0.0151
 2020-03-24,RJ,Rio de Janeiro,city,276,3,False,6718903,3304557,4.10781,0.0109
 2020-03-23,RJ,Rio de Janeiro,city,212,1,False,6718903,3304557,3.15528,0.0047
@@ -87,12 +100,15 @@ date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,ci
 2020-03-12,RJ,Rio de Janeiro,city,13,0,False,6718903,3304557,0.19348,
 2020-03-08,RJ,Rio de Janeiro,city,2,0,False,6718903,3304557,0.02977,
 2020-03-06,RJ,Rio de Janeiro,city,1,0,False,6718903,3304557,0.01488,
-2020-03-26,RJ,São Gonçalo,city,3,0,True,1084839,3304904,0.27654,
+2020-03-27,RJ,São Gonçalo,city,4,0,True,1084839,3304904,0.36872,
+2020-03-26,RJ,São Gonçalo,city,3,0,False,1084839,3304904,0.27654,
 2020-03-25,RJ,São Gonçalo,city,3,0,False,1084839,3304904,0.27654,
 2020-03-24,RJ,São Gonçalo,city,3,0,False,1084839,3304904,0.27654,
 2020-03-23,RJ,São Gonçalo,city,3,0,False,1084839,3304904,0.27654,
-2020-03-26,RJ,Valença,city,1,0,True,76523,3306107,1.30680,
+2020-03-27,RJ,Valença,city,1,0,True,76523,3306107,1.30680,
+2020-03-26,RJ,Valença,city,1,0,False,76523,3306107,1.30680,
 2020-03-25,RJ,Valença,city,1,0,False,76523,3306107,1.30680,
-2020-03-26,RJ,Volta Redonda,city,7,0,True,273012,3306305,2.56399,
+2020-03-27,RJ,Volta Redonda,city,9,1,True,273012,3306305,3.29656,0.1111
+2020-03-26,RJ,Volta Redonda,city,7,0,False,273012,3306305,2.56399,
 2020-03-25,RJ,Volta Redonda,city,6,0,False,273012,3306305,2.19771,
 2020-03-24,RJ,Volta Redonda,city,4,0,False,273012,3306305,1.46514,
