@@ -2,7 +2,7 @@ name: Scheduled Update
 
 on:
   schedule:
-    - cron: "* */2 * * *"
+    - cron: "0 */2 * * *"
 
 jobs:
   scrape_and_update:
