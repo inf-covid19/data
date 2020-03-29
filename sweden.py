@@ -16,6 +16,9 @@ def scrape_sweden():
     scrape_by_counties()
     scrape_additional()
 
+    with open(path.join(path.join(getcwd(), 'data', 'sweden'), 'README.md'), 'w') as readme_f:
+        readme_f.write(get_readme_contents())
+
 
 def scrape_additional():
     cwd = getcwd()
@@ -118,6 +121,28 @@ def scrape_cases_by_age():
 def scrape_deaths_by_age():
     scrape_by_age(DEATHS_BY_AGE, 'deaths_by_age.csv')
 
+
+def get_readme_contents():
+    toc = [f'| {name} | [`{iso}.csv`]({iso}.csv) |' for name, iso in COUNTY_ISO_MAPPED.items()]
+    toc_contents = '\n'.join(toc)
+
+    return f"""## Sweden
+
+> Last updated at {datetime.datetime.now(datetime.timezone.utc).strftime('%b %d %Y %H:%M:%S UTC')}.
+
+
+| County | Dataset |
+| ------ | ------- |
+{toc_contents}
+
+#### Additional
+
+| Title | Dataset |
+| ----- | ------- |
+| Cases by Age | [`cases_by_age.csv`](cases_by_age.csv) |
+| Deaths by Age | [`deaths_by_age.csv`](deaths_by_age.csv) |
+
+"""
 
 COUNTY_ISO_MAPPED = {
     'Stockholm': 'SE-AB',

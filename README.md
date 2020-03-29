@@ -14,6 +14,7 @@ Scraping world-wide data about COVID-19.
 * [pipenv](https://github.com/pypa/pipenv)
 * [requests](https://requests.readthedocs.io/en/master/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [pandas](https://pandas.pydata.org/)
 
 ## License
 

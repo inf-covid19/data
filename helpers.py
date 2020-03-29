@@ -1,6 +1,18 @@
 from os import getcwd, makedirs, path, rename
 
 
+def backup_file(filename):
+    cwd = getcwd()
+    _file = filename.replace(cwd+'/', '').replace('/', '--')
+    tmp_file = path.join(
+        cwd,
+        'tmp',
+        f'{_file}.bak'
+    )
+    rename(filename, tmp_file)
+    return tmp_file
+
+
 def ensure_dirs(*dirs):
     for d in dirs:
         try:
@@ -11,12 +23,7 @@ def ensure_dirs(*dirs):
 
 def ensure_consistency(updated_files, identifier):
     for update_file in updated_files:
-        tmp_file = path.join(
-            getcwd(),
-            'tmp',
-            f'{path.basename(update_file)}.bak'
-        )
-        rename(update_file, tmp_file)
+        tmp_file = backup_file(update_file)
 
         with open(tmp_file, 'r') as tmp_f:
             with open(update_file, 'a+') as update_f:
