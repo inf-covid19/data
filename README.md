@@ -9,6 +9,7 @@ Scraping world-wide data about COVID-19.
 * `/data/sweden/`: [Public Health Agency of Sweden](https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/aktuellt-epidemiologiskt-lage), [City Population](http://citypopulation.de/en/sweden/cities/mun/)
 * `/data/united_states_of_america/`: [NY Times](https://github.com/nytimes/covid-19-data)
 * `/data/spain/`: [Instituto de Salud Calors III](https://covid19.isciii.es/)
+* `/data/united_kingdom/`: [Public Health England](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases), [emmadoughty/Daily_COVID-19](https://github.com/emmadoughty/Daily_COVID-19)
 
 ## Built with
 
