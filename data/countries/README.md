@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Mar 29 2020 14:02:25 UTC.
+> Last updated at Mar 29 2020 16:02:29 UTC.
 
 
 | Country | Dataset |
@@ -9,10 +9,10 @@
 | Angola | [`angola.csv`](angola.csv) |
 | Albania | [`albania.csv`](albania.csv) |
 | Andorra | [`andorra.csv`](andorra.csv) |
-| Argentina | [`argentina.csv`](argentina.csv) |
 | Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
 | Algeria | [`algeria.csv`](algeria.csv) |
 | Anguilla | [`anguilla.csv`](anguilla.csv) |
+| Argentina | [`argentina.csv`](argentina.csv) |
 | Armenia | [`armenia.csv`](armenia.csv) |
 | Aruba | [`aruba.csv`](aruba.csv) |
 | Australia | [`australia.csv`](australia.csv) |
