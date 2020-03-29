@@ -16,7 +16,7 @@ def scrape_sweden():
     scrape_by_counties()
     scrape_additional()
 
-    with open(path.join(path.join(getcwd(), 'data', 'sweden'), 'README.md'), 'w') as readme_f:
+    with open(path.join(getcwd(), 'data', 'sweden', 'README.md'), 'w') as readme_f:
         readme_f.write(get_readme_contents())
 
 
@@ -123,7 +123,7 @@ def scrape_deaths_by_age():
 
 
 def get_readme_contents():
-    toc = [f'| {name} | [`{iso}.csv`]({iso}.csv) |' for name, iso in COUNTY_ISO_MAPPED.items()]
+    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name, iso in COUNTY_ISO_MAPPED.items()]
     toc_contents = '\n'.join(toc)
 
     return f"""## Sweden
@@ -135,12 +135,12 @@ def get_readme_contents():
 | ------ | ------- |
 {toc_contents}
 
-#### Additional
+#### Additional datasets
 
 | Title | Dataset |
 | ----- | ------- |
-| Cases by Age | [`cases_by_age.csv`](cases_by_age.csv) |
-| Deaths by Age | [`deaths_by_age.csv`](deaths_by_age.csv) |
+| Cases by Age | [`cases_by_age.csv`](additional/cases_by_age.csv) |
+| Deaths by Age | [`deaths_by_age.csv`](additional/deaths_by_age.csv) |
 
 """
 
