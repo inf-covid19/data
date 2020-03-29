@@ -22,4 +22,4 @@ if __name__ == "__main__":
     scrape(scrape_countries)
     scrape(scrape_brazil)
     scrape(scrape_sweden)
-    # scrape(scrape_united_states_of_america)
+    scrape(scrape_united_states_of_america)
