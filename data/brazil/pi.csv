@@ -1,22 +1,22 @@
-date,state,city,place_type,confirmed,deaths,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-03-28,PI,,state,11,1,True,3273227,22,0.33606,0.0909
-2020-03-27,PI,,state,10,1,False,3273227,22,0.30551,0.1000
-2020-03-26,PI,,state,9,0,False,3273227,22,0.27496,
-2020-03-25,PI,,state,8,0,False,3273227,22,0.24441,
-2020-03-24,PI,,state,8,,False,3273227,22,0.24441,
-2020-03-22,PI,,state,6,,False,3273227,22,0.18331,
-2020-03-21,PI,,state,4,,False,3273227,22,0.12220,
-2020-03-20,PI,,state,4,,False,3273227,22,0.12220,
-2020-03-19,PI,,state,3,,False,3273227,22,0.09165,
-2020-03-28,PI,Parnaíba,city,1,,True,153078,2207702,0.65326,
-2020-03-28,PI,São José do Divino,city,1,1,True,5346,2210052,18.70557,1.0000
-2020-03-27,PI,São José do Divino,city,1,1,False,5346,2210052,18.70557,1.0000
-2020-03-28,PI,Teresina,city,9,,True,864845,2211001,1.04065,
-2020-03-27,PI,Teresina,city,9,0,False,864845,2211001,1.04065,
-2020-03-26,PI,Teresina,city,9,,False,864845,2211001,1.04065,
-2020-03-25,PI,Teresina,city,9,0,False,864845,2211001,1.04065,
-2020-03-24,PI,Teresina,city,8,,False,864845,2211001,0.92502,
-2020-03-22,PI,Teresina,city,6,,False,864845,2211001,0.69377,
-2020-03-21,PI,Teresina,city,4,,False,864845,2211001,0.46251,
-2020-03-20,PI,Teresina,city,4,,False,864845,2211001,0.46251,
-2020-03-19,PI,Teresina,city,3,,False,864845,2211001,0.34688,
+date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
+2020-03-28,PI,,state,11,1,9,True,3273227,22,0.33606,0.0909
+2020-03-27,PI,,state,10,1,8,False,3273227,22,0.30551,0.1000
+2020-03-26,PI,,state,9,0,7,False,3273227,22,0.27496,
+2020-03-25,PI,,state,8,0,6,False,3273227,22,0.24441,
+2020-03-24,PI,,state,8,,5,False,3273227,22,0.24441,
+2020-03-22,PI,,state,6,,4,False,3273227,22,0.18331,
+2020-03-21,PI,,state,4,,3,False,3273227,22,0.12220,
+2020-03-20,PI,,state,4,,2,False,3273227,22,0.12220,
+2020-03-19,PI,,state,3,,1,False,3273227,22,0.09165,
+2020-03-28,PI,Parnaíba,city,1,,1,True,153078,2207702,0.65326,
+2020-03-28,PI,São José do Divino,city,1,1,2,True,5346,2210052,18.70557,1.0000
+2020-03-27,PI,São José do Divino,city,1,1,1,False,5346,2210052,18.70557,1.0000
+2020-03-28,PI,Teresina,city,9,,9,True,864845,2211001,1.04065,
+2020-03-27,PI,Teresina,city,9,0,8,False,864845,2211001,1.04065,
+2020-03-26,PI,Teresina,city,9,,7,False,864845,2211001,1.04065,
+2020-03-25,PI,Teresina,city,9,0,6,False,864845,2211001,1.04065,
+2020-03-24,PI,Teresina,city,8,,5,False,864845,2211001,0.92502,
+2020-03-22,PI,Teresina,city,6,,4,False,864845,2211001,0.69377,
+2020-03-21,PI,Teresina,city,4,,3,False,864845,2211001,0.46251,
+2020-03-20,PI,Teresina,city,4,,2,False,864845,2211001,0.46251,
+2020-03-19,PI,Teresina,city,3,,1,False,864845,2211001,0.34688,
