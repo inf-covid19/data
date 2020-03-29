@@ -39,7 +39,7 @@ def scrape_by_counties():
     data = r.json()
 
     updated_county_files = []
-    header = 'date,county,county_iso,city,place_type,confirmed,deaths,estimated_population_2019,area_km2,confirmed_per_100k_inhabitants,critical\n'
+    header = 'date,county,county_iso,city,place_type,cases,deaths,estimated_population_2019,area_km2,confirmed_per_100k_inhabitants,critical\n'
 
     for feat in data['features']:
         attributes = feat['attributes']
