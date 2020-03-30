@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Mar 30 2020 08:02:15 UTC.
+> Last updated at Mar 30 2020 10:02:27 UTC.
 
 
 | Country | Dataset |
@@ -51,7 +51,7 @@
 | Cote dIvoire | [`cote_divoire.csv`](cote_divoire.csv) |
 | Croatia | [`croatia.csv`](croatia.csv) |
 | Cuba | [`cuba.csv`](cuba.csv) |
-| Curaçao | [`curaçao.csv`](curaçao.csv) |
+| Curacao | [`curacao.csv`](curacao.csv) |
 | Cyprus | [`cyprus.csv`](cyprus.csv) |
 | Czech Republic | [`czech_republic.csv`](czech_republic.csv) |
 | Democratic Republic of the Congo | [`democratic_republic_of_the_congo.csv`](democratic_republic_of_the_congo.csv) |
