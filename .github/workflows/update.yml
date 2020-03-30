@@ -24,6 +24,9 @@ jobs:
       - name: Perform update
         run: pipenv run python scrape.py
 
+      - name: Generate metadata
+        run: pipenv run python generate_metadata.py
+
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
