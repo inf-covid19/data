@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-03-29,CE,,state,359,5,14,True,9132078,23,3.93120,0.0139
+2020-03-30,CE,,state,382,5,15,True,9132078,23,4.18306,0.0131
+2020-03-29,CE,,state,359,5,14,False,9132078,23,3.93120,0.0139
 2020-03-28,CE,,state,322,4,13,False,9132078,23,3.52603,0.0124
 2020-03-27,CE,,state,282,3,12,False,9132078,23,3.08802,0.0106
 2020-03-26,CE,,state,237,3,11,False,9132078,23,2.59525,0.0127
@@ -13,7 +14,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,CE,,state,19,0,3,False,9132078,23,0.20806,
 2020-03-17,CE,,state,10,0,2,False,9132078,23,0.10950,
 2020-03-16,CE,,state,9,0,1,False,9132078,23,0.09855,
-2020-03-29,CE,Aquiraz,city,7,0,13,True,80271,2301000,8.72046,
+2020-03-30,CE,Aquiraz,city,14,0,14,True,80271,2301000,17.44092,
+2020-03-29,CE,Aquiraz,city,7,0,13,False,80271,2301000,8.72046,
 2020-03-28,CE,Aquiraz,city,7,,12,False,80271,2301000,8.72046,
 2020-03-27,CE,Aquiraz,city,6,0,11,False,80271,2301000,7.47468,
 2020-03-26,CE,Aquiraz,city,6,0,10,False,80271,2301000,7.47468,
@@ -26,9 +28,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,CE,Aquiraz,city,1,0,3,False,80271,2301000,1.24578,
 2020-03-17,CE,Aquiraz,city,1,0,2,False,80271,2301000,1.24578,
 2020-03-16,CE,Aquiraz,city,1,0,1,False,80271,2301000,1.24578,
-2020-03-29,CE,Caucaia,city,1,0,2,True,361400,2303709,0.27670,
+2020-03-30,CE,Beberibe,city,1,0,1,True,53573,2302206,1.86661,
+2020-03-30,CE,Caucaia,city,1,0,3,True,361400,2303709,0.27670,
+2020-03-29,CE,Caucaia,city,1,0,2,False,361400,2303709,0.27670,
 2020-03-28,CE,Caucaia,city,1,,1,False,361400,2303709,0.27670,
-2020-03-29,CE,Fortaleza,city,338,5,13,True,2669342,2304400,12.66230,0.0148
+2020-03-30,CE,Fortaleza,city,353,5,14,True,2669342,2304400,13.22423,0.0142
+2020-03-29,CE,Fortaleza,city,338,5,13,False,2669342,2304400,12.66230,0.0148
 2020-03-28,CE,Fortaleza,city,304,4,12,False,2669342,2304400,11.38857,0.0132
 2020-03-27,CE,Fortaleza,city,268,3,11,False,2669342,2304400,10.03993,0.0112
 2020-03-26,CE,Fortaleza,city,224,3,10,False,2669342,2304400,8.39158,0.0134
@@ -41,7 +46,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,CE,Fortaleza,city,17,0,3,False,2669342,2304400,0.63686,
 2020-03-17,CE,Fortaleza,city,9,0,2,False,2669342,2304400,0.33716,
 2020-03-16,CE,Fortaleza,city,8,0,1,False,2669342,2304400,0.29970,
-2020-03-29,CE,Fortim,city,1,0,10,True,16480,2304459,6.06796,
+2020-03-30,CE,Fortim,city,1,0,11,True,16480,2304459,6.06796,
+2020-03-29,CE,Fortim,city,1,0,10,False,16480,2304459,6.06796,
 2020-03-28,CE,Fortim,city,1,,9,False,16480,2304459,6.06796,
 2020-03-27,CE,Fortim,city,1,0,8,False,16480,2304459,6.06796,
 2020-03-26,CE,Fortim,city,1,0,7,False,16480,2304459,6.06796,
@@ -51,7 +57,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,CE,Fortim,city,1,0,3,False,16480,2304459,6.06796,
 2020-03-21,CE,Fortim,city,1,0,2,False,16480,2304459,6.06796,
 2020-03-20,CE,Fortim,city,1,0,1,False,16480,2304459,6.06796,
-2020-03-29,CE,Importados/Indefinidos,city,0,0,11,True,,,,
+2020-03-30,CE,Importados/Indefinidos,city,0,0,12,True,,,,
+2020-03-29,CE,Importados/Indefinidos,city,0,0,11,False,,,,
 2020-03-28,CE,Importados/Indefinidos,city,0,,10,False,,,,
 2020-03-27,CE,Importados/Indefinidos,city,0,0,9,False,,,,
 2020-03-26,CE,Importados/Indefinidos,city,0,0,8,False,,,,
@@ -62,8 +69,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,CE,Importados/Indefinidos,city,1,0,3,False,,,,
 2020-03-20,CE,Importados/Indefinidos,city,1,0,2,False,,,,
 2020-03-19,CE,Importados/Indefinidos,city,1,0,1,False,,,,
-2020-03-29,CE,Itaitinga,city,1,0,1,True,37980,2306256,2.63296,
-2020-03-29,CE,Juazeiro do Norte,city,1,0,10,True,274207,2307304,0.36469,
+2020-03-30,CE,Itaitinga,city,1,0,2,True,37980,2306256,2.63296,
+2020-03-29,CE,Itaitinga,city,1,0,1,False,37980,2306256,2.63296,
+2020-03-30,CE,Juazeiro do Norte,city,1,0,11,True,274207,2307304,0.36469,
+2020-03-29,CE,Juazeiro do Norte,city,1,0,10,False,274207,2307304,0.36469,
 2020-03-28,CE,Juazeiro do Norte,city,1,,9,False,274207,2307304,0.36469,
 2020-03-27,CE,Juazeiro do Norte,city,1,0,8,False,274207,2307304,0.36469,
 2020-03-26,CE,Juazeiro do Norte,city,1,0,7,False,274207,2307304,0.36469,
@@ -73,19 +82,24 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,CE,Juazeiro do Norte,city,1,0,3,False,274207,2307304,0.36469,
 2020-03-21,CE,Juazeiro do Norte,city,1,0,2,False,274207,2307304,0.36469,
 2020-03-20,CE,Juazeiro do Norte,city,1,0,1,False,274207,2307304,0.36469,
-2020-03-29,CE,Maracanaú,city,1,0,1,True,227886,2307650,0.43882,
-2020-03-29,CE,Maranguape,city,1,0,3,True,128978,2307700,0.77533,
+2020-03-30,CE,Maracanaú,city,1,0,2,True,227886,2307650,0.43882,
+2020-03-29,CE,Maracanaú,city,1,0,1,False,227886,2307650,0.43882,
+2020-03-30,CE,Maranguape,city,1,0,4,True,128978,2307700,0.77533,
+2020-03-29,CE,Maranguape,city,1,0,3,False,128978,2307700,0.77533,
 2020-03-28,CE,Maranguape,city,1,,2,False,128978,2307700,0.77533,
 2020-03-27,CE,Maranguape,city,1,0,1,False,128978,2307700,0.77533,
-2020-03-29,CE,Mauriti,city,1,0,6,True,47962,2308104,2.08498,
+2020-03-30,CE,Mauriti,city,1,0,7,True,47962,2308104,2.08498,
+2020-03-29,CE,Mauriti,city,1,0,6,False,47962,2308104,2.08498,
 2020-03-28,CE,Mauriti,city,1,,5,False,47962,2308104,2.08498,
 2020-03-27,CE,Mauriti,city,1,0,4,False,47962,2308104,2.08498,
 2020-03-26,CE,Mauriti,city,1,0,3,False,47962,2308104,2.08498,
 2020-03-25,CE,Mauriti,city,1,0,2,False,47962,2308104,2.08498,
 2020-03-24,CE,Mauriti,city,1,0,1,False,47962,2308104,2.08498,
-2020-03-29,CE,Quixadá,city,2,0,2,True,87728,2311306,2.27977,
+2020-03-30,CE,Quixadá,city,2,0,3,True,87728,2311306,2.27977,
+2020-03-29,CE,Quixadá,city,2,0,2,False,87728,2311306,2.27977,
 2020-03-28,CE,Quixadá,city,2,,1,False,87728,2311306,2.27977,
-2020-03-29,CE,Sobral,city,5,0,11,True,208935,2312908,2.39309,
+2020-03-30,CE,Sobral,city,5,0,12,True,208935,2312908,2.39309,
+2020-03-29,CE,Sobral,city,5,0,11,False,208935,2312908,2.39309,
 2020-03-28,CE,Sobral,city,4,,10,False,208935,2312908,1.91447,
 2020-03-27,CE,Sobral,city,4,0,9,False,208935,2312908,1.91447,
 2020-03-26,CE,Sobral,city,4,0,8,False,208935,2312908,1.91447,
