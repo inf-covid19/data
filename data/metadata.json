@@ -1,4 +1,568 @@
 {
+  "Belgium": {
+    "name": "Belgium",
+    "file": "data/countries/belgium.csv",
+    "geoId": "BE",
+    "countryTerritoryCode": "BEL",
+    "regions": {}
+  },
+  "Sudan": {
+    "name": "Sudan",
+    "file": "data/countries/sudan.csv",
+    "geoId": "SD",
+    "countryTerritoryCode": "SDN",
+    "regions": {}
+  },
+  "Spain": {
+    "name": "Spain",
+    "file": "data/countries/spain.csv",
+    "geoId": "ES",
+    "countryTerritoryCode": "ESP",
+    "regions": {
+      "Castilla y León": {
+        "name": "Castilla y León",
+        "iso": "CL",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-cl.csv"
+      },
+      "Comunidad Valenciana": {
+        "name": "Comunidad Valenciana",
+        "iso": "VC",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-vc.csv"
+      },
+      "Ceuta": {
+        "name": "Ceuta",
+        "iso": "CE",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-ce.csv"
+      },
+      "Cantabria": {
+        "name": "Cantabria",
+        "iso": "CB",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-cb.csv"
+      },
+      "Región de Murcia": {
+        "name": "Región de Murcia",
+        "iso": "MC",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-mc.csv"
+      },
+      "Cataluña": {
+        "name": "Cataluña",
+        "iso": "CT",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-ct.csv"
+      },
+      "Galicia": {
+        "name": "Galicia",
+        "iso": "GA",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-ga.csv"
+      },
+      "Melilla": {
+        "name": "Melilla",
+        "iso": "ME",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-me.csv"
+      },
+      "Extremadura": {
+        "name": "Extremadura",
+        "iso": "EX",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-ex.csv"
+      },
+      "Andalucía": {
+        "name": "Andalucía",
+        "iso": "AN",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-an.csv"
+      },
+      "Aragón": {
+        "name": "Aragón",
+        "iso": "AR",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-ar.csv"
+      },
+      "Comunidad de Madrid": {
+        "name": "Comunidad de Madrid",
+        "iso": "MD",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-md.csv"
+      },
+      "Principado de Asturias": {
+        "name": "Principado de Asturias",
+        "iso": "AS",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-as.csv"
+      },
+      "País Vasco": {
+        "name": "País Vasco",
+        "iso": "PV",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-pv.csv"
+      },
+      "Canarias": {
+        "name": "Canarias",
+        "iso": "CN",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-cn.csv"
+      },
+      "Castilla La Mancha": {
+        "name": "Castilla La Mancha",
+        "iso": "CM",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-cm.csv"
+      },
+      "Comunidad Foral de Navarra": {
+        "name": "Comunidad Foral de Navarra",
+        "iso": "NC",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-nc.csv"
+      },
+      "Islas Baleares": {
+        "name": "Islas Baleares",
+        "iso": "IB",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-ib.csv"
+      },
+      "La Rioja": {
+        "name": "La Rioja",
+        "iso": "RI",
+        "place_type": "autonomous_community",
+        "file": "data/spain/es-ri.csv"
+      }
+    }
+  },
+  "Puerto_Rico": {
+    "name": "Puerto_Rico",
+    "file": "data/countries/puerto_rico.csv",
+    "geoId": "PR",
+    "countryTerritoryCode": "PRI",
+    "regions": {}
+  },
+  "Saudi_Arabia": {
+    "name": "Saudi_Arabia",
+    "file": "data/countries/saudi_arabia.csv",
+    "geoId": "SA",
+    "countryTerritoryCode": "SAU",
+    "regions": {}
+  },
+  "Turks_and_Caicos_islands": {
+    "name": "Turks_and_Caicos_islands",
+    "file": "data/countries/turks_and_caicos_islands.csv",
+    "geoId": "TC",
+    "countryTerritoryCode": "TCA",
+    "regions": {}
+  },
+  "Northern_Mariana_Islands": {
+    "name": "Northern_Mariana_Islands",
+    "file": "data/countries/northern_mariana_islands.csv",
+    "geoId": "MP",
+    "countryTerritoryCode": "MNP",
+    "regions": {}
+  },
+  "France": {
+    "name": "France",
+    "file": "data/countries/france.csv",
+    "geoId": "FR",
+    "countryTerritoryCode": "FRA",
+    "regions": {}
+  },
+  "Venezuela": {
+    "name": "Venezuela",
+    "file": "data/countries/venezuela.csv",
+    "geoId": "VE",
+    "countryTerritoryCode": "VEN",
+    "regions": {}
+  },
+  "Anguilla": {
+    "name": "Anguilla",
+    "file": "data/countries/anguilla.csv",
+    "geoId": "AI",
+    "countryTerritoryCode": "",
+    "regions": {}
+  },
+  "Rwanda": {
+    "name": "Rwanda",
+    "file": "data/countries/rwanda.csv",
+    "geoId": "RW",
+    "countryTerritoryCode": "RWA",
+    "regions": {}
+  },
+  "British_Virgin_Islands": {
+    "name": "British_Virgin_Islands",
+    "file": "data/countries/british_virgin_islands.csv",
+    "geoId": "VG",
+    "countryTerritoryCode": "VGB",
+    "regions": {}
+  },
+  "Indonesia": {
+    "name": "Indonesia",
+    "file": "data/countries/indonesia.csv",
+    "geoId": "ID",
+    "countryTerritoryCode": "IDN",
+    "regions": {}
+  },
+  "Ethiopia": {
+    "name": "Ethiopia",
+    "file": "data/countries/ethiopia.csv",
+    "geoId": "ET",
+    "countryTerritoryCode": "ETH",
+    "regions": {}
+  },
+  "Kuwait": {
+    "name": "Kuwait",
+    "file": "data/countries/kuwait.csv",
+    "geoId": "KW",
+    "countryTerritoryCode": "KWT",
+    "regions": {}
+  },
+  "Argentina": {
+    "name": "Argentina",
+    "file": "data/countries/argentina.csv",
+    "geoId": "AR",
+    "countryTerritoryCode": "ARG",
+    "regions": {}
+  },
+  "Slovakia": {
+    "name": "Slovakia",
+    "file": "data/countries/slovakia.csv",
+    "geoId": "SK",
+    "countryTerritoryCode": "SVK",
+    "regions": {}
+  },
+  "Jamaica": {
+    "name": "Jamaica",
+    "file": "data/countries/jamaica.csv",
+    "geoId": "JM",
+    "countryTerritoryCode": "JAM",
+    "regions": {}
+  },
+  "Montserrat": {
+    "name": "Montserrat",
+    "file": "data/countries/montserrat.csv",
+    "geoId": "MS",
+    "countryTerritoryCode": "MSR",
+    "regions": {}
+  },
+  "Mauritania": {
+    "name": "Mauritania",
+    "file": "data/countries/mauritania.csv",
+    "geoId": "MR",
+    "countryTerritoryCode": "MRT",
+    "regions": {}
+  },
+  "Algeria": {
+    "name": "Algeria",
+    "file": "data/countries/algeria.csv",
+    "geoId": "DZ",
+    "countryTerritoryCode": "DZA",
+    "regions": {}
+  },
+  "United_States_Virgin_Islands": {
+    "name": "United_States_Virgin_Islands",
+    "file": "data/countries/united_states_virgin_islands.csv",
+    "geoId": "VI",
+    "countryTerritoryCode": "VIR",
+    "regions": {}
+  },
+  "Colombia": {
+    "name": "Colombia",
+    "file": "data/countries/colombia.csv",
+    "geoId": "CO",
+    "countryTerritoryCode": "COL",
+    "regions": {}
+  },
+  "Slovenia": {
+    "name": "Slovenia",
+    "file": "data/countries/slovenia.csv",
+    "geoId": "SI",
+    "countryTerritoryCode": "SVN",
+    "regions": {}
+  },
+  "Guinea_Bissau": {
+    "name": "Guinea_Bissau",
+    "file": "data/countries/guinea_bissau.csv",
+    "geoId": "GW",
+    "countryTerritoryCode": "GNB",
+    "regions": {}
+  },
+  "India": {
+    "name": "India",
+    "file": "data/countries/india.csv",
+    "geoId": "IN",
+    "countryTerritoryCode": "IND",
+    "regions": {}
+  },
+  "Haiti": {
+    "name": "Haiti",
+    "file": "data/countries/haiti.csv",
+    "geoId": "HT",
+    "countryTerritoryCode": "HTI",
+    "regions": {}
+  },
+  "El_Salvador": {
+    "name": "El_Salvador",
+    "file": "data/countries/el_salvador.csv",
+    "geoId": "SV",
+    "countryTerritoryCode": "SLV",
+    "regions": {}
+  },
+  "Tunisia": {
+    "name": "Tunisia",
+    "file": "data/countries/tunisia.csv",
+    "geoId": "TN",
+    "countryTerritoryCode": "TUN",
+    "regions": {}
+  },
+  "Uruguay": {
+    "name": "Uruguay",
+    "file": "data/countries/uruguay.csv",
+    "geoId": "UY",
+    "countryTerritoryCode": "URY",
+    "regions": {}
+  },
+  "North_Macedonia": {
+    "name": "North_Macedonia",
+    "file": "data/countries/north_macedonia.csv",
+    "geoId": "MK",
+    "countryTerritoryCode": "MKD",
+    "regions": {}
+  },
+  "Cote_dIvoire": {
+    "name": "Cote_dIvoire",
+    "file": "data/countries/cote_divoire.csv",
+    "geoId": "CI",
+    "countryTerritoryCode": "CIV",
+    "regions": {}
+  },
+  "Burkina_Faso": {
+    "name": "Burkina_Faso",
+    "file": "data/countries/burkina_faso.csv",
+    "geoId": "BF",
+    "countryTerritoryCode": "BFA",
+    "regions": {}
+  },
+  "Serbia": {
+    "name": "Serbia",
+    "file": "data/countries/serbia.csv",
+    "geoId": "RS",
+    "countryTerritoryCode": "SRB",
+    "regions": {}
+  },
+  "Congo": {
+    "name": "Congo",
+    "file": "data/countries/congo.csv",
+    "geoId": "CG",
+    "countryTerritoryCode": "COG",
+    "regions": {}
+  },
+  "Chad": {
+    "name": "Chad",
+    "file": "data/countries/chad.csv",
+    "geoId": "TD",
+    "countryTerritoryCode": "TCD",
+    "regions": {}
+  },
+  "Japan": {
+    "name": "Japan",
+    "file": "data/countries/japan.csv",
+    "geoId": "JP",
+    "countryTerritoryCode": "JPN",
+    "regions": {}
+  },
+  "Suriname": {
+    "name": "Suriname",
+    "file": "data/countries/suriname.csv",
+    "geoId": "SR",
+    "countryTerritoryCode": "SUR",
+    "regions": {}
+  },
+  "China": {
+    "name": "China",
+    "file": "data/countries/china.csv",
+    "geoId": "CN",
+    "countryTerritoryCode": "CHN",
+    "regions": {}
+  },
+  "Netherlands": {
+    "name": "Netherlands",
+    "file": "data/countries/netherlands.csv",
+    "geoId": "NL",
+    "countryTerritoryCode": "NLD",
+    "regions": {}
+  },
+  "Togo": {
+    "name": "Togo",
+    "file": "data/countries/togo.csv",
+    "geoId": "TG",
+    "countryTerritoryCode": "TGO",
+    "regions": {}
+  },
+  "Sweden": {
+    "name": "Sweden",
+    "file": "data/countries/sweden.csv",
+    "geoId": "SE",
+    "countryTerritoryCode": "SWE",
+    "regions": {
+      "Västmanland": {
+        "name": "Västmanland",
+        "iso": "SE-U",
+        "file": "data/sweden/se-u.csv",
+        "place_type": "county"
+      },
+      "Uppsala": {
+        "name": "Uppsala",
+        "iso": "SE-C",
+        "file": "data/sweden/se-c.csv",
+        "place_type": "county"
+      },
+      "Västernorrland": {
+        "name": "Västernorrland",
+        "iso": "SE-Y",
+        "file": "data/sweden/se-y.csv",
+        "place_type": "county"
+      },
+      "Dalarna": {
+        "name": "Dalarna",
+        "iso": "SE-W",
+        "file": "data/sweden/se-w.csv",
+        "place_type": "county"
+      },
+      "Östergötland": {
+        "name": "Östergötland",
+        "iso": "SE-E",
+        "file": "data/sweden/se-e.csv",
+        "place_type": "county"
+      },
+      "Blekinge": {
+        "name": "Blekinge",
+        "iso": "SE-K",
+        "file": "data/sweden/se-k.csv",
+        "place_type": "county"
+      },
+      "Värmland": {
+        "name": "Värmland",
+        "iso": "SE-S",
+        "file": "data/sweden/se-s.csv",
+        "place_type": "county"
+      },
+      "Kronoberg": {
+        "name": "Kronoberg",
+        "iso": "SE-G",
+        "file": "data/sweden/se-g.csv",
+        "place_type": "county"
+      },
+      "Gävleborg": {
+        "name": "Gävleborg",
+        "iso": "SE-X",
+        "file": "data/sweden/se-x.csv",
+        "place_type": "county"
+      },
+      "Örebro": {
+        "name": "Örebro",
+        "iso": "SE-T",
+        "file": "data/sweden/se-t.csv",
+        "place_type": "county"
+      },
+      "Skåne": {
+        "name": "Skåne",
+        "iso": "SE-M",
+        "file": "data/sweden/se-m.csv",
+        "place_type": "county"
+      },
+      "Jämtland Härjedalen": {
+        "name": "Jämtland Härjedalen",
+        "iso": "SE-Z",
+        "file": "data/sweden/se-z.csv",
+        "place_type": "county"
+      },
+      "Norrbotten": {
+        "name": "Norrbotten",
+        "iso": "SE-BD",
+        "file": "data/sweden/se-bd.csv",
+        "place_type": "county"
+      },
+      "Gotland": {
+        "name": "Gotland",
+        "iso": "SE-I",
+        "file": "data/sweden/se-i.csv",
+        "place_type": "county"
+      },
+      "Stockholm": {
+        "name": "Stockholm",
+        "iso": "SE-AB",
+        "file": "data/sweden/se-ab.csv",
+        "place_type": "county"
+      },
+      "Kalmar": {
+        "name": "Kalmar",
+        "iso": "SE-H",
+        "file": "data/sweden/se-h.csv",
+        "place_type": "county"
+      },
+      "Jönköping": {
+        "name": "Jönköping",
+        "iso": "SE-F",
+        "file": "data/sweden/se-f.csv",
+        "place_type": "county"
+      },
+      "Västerbotten": {
+        "name": "Västerbotten",
+        "iso": "SE-AC",
+        "file": "data/sweden/se-ac.csv",
+        "place_type": "county"
+      },
+      "Halland": {
+        "name": "Halland",
+        "iso": "SE-N",
+        "file": "data/sweden/se-n.csv",
+        "place_type": "county"
+      },
+      "Sörmland": {
+        "name": "Sörmland",
+        "iso": "SE-D",
+        "file": "data/sweden/se-d.csv",
+        "place_type": "county"
+      },
+      "Västra Götaland": {
+        "name": "Västra Götaland",
+        "iso": "SE-O",
+        "file": "data/sweden/se-o.csv",
+        "place_type": "county"
+      }
+    }
+  },
+  "Saint_Kitts_and_Nevis": {
+    "name": "Saint_Kitts_and_Nevis",
+    "file": "data/countries/saint_kitts_and_nevis.csv",
+    "geoId": "KN",
+    "countryTerritoryCode": "KNA",
+    "regions": {}
+  },
+  "Gambia": {
+    "name": "Gambia",
+    "file": "data/countries/gambia.csv",
+    "geoId": "GM",
+    "countryTerritoryCode": "GMB",
+    "regions": {}
+  },
+  "Andorra": {
+    "name": "Andorra",
+    "file": "data/countries/andorra.csv",
+    "geoId": "AD",
+    "countryTerritoryCode": "AND",
+    "regions": {}
+  },
+  "Ukraine": {
+    "name": "Ukraine",
+    "file": "data/countries/ukraine.csv",
+    "geoId": "UA",
+    "countryTerritoryCode": "UKR",
+    "regions": {}
+  },
   "Luxembourg": {
     "name": "Luxembourg",
     "file": "data/countries/luxembourg.csv",
@@ -6,32 +570,74 @@
     "countryTerritoryCode": "LUX",
     "regions": {}
   },
-  "Cambodia": {
-    "name": "Cambodia",
-    "file": "data/countries/cambodia.csv",
-    "geoId": "KH",
-    "countryTerritoryCode": "KHM",
+  "Maldives": {
+    "name": "Maldives",
+    "file": "data/countries/maldives.csv",
+    "geoId": "MV",
+    "countryTerritoryCode": "MDV",
     "regions": {}
   },
-  "Malta": {
-    "name": "Malta",
-    "file": "data/countries/malta.csv",
-    "geoId": "MT",
-    "countryTerritoryCode": "MLT",
+  "Madagascar": {
+    "name": "Madagascar",
+    "file": "data/countries/madagascar.csv",
+    "geoId": "MG",
+    "countryTerritoryCode": "MDG",
     "regions": {}
   },
-  "Cyprus": {
-    "name": "Cyprus",
-    "file": "data/countries/cyprus.csv",
-    "geoId": "CY",
-    "countryTerritoryCode": "CYP",
+  "Switzerland": {
+    "name": "Switzerland",
+    "file": "data/countries/switzerland.csv",
+    "geoId": "CH",
+    "countryTerritoryCode": "CHE",
     "regions": {}
   },
-  "Iran": {
-    "name": "Iran",
-    "file": "data/countries/iran.csv",
-    "geoId": "IR",
-    "countryTerritoryCode": "IRN",
+  "Uzbekistan": {
+    "name": "Uzbekistan",
+    "file": "data/countries/uzbekistan.csv",
+    "geoId": "UZ",
+    "countryTerritoryCode": "UZB",
+    "regions": {}
+  },
+  "Central_African_Republic": {
+    "name": "Central_African_Republic",
+    "file": "data/countries/central_african_republic.csv",
+    "geoId": "CF",
+    "countryTerritoryCode": "CAF",
+    "regions": {}
+  },
+  "Georgia": {
+    "name": "Georgia",
+    "file": "data/countries/georgia.csv",
+    "geoId": "GE",
+    "countryTerritoryCode": "GEO",
+    "regions": {}
+  },
+  "Saint_Vincent_and_the_Grenadines": {
+    "name": "Saint_Vincent_and_the_Grenadines",
+    "file": "data/countries/saint_vincent_and_the_grenadines.csv",
+    "geoId": "VC",
+    "countryTerritoryCode": "VCT",
+    "regions": {}
+  },
+  "Cameroon": {
+    "name": "Cameroon",
+    "file": "data/countries/cameroon.csv",
+    "geoId": "CM",
+    "countryTerritoryCode": "CMR",
+    "regions": {}
+  },
+  "Poland": {
+    "name": "Poland",
+    "file": "data/countries/poland.csv",
+    "geoId": "PL",
+    "countryTerritoryCode": "POL",
+    "regions": {}
+  },
+  "Czech_Republic": {
+    "name": "Czech_Republic",
+    "file": "data/countries/czech_republic.csv",
+    "geoId": "CZ",
+    "countryTerritoryCode": "CZE",
     "regions": {}
   },
   "Brazil": {
@@ -40,390 +646,75 @@
     "geoId": "BR",
     "countryTerritoryCode": "BRA",
     "regions": {
-      "RR": {
-        "name": "RR",
+      "MT": {
+        "name": "MT",
         "place_type": "state",
-        "file": "data/brazil/rr.csv"
+        "file": "data/brazil/mt.csv"
       },
-      "Boa Vista": {
-        "name": "Boa Vista",
-        "parent": "RR",
+      "Cuiabá": {
+        "name": "Cuiabá",
+        "parent": "MT",
         "place_type": "city"
       },
-      "Bonfim": {
-        "name": "Bonfim",
-        "parent": "RR",
+      "Nova Monte Verde": {
+        "name": "Nova Monte Verde",
+        "parent": "MT",
         "place_type": "city"
       },
-      "SP": {
-        "name": "SP",
+      "Rondonópolis": {
+        "name": "Rondonópolis",
+        "parent": "MT",
+        "place_type": "city"
+      },
+      "Várzea Grande": {
+        "name": "Várzea Grande",
+        "parent": "MT",
+        "place_type": "city"
+      },
+      "AC": {
+        "name": "AC",
         "place_type": "state",
-        "file": "data/brazil/sp.csv"
+        "file": "data/brazil/ac.csv"
       },
-      "Arujá": {
-        "name": "Arujá",
-        "parent": "SP",
+      "Acrelândia": {
+        "name": "Acrelândia",
+        "parent": "AC",
         "place_type": "city"
       },
-      "Barueri": {
-        "name": "Barueri",
-        "parent": "SP",
+      "Porto Acre": {
+        "name": "Porto Acre",
+        "parent": "AC",
         "place_type": "city"
       },
-      "Brodowski": {
-        "name": "Brodowski",
-        "parent": "SP",
+      "Rio Branco": {
+        "name": "Rio Branco",
+        "parent": "AC",
         "place_type": "city"
       },
-      "Caieiras": {
-        "name": "Caieiras",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Cajamar": {
-        "name": "Cajamar",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Campinas": {
-        "name": "Campinas",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Carapicuíba": {
-        "name": "Carapicuíba",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Cotia": {
-        "name": "Cotia",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Diadema": {
-        "name": "Diadema",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Embu das Artes": {
-        "name": "Embu das Artes",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Ferraz de Vasconcelos": {
-        "name": "Ferraz de Vasconcelos",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Guarulhos": {
-        "name": "Guarulhos",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Hortolândia": {
-        "name": "Hortolândia",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Importados/Indefinidos": {
-        "name": "Importados/Indefinidos",
-        "parent": "AM",
-        "place_type": "city"
-      },
-      "Iracemápolis": {
-        "name": "Iracemápolis",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Itapevi": {
-        "name": "Itapevi",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Itupeva": {
-        "name": "Itupeva",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Jaguariúna": {
-        "name": "Jaguariúna",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Jandira": {
-        "name": "Jandira",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Jundiaí": {
-        "name": "Jundiaí",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Louveira": {
-        "name": "Louveira",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Mairiporã": {
-        "name": "Mairiporã",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Mauá": {
-        "name": "Mauá",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Mogi das Cruzes": {
-        "name": "Mogi das Cruzes",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Osasco": {
-        "name": "Osasco",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Paulínia": {
-        "name": "Paulínia",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Penápolis": {
-        "name": "Penápolis",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Piracicaba": {
-        "name": "Piracicaba",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Porto Feliz": {
-        "name": "Porto Feliz",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Poá": {
-        "name": "Poá",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Ribeirão Pires": {
-        "name": "Ribeirão Pires",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Ribeirão Preto": {
-        "name": "Ribeirão Preto",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Rio Claro": {
-        "name": "Rio Claro",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Santana de Parnaíba": {
-        "name": "Santana de Parnaíba",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Santo André": {
-        "name": "Santo André",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Santos": {
-        "name": "Santos",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Sorocaba": {
-        "name": "Sorocaba",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Suzano": {
-        "name": "Suzano",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "São Bernardo do Campo": {
-        "name": "São Bernardo do Campo",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "São Caetano do Sul": {
-        "name": "São Caetano do Sul",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "São José do Rio Preto": {
-        "name": "São José do Rio Preto",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "São José dos Campos": {
-        "name": "São José dos Campos",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "São Paulo": {
-        "name": "São Paulo",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "São Pedro": {
-        "name": "São Pedro",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "São Sebastião": {
-        "name": "São Sebastião",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Taboão da Serra": {
-        "name": "Taboão da Serra",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Tatuí": {
-        "name": "Tatuí",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Taubaté": {
-        "name": "Taubaté",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Valinhos": {
-        "name": "Valinhos",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "Vargem Grande Paulista": {
-        "name": "Vargem Grande Paulista",
-        "parent": "SP",
-        "place_type": "city"
-      },
-      "AP": {
-        "name": "AP",
+      "TO": {
+        "name": "TO",
         "place_type": "state",
-        "file": "data/brazil/ap.csv"
+        "file": "data/brazil/to.csv"
       },
-      "Macapá": {
-        "name": "Macapá",
-        "parent": "AP",
+      "Araguaína": {
+        "name": "Araguaína",
+        "parent": "TO",
         "place_type": "city"
       },
-      "ES": {
-        "name": "ES",
-        "place_type": "state",
-        "file": "data/brazil/es.csv"
-      },
-      "Cachoeiro de Itapemirim": {
-        "name": "Cachoeiro de Itapemirim",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Cariacica": {
-        "name": "Cariacica",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Castelo": {
-        "name": "Castelo",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Guarapari": {
-        "name": "Guarapari",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Itapemirim": {
-        "name": "Itapemirim",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Linhares": {
-        "name": "Linhares",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Santa Teresa": {
-        "name": "Santa Teresa",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Serra": {
-        "name": "Serra",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "São Mateus": {
-        "name": "São Mateus",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "São Roque do Canaã": {
-        "name": "São Roque do Canaã",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Vila Velha": {
-        "name": "Vila Velha",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "Vitória": {
-        "name": "Vitória",
-        "parent": "ES",
-        "place_type": "city"
-      },
-      "MS": {
-        "name": "MS",
-        "place_type": "state",
-        "file": "data/brazil/ms.csv"
-      },
-      "Batayporã": {
-        "name": "Batayporã",
-        "parent": "MS",
-        "place_type": "city"
-      },
-      "Campo Grande": {
-        "name": "Campo Grande",
-        "parent": "MS",
-        "place_type": "city"
-      },
-      "Dourados": {
-        "name": "Dourados",
-        "parent": "MS",
-        "place_type": "city"
-      },
-      "Ponta Porã": {
-        "name": "Ponta Porã",
-        "parent": "MS",
-        "place_type": "city"
-      },
-      "Rio Verde de Mato Grosso": {
-        "name": "Rio Verde de Mato Grosso",
-        "parent": "MS",
-        "place_type": "city"
-      },
-      "Sidrolândia": {
-        "name": "Sidrolândia",
-        "parent": "MS",
+      "Palmas": {
+        "name": "Palmas",
+        "parent": "TO",
         "place_type": "city"
       },
       "AL": {
         "name": "AL",
         "place_type": "state",
         "file": "data/brazil/al.csv"
+      },
+      "Importados/Indefinidos": {
+        "name": "Importados/Indefinidos",
+        "parent": "SP",
+        "place_type": "city"
       },
       "Maceió": {
         "name": "Maceió",
@@ -435,539 +726,14 @@
         "parent": "AL",
         "place_type": "city"
       },
-      "MG": {
-        "name": "MG",
+      "MA": {
+        "name": "MA",
         "place_type": "state",
-        "file": "data/brazil/mg.csv"
-      },
-      "Belo Horizonte": {
-        "name": "Belo Horizonte",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Betim": {
-        "name": "Betim",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Boa Esperança": {
-        "name": "Boa Esperança",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Bom Despacho": {
-        "name": "Bom Despacho",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Campo Belo": {
-        "name": "Campo Belo",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Campos Altos": {
-        "name": "Campos Altos",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Carmo do Cajuru": {
-        "name": "Carmo do Cajuru",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Contagem": {
-        "name": "Contagem",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Coronel Fabriciano": {
-        "name": "Coronel Fabriciano",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Curvelo": {
-        "name": "Curvelo",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Divinópolis": {
-        "name": "Divinópolis",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Extrema": {
-        "name": "Extrema",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Governador Valadares": {
-        "name": "Governador Valadares",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Guimarânia": {
-        "name": "Guimarânia",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Ipatinga": {
-        "name": "Ipatinga",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Juiz de Fora": {
-        "name": "Juiz de Fora",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Lagoa da Prata": {
-        "name": "Lagoa da Prata",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Mariana": {
-        "name": "Mariana",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Muriaé": {
-        "name": "Muriaé",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Nova Lima": {
-        "name": "Nova Lima",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Patrocínio": {
-        "name": "Patrocínio",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Poços de Caldas": {
-        "name": "Poços de Caldas",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Sabará": {
-        "name": "Sabará",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Santa Luzia": {
-        "name": "Santa Luzia",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Serra do Salitre": {
-        "name": "Serra do Salitre",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Sete Lagoas": {
-        "name": "Sete Lagoas",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "São João del Rei": {
-        "name": "São João del Rei",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Timóteo": {
-        "name": "Timóteo",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Uberaba": {
-        "name": "Uberaba",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Uberlândia": {
-        "name": "Uberlândia",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "Unaí": {
-        "name": "Unaí",
-        "parent": "MG",
-        "place_type": "city"
-      },
-      "PI": {
-        "name": "PI",
-        "place_type": "state",
-        "file": "data/brazil/pi.csv"
-      },
-      "Parnaíba": {
-        "name": "Parnaíba",
-        "parent": "PI",
-        "place_type": "city"
-      },
-      "São José do Divino": {
-        "name": "São José do Divino",
-        "parent": "PI",
-        "place_type": "city"
-      },
-      "Teresina": {
-        "name": "Teresina",
-        "parent": "PI",
-        "place_type": "city"
-      },
-      "SC": {
-        "name": "SC",
-        "place_type": "state",
-        "file": "data/brazil/sc.csv"
-      },
-      "Antônio Carlos": {
-        "name": "Antônio Carlos",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Balneário Arroio do Silva": {
-        "name": "Balneário Arroio do Silva",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Balneário Camboriú": {
-        "name": "Balneário Camboriú",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Blumenau": {
-        "name": "Blumenau",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Braço do Norte": {
-        "name": "Braço do Norte",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Brusque": {
-        "name": "Brusque",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Camboriú": {
-        "name": "Camboriú",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Canelinha": {
-        "name": "Canelinha",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Chapecó": {
-        "name": "Chapecó",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Criciúma": {
-        "name": "Criciúma",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Florianópolis": {
-        "name": "Florianópolis",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Gaspar": {
-        "name": "Gaspar",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Gravatal": {
-        "name": "Gravatal",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Imbituba": {
-        "name": "Imbituba",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Indaial": {
-        "name": "Indaial",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Itajaí": {
-        "name": "Itajaí",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Itapema": {
-        "name": "Itapema",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Içara": {
-        "name": "Içara",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Jaguaruna": {
-        "name": "Jaguaruna",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Jaraguá do Sul": {
-        "name": "Jaraguá do Sul",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Joinville": {
-        "name": "Joinville",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Lages": {
-        "name": "Lages",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Laguna": {
-        "name": "Laguna",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Navegantes": {
-        "name": "Navegantes",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Papanduva": {
-        "name": "Papanduva",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Pescaria Brava": {
-        "name": "Pescaria Brava",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Pomerode": {
-        "name": "Pomerode",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Porto Belo": {
-        "name": "Porto Belo",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Rancho Queimado": {
-        "name": "Rancho Queimado",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Siderópolis": {
-        "name": "Siderópolis",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "São Francisco do Sul": {
-        "name": "São Francisco do Sul",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "São José": {
-        "name": "São José",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "São Lourenço do Oeste": {
-        "name": "São Lourenço do Oeste",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "São Ludgero": {
-        "name": "São Ludgero",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "São Pedro de Alcântara": {
-        "name": "São Pedro de Alcântara",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Tijucas": {
-        "name": "Tijucas",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Timbé do Sul": {
-        "name": "Timbé do Sul",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Tubarão": {
-        "name": "Tubarão",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "Urussanga": {
-        "name": "Urussanga",
-        "parent": "SC",
-        "place_type": "city"
-      },
-      "RJ": {
-        "name": "RJ",
-        "place_type": "state",
-        "file": "data/brazil/rj.csv"
-      },
-      "Angra dos Reis": {
-        "name": "Angra dos Reis",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Barra Mansa": {
-        "name": "Barra Mansa",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Belford Roxo": {
-        "name": "Belford Roxo",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Campos dos Goytacazes": {
-        "name": "Campos dos Goytacazes",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Duque de Caxias": {
-        "name": "Duque de Caxias",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Guapimirim": {
-        "name": "Guapimirim",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Itaboraí": {
-        "name": "Itaboraí",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Mangaratiba": {
-        "name": "Mangaratiba",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Maricá": {
-        "name": "Maricá",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Miguel Pereira": {
-        "name": "Miguel Pereira",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Niterói": {
-        "name": "Niterói",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Nova Iguaçu": {
-        "name": "Nova Iguaçu",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Petrópolis": {
-        "name": "Petrópolis",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Queimados": {
-        "name": "Queimados",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Resende": {
-        "name": "Resende",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Rio Bonito": {
-        "name": "Rio Bonito",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Rio das Ostras": {
-        "name": "Rio das Ostras",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Rio de Janeiro": {
-        "name": "Rio de Janeiro",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Seropédica": {
-        "name": "Seropédica",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "São Gonçalo": {
-        "name": "São Gonçalo",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "São João de Meriti": {
-        "name": "São João de Meriti",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Teresópolis": {
-        "name": "Teresópolis",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Valença": {
-        "name": "Valença",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "Volta Redonda": {
-        "name": "Volta Redonda",
-        "parent": "RJ",
-        "place_type": "city"
-      },
-      "DF": {
-        "name": "DF",
-        "place_type": "state",
-        "file": "data/brazil/df.csv"
-      },
-      "Brasília": {
-        "name": "Brasília",
-        "parent": "DF",
-        "place_type": "city"
-      },
-      "RO": {
-        "name": "RO",
-        "place_type": "state",
-        "file": "data/brazil/ro.csv"
-      },
-      "Jaru": {
-        "name": "Jaru",
-        "parent": "RO",
-        "place_type": "city"
-      },
-      "Ji-Paraná": {
-        "name": "Ji-Paraná",
-        "parent": "RO",
-        "place_type": "city"
-      },
-      "Porto Velho": {
-        "name": "Porto Velho",
-        "parent": "RO",
+        "file": "data/brazil/ma.csv"
+      },
+      "São Luís": {
+        "name": "São Luís",
+        "parent": "MA",
         "place_type": "city"
       },
       "BA": {
@@ -1100,6 +866,131 @@
         "parent": "BA",
         "place_type": "city"
       },
+      "RJ": {
+        "name": "RJ",
+        "place_type": "state",
+        "file": "data/brazil/rj.csv"
+      },
+      "Angra dos Reis": {
+        "name": "Angra dos Reis",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Barra Mansa": {
+        "name": "Barra Mansa",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Belford Roxo": {
+        "name": "Belford Roxo",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Campos dos Goytacazes": {
+        "name": "Campos dos Goytacazes",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Duque de Caxias": {
+        "name": "Duque de Caxias",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Guapimirim": {
+        "name": "Guapimirim",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Itaboraí": {
+        "name": "Itaboraí",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Mangaratiba": {
+        "name": "Mangaratiba",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Maricá": {
+        "name": "Maricá",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Miguel Pereira": {
+        "name": "Miguel Pereira",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Niterói": {
+        "name": "Niterói",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Nova Iguaçu": {
+        "name": "Nova Iguaçu",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Petrópolis": {
+        "name": "Petrópolis",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Queimados": {
+        "name": "Queimados",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Resende": {
+        "name": "Resende",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Rio Bonito": {
+        "name": "Rio Bonito",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Rio das Ostras": {
+        "name": "Rio das Ostras",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Rio de Janeiro": {
+        "name": "Rio de Janeiro",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Seropédica": {
+        "name": "Seropédica",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "São Gonçalo": {
+        "name": "São Gonçalo",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "São João de Meriti": {
+        "name": "São João de Meriti",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Teresópolis": {
+        "name": "Teresópolis",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Valença": {
+        "name": "Valença",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "Volta Redonda": {
+        "name": "Volta Redonda",
+        "parent": "RJ",
+        "place_type": "city"
+      },
       "CE": {
         "name": "CE",
         "place_type": "state",
@@ -1165,244 +1056,24 @@
         "parent": "CE",
         "place_type": "city"
       },
-      "PR": {
-        "name": "PR",
+      "AP": {
+        "name": "AP",
         "place_type": "state",
-        "file": "data/brazil/pr.csv"
+        "file": "data/brazil/ap.csv"
       },
-      "Almirante Tamandaré": {
-        "name": "Almirante Tamandaré",
-        "parent": "PR",
+      "Macapá": {
+        "name": "Macapá",
+        "parent": "AP",
         "place_type": "city"
       },
-      "Campo Largo": {
-        "name": "Campo Largo",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Campo Mourão": {
-        "name": "Campo Mourão",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Cascavel": {
-        "name": "Cascavel",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Castro": {
-        "name": "Castro",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Cianorte": {
-        "name": "Cianorte",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Colombo": {
-        "name": "Colombo",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Contenda": {
-        "name": "Contenda",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Curitiba": {
-        "name": "Curitiba",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Faxinal": {
-        "name": "Faxinal",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Foz do Iguaçu": {
-        "name": "Foz do Iguaçu",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Guarapuava": {
-        "name": "Guarapuava",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Guaíra": {
-        "name": "Guaíra",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Iretama": {
-        "name": "Iretama",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Londrina": {
-        "name": "Londrina",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Marechal Cândido Rondon": {
-        "name": "Marechal Cândido Rondon",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Maringá": {
-        "name": "Maringá",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Mariópolis": {
-        "name": "Mariópolis",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Matinhos": {
-        "name": "Matinhos",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Medianeira": {
-        "name": "Medianeira",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Paranavaí": {
-        "name": "Paranavaí",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Pato Branco": {
-        "name": "Pato Branco",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Peabiru": {
-        "name": "Peabiru",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Pinhais": {
-        "name": "Pinhais",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Ponta Grossa": {
-        "name": "Ponta Grossa",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Quatiguá": {
-        "name": "Quatiguá",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Rio Branco do Sul": {
-        "name": "Rio Branco do Sul",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Rio Negro": {
-        "name": "Rio Negro",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "São José dos Pinhais": {
-        "name": "São José dos Pinhais",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Telêmaco Borba": {
-        "name": "Telêmaco Borba",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Terra Rica": {
-        "name": "Terra Rica",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "Umuarama": {
-        "name": "Umuarama",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "União da Vitória": {
-        "name": "União da Vitória",
-        "parent": "PR",
-        "place_type": "city"
-      },
-      "GO": {
-        "name": "GO",
+      "DF": {
+        "name": "DF",
         "place_type": "state",
-        "file": "data/brazil/go.csv"
+        "file": "data/brazil/df.csv"
       },
-      "Anápolis": {
-        "name": "Anápolis",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Aparecida de Goiânia": {
-        "name": "Aparecida de Goiânia",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Catalão": {
-        "name": "Catalão",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Goianésia": {
-        "name": "Goianésia",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Goiânia": {
-        "name": "Goiânia",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Hidrolândia": {
-        "name": "Hidrolândia",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Itumbiara": {
-        "name": "Itumbiara",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Jataí": {
-        "name": "Jataí",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Luziânia": {
-        "name": "Luziânia",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Rio Verde": {
-        "name": "Rio Verde",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Silvânia": {
-        "name": "Silvânia",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Valparaíso de Goiás": {
-        "name": "Valparaíso de Goiás",
-        "parent": "GO",
-        "place_type": "city"
-      },
-      "Águas Lindas de Goiás": {
-        "name": "Águas Lindas de Goiás",
-        "parent": "GO",
+      "Brasília": {
+        "name": "Brasília",
+        "parent": "DF",
         "place_type": "city"
       },
       "RS": {
@@ -1655,6 +1326,266 @@
         "parent": "RS",
         "place_type": "city"
       },
+      "MS": {
+        "name": "MS",
+        "place_type": "state",
+        "file": "data/brazil/ms.csv"
+      },
+      "Batayporã": {
+        "name": "Batayporã",
+        "parent": "MS",
+        "place_type": "city"
+      },
+      "Campo Grande": {
+        "name": "Campo Grande",
+        "parent": "MS",
+        "place_type": "city"
+      },
+      "Dourados": {
+        "name": "Dourados",
+        "parent": "MS",
+        "place_type": "city"
+      },
+      "Ponta Porã": {
+        "name": "Ponta Porã",
+        "parent": "MS",
+        "place_type": "city"
+      },
+      "Rio Verde de Mato Grosso": {
+        "name": "Rio Verde de Mato Grosso",
+        "parent": "MS",
+        "place_type": "city"
+      },
+      "Sidrolândia": {
+        "name": "Sidrolândia",
+        "parent": "MS",
+        "place_type": "city"
+      },
+      "RO": {
+        "name": "RO",
+        "place_type": "state",
+        "file": "data/brazil/ro.csv"
+      },
+      "Jaru": {
+        "name": "Jaru",
+        "parent": "RO",
+        "place_type": "city"
+      },
+      "Ji-Paraná": {
+        "name": "Ji-Paraná",
+        "parent": "RO",
+        "place_type": "city"
+      },
+      "Porto Velho": {
+        "name": "Porto Velho",
+        "parent": "RO",
+        "place_type": "city"
+      },
+      "PR": {
+        "name": "PR",
+        "place_type": "state",
+        "file": "data/brazil/pr.csv"
+      },
+      "Almirante Tamandaré": {
+        "name": "Almirante Tamandaré",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Campo Largo": {
+        "name": "Campo Largo",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Campo Mourão": {
+        "name": "Campo Mourão",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Cascavel": {
+        "name": "Cascavel",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Castro": {
+        "name": "Castro",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Cianorte": {
+        "name": "Cianorte",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Colombo": {
+        "name": "Colombo",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Contenda": {
+        "name": "Contenda",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Curitiba": {
+        "name": "Curitiba",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Faxinal": {
+        "name": "Faxinal",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Foz do Iguaçu": {
+        "name": "Foz do Iguaçu",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Guarapuava": {
+        "name": "Guarapuava",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Guaíra": {
+        "name": "Guaíra",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Iretama": {
+        "name": "Iretama",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Londrina": {
+        "name": "Londrina",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Marechal Cândido Rondon": {
+        "name": "Marechal Cândido Rondon",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Maringá": {
+        "name": "Maringá",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Mariópolis": {
+        "name": "Mariópolis",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Matinhos": {
+        "name": "Matinhos",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Medianeira": {
+        "name": "Medianeira",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Paranavaí": {
+        "name": "Paranavaí",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Pato Branco": {
+        "name": "Pato Branco",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Peabiru": {
+        "name": "Peabiru",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Pinhais": {
+        "name": "Pinhais",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Ponta Grossa": {
+        "name": "Ponta Grossa",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Quatiguá": {
+        "name": "Quatiguá",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Rio Branco do Sul": {
+        "name": "Rio Branco do Sul",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Rio Negro": {
+        "name": "Rio Negro",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "São José dos Pinhais": {
+        "name": "São José dos Pinhais",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Telêmaco Borba": {
+        "name": "Telêmaco Borba",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Terra Rica": {
+        "name": "Terra Rica",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "Umuarama": {
+        "name": "Umuarama",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "União da Vitória": {
+        "name": "União da Vitória",
+        "parent": "PR",
+        "place_type": "city"
+      },
+      "SE": {
+        "name": "SE",
+        "place_type": "state",
+        "file": "data/brazil/se.csv"
+      },
+      "Aracaju": {
+        "name": "Aracaju",
+        "parent": "SE",
+        "place_type": "city"
+      },
+      "Nossa Senhora da Glória": {
+        "name": "Nossa Senhora da Glória",
+        "parent": "SE",
+        "place_type": "city"
+      },
+      "Propriá": {
+        "name": "Propriá",
+        "parent": "SE",
+        "place_type": "city"
+      },
+      "RR": {
+        "name": "RR",
+        "place_type": "state",
+        "file": "data/brazil/rr.csv"
+      },
+      "Boa Vista": {
+        "name": "Boa Vista",
+        "parent": "RR",
+        "place_type": "city"
+      },
+      "Bonfim": {
+        "name": "Bonfim",
+        "parent": "RR",
+        "place_type": "city"
+      },
       "PA": {
         "name": "PA",
         "place_type": "state",
@@ -1690,29 +1621,429 @@
         "parent": "PA",
         "place_type": "city"
       },
-      "MT": {
-        "name": "MT",
+      "GO": {
+        "name": "GO",
         "place_type": "state",
-        "file": "data/brazil/mt.csv"
+        "file": "data/brazil/go.csv"
       },
-      "Cuiabá": {
-        "name": "Cuiabá",
-        "parent": "MT",
+      "Anápolis": {
+        "name": "Anápolis",
+        "parent": "GO",
         "place_type": "city"
       },
-      "Nova Monte Verde": {
-        "name": "Nova Monte Verde",
-        "parent": "MT",
+      "Aparecida de Goiânia": {
+        "name": "Aparecida de Goiânia",
+        "parent": "GO",
         "place_type": "city"
       },
-      "Rondonópolis": {
-        "name": "Rondonópolis",
-        "parent": "MT",
+      "Catalão": {
+        "name": "Catalão",
+        "parent": "GO",
         "place_type": "city"
       },
-      "Várzea Grande": {
-        "name": "Várzea Grande",
-        "parent": "MT",
+      "Goianésia": {
+        "name": "Goianésia",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Goiânia": {
+        "name": "Goiânia",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Hidrolândia": {
+        "name": "Hidrolândia",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Itumbiara": {
+        "name": "Itumbiara",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Jataí": {
+        "name": "Jataí",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Luziânia": {
+        "name": "Luziânia",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Rio Verde": {
+        "name": "Rio Verde",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Silvânia": {
+        "name": "Silvânia",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Valparaíso de Goiás": {
+        "name": "Valparaíso de Goiás",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "Águas Lindas de Goiás": {
+        "name": "Águas Lindas de Goiás",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "SC": {
+        "name": "SC",
+        "place_type": "state",
+        "file": "data/brazil/sc.csv"
+      },
+      "Antônio Carlos": {
+        "name": "Antônio Carlos",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Balneário Arroio do Silva": {
+        "name": "Balneário Arroio do Silva",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Balneário Camboriú": {
+        "name": "Balneário Camboriú",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Blumenau": {
+        "name": "Blumenau",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Braço do Norte": {
+        "name": "Braço do Norte",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Brusque": {
+        "name": "Brusque",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Camboriú": {
+        "name": "Camboriú",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Canelinha": {
+        "name": "Canelinha",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Chapecó": {
+        "name": "Chapecó",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Criciúma": {
+        "name": "Criciúma",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Florianópolis": {
+        "name": "Florianópolis",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Gaspar": {
+        "name": "Gaspar",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Gravatal": {
+        "name": "Gravatal",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Imbituba": {
+        "name": "Imbituba",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Indaial": {
+        "name": "Indaial",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Itajaí": {
+        "name": "Itajaí",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Itapema": {
+        "name": "Itapema",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Içara": {
+        "name": "Içara",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Jaguaruna": {
+        "name": "Jaguaruna",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Jaraguá do Sul": {
+        "name": "Jaraguá do Sul",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Joinville": {
+        "name": "Joinville",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Lages": {
+        "name": "Lages",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Laguna": {
+        "name": "Laguna",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Navegantes": {
+        "name": "Navegantes",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Papanduva": {
+        "name": "Papanduva",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Pescaria Brava": {
+        "name": "Pescaria Brava",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Pomerode": {
+        "name": "Pomerode",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Porto Belo": {
+        "name": "Porto Belo",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Rancho Queimado": {
+        "name": "Rancho Queimado",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Siderópolis": {
+        "name": "Siderópolis",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "São Francisco do Sul": {
+        "name": "São Francisco do Sul",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "São José": {
+        "name": "São José",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "São Lourenço do Oeste": {
+        "name": "São Lourenço do Oeste",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "São Ludgero": {
+        "name": "São Ludgero",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "São Pedro de Alcântara": {
+        "name": "São Pedro de Alcântara",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Tijucas": {
+        "name": "Tijucas",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Timbé do Sul": {
+        "name": "Timbé do Sul",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Tubarão": {
+        "name": "Tubarão",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "Urussanga": {
+        "name": "Urussanga",
+        "parent": "SC",
+        "place_type": "city"
+      },
+      "AM": {
+        "name": "AM",
+        "place_type": "state",
+        "file": "data/brazil/am.csv"
+      },
+      "Anori": {
+        "name": "Anori",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "Boca do Acre": {
+        "name": "Boca do Acre",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "Itacoatiara": {
+        "name": "Itacoatiara",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "Manacapuru": {
+        "name": "Manacapuru",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "Manaus": {
+        "name": "Manaus",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "Novo Airão": {
+        "name": "Novo Airão",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "Parintins": {
+        "name": "Parintins",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "Santo Antônio do Içá": {
+        "name": "Santo Antônio do Içá",
+        "parent": "AM",
+        "place_type": "city"
+      },
+      "PI": {
+        "name": "PI",
+        "place_type": "state",
+        "file": "data/brazil/pi.csv"
+      },
+      "Parnaíba": {
+        "name": "Parnaíba",
+        "parent": "PI",
+        "place_type": "city"
+      },
+      "São José do Divino": {
+        "name": "São José do Divino",
+        "parent": "PI",
+        "place_type": "city"
+      },
+      "Teresina": {
+        "name": "Teresina",
+        "parent": "PI",
+        "place_type": "city"
+      },
+      "ES": {
+        "name": "ES",
+        "place_type": "state",
+        "file": "data/brazil/es.csv"
+      },
+      "Cachoeiro de Itapemirim": {
+        "name": "Cachoeiro de Itapemirim",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Cariacica": {
+        "name": "Cariacica",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Castelo": {
+        "name": "Castelo",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Guarapari": {
+        "name": "Guarapari",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Itapemirim": {
+        "name": "Itapemirim",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Linhares": {
+        "name": "Linhares",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Santa Teresa": {
+        "name": "Santa Teresa",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Serra": {
+        "name": "Serra",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "São Mateus": {
+        "name": "São Mateus",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "São Roque do Canaã": {
+        "name": "São Roque do Canaã",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Vila Velha": {
+        "name": "Vila Velha",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "Vitória": {
+        "name": "Vitória",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "PB": {
+        "name": "PB",
+        "place_type": "state",
+        "file": "data/brazil/pb.csv"
+      },
+      "Campina Grande": {
+        "name": "Campina Grande",
+        "parent": "PB",
+        "place_type": "city"
+      },
+      "Igaracy": {
+        "name": "Igaracy",
+        "parent": "PB",
+        "place_type": "city"
+      },
+      "João Pessoa": {
+        "name": "João Pessoa",
+        "parent": "PB",
+        "place_type": "city"
+      },
+      "Sousa": {
+        "name": "Sousa",
+        "parent": "PB",
         "place_type": "city"
       },
       "PE": {
@@ -1773,31 +2104,6 @@
       "São Lourenço da Mata": {
         "name": "São Lourenço da Mata",
         "parent": "PE",
-        "place_type": "city"
-      },
-      "PB": {
-        "name": "PB",
-        "place_type": "state",
-        "file": "data/brazil/pb.csv"
-      },
-      "Campina Grande": {
-        "name": "Campina Grande",
-        "parent": "PB",
-        "place_type": "city"
-      },
-      "Igaracy": {
-        "name": "Igaracy",
-        "parent": "PB",
-        "place_type": "city"
-      },
-      "João Pessoa": {
-        "name": "João Pessoa",
-        "parent": "PB",
-        "place_type": "city"
-      },
-      "Sousa": {
-        "name": "Sousa",
-        "parent": "PB",
         "place_type": "city"
       },
       "RN": {
@@ -1875,114 +2181,414 @@
         "parent": "RN",
         "place_type": "city"
       },
-      "AC": {
-        "name": "AC",
+      "MG": {
+        "name": "MG",
         "place_type": "state",
-        "file": "data/brazil/ac.csv"
+        "file": "data/brazil/mg.csv"
       },
-      "Acrelândia": {
-        "name": "Acrelândia",
-        "parent": "AC",
+      "Belo Horizonte": {
+        "name": "Belo Horizonte",
+        "parent": "MG",
         "place_type": "city"
       },
-      "Porto Acre": {
-        "name": "Porto Acre",
-        "parent": "AC",
+      "Betim": {
+        "name": "Betim",
+        "parent": "MG",
         "place_type": "city"
       },
-      "Rio Branco": {
-        "name": "Rio Branco",
-        "parent": "AC",
+      "Boa Esperança": {
+        "name": "Boa Esperança",
+        "parent": "MG",
         "place_type": "city"
       },
-      "SE": {
-        "name": "SE",
+      "Bom Despacho": {
+        "name": "Bom Despacho",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Campo Belo": {
+        "name": "Campo Belo",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Campos Altos": {
+        "name": "Campos Altos",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Carmo do Cajuru": {
+        "name": "Carmo do Cajuru",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Contagem": {
+        "name": "Contagem",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Coronel Fabriciano": {
+        "name": "Coronel Fabriciano",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Curvelo": {
+        "name": "Curvelo",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Divinópolis": {
+        "name": "Divinópolis",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Extrema": {
+        "name": "Extrema",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Governador Valadares": {
+        "name": "Governador Valadares",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Guimarânia": {
+        "name": "Guimarânia",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Ipatinga": {
+        "name": "Ipatinga",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Juiz de Fora": {
+        "name": "Juiz de Fora",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Lagoa da Prata": {
+        "name": "Lagoa da Prata",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Mariana": {
+        "name": "Mariana",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Muriaé": {
+        "name": "Muriaé",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Nova Lima": {
+        "name": "Nova Lima",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Patrocínio": {
+        "name": "Patrocínio",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Poços de Caldas": {
+        "name": "Poços de Caldas",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Sabará": {
+        "name": "Sabará",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Santa Luzia": {
+        "name": "Santa Luzia",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Serra do Salitre": {
+        "name": "Serra do Salitre",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Sete Lagoas": {
+        "name": "Sete Lagoas",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "São João del Rei": {
+        "name": "São João del Rei",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Timóteo": {
+        "name": "Timóteo",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Uberaba": {
+        "name": "Uberaba",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Uberlândia": {
+        "name": "Uberlândia",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "Unaí": {
+        "name": "Unaí",
+        "parent": "MG",
+        "place_type": "city"
+      },
+      "SP": {
+        "name": "SP",
         "place_type": "state",
-        "file": "data/brazil/se.csv"
+        "file": "data/brazil/sp.csv"
       },
-      "Aracaju": {
-        "name": "Aracaju",
-        "parent": "SE",
+      "Arujá": {
+        "name": "Arujá",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Nossa Senhora da Glória": {
-        "name": "Nossa Senhora da Glória",
-        "parent": "SE",
+      "Barueri": {
+        "name": "Barueri",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Propriá": {
-        "name": "Propriá",
-        "parent": "SE",
+      "Brodowski": {
+        "name": "Brodowski",
+        "parent": "SP",
         "place_type": "city"
       },
-      "TO": {
-        "name": "TO",
-        "place_type": "state",
-        "file": "data/brazil/to.csv"
-      },
-      "Araguaína": {
-        "name": "Araguaína",
-        "parent": "TO",
+      "Caieiras": {
+        "name": "Caieiras",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Palmas": {
-        "name": "Palmas",
-        "parent": "TO",
+      "Cajamar": {
+        "name": "Cajamar",
+        "parent": "SP",
         "place_type": "city"
       },
-      "AM": {
-        "name": "AM",
-        "place_type": "state",
-        "file": "data/brazil/am.csv"
-      },
-      "Anori": {
-        "name": "Anori",
-        "parent": "AM",
+      "Campinas": {
+        "name": "Campinas",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Boca do Acre": {
-        "name": "Boca do Acre",
-        "parent": "AM",
+      "Carapicuíba": {
+        "name": "Carapicuíba",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Itacoatiara": {
-        "name": "Itacoatiara",
-        "parent": "AM",
+      "Cotia": {
+        "name": "Cotia",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Manacapuru": {
-        "name": "Manacapuru",
-        "parent": "AM",
+      "Diadema": {
+        "name": "Diadema",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Manaus": {
-        "name": "Manaus",
-        "parent": "AM",
+      "Embu das Artes": {
+        "name": "Embu das Artes",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Novo Airão": {
-        "name": "Novo Airão",
-        "parent": "AM",
+      "Ferraz de Vasconcelos": {
+        "name": "Ferraz de Vasconcelos",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Parintins": {
-        "name": "Parintins",
-        "parent": "AM",
+      "Guarulhos": {
+        "name": "Guarulhos",
+        "parent": "SP",
         "place_type": "city"
       },
-      "Santo Antônio do Içá": {
-        "name": "Santo Antônio do Içá",
-        "parent": "AM",
+      "Hortolândia": {
+        "name": "Hortolândia",
+        "parent": "SP",
         "place_type": "city"
       },
-      "MA": {
-        "name": "MA",
-        "place_type": "state",
-        "file": "data/brazil/ma.csv"
+      "Iracemápolis": {
+        "name": "Iracemápolis",
+        "parent": "SP",
+        "place_type": "city"
       },
-      "São Luís": {
-        "name": "São Luís",
-        "parent": "MA",
+      "Itapevi": {
+        "name": "Itapevi",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Itupeva": {
+        "name": "Itupeva",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Jaguariúna": {
+        "name": "Jaguariúna",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Jandira": {
+        "name": "Jandira",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Jundiaí": {
+        "name": "Jundiaí",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Louveira": {
+        "name": "Louveira",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Mairiporã": {
+        "name": "Mairiporã",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Mauá": {
+        "name": "Mauá",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Mogi das Cruzes": {
+        "name": "Mogi das Cruzes",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Osasco": {
+        "name": "Osasco",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Paulínia": {
+        "name": "Paulínia",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Penápolis": {
+        "name": "Penápolis",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Piracicaba": {
+        "name": "Piracicaba",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Porto Feliz": {
+        "name": "Porto Feliz",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Poá": {
+        "name": "Poá",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Ribeirão Pires": {
+        "name": "Ribeirão Pires",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Ribeirão Preto": {
+        "name": "Ribeirão Preto",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Rio Claro": {
+        "name": "Rio Claro",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Santana de Parnaíba": {
+        "name": "Santana de Parnaíba",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Santo André": {
+        "name": "Santo André",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Santos": {
+        "name": "Santos",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Sorocaba": {
+        "name": "Sorocaba",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Suzano": {
+        "name": "Suzano",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "São Bernardo do Campo": {
+        "name": "São Bernardo do Campo",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "São Caetano do Sul": {
+        "name": "São Caetano do Sul",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "São José do Rio Preto": {
+        "name": "São José do Rio Preto",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "São José dos Campos": {
+        "name": "São José dos Campos",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "São Paulo": {
+        "name": "São Paulo",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "São Pedro": {
+        "name": "São Pedro",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "São Sebastião": {
+        "name": "São Sebastião",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Taboão da Serra": {
+        "name": "Taboão da Serra",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Tatuí": {
+        "name": "Tatuí",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Taubaté": {
+        "name": "Taubaté",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Valinhos": {
+        "name": "Valinhos",
+        "parent": "SP",
+        "place_type": "city"
+      },
+      "Vargem Grande Paulista": {
+        "name": "Vargem Grande Paulista",
+        "parent": "SP",
         "place_type": "city"
       }
     },
@@ -1992,111 +2598,6 @@
       }
     }
   },
-  "Oman": {
-    "name": "Oman",
-    "file": "data/countries/oman.csv",
-    "geoId": "OM",
-    "countryTerritoryCode": "OMN",
-    "regions": {}
-  },
-  "Grenada": {
-    "name": "Grenada",
-    "file": "data/countries/grenada.csv",
-    "geoId": "GD",
-    "countryTerritoryCode": "GRD",
-    "regions": {}
-  },
-  "Brunei_Darussalam": {
-    "name": "Brunei_Darussalam",
-    "file": "data/countries/brunei_darussalam.csv",
-    "geoId": "BN",
-    "countryTerritoryCode": "BRN",
-    "regions": {}
-  },
-  "New_Zealand": {
-    "name": "New_Zealand",
-    "file": "data/countries/new_zealand.csv",
-    "geoId": "NZ",
-    "countryTerritoryCode": "NZL",
-    "regions": {}
-  },
-  "Sudan": {
-    "name": "Sudan",
-    "file": "data/countries/sudan.csv",
-    "geoId": "SD",
-    "countryTerritoryCode": "SDN",
-    "regions": {}
-  },
-  "Serbia": {
-    "name": "Serbia",
-    "file": "data/countries/serbia.csv",
-    "geoId": "RS",
-    "countryTerritoryCode": "SRB",
-    "regions": {}
-  },
-  "Kyrgyzstan": {
-    "name": "Kyrgyzstan",
-    "file": "data/countries/kyrgyzstan.csv",
-    "geoId": "KG",
-    "countryTerritoryCode": "KGZ",
-    "regions": {}
-  },
-  "Lithuania": {
-    "name": "Lithuania",
-    "file": "data/countries/lithuania.csv",
-    "geoId": "LT",
-    "countryTerritoryCode": "LTU",
-    "regions": {}
-  },
-  "Burkina_Faso": {
-    "name": "Burkina_Faso",
-    "file": "data/countries/burkina_faso.csv",
-    "geoId": "BF",
-    "countryTerritoryCode": "BFA",
-    "regions": {}
-  },
-  "Singapore": {
-    "name": "Singapore",
-    "file": "data/countries/singapore.csv",
-    "geoId": "SG",
-    "countryTerritoryCode": "SGP",
-    "regions": {}
-  },
-  "Ireland": {
-    "name": "Ireland",
-    "file": "data/countries/ireland.csv",
-    "geoId": "IE",
-    "countryTerritoryCode": "IRL",
-    "regions": {}
-  },
-  "Bosnia_and_Herzegovina": {
-    "name": "Bosnia_and_Herzegovina",
-    "file": "data/countries/bosnia_and_herzegovina.csv",
-    "geoId": "BA",
-    "countryTerritoryCode": "BIH",
-    "regions": {}
-  },
-  "Uzbekistan": {
-    "name": "Uzbekistan",
-    "file": "data/countries/uzbekistan.csv",
-    "geoId": "UZ",
-    "countryTerritoryCode": "UZB",
-    "regions": {}
-  },
-  "Albania": {
-    "name": "Albania",
-    "file": "data/countries/albania.csv",
-    "geoId": "AL",
-    "countryTerritoryCode": "ALB",
-    "regions": {}
-  },
-  "Mozambique": {
-    "name": "Mozambique",
-    "file": "data/countries/mozambique.csv",
-    "geoId": "MZ",
-    "countryTerritoryCode": "MOZ",
-    "regions": {}
-  },
   "Turkey": {
     "name": "Turkey",
     "file": "data/countries/turkey.csv",
@@ -2104,613 +2605,11 @@
     "countryTerritoryCode": "TUR",
     "regions": {}
   },
-  "Liberia": {
-    "name": "Liberia",
-    "file": "data/countries/liberia.csv",
-    "geoId": "LR",
-    "countryTerritoryCode": "LBR",
-    "regions": {}
-  },
-  "Estonia": {
-    "name": "Estonia",
-    "file": "data/countries/estonia.csv",
-    "geoId": "EE",
-    "countryTerritoryCode": "EST",
-    "regions": {}
-  },
-  "Colombia": {
-    "name": "Colombia",
-    "file": "data/countries/colombia.csv",
-    "geoId": "CO",
-    "countryTerritoryCode": "COL",
-    "regions": {}
-  },
-  "Greenland": {
-    "name": "Greenland",
-    "file": "data/countries/greenland.csv",
-    "geoId": "GL",
-    "countryTerritoryCode": "GRL",
-    "regions": {}
-  },
-  "Saint_Kitts_and_Nevis": {
-    "name": "Saint_Kitts_and_Nevis",
-    "file": "data/countries/saint_kitts_and_nevis.csv",
-    "geoId": "KN",
-    "countryTerritoryCode": "KNA",
-    "regions": {}
-  },
-  "Mali": {
-    "name": "Mali",
-    "file": "data/countries/mali.csv",
-    "geoId": "ML",
-    "countryTerritoryCode": "MLI",
-    "regions": {}
-  },
-  "Honduras": {
-    "name": "Honduras",
-    "file": "data/countries/honduras.csv",
-    "geoId": "HN",
-    "countryTerritoryCode": "HND",
-    "regions": {}
-  },
-  "Slovenia": {
-    "name": "Slovenia",
-    "file": "data/countries/slovenia.csv",
-    "geoId": "SI",
-    "countryTerritoryCode": "SVN",
-    "regions": {}
-  },
-  "Argentina": {
-    "name": "Argentina",
-    "file": "data/countries/argentina.csv",
-    "geoId": "AR",
-    "countryTerritoryCode": "ARG",
-    "regions": {}
-  },
-  "Pakistan": {
-    "name": "Pakistan",
-    "file": "data/countries/pakistan.csv",
-    "geoId": "PK",
-    "countryTerritoryCode": "PAK",
-    "regions": {}
-  },
-  "Philippines": {
-    "name": "Philippines",
-    "file": "data/countries/philippines.csv",
-    "geoId": "PH",
-    "countryTerritoryCode": "PHL",
-    "regions": {}
-  },
-  "Bangladesh": {
-    "name": "Bangladesh",
-    "file": "data/countries/bangladesh.csv",
-    "geoId": "BD",
-    "countryTerritoryCode": "BGD",
-    "regions": {}
-  },
-  "Falkland_Islands_(Malvinas)": {
-    "name": "Falkland_Islands_(Malvinas)",
-    "file": "data/countries/falkland_islands_(malvinas).csv",
-    "geoId": "FK",
-    "countryTerritoryCode": "",
-    "regions": {}
-  },
-  "Timor_Leste": {
-    "name": "Timor_Leste",
-    "file": "data/countries/timor_leste.csv",
-    "geoId": "TL",
-    "countryTerritoryCode": "TLS",
-    "regions": {}
-  },
-  "Tunisia": {
-    "name": "Tunisia",
-    "file": "data/countries/tunisia.csv",
-    "geoId": "TN",
-    "countryTerritoryCode": "TUN",
-    "regions": {}
-  },
-  "Jordan": {
-    "name": "Jordan",
-    "file": "data/countries/jordan.csv",
-    "geoId": "JO",
-    "countryTerritoryCode": "JOR",
-    "regions": {}
-  },
-  "Bulgaria": {
-    "name": "Bulgaria",
-    "file": "data/countries/bulgaria.csv",
-    "geoId": "BG",
-    "countryTerritoryCode": "BGR",
-    "regions": {}
-  },
-  "El_Salvador": {
-    "name": "El_Salvador",
-    "file": "data/countries/el_salvador.csv",
-    "geoId": "SV",
-    "countryTerritoryCode": "SLV",
-    "regions": {}
-  },
-  "Montserrat": {
-    "name": "Montserrat",
-    "file": "data/countries/montserrat.csv",
-    "geoId": "MS",
-    "countryTerritoryCode": "MSR",
-    "regions": {}
-  },
-  "China": {
-    "name": "China",
-    "file": "data/countries/china.csv",
-    "geoId": "CN",
-    "countryTerritoryCode": "CHN",
-    "regions": {}
-  },
-  "United_States_of_America": {
-    "name": "United_States_of_America",
-    "file": "data/countries/united_states_of_america.csv",
-    "geoId": "US",
-    "countryTerritoryCode": "USA",
-    "regions": {}
-  },
-  "Indonesia": {
-    "name": "Indonesia",
-    "file": "data/countries/indonesia.csv",
-    "geoId": "ID",
-    "countryTerritoryCode": "IDN",
-    "regions": {}
-  },
-  "Namibia": {
-    "name": "Namibia",
-    "file": "data/countries/namibia.csv",
-    "geoId": "",
-    "countryTerritoryCode": "NAM",
-    "regions": {}
-  },
-  "Northern_Mariana_Islands": {
-    "name": "Northern_Mariana_Islands",
-    "file": "data/countries/northern_mariana_islands.csv",
-    "geoId": "MP",
-    "countryTerritoryCode": "MNP",
-    "regions": {}
-  },
-  "Cape_Verde": {
-    "name": "Cape_Verde",
-    "file": "data/countries/cape_verde.csv",
-    "geoId": "CV",
-    "countryTerritoryCode": "CPV",
-    "regions": {}
-  },
-  "Zimbabwe": {
-    "name": "Zimbabwe",
-    "file": "data/countries/zimbabwe.csv",
-    "geoId": "ZW",
-    "countryTerritoryCode": "ZWE",
-    "regions": {}
-  },
-  "France": {
-    "name": "France",
-    "file": "data/countries/france.csv",
-    "geoId": "FR",
-    "countryTerritoryCode": "FRA",
-    "regions": {}
-  },
-  "Guam": {
-    "name": "Guam",
-    "file": "data/countries/guam.csv",
-    "geoId": "GU",
-    "countryTerritoryCode": "GUM",
-    "regions": {}
-  },
-  "Czech_Republic": {
-    "name": "Czech_Republic",
-    "file": "data/countries/czech_republic.csv",
-    "geoId": "CZ",
-    "countryTerritoryCode": "CZE",
-    "regions": {}
-  },
-  "Azerbaijan": {
-    "name": "Azerbaijan",
-    "file": "data/countries/azerbaijan.csv",
-    "geoId": "AZ",
-    "countryTerritoryCode": "AZE",
-    "regions": {}
-  },
-  "Guernsey": {
-    "name": "Guernsey",
-    "file": "data/countries/guernsey.csv",
-    "geoId": "GG",
-    "countryTerritoryCode": "GGY",
-    "regions": {}
-  },
-  "Hungary": {
-    "name": "Hungary",
-    "file": "data/countries/hungary.csv",
-    "geoId": "HU",
-    "countryTerritoryCode": "HUN",
-    "regions": {}
-  },
-  "Angola": {
-    "name": "Angola",
-    "file": "data/countries/angola.csv",
-    "geoId": "AO",
-    "countryTerritoryCode": "AGO",
-    "regions": {}
-  },
-  "Djibouti": {
-    "name": "Djibouti",
-    "file": "data/countries/djibouti.csv",
-    "geoId": "DJ",
-    "countryTerritoryCode": "DJI",
-    "regions": {}
-  },
-  "Turks_and_Caicos_islands": {
-    "name": "Turks_and_Caicos_islands",
-    "file": "data/countries/turks_and_caicos_islands.csv",
-    "geoId": "TC",
-    "countryTerritoryCode": "TCA",
-    "regions": {}
-  },
-  "Denmark": {
-    "name": "Denmark",
-    "file": "data/countries/denmark.csv",
-    "geoId": "DK",
-    "countryTerritoryCode": "DNK",
-    "regions": {}
-  },
-  "Togo": {
-    "name": "Togo",
-    "file": "data/countries/togo.csv",
-    "geoId": "TG",
-    "countryTerritoryCode": "TGO",
-    "regions": {}
-  },
-  "United_Republic_of_Tanzania": {
-    "name": "United_Republic_of_Tanzania",
-    "file": "data/countries/united_republic_of_tanzania.csv",
-    "geoId": "TZ",
-    "countryTerritoryCode": "TZA",
-    "regions": {}
-  },
-  "Croatia": {
-    "name": "Croatia",
-    "file": "data/countries/croatia.csv",
-    "geoId": "HR",
-    "countryTerritoryCode": "HRV",
-    "regions": {}
-  },
-  "Palestine": {
-    "name": "Palestine",
-    "file": "data/countries/palestine.csv",
-    "geoId": "PS",
-    "countryTerritoryCode": "PSE",
-    "regions": {}
-  },
-  "Guinea": {
-    "name": "Guinea",
-    "file": "data/countries/guinea.csv",
-    "geoId": "GN",
-    "countryTerritoryCode": "GIN",
-    "regions": {}
-  },
-  "Russia": {
-    "name": "Russia",
-    "file": "data/countries/russia.csv",
-    "geoId": "RU",
-    "countryTerritoryCode": "RUS",
-    "regions": {}
-  },
-  "Belize": {
-    "name": "Belize",
-    "file": "data/countries/belize.csv",
-    "geoId": "BZ",
-    "countryTerritoryCode": "BLZ",
-    "regions": {}
-  },
-  "Niger": {
-    "name": "Niger",
-    "file": "data/countries/niger.csv",
-    "geoId": "NE",
-    "countryTerritoryCode": "NER",
-    "regions": {}
-  },
-  "Armenia": {
-    "name": "Armenia",
-    "file": "data/countries/armenia.csv",
-    "geoId": "AM",
-    "countryTerritoryCode": "ARM",
-    "regions": {}
-  },
-  "Belarus": {
-    "name": "Belarus",
-    "file": "data/countries/belarus.csv",
-    "geoId": "BY",
-    "countryTerritoryCode": "BLR",
-    "regions": {}
-  },
-  "Latvia": {
-    "name": "Latvia",
-    "file": "data/countries/latvia.csv",
-    "geoId": "LV",
-    "countryTerritoryCode": "LVA",
-    "regions": {}
-  },
-  "Bahamas": {
-    "name": "Bahamas",
-    "file": "data/countries/bahamas.csv",
-    "geoId": "BS",
-    "countryTerritoryCode": "BHS",
-    "regions": {}
-  },
-  "Syria": {
-    "name": "Syria",
-    "file": "data/countries/syria.csv",
-    "geoId": "SY",
-    "countryTerritoryCode": "SYR",
-    "regions": {}
-  },
-  "Nepal": {
-    "name": "Nepal",
-    "file": "data/countries/nepal.csv",
-    "geoId": "NP",
-    "countryTerritoryCode": "NPL",
-    "regions": {}
-  },
-  "Saint_Vincent_and_the_Grenadines": {
-    "name": "Saint_Vincent_and_the_Grenadines",
-    "file": "data/countries/saint_vincent_and_the_grenadines.csv",
-    "geoId": "VC",
-    "countryTerritoryCode": "VCT",
-    "regions": {}
-  },
-  "Switzerland": {
-    "name": "Switzerland",
-    "file": "data/countries/switzerland.csv",
-    "geoId": "CH",
-    "countryTerritoryCode": "CHE",
-    "regions": {}
-  },
-  "Italy": {
-    "name": "Italy",
-    "file": "data/countries/italy.csv",
-    "geoId": "IT",
-    "countryTerritoryCode": "ITA",
-    "regions": {}
-  },
-  "Qatar": {
-    "name": "Qatar",
-    "file": "data/countries/qatar.csv",
-    "geoId": "QA",
-    "countryTerritoryCode": "QAT",
-    "regions": {}
-  },
-  "Congo": {
-    "name": "Congo",
-    "file": "data/countries/congo.csv",
-    "geoId": "CG",
-    "countryTerritoryCode": "COG",
-    "regions": {}
-  },
-  "Maldives": {
-    "name": "Maldives",
-    "file": "data/countries/maldives.csv",
-    "geoId": "MV",
-    "countryTerritoryCode": "MDV",
-    "regions": {}
-  },
-  "Somalia": {
-    "name": "Somalia",
-    "file": "data/countries/somalia.csv",
-    "geoId": "SO",
-    "countryTerritoryCode": "SOM",
-    "regions": {}
-  },
-  "Georgia": {
-    "name": "Georgia",
-    "file": "data/countries/georgia.csv",
-    "geoId": "GE",
-    "countryTerritoryCode": "GEO",
-    "regions": {}
-  },
-  "Ghana": {
-    "name": "Ghana",
-    "file": "data/countries/ghana.csv",
-    "geoId": "GH",
-    "countryTerritoryCode": "GHA",
-    "regions": {}
-  },
-  "Uruguay": {
-    "name": "Uruguay",
-    "file": "data/countries/uruguay.csv",
-    "geoId": "UY",
-    "countryTerritoryCode": "URY",
-    "regions": {}
-  },
-  "Gabon": {
-    "name": "Gabon",
-    "file": "data/countries/gabon.csv",
-    "geoId": "GA",
-    "countryTerritoryCode": "GAB",
-    "regions": {}
-  },
-  "Taiwan": {
-    "name": "Taiwan",
-    "file": "data/countries/taiwan.csv",
-    "geoId": "TW",
-    "countryTerritoryCode": "TWN",
-    "regions": {}
-  },
-  "Guyana": {
-    "name": "Guyana",
-    "file": "data/countries/guyana.csv",
-    "geoId": "GY",
-    "countryTerritoryCode": "GUY",
-    "regions": {}
-  },
-  "Lebanon": {
-    "name": "Lebanon",
-    "file": "data/countries/lebanon.csv",
-    "geoId": "LB",
-    "countryTerritoryCode": "LBN",
-    "regions": {}
-  },
-  "Uganda": {
-    "name": "Uganda",
-    "file": "data/countries/uganda.csv",
-    "geoId": "UG",
-    "countryTerritoryCode": "UGA",
-    "regions": {}
-  },
-  "Slovakia": {
-    "name": "Slovakia",
-    "file": "data/countries/slovakia.csv",
-    "geoId": "SK",
-    "countryTerritoryCode": "SVK",
-    "regions": {}
-  },
-  "Guinea_Bissau": {
-    "name": "Guinea_Bissau",
-    "file": "data/countries/guinea_bissau.csv",
-    "geoId": "GW",
-    "countryTerritoryCode": "GNB",
-    "regions": {}
-  },
-  "Kenya": {
-    "name": "Kenya",
-    "file": "data/countries/kenya.csv",
-    "geoId": "KE",
-    "countryTerritoryCode": "KEN",
-    "regions": {}
-  },
-  "Nigeria": {
-    "name": "Nigeria",
-    "file": "data/countries/nigeria.csv",
-    "geoId": "NG",
-    "countryTerritoryCode": "NGA",
-    "regions": {}
-  },
-  "Cameroon": {
-    "name": "Cameroon",
-    "file": "data/countries/cameroon.csv",
-    "geoId": "CM",
-    "countryTerritoryCode": "CMR",
-    "regions": {}
-  },
-  "Zambia": {
-    "name": "Zambia",
-    "file": "data/countries/zambia.csv",
-    "geoId": "ZM",
-    "countryTerritoryCode": "ZMB",
-    "regions": {}
-  },
-  "Laos": {
-    "name": "Laos",
-    "file": "data/countries/laos.csv",
-    "geoId": "LA",
-    "countryTerritoryCode": "LAO",
-    "regions": {}
-  },
-  "Gambia": {
-    "name": "Gambia",
-    "file": "data/countries/gambia.csv",
-    "geoId": "GM",
-    "countryTerritoryCode": "GMB",
-    "regions": {}
-  },
-  "Benin": {
-    "name": "Benin",
-    "file": "data/countries/benin.csv",
-    "geoId": "BJ",
-    "countryTerritoryCode": "BEN",
-    "regions": {}
-  },
-  "Cote_dIvoire": {
-    "name": "Cote_dIvoire",
-    "file": "data/countries/cote_divoire.csv",
-    "geoId": "CI",
-    "countryTerritoryCode": "CIV",
-    "regions": {}
-  },
-  "Rwanda": {
-    "name": "Rwanda",
-    "file": "data/countries/rwanda.csv",
-    "geoId": "RW",
-    "countryTerritoryCode": "RWA",
-    "regions": {}
-  },
-  "Seychelles": {
-    "name": "Seychelles",
-    "file": "data/countries/seychelles.csv",
-    "geoId": "SC",
-    "countryTerritoryCode": "SYC",
-    "regions": {}
-  },
-  "Madagascar": {
-    "name": "Madagascar",
-    "file": "data/countries/madagascar.csv",
-    "geoId": "MG",
-    "countryTerritoryCode": "MDG",
-    "regions": {}
-  },
-  "Saudi_Arabia": {
-    "name": "Saudi_Arabia",
-    "file": "data/countries/saudi_arabia.csv",
-    "geoId": "SA",
-    "countryTerritoryCode": "SAU",
-    "regions": {}
-  },
-  "Chad": {
-    "name": "Chad",
-    "file": "data/countries/chad.csv",
-    "geoId": "TD",
-    "countryTerritoryCode": "TCD",
-    "regions": {}
-  },
-  "Israel": {
-    "name": "Israel",
-    "file": "data/countries/israel.csv",
-    "geoId": "IL",
-    "countryTerritoryCode": "ISR",
-    "regions": {}
-  },
-  "Belgium": {
-    "name": "Belgium",
-    "file": "data/countries/belgium.csv",
-    "geoId": "BE",
-    "countryTerritoryCode": "BEL",
-    "regions": {}
-  },
-  "Antigua_and_Barbuda": {
-    "name": "Antigua_and_Barbuda",
-    "file": "data/countries/antigua_and_barbuda.csv",
-    "geoId": "AG",
-    "countryTerritoryCode": "ATG",
-    "regions": {}
-  },
-  "United_States_Virgin_Islands": {
-    "name": "United_States_Virgin_Islands",
-    "file": "data/countries/united_states_virgin_islands.csv",
-    "geoId": "VI",
-    "countryTerritoryCode": "VIR",
-    "regions": {}
-  },
-  "Bhutan": {
-    "name": "Bhutan",
-    "file": "data/countries/bhutan.csv",
-    "geoId": "BT",
-    "countryTerritoryCode": "BTN",
-    "regions": {}
-  },
-  "Puerto_Rico": {
-    "name": "Puerto_Rico",
-    "file": "data/countries/puerto_rico.csv",
-    "geoId": "PR",
-    "countryTerritoryCode": "PRI",
-    "regions": {}
-  },
-  "Dominica": {
-    "name": "Dominica",
-    "file": "data/countries/dominica.csv",
-    "geoId": "DM",
-    "countryTerritoryCode": "DMA",
+  "Malaysia": {
+    "name": "Malaysia",
+    "file": "data/countries/malaysia.csv",
+    "geoId": "MY",
+    "countryTerritoryCode": "MYS",
     "regions": {}
   },
   "Monaco": {
@@ -2720,116 +2619,137 @@
     "countryTerritoryCode": "MCO",
     "regions": {}
   },
-  "Haiti": {
-    "name": "Haiti",
-    "file": "data/countries/haiti.csv",
-    "geoId": "HT",
-    "countryTerritoryCode": "HTI",
+  "Albania": {
+    "name": "Albania",
+    "file": "data/countries/albania.csv",
+    "geoId": "AL",
+    "countryTerritoryCode": "ALB",
     "regions": {}
   },
-  "United_Arab_Emirates": {
-    "name": "United_Arab_Emirates",
-    "file": "data/countries/united_arab_emirates.csv",
-    "geoId": "AE",
-    "countryTerritoryCode": "ARE",
+  "Panama": {
+    "name": "Panama",
+    "file": "data/countries/panama.csv",
+    "geoId": "PA",
+    "countryTerritoryCode": "PAN",
     "regions": {}
   },
-  "Kuwait": {
-    "name": "Kuwait",
-    "file": "data/countries/kuwait.csv",
-    "geoId": "KW",
-    "countryTerritoryCode": "KWT",
+  "Vietnam": {
+    "name": "Vietnam",
+    "file": "data/countries/vietnam.csv",
+    "geoId": "VN",
+    "countryTerritoryCode": "VNM",
     "regions": {}
   },
-  "Andorra": {
-    "name": "Andorra",
-    "file": "data/countries/andorra.csv",
-    "geoId": "AD",
-    "countryTerritoryCode": "AND",
+  "Kosovo": {
+    "name": "Kosovo",
+    "file": "data/countries/kosovo.csv",
+    "geoId": "XK",
+    "countryTerritoryCode": "XKX",
     "regions": {}
   },
-  "Guatemala": {
-    "name": "Guatemala",
-    "file": "data/countries/guatemala.csv",
-    "geoId": "GT",
-    "countryTerritoryCode": "GTM",
+  "United_Republic_of_Tanzania": {
+    "name": "United_Republic_of_Tanzania",
+    "file": "data/countries/united_republic_of_tanzania.csv",
+    "geoId": "TZ",
+    "countryTerritoryCode": "TZA",
     "regions": {}
   },
-  "Austria": {
-    "name": "Austria",
-    "file": "data/countries/austria.csv",
-    "geoId": "AT",
-    "countryTerritoryCode": "AUT",
+  "Cases_on_an_international_conveyance_Japan": {
+    "name": "Cases_on_an_international_conveyance_Japan",
+    "file": "data/countries/cases_on_an_international_conveyance_japan.csv",
+    "geoId": "JPG11668",
+    "countryTerritoryCode": "",
     "regions": {}
   },
-  "Algeria": {
-    "name": "Algeria",
-    "file": "data/countries/algeria.csv",
-    "geoId": "DZ",
-    "countryTerritoryCode": "DZA",
+  "Liechtenstein": {
+    "name": "Liechtenstein",
+    "file": "data/countries/liechtenstein.csv",
+    "geoId": "LI",
+    "countryTerritoryCode": "LIE",
     "regions": {}
   },
-  "Libya": {
-    "name": "Libya",
-    "file": "data/countries/libya.csv",
-    "geoId": "LY",
-    "countryTerritoryCode": "LBY",
+  "Angola": {
+    "name": "Angola",
+    "file": "data/countries/angola.csv",
+    "geoId": "AO",
+    "countryTerritoryCode": "AGO",
     "regions": {}
   },
-  "New_Caledonia": {
-    "name": "New_Caledonia",
-    "file": "data/countries/new_caledonia.csv",
-    "geoId": "NC",
-    "countryTerritoryCode": "NCL",
+  "Cayman_Islands": {
+    "name": "Cayman_Islands",
+    "file": "data/countries/cayman_islands.csv",
+    "geoId": "KY",
+    "countryTerritoryCode": "CYM",
     "regions": {}
   },
-  "Eswatini": {
-    "name": "Eswatini",
-    "file": "data/countries/eswatini.csv",
-    "geoId": "SZ",
-    "countryTerritoryCode": "SWZ",
+  "Dominica": {
+    "name": "Dominica",
+    "file": "data/countries/dominica.csv",
+    "geoId": "DM",
+    "countryTerritoryCode": "DMA",
     "regions": {}
   },
-  "Mongolia": {
-    "name": "Mongolia",
-    "file": "data/countries/mongolia.csv",
-    "geoId": "MN",
-    "countryTerritoryCode": "MNG",
+  "Dominican_Republic": {
+    "name": "Dominican_Republic",
+    "file": "data/countries/dominican_republic.csv",
+    "geoId": "DO",
+    "countryTerritoryCode": "DOM",
     "regions": {}
   },
-  "Barbados": {
-    "name": "Barbados",
-    "file": "data/countries/barbados.csv",
-    "geoId": "BB",
-    "countryTerritoryCode": "BRB",
+  "Estonia": {
+    "name": "Estonia",
+    "file": "data/countries/estonia.csv",
+    "geoId": "EE",
+    "countryTerritoryCode": "EST",
     "regions": {}
   },
-  "Morocco": {
-    "name": "Morocco",
-    "file": "data/countries/morocco.csv",
-    "geoId": "MA",
-    "countryTerritoryCode": "MAR",
+  "Bosnia_and_Herzegovina": {
+    "name": "Bosnia_and_Herzegovina",
+    "file": "data/countries/bosnia_and_herzegovina.csv",
+    "geoId": "BA",
+    "countryTerritoryCode": "BIH",
     "regions": {}
   },
-  "Egypt": {
-    "name": "Egypt",
-    "file": "data/countries/egypt.csv",
-    "geoId": "EG",
-    "countryTerritoryCode": "EGY",
+  "Kazakhstan": {
+    "name": "Kazakhstan",
+    "file": "data/countries/kazakhstan.csv",
+    "geoId": "KZ",
+    "countryTerritoryCode": "KAZ",
     "regions": {}
   },
-  "Norway": {
-    "name": "Norway",
-    "file": "data/countries/norway.csv",
-    "geoId": "NO",
-    "countryTerritoryCode": "NOR",
+  "Greece": {
+    "name": "Greece",
+    "file": "data/countries/greece.csv",
+    "geoId": "EL",
+    "countryTerritoryCode": "GRC",
     "regions": {}
   },
-  "Eritrea": {
-    "name": "Eritrea",
-    "file": "data/countries/eritrea.csv",
-    "geoId": "ER",
-    "countryTerritoryCode": "ERI",
+  "Laos": {
+    "name": "Laos",
+    "file": "data/countries/laos.csv",
+    "geoId": "LA",
+    "countryTerritoryCode": "LAO",
+    "regions": {}
+  },
+  "Canada": {
+    "name": "Canada",
+    "file": "data/countries/canada.csv",
+    "geoId": "CA",
+    "countryTerritoryCode": "CAN",
+    "regions": {}
+  },
+  "Falkland_Islands_(Malvinas)": {
+    "name": "Falkland_Islands_(Malvinas)",
+    "file": "data/countries/falkland_islands_(malvinas).csv",
+    "geoId": "FK",
+    "countryTerritoryCode": "",
+    "regions": {}
+  },
+  "Armenia": {
+    "name": "Armenia",
+    "file": "data/countries/armenia.csv",
+    "geoId": "AM",
+    "countryTerritoryCode": "ARM",
     "regions": {}
   },
   "Myanmar": {
@@ -2839,39 +2759,144 @@
     "countryTerritoryCode": "MMR",
     "regions": {}
   },
-  "Cuba": {
-    "name": "Cuba",
-    "file": "data/countries/cuba.csv",
-    "geoId": "CU",
-    "countryTerritoryCode": "CUB",
+  "Ghana": {
+    "name": "Ghana",
+    "file": "data/countries/ghana.csv",
+    "geoId": "GH",
+    "countryTerritoryCode": "GHA",
     "regions": {}
   },
-  "Mexico": {
-    "name": "Mexico",
-    "file": "data/countries/mexico.csv",
-    "geoId": "MX",
-    "countryTerritoryCode": "MEX",
+  "Brunei_Darussalam": {
+    "name": "Brunei_Darussalam",
+    "file": "data/countries/brunei_darussalam.csv",
+    "geoId": "BN",
+    "countryTerritoryCode": "BRN",
     "regions": {}
   },
-  "Senegal": {
-    "name": "Senegal",
-    "file": "data/countries/senegal.csv",
-    "geoId": "SN",
-    "countryTerritoryCode": "SEN",
+  "Somalia": {
+    "name": "Somalia",
+    "file": "data/countries/somalia.csv",
+    "geoId": "SO",
+    "countryTerritoryCode": "SOM",
     "regions": {}
   },
-  "Curaçao": {
-    "name": "Curaçao",
-    "file": "data/countries/curaçao.csv",
-    "geoId": "CW",
-    "countryTerritoryCode": "CUW",
+  "Zimbabwe": {
+    "name": "Zimbabwe",
+    "file": "data/countries/zimbabwe.csv",
+    "geoId": "ZW",
+    "countryTerritoryCode": "ZWE",
     "regions": {}
   },
-  "Thailand": {
-    "name": "Thailand",
-    "file": "data/countries/thailand.csv",
-    "geoId": "TH",
-    "countryTerritoryCode": "THA",
+  "Bahamas": {
+    "name": "Bahamas",
+    "file": "data/countries/bahamas.csv",
+    "geoId": "BS",
+    "countryTerritoryCode": "BHS",
+    "regions": {}
+  },
+  "Mauritius": {
+    "name": "Mauritius",
+    "file": "data/countries/mauritius.csv",
+    "geoId": "MU",
+    "countryTerritoryCode": "MUS",
+    "regions": {}
+  },
+  "Kyrgyzstan": {
+    "name": "Kyrgyzstan",
+    "file": "data/countries/kyrgyzstan.csv",
+    "geoId": "KG",
+    "countryTerritoryCode": "KGZ",
+    "regions": {}
+  },
+  "Latvia": {
+    "name": "Latvia",
+    "file": "data/countries/latvia.csv",
+    "geoId": "LV",
+    "countryTerritoryCode": "LVA",
+    "regions": {}
+  },
+  "Honduras": {
+    "name": "Honduras",
+    "file": "data/countries/honduras.csv",
+    "geoId": "HN",
+    "countryTerritoryCode": "HND",
+    "regions": {}
+  },
+  "Oman": {
+    "name": "Oman",
+    "file": "data/countries/oman.csv",
+    "geoId": "OM",
+    "countryTerritoryCode": "OMN",
+    "regions": {}
+  },
+  "Peru": {
+    "name": "Peru",
+    "file": "data/countries/peru.csv",
+    "geoId": "PE",
+    "countryTerritoryCode": "PER",
+    "regions": {}
+  },
+  "Bhutan": {
+    "name": "Bhutan",
+    "file": "data/countries/bhutan.csv",
+    "geoId": "BT",
+    "countryTerritoryCode": "BTN",
+    "regions": {}
+  },
+  "Djibouti": {
+    "name": "Djibouti",
+    "file": "data/countries/djibouti.csv",
+    "geoId": "DJ",
+    "countryTerritoryCode": "DJI",
+    "regions": {}
+  },
+  "Lebanon": {
+    "name": "Lebanon",
+    "file": "data/countries/lebanon.csv",
+    "geoId": "LB",
+    "countryTerritoryCode": "LBN",
+    "regions": {}
+  },
+  "Cyprus": {
+    "name": "Cyprus",
+    "file": "data/countries/cyprus.csv",
+    "geoId": "CY",
+    "countryTerritoryCode": "CYP",
+    "regions": {}
+  },
+  "Belarus": {
+    "name": "Belarus",
+    "file": "data/countries/belarus.csv",
+    "geoId": "BY",
+    "countryTerritoryCode": "BLR",
+    "regions": {}
+  },
+  "Uganda": {
+    "name": "Uganda",
+    "file": "data/countries/uganda.csv",
+    "geoId": "UG",
+    "countryTerritoryCode": "UGA",
+    "regions": {}
+  },
+  "Gabon": {
+    "name": "Gabon",
+    "file": "data/countries/gabon.csv",
+    "geoId": "GA",
+    "countryTerritoryCode": "GAB",
+    "regions": {}
+  },
+  "Iceland": {
+    "name": "Iceland",
+    "file": "data/countries/iceland.csv",
+    "geoId": "IS",
+    "countryTerritoryCode": "ISL",
+    "regions": {}
+  },
+  "Zambia": {
+    "name": "Zambia",
+    "file": "data/countries/zambia.csv",
+    "geoId": "ZM",
+    "countryTerritoryCode": "ZMB",
     "regions": {}
   },
   "South_Africa": {
@@ -2881,60 +2906,172 @@
     "countryTerritoryCode": "ZAF",
     "regions": {}
   },
-  "India": {
-    "name": "India",
-    "file": "data/countries/india.csv",
-    "geoId": "IN",
-    "countryTerritoryCode": "IND",
+  "Thailand": {
+    "name": "Thailand",
+    "file": "data/countries/thailand.csv",
+    "geoId": "TH",
+    "countryTerritoryCode": "THA",
     "regions": {}
   },
-  "Equatorial_Guinea": {
-    "name": "Equatorial_Guinea",
-    "file": "data/countries/equatorial_guinea.csv",
-    "geoId": "GQ",
-    "countryTerritoryCode": "GNQ",
+  "Mexico": {
+    "name": "Mexico",
+    "file": "data/countries/mexico.csv",
+    "geoId": "MX",
+    "countryTerritoryCode": "MEX",
     "regions": {}
   },
-  "Ecuador": {
-    "name": "Ecuador",
-    "file": "data/countries/ecuador.csv",
-    "geoId": "EC",
-    "countryTerritoryCode": "ECU",
+  "Portugal": {
+    "name": "Portugal",
+    "file": "data/countries/portugal.csv",
+    "geoId": "PT",
+    "countryTerritoryCode": "PRT",
     "regions": {}
   },
-  "Ukraine": {
-    "name": "Ukraine",
-    "file": "data/countries/ukraine.csv",
-    "geoId": "UA",
-    "countryTerritoryCode": "UKR",
+  "Guinea": {
+    "name": "Guinea",
+    "file": "data/countries/guinea.csv",
+    "geoId": "GN",
+    "countryTerritoryCode": "GIN",
     "regions": {}
   },
-  "Netherlands": {
-    "name": "Netherlands",
-    "file": "data/countries/netherlands.csv",
-    "geoId": "NL",
-    "countryTerritoryCode": "NLD",
+  "Azerbaijan": {
+    "name": "Azerbaijan",
+    "file": "data/countries/azerbaijan.csv",
+    "geoId": "AZ",
+    "countryTerritoryCode": "AZE",
     "regions": {}
   },
-  "South_Sudan": {
-    "name": "South_Sudan",
-    "file": "data/countries/south_sudan.csv",
-    "geoId": "SS",
-    "countryTerritoryCode": "SSD",
+  "Sint_Maarten": {
+    "name": "Sint_Maarten",
+    "file": "data/countries/sint_maarten.csv",
+    "geoId": "SX",
+    "countryTerritoryCode": "SXM",
     "regions": {}
   },
-  "Anguilla": {
-    "name": "Anguilla",
-    "file": "data/countries/anguilla.csv",
-    "geoId": "AI",
-    "countryTerritoryCode": "",
+  "Seychelles": {
+    "name": "Seychelles",
+    "file": "data/countries/seychelles.csv",
+    "geoId": "SC",
+    "countryTerritoryCode": "SYC",
     "regions": {}
   },
-  "Fiji": {
-    "name": "Fiji",
-    "file": "data/countries/fiji.csv",
-    "geoId": "FJ",
-    "countryTerritoryCode": "FJI",
+  "Iran": {
+    "name": "Iran",
+    "file": "data/countries/iran.csv",
+    "geoId": "IR",
+    "countryTerritoryCode": "IRN",
+    "regions": {}
+  },
+  "Guatemala": {
+    "name": "Guatemala",
+    "file": "data/countries/guatemala.csv",
+    "geoId": "GT",
+    "countryTerritoryCode": "GTM",
+    "regions": {}
+  },
+  "United_Arab_Emirates": {
+    "name": "United_Arab_Emirates",
+    "file": "data/countries/united_arab_emirates.csv",
+    "geoId": "AE",
+    "countryTerritoryCode": "ARE",
+    "regions": {}
+  },
+  "Taiwan": {
+    "name": "Taiwan",
+    "file": "data/countries/taiwan.csv",
+    "geoId": "TW",
+    "countryTerritoryCode": "TWN",
+    "regions": {}
+  },
+  "Bulgaria": {
+    "name": "Bulgaria",
+    "file": "data/countries/bulgaria.csv",
+    "geoId": "BG",
+    "countryTerritoryCode": "BGR",
+    "regions": {}
+  },
+  "Saint_Lucia": {
+    "name": "Saint_Lucia",
+    "file": "data/countries/saint_lucia.csv",
+    "geoId": "LC",
+    "countryTerritoryCode": "LCA",
+    "regions": {}
+  },
+  "Russia": {
+    "name": "Russia",
+    "file": "data/countries/russia.csv",
+    "geoId": "RU",
+    "countryTerritoryCode": "RUS",
+    "regions": {}
+  },
+  "Costa_Rica": {
+    "name": "Costa_Rica",
+    "file": "data/countries/costa_rica.csv",
+    "geoId": "CR",
+    "countryTerritoryCode": "CRI",
+    "regions": {}
+  },
+  "Italy": {
+    "name": "Italy",
+    "file": "data/countries/italy.csv",
+    "geoId": "IT",
+    "countryTerritoryCode": "ITA",
+    "regions": {}
+  },
+  "Greenland": {
+    "name": "Greenland",
+    "file": "data/countries/greenland.csv",
+    "geoId": "GL",
+    "countryTerritoryCode": "GRL",
+    "regions": {}
+  },
+  "Isle_of_Man": {
+    "name": "Isle_of_Man",
+    "file": "data/countries/isle_of_man.csv",
+    "geoId": "IM",
+    "countryTerritoryCode": "IMN",
+    "regions": {}
+  },
+  "Israel": {
+    "name": "Israel",
+    "file": "data/countries/israel.csv",
+    "geoId": "IL",
+    "countryTerritoryCode": "ISR",
+    "regions": {}
+  },
+  "Chile": {
+    "name": "Chile",
+    "file": "data/countries/chile.csv",
+    "geoId": "CL",
+    "countryTerritoryCode": "CHL",
+    "regions": {}
+  },
+  "Jersey": {
+    "name": "Jersey",
+    "file": "data/countries/jersey.csv",
+    "geoId": "JE",
+    "countryTerritoryCode": "JEY",
+    "regions": {}
+  },
+  "Timor_Leste": {
+    "name": "Timor_Leste",
+    "file": "data/countries/timor_leste.csv",
+    "geoId": "TL",
+    "countryTerritoryCode": "TLS",
+    "regions": {}
+  },
+  "Qatar": {
+    "name": "Qatar",
+    "file": "data/countries/qatar.csv",
+    "geoId": "QA",
+    "countryTerritoryCode": "QAT",
+    "regions": {}
+  },
+  "Singapore": {
+    "name": "Singapore",
+    "file": "data/countries/singapore.csv",
+    "geoId": "SG",
+    "countryTerritoryCode": "SGP",
     "regions": {}
   },
   "Sri_Lanka": {
@@ -2951,27 +3088,6 @@
     "countryTerritoryCode": "AFG",
     "regions": {}
   },
-  "Japan": {
-    "name": "Japan",
-    "file": "data/countries/japan.csv",
-    "geoId": "JP",
-    "countryTerritoryCode": "JPN",
-    "regions": {}
-  },
-  "Jersey": {
-    "name": "Jersey",
-    "file": "data/countries/jersey.csv",
-    "geoId": "JE",
-    "countryTerritoryCode": "JEY",
-    "regions": {}
-  },
-  "Jamaica": {
-    "name": "Jamaica",
-    "file": "data/countries/jamaica.csv",
-    "geoId": "JM",
-    "countryTerritoryCode": "JAM",
-    "regions": {}
-  },
   "Paraguay": {
     "name": "Paraguay",
     "file": "data/countries/paraguay.csv",
@@ -2979,526 +3095,18 @@
     "countryTerritoryCode": "PRY",
     "regions": {}
   },
-  "Cayman_Islands": {
-    "name": "Cayman_Islands",
-    "file": "data/countries/cayman_islands.csv",
-    "geoId": "KY",
-    "countryTerritoryCode": "CYM",
+  "Belize": {
+    "name": "Belize",
+    "file": "data/countries/belize.csv",
+    "geoId": "BZ",
+    "countryTerritoryCode": "BLZ",
     "regions": {}
   },
-  "Greece": {
-    "name": "Greece",
-    "file": "data/countries/greece.csv",
-    "geoId": "EL",
-    "countryTerritoryCode": "GRC",
-    "regions": {}
-  },
-  "Venezuela": {
-    "name": "Venezuela",
-    "file": "data/countries/venezuela.csv",
-    "geoId": "VE",
-    "countryTerritoryCode": "VEN",
-    "regions": {}
-  },
-  "French_Polynesia": {
-    "name": "French_Polynesia",
-    "file": "data/countries/french_polynesia.csv",
-    "geoId": "PF",
-    "countryTerritoryCode": "PYF",
-    "regions": {}
-  },
-  "Costa_Rica": {
-    "name": "Costa_Rica",
-    "file": "data/countries/costa_rica.csv",
-    "geoId": "CR",
-    "countryTerritoryCode": "CRI",
-    "regions": {}
-  },
-  "Canada": {
-    "name": "Canada",
-    "file": "data/countries/canada.csv",
-    "geoId": "CA",
-    "countryTerritoryCode": "CAN",
-    "regions": {}
-  },
-  "Cases_on_an_international_conveyance_Japan": {
-    "name": "Cases_on_an_international_conveyance_Japan",
-    "file": "data/countries/cases_on_an_international_conveyance_japan.csv",
-    "geoId": "JPG11668",
-    "countryTerritoryCode": "",
-    "regions": {}
-  },
-  "Isle_of_Man": {
-    "name": "Isle_of_Man",
-    "file": "data/countries/isle_of_man.csv",
-    "geoId": "IM",
-    "countryTerritoryCode": "IMN",
-    "regions": {}
-  },
-  "Mauritania": {
-    "name": "Mauritania",
-    "file": "data/countries/mauritania.csv",
-    "geoId": "MR",
-    "countryTerritoryCode": "MRT",
-    "regions": {}
-  },
-  "Democratic_Republic_of_the_Congo": {
-    "name": "Democratic_Republic_of_the_Congo",
-    "file": "data/countries/democratic_republic_of_the_congo.csv",
-    "geoId": "CD",
-    "countryTerritoryCode": "COD",
-    "regions": {}
-  },
-  "Papua_New_Guinea": {
-    "name": "Papua_New_Guinea",
-    "file": "data/countries/papua_new_guinea.csv",
-    "geoId": "PG",
-    "countryTerritoryCode": "PNG",
-    "regions": {}
-  },
-  "Bermuda": {
-    "name": "Bermuda",
-    "file": "data/countries/bermuda.csv",
-    "geoId": "BM",
-    "countryTerritoryCode": "BMU",
-    "regions": {}
-  },
-  "Montenegro": {
-    "name": "Montenegro",
-    "file": "data/countries/montenegro.csv",
-    "geoId": "ME",
-    "countryTerritoryCode": "MNE",
-    "regions": {}
-  },
-  "Trinidad_and_Tobago": {
-    "name": "Trinidad_and_Tobago",
-    "file": "data/countries/trinidad_and_tobago.csv",
-    "geoId": "TT",
-    "countryTerritoryCode": "TTO",
-    "regions": {}
-  },
-  "Germany": {
-    "name": "Germany",
-    "file": "data/countries/germany.csv",
-    "geoId": "DE",
-    "countryTerritoryCode": "DEU",
-    "regions": {}
-  },
-  "Sweden": {
-    "name": "Sweden",
-    "file": "data/countries/sweden.csv",
-    "geoId": "SE",
-    "countryTerritoryCode": "SWE",
-    "regions": {
-      "Värmland": {
-        "name": "Värmland",
-        "iso": "SE-S",
-        "file": "data/sweden/se-s.csv",
-        "place_type": "county"
-      },
-      "Västra Götaland": {
-        "name": "Västra Götaland",
-        "iso": "SE-O",
-        "file": "data/sweden/se-o.csv",
-        "place_type": "county"
-      },
-      "Halland": {
-        "name": "Halland",
-        "iso": "SE-N",
-        "file": "data/sweden/se-n.csv",
-        "place_type": "county"
-      },
-      "Kronoberg": {
-        "name": "Kronoberg",
-        "iso": "SE-G",
-        "file": "data/sweden/se-g.csv",
-        "place_type": "county"
-      },
-      "Sörmland": {
-        "name": "Sörmland",
-        "iso": "SE-D",
-        "file": "data/sweden/se-d.csv",
-        "place_type": "county"
-      },
-      "Jönköping": {
-        "name": "Jönköping",
-        "iso": "SE-F",
-        "file": "data/sweden/se-f.csv",
-        "place_type": "county"
-      },
-      "Örebro": {
-        "name": "Örebro",
-        "iso": "SE-T",
-        "file": "data/sweden/se-t.csv",
-        "place_type": "county"
-      },
-      "Gotland": {
-        "name": "Gotland",
-        "iso": "SE-I",
-        "file": "data/sweden/se-i.csv",
-        "place_type": "county"
-      },
-      "Uppsala": {
-        "name": "Uppsala",
-        "iso": "SE-C",
-        "file": "data/sweden/se-c.csv",
-        "place_type": "county"
-      },
-      "Gävleborg": {
-        "name": "Gävleborg",
-        "iso": "SE-X",
-        "file": "data/sweden/se-x.csv",
-        "place_type": "county"
-      },
-      "Kalmar": {
-        "name": "Kalmar",
-        "iso": "SE-H",
-        "file": "data/sweden/se-h.csv",
-        "place_type": "county"
-      },
-      "Blekinge": {
-        "name": "Blekinge",
-        "iso": "SE-K",
-        "file": "data/sweden/se-k.csv",
-        "place_type": "county"
-      },
-      "Västerbotten": {
-        "name": "Västerbotten",
-        "iso": "SE-AC",
-        "file": "data/sweden/se-ac.csv",
-        "place_type": "county"
-      },
-      "Norrbotten": {
-        "name": "Norrbotten",
-        "iso": "SE-BD",
-        "file": "data/sweden/se-bd.csv",
-        "place_type": "county"
-      },
-      "Västernorrland": {
-        "name": "Västernorrland",
-        "iso": "SE-Y",
-        "file": "data/sweden/se-y.csv",
-        "place_type": "county"
-      },
-      "Stockholm": {
-        "name": "Stockholm",
-        "iso": "SE-AB",
-        "file": "data/sweden/se-ab.csv",
-        "place_type": "county"
-      },
-      "Jämtland Härjedalen": {
-        "name": "Jämtland Härjedalen",
-        "iso": "SE-Z",
-        "file": "data/sweden/se-z.csv",
-        "place_type": "county"
-      },
-      "Östergötland": {
-        "name": "Östergötland",
-        "iso": "SE-E",
-        "file": "data/sweden/se-e.csv",
-        "place_type": "county"
-      },
-      "Västmanland": {
-        "name": "Västmanland",
-        "iso": "SE-U",
-        "file": "data/sweden/se-u.csv",
-        "place_type": "county"
-      },
-      "Dalarna": {
-        "name": "Dalarna",
-        "iso": "SE-W",
-        "file": "data/sweden/se-w.csv",
-        "place_type": "county"
-      },
-      "Skåne": {
-        "name": "Skåne",
-        "iso": "SE-M",
-        "file": "data/sweden/se-m.csv",
-        "place_type": "county"
-      }
-    }
-  },
-  "Panama": {
-    "name": "Panama",
-    "file": "data/countries/panama.csv",
-    "geoId": "PA",
-    "countryTerritoryCode": "PAN",
-    "regions": {}
-  },
-  "Faroe_Islands": {
-    "name": "Faroe_Islands",
-    "file": "data/countries/faroe_islands.csv",
-    "geoId": "FO",
-    "countryTerritoryCode": "FRO",
-    "regions": {}
-  },
-  "Gibraltar": {
-    "name": "Gibraltar",
-    "file": "data/countries/gibraltar.csv",
-    "geoId": "GI",
-    "countryTerritoryCode": "GIB",
-    "regions": {}
-  },
-  "Peru": {
-    "name": "Peru",
-    "file": "data/countries/peru.csv",
-    "geoId": "PE",
-    "countryTerritoryCode": "PER",
-    "regions": {}
-  },
-  "Moldova": {
-    "name": "Moldova",
-    "file": "data/countries/moldova.csv",
-    "geoId": "MD",
-    "countryTerritoryCode": "MDA",
-    "regions": {}
-  },
-  "Poland": {
-    "name": "Poland",
-    "file": "data/countries/poland.csv",
-    "geoId": "PL",
-    "countryTerritoryCode": "POL",
-    "regions": {}
-  },
-  "Liechtenstein": {
-    "name": "Liechtenstein",
-    "file": "data/countries/liechtenstein.csv",
-    "geoId": "LI",
-    "countryTerritoryCode": "LIE",
-    "regions": {}
-  },
-  "Central_African_Republic": {
-    "name": "Central_African_Republic",
-    "file": "data/countries/central_african_republic.csv",
-    "geoId": "CF",
-    "countryTerritoryCode": "CAF",
-    "regions": {}
-  },
-  "Nicaragua": {
-    "name": "Nicaragua",
-    "file": "data/countries/nicaragua.csv",
-    "geoId": "NI",
-    "countryTerritoryCode": "NIC",
-    "regions": {}
-  },
-  "Sint_Maarten": {
-    "name": "Sint_Maarten",
-    "file": "data/countries/sint_maarten.csv",
-    "geoId": "SX",
-    "countryTerritoryCode": "SXM",
-    "regions": {}
-  },
-  "Iceland": {
-    "name": "Iceland",
-    "file": "data/countries/iceland.csv",
-    "geoId": "IS",
-    "countryTerritoryCode": "ISL",
-    "regions": {}
-  },
-  "Romania": {
-    "name": "Romania",
-    "file": "data/countries/romania.csv",
-    "geoId": "RO",
-    "countryTerritoryCode": "ROU",
-    "regions": {}
-  },
-  "San_Marino": {
-    "name": "San_Marino",
-    "file": "data/countries/san_marino.csv",
-    "geoId": "SM",
-    "countryTerritoryCode": "SMR",
-    "regions": {}
-  },
-  "Spain": {
-    "name": "Spain",
-    "file": "data/countries/spain.csv",
-    "geoId": "ES",
-    "countryTerritoryCode": "ESP",
-    "regions": {
-      "Principado de Asturias": {
-        "name": "Principado de Asturias",
-        "iso": "AS",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-as.csv"
-      },
-      "Andalucía": {
-        "name": "Andalucía",
-        "iso": "AN",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-an.csv"
-      },
-      "Castilla La Mancha": {
-        "name": "Castilla La Mancha",
-        "iso": "CM",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-cm.csv"
-      },
-      "País Vasco": {
-        "name": "País Vasco",
-        "iso": "PV",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-pv.csv"
-      },
-      "Comunidad de Madrid": {
-        "name": "Comunidad de Madrid",
-        "iso": "MD",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-md.csv"
-      },
-      "Castilla y León": {
-        "name": "Castilla y León",
-        "iso": "CL",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-cl.csv"
-      },
-      "Canarias": {
-        "name": "Canarias",
-        "iso": "CN",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-cn.csv"
-      },
-      "Cataluña": {
-        "name": "Cataluña",
-        "iso": "CT",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-ct.csv"
-      },
-      "Cantabria": {
-        "name": "Cantabria",
-        "iso": "CB",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-cb.csv"
-      },
-      "Galicia": {
-        "name": "Galicia",
-        "iso": "GA",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-ga.csv"
-      },
-      "Región de Murcia": {
-        "name": "Región de Murcia",
-        "iso": "MC",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-mc.csv"
-      },
-      "Ceuta": {
-        "name": "Ceuta",
-        "iso": "CE",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-ce.csv"
-      },
-      "Extremadura": {
-        "name": "Extremadura",
-        "iso": "EX",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-ex.csv"
-      },
-      "Comunidad Foral de Navarra": {
-        "name": "Comunidad Foral de Navarra",
-        "iso": "NC",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-nc.csv"
-      },
-      "La Rioja": {
-        "name": "La Rioja",
-        "iso": "RI",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-ri.csv"
-      },
-      "Islas Baleares": {
-        "name": "Islas Baleares",
-        "iso": "IB",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-ib.csv"
-      },
-      "Comunidad Valenciana": {
-        "name": "Comunidad Valenciana",
-        "iso": "VC",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-vc.csv"
-      },
-      "Aragón": {
-        "name": "Aragón",
-        "iso": "AR",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-ar.csv"
-      },
-      "Melilla": {
-        "name": "Melilla",
-        "iso": "ME",
-        "place_type": "autonomous_community",
-        "file": "data/spain/es-me.csv"
-      }
-    }
-  },
-  "Kazakhstan": {
-    "name": "Kazakhstan",
-    "file": "data/countries/kazakhstan.csv",
-    "geoId": "KZ",
-    "countryTerritoryCode": "KAZ",
-    "regions": {}
-  },
-  "Portugal": {
-    "name": "Portugal",
-    "file": "data/countries/portugal.csv",
-    "geoId": "PT",
-    "countryTerritoryCode": "PRT",
-    "regions": {}
-  },
-  "British_Virgin_Islands": {
-    "name": "British_Virgin_Islands",
-    "file": "data/countries/british_virgin_islands.csv",
-    "geoId": "VG",
-    "countryTerritoryCode": "VGB",
-    "regions": {}
-  },
-  "South_Korea": {
-    "name": "South_Korea",
-    "file": "data/countries/south_korea.csv",
-    "geoId": "KR",
-    "countryTerritoryCode": "KOR",
-    "regions": {}
-  },
-  "Mauritius": {
-    "name": "Mauritius",
-    "file": "data/countries/mauritius.csv",
-    "geoId": "MU",
-    "countryTerritoryCode": "MUS",
-    "regions": {}
-  },
-  "Dominican_Republic": {
-    "name": "Dominican_Republic",
-    "file": "data/countries/dominican_republic.csv",
-    "geoId": "DO",
-    "countryTerritoryCode": "DOM",
-    "regions": {}
-  },
-  "North_Macedonia": {
-    "name": "North_Macedonia",
-    "file": "data/countries/north_macedonia.csv",
-    "geoId": "MK",
-    "countryTerritoryCode": "MKD",
-    "regions": {}
-  },
-  "Australia": {
-    "name": "Australia",
-    "file": "data/countries/australia.csv",
-    "geoId": "AU",
-    "countryTerritoryCode": "AUS",
-    "regions": {}
-  },
-  "Malaysia": {
-    "name": "Malaysia",
-    "file": "data/countries/malaysia.csv",
-    "geoId": "MY",
-    "countryTerritoryCode": "MYS",
-    "regions": {}
-  },
-  "Ethiopia": {
-    "name": "Ethiopia",
-    "file": "data/countries/ethiopia.csv",
-    "geoId": "ET",
-    "countryTerritoryCode": "ETH",
+  "Libya": {
+    "name": "Libya",
+    "file": "data/countries/libya.csv",
+    "geoId": "LY",
+    "countryTerritoryCode": "LBY",
     "regions": {}
   },
   "Aruba": {
@@ -3508,25 +3116,179 @@
     "countryTerritoryCode": "ABW",
     "regions": {}
   },
-  "Holy_See": {
-    "name": "Holy_See",
-    "file": "data/countries/holy_see.csv",
-    "geoId": "VA",
-    "countryTerritoryCode": "VAT",
+  "Germany": {
+    "name": "Germany",
+    "file": "data/countries/germany.csv",
+    "geoId": "DE",
+    "countryTerritoryCode": "DEU",
     "regions": {}
   },
-  "Bolivia": {
-    "name": "Bolivia",
-    "file": "data/countries/bolivia.csv",
-    "geoId": "BO",
-    "countryTerritoryCode": "BOL",
+  "Austria": {
+    "name": "Austria",
+    "file": "data/countries/austria.csv",
+    "geoId": "AT",
+    "countryTerritoryCode": "AUT",
     "regions": {}
   },
-  "Kosovo": {
-    "name": "Kosovo",
-    "file": "data/countries/kosovo.csv",
-    "geoId": "XK",
-    "countryTerritoryCode": "XKX",
+  "Croatia": {
+    "name": "Croatia",
+    "file": "data/countries/croatia.csv",
+    "geoId": "HR",
+    "countryTerritoryCode": "HRV",
+    "regions": {}
+  },
+  "Fiji": {
+    "name": "Fiji",
+    "file": "data/countries/fiji.csv",
+    "geoId": "FJ",
+    "countryTerritoryCode": "FJI",
+    "regions": {}
+  },
+  "Nicaragua": {
+    "name": "Nicaragua",
+    "file": "data/countries/nicaragua.csv",
+    "geoId": "NI",
+    "countryTerritoryCode": "NIC",
+    "regions": {}
+  },
+  "Eritrea": {
+    "name": "Eritrea",
+    "file": "data/countries/eritrea.csv",
+    "geoId": "ER",
+    "countryTerritoryCode": "ERI",
+    "regions": {}
+  },
+  "Palestine": {
+    "name": "Palestine",
+    "file": "data/countries/palestine.csv",
+    "geoId": "PS",
+    "countryTerritoryCode": "PSE",
+    "regions": {}
+  },
+  "Trinidad_and_Tobago": {
+    "name": "Trinidad_and_Tobago",
+    "file": "data/countries/trinidad_and_tobago.csv",
+    "geoId": "TT",
+    "countryTerritoryCode": "TTO",
+    "regions": {}
+  },
+  "Egypt": {
+    "name": "Egypt",
+    "file": "data/countries/egypt.csv",
+    "geoId": "EG",
+    "countryTerritoryCode": "EGY",
+    "regions": {}
+  },
+  "Morocco": {
+    "name": "Morocco",
+    "file": "data/countries/morocco.csv",
+    "geoId": "MA",
+    "countryTerritoryCode": "MAR",
+    "regions": {}
+  },
+  "Philippines": {
+    "name": "Philippines",
+    "file": "data/countries/philippines.csv",
+    "geoId": "PH",
+    "countryTerritoryCode": "PHL",
+    "regions": {}
+  },
+  "Niger": {
+    "name": "Niger",
+    "file": "data/countries/niger.csv",
+    "geoId": "NE",
+    "countryTerritoryCode": "NER",
+    "regions": {}
+  },
+  "Faroe_Islands": {
+    "name": "Faroe_Islands",
+    "file": "data/countries/faroe_islands.csv",
+    "geoId": "FO",
+    "countryTerritoryCode": "FRO",
+    "regions": {}
+  },
+  "San_Marino": {
+    "name": "San_Marino",
+    "file": "data/countries/san_marino.csv",
+    "geoId": "SM",
+    "countryTerritoryCode": "SMR",
+    "regions": {}
+  },
+  "Lithuania": {
+    "name": "Lithuania",
+    "file": "data/countries/lithuania.csv",
+    "geoId": "LT",
+    "countryTerritoryCode": "LTU",
+    "regions": {}
+  },
+  "Guam": {
+    "name": "Guam",
+    "file": "data/countries/guam.csv",
+    "geoId": "GU",
+    "countryTerritoryCode": "GUM",
+    "regions": {}
+  },
+  "Ireland": {
+    "name": "Ireland",
+    "file": "data/countries/ireland.csv",
+    "geoId": "IE",
+    "countryTerritoryCode": "IRL",
+    "regions": {}
+  },
+  "Ecuador": {
+    "name": "Ecuador",
+    "file": "data/countries/ecuador.csv",
+    "geoId": "EC",
+    "countryTerritoryCode": "ECU",
+    "regions": {}
+  },
+  "Malta": {
+    "name": "Malta",
+    "file": "data/countries/malta.csv",
+    "geoId": "MT",
+    "countryTerritoryCode": "MLT",
+    "regions": {}
+  },
+  "South_Korea": {
+    "name": "South_Korea",
+    "file": "data/countries/south_korea.csv",
+    "geoId": "KR",
+    "countryTerritoryCode": "KOR",
+    "regions": {}
+  },
+  "New_Caledonia": {
+    "name": "New_Caledonia",
+    "file": "data/countries/new_caledonia.csv",
+    "geoId": "NC",
+    "countryTerritoryCode": "NCL",
+    "regions": {}
+  },
+  "Guernsey": {
+    "name": "Guernsey",
+    "file": "data/countries/guernsey.csv",
+    "geoId": "GG",
+    "countryTerritoryCode": "GGY",
+    "regions": {}
+  },
+  "Eswatini": {
+    "name": "Eswatini",
+    "file": "data/countries/eswatini.csv",
+    "geoId": "SZ",
+    "countryTerritoryCode": "SWZ",
+    "regions": {}
+  },
+  "Montenegro": {
+    "name": "Montenegro",
+    "file": "data/countries/montenegro.csv",
+    "geoId": "ME",
+    "countryTerritoryCode": "MNE",
+    "regions": {}
+  },
+  "Denmark": {
+    "name": "Denmark",
+    "file": "data/countries/denmark.csv",
+    "geoId": "DK",
+    "countryTerritoryCode": "DNK",
     "regions": {}
   },
   "Iraq": {
@@ -3536,6 +3298,27 @@
     "countryTerritoryCode": "IRQ",
     "regions": {}
   },
+  "Cape_Verde": {
+    "name": "Cape_Verde",
+    "file": "data/countries/cape_verde.csv",
+    "geoId": "CV",
+    "countryTerritoryCode": "CPV",
+    "regions": {}
+  },
+  "Cuba": {
+    "name": "Cuba",
+    "file": "data/countries/cuba.csv",
+    "geoId": "CU",
+    "countryTerritoryCode": "CUB",
+    "regions": {}
+  },
+  "Nigeria": {
+    "name": "Nigeria",
+    "file": "data/countries/nigeria.csv",
+    "geoId": "NG",
+    "countryTerritoryCode": "NGA",
+    "regions": {}
+  },
   "Finland": {
     "name": "Finland",
     "file": "data/countries/finland.csv",
@@ -3543,25 +3326,214 @@
     "countryTerritoryCode": "FIN",
     "regions": {}
   },
-  "Saint_Lucia": {
-    "name": "Saint_Lucia",
-    "file": "data/countries/saint_lucia.csv",
-    "geoId": "LC",
-    "countryTerritoryCode": "LCA",
+  "Democratic_Republic_of_the_Congo": {
+    "name": "Democratic_Republic_of_the_Congo",
+    "file": "data/countries/democratic_republic_of_the_congo.csv",
+    "geoId": "CD",
+    "countryTerritoryCode": "COD",
     "regions": {}
   },
-  "Chile": {
-    "name": "Chile",
-    "file": "data/countries/chile.csv",
-    "geoId": "CL",
-    "countryTerritoryCode": "CHL",
+  "Mongolia": {
+    "name": "Mongolia",
+    "file": "data/countries/mongolia.csv",
+    "geoId": "MN",
+    "countryTerritoryCode": "MNG",
     "regions": {}
   },
-  "Suriname": {
-    "name": "Suriname",
-    "file": "data/countries/suriname.csv",
-    "geoId": "SR",
-    "countryTerritoryCode": "SUR",
+  "Benin": {
+    "name": "Benin",
+    "file": "data/countries/benin.csv",
+    "geoId": "BJ",
+    "countryTerritoryCode": "BEN",
+    "regions": {}
+  },
+  "Namibia": {
+    "name": "Namibia",
+    "file": "data/countries/namibia.csv",
+    "geoId": "",
+    "countryTerritoryCode": "NAM",
+    "regions": {}
+  },
+  "Cambodia": {
+    "name": "Cambodia",
+    "file": "data/countries/cambodia.csv",
+    "geoId": "KH",
+    "countryTerritoryCode": "KHM",
+    "regions": {}
+  },
+  "Senegal": {
+    "name": "Senegal",
+    "file": "data/countries/senegal.csv",
+    "geoId": "SN",
+    "countryTerritoryCode": "SEN",
+    "regions": {}
+  },
+  "Mali": {
+    "name": "Mali",
+    "file": "data/countries/mali.csv",
+    "geoId": "ML",
+    "countryTerritoryCode": "MLI",
+    "regions": {}
+  },
+  "Syria": {
+    "name": "Syria",
+    "file": "data/countries/syria.csv",
+    "geoId": "SY",
+    "countryTerritoryCode": "SYR",
+    "regions": {}
+  },
+  "Nepal": {
+    "name": "Nepal",
+    "file": "data/countries/nepal.csv",
+    "geoId": "NP",
+    "countryTerritoryCode": "NPL",
+    "regions": {}
+  },
+  "Australia": {
+    "name": "Australia",
+    "file": "data/countries/australia.csv",
+    "geoId": "AU",
+    "countryTerritoryCode": "AUS",
+    "regions": {}
+  },
+  "Romania": {
+    "name": "Romania",
+    "file": "data/countries/romania.csv",
+    "geoId": "RO",
+    "countryTerritoryCode": "ROU",
+    "regions": {}
+  },
+  "Guyana": {
+    "name": "Guyana",
+    "file": "data/countries/guyana.csv",
+    "geoId": "GY",
+    "countryTerritoryCode": "GUY",
+    "regions": {}
+  },
+  "Pakistan": {
+    "name": "Pakistan",
+    "file": "data/countries/pakistan.csv",
+    "geoId": "PK",
+    "countryTerritoryCode": "PAK",
+    "regions": {}
+  },
+  "Bermuda": {
+    "name": "Bermuda",
+    "file": "data/countries/bermuda.csv",
+    "geoId": "BM",
+    "countryTerritoryCode": "BMU",
+    "regions": {}
+  },
+  "New_Zealand": {
+    "name": "New_Zealand",
+    "file": "data/countries/new_zealand.csv",
+    "geoId": "NZ",
+    "countryTerritoryCode": "NZL",
+    "regions": {}
+  },
+  "Bangladesh": {
+    "name": "Bangladesh",
+    "file": "data/countries/bangladesh.csv",
+    "geoId": "BD",
+    "countryTerritoryCode": "BGD",
+    "regions": {}
+  },
+  "Hungary": {
+    "name": "Hungary",
+    "file": "data/countries/hungary.csv",
+    "geoId": "HU",
+    "countryTerritoryCode": "HUN",
+    "regions": {}
+  },
+  "Grenada": {
+    "name": "Grenada",
+    "file": "data/countries/grenada.csv",
+    "geoId": "GD",
+    "countryTerritoryCode": "GRD",
+    "regions": {}
+  },
+  "Jordan": {
+    "name": "Jordan",
+    "file": "data/countries/jordan.csv",
+    "geoId": "JO",
+    "countryTerritoryCode": "JOR",
+    "regions": {}
+  },
+  "Barbados": {
+    "name": "Barbados",
+    "file": "data/countries/barbados.csv",
+    "geoId": "BB",
+    "countryTerritoryCode": "BRB",
+    "regions": {}
+  },
+  "Equatorial_Guinea": {
+    "name": "Equatorial_Guinea",
+    "file": "data/countries/equatorial_guinea.csv",
+    "geoId": "GQ",
+    "countryTerritoryCode": "GNQ",
+    "regions": {}
+  },
+  "South_Sudan": {
+    "name": "South_Sudan",
+    "file": "data/countries/south_sudan.csv",
+    "geoId": "SS",
+    "countryTerritoryCode": "SSD",
+    "regions": {}
+  },
+  "Holy_See": {
+    "name": "Holy_See",
+    "file": "data/countries/holy_see.csv",
+    "geoId": "VA",
+    "countryTerritoryCode": "VAT",
+    "regions": {}
+  },
+  "Papua_New_Guinea": {
+    "name": "Papua_New_Guinea",
+    "file": "data/countries/papua_new_guinea.csv",
+    "geoId": "PG",
+    "countryTerritoryCode": "PNG",
+    "regions": {}
+  },
+  "Moldova": {
+    "name": "Moldova",
+    "file": "data/countries/moldova.csv",
+    "geoId": "MD",
+    "countryTerritoryCode": "MDA",
+    "regions": {}
+  },
+  "Kenya": {
+    "name": "Kenya",
+    "file": "data/countries/kenya.csv",
+    "geoId": "KE",
+    "countryTerritoryCode": "KEN",
+    "regions": {}
+  },
+  "United_States_of_America": {
+    "name": "United_States_of_America",
+    "file": "data/countries/united_states_of_america.csv",
+    "geoId": "US",
+    "countryTerritoryCode": "USA",
+    "regions": {}
+  },
+  "Gibraltar": {
+    "name": "Gibraltar",
+    "file": "data/countries/gibraltar.csv",
+    "geoId": "GI",
+    "countryTerritoryCode": "GIB",
+    "regions": {}
+  },
+  "Antigua_and_Barbuda": {
+    "name": "Antigua_and_Barbuda",
+    "file": "data/countries/antigua_and_barbuda.csv",
+    "geoId": "AG",
+    "countryTerritoryCode": "ATG",
+    "regions": {}
+  },
+  "French_Polynesia": {
+    "name": "French_Polynesia",
+    "file": "data/countries/french_polynesia.csv",
+    "geoId": "PF",
+    "countryTerritoryCode": "PYF",
     "regions": {}
   },
   "United_Kingdom": {
@@ -3570,6 +3542,281 @@
     "geoId": "UK",
     "countryTerritoryCode": "GBR",
     "regions": {
+      "Northern Ireland": {
+        "name": "Northern Ireland",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "country"
+      },
+      "Antrim and Newtownabbey": {
+        "name": "Antrim and Newtownabbey",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Ards and North Down": {
+        "name": "Ards and North Down",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Armagh City Banbridge and Craigavon": {
+        "name": "Armagh City Banbridge and Craigavon",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Belfast": {
+        "name": "Belfast",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Causeway Coast and Glens": {
+        "name": "Causeway Coast and Glens",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Derry City and Strabane": {
+        "name": "Derry City and Strabane",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Fermanagh and Omagh": {
+        "name": "Fermanagh and Omagh",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Lisburn and Castlereagh": {
+        "name": "Lisburn and Castlereagh",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Mid Ulster": {
+        "name": "Mid Ulster",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Mid and East Antrim": {
+        "name": "Mid and East Antrim",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Newry Mourne and Down": {
+        "name": "Newry Mourne and Down",
+        "file": "data/united_kingdom/northern_ireland.csv",
+        "place_type": "lgd"
+      },
+      "Unconfirmed": {
+        "name": "Unconfirmed",
+        "file": "data/united_kingdom/england.csv",
+        "place_type": "utla"
+      },
+      "Scotland": {
+        "name": "Scotland",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "country"
+      },
+      "Ayrshire and Arran": {
+        "name": "Ayrshire and Arran",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Borders": {
+        "name": "Borders",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Dumfries and Gallow": {
+        "name": "Dumfries and Gallow",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Fife": {
+        "name": "Fife",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Forth Valley": {
+        "name": "Forth Valley",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Grampian": {
+        "name": "Grampian",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Greater Glasgow and Clyde": {
+        "name": "Greater Glasgow and Clyde",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Highland": {
+        "name": "Highland",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Lanarkshire": {
+        "name": "Lanarkshire",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Lothian": {
+        "name": "Lothian",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Shetland": {
+        "name": "Shetland",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Tayside": {
+        "name": "Tayside",
+        "file": "data/united_kingdom/scotland.csv",
+        "place_type": "health_board"
+      },
+      "Wales": {
+        "name": "Wales",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "country"
+      },
+      "Aneurin Bevan": {
+        "name": "Aneurin Bevan",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "health_board"
+      },
+      "Betsi Cadwaladr": {
+        "name": "Betsi Cadwaladr",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "health_board"
+      },
+      "Blaenau Gwent": {
+        "name": "Blaenau Gwent",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Bridgend": {
+        "name": "Bridgend",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Caerphilly": {
+        "name": "Caerphilly",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Cardiff and Vale": {
+        "name": "Cardiff and Vale",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "health_board"
+      },
+      "Carmarthenshire": {
+        "name": "Carmarthenshire",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Ceredigion": {
+        "name": "Ceredigion",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "City and County of Swansea": {
+        "name": "City and County of Swansea",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "City of Cardiff": {
+        "name": "City of Cardiff",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Conwy": {
+        "name": "Conwy",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Cwm Taf": {
+        "name": "Cwm Taf",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "health_board"
+      },
+      "Denbighshire": {
+        "name": "Denbighshire",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Flintshire": {
+        "name": "Flintshire",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Gwynedd": {
+        "name": "Gwynedd",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Hywel Dda": {
+        "name": "Hywel Dda",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "health_board"
+      },
+      "Isle of Anglesey": {
+        "name": "Isle of Anglesey",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Merthyr Tydfil": {
+        "name": "Merthyr Tydfil",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Monmouthshire": {
+        "name": "Monmouthshire",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Neath Port Talbot": {
+        "name": "Neath Port Talbot",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Newport": {
+        "name": "Newport",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Pembrokeshire": {
+        "name": "Pembrokeshire",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Powys": {
+        "name": "Powys",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Rhondda Cynon Taf": {
+        "name": "Rhondda Cynon Taf",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Swansea Bay": {
+        "name": "Swansea Bay",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "health_board"
+      },
+      "Torfaen County": {
+        "name": "Torfaen County",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Vale of Glamorgan": {
+        "name": "Vale of Glamorgan",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
+      "Wrexham": {
+        "name": "Wrexham",
+        "file": "data/united_kingdom/wales.csv",
+        "place_type": "utla"
+      },
       "England": {
         "name": "England",
         "file": "data/united_kingdom/england.csv",
@@ -4270,11 +4517,6 @@
         "file": "data/united_kingdom/england.csv",
         "place_type": "utla"
       },
-      "Unconfirmed": {
-        "name": "Unconfirmed",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
       "Wakefield": {
         "name": "Wakefield",
         "file": "data/united_kingdom/england.csv",
@@ -4359,278 +4601,36 @@
         "name": "York",
         "file": "data/united_kingdom/england.csv",
         "place_type": "utla"
-      },
-      "Scotland": {
-        "name": "Scotland",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "country"
-      },
-      "Ayrshire and Arran": {
-        "name": "Ayrshire and Arran",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Borders": {
-        "name": "Borders",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Dumfries and Gallow": {
-        "name": "Dumfries and Gallow",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Fife": {
-        "name": "Fife",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Forth Valley": {
-        "name": "Forth Valley",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Grampian": {
-        "name": "Grampian",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Greater Glasgow and Clyde": {
-        "name": "Greater Glasgow and Clyde",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Highland": {
-        "name": "Highland",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Lanarkshire": {
-        "name": "Lanarkshire",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Lothian": {
-        "name": "Lothian",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Shetland": {
-        "name": "Shetland",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Tayside": {
-        "name": "Tayside",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Wales": {
-        "name": "Wales",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "country"
-      },
-      "Aneurin Bevan": {
-        "name": "Aneurin Bevan",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Betsi Cadwaladr": {
-        "name": "Betsi Cadwaladr",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Blaenau Gwent": {
-        "name": "Blaenau Gwent",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Bridgend": {
-        "name": "Bridgend",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Caerphilly": {
-        "name": "Caerphilly",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Cardiff and Vale": {
-        "name": "Cardiff and Vale",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Carmarthenshire": {
-        "name": "Carmarthenshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Ceredigion": {
-        "name": "Ceredigion",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "City and County of Swansea": {
-        "name": "City and County of Swansea",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "City of Cardiff": {
-        "name": "City of Cardiff",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Conwy": {
-        "name": "Conwy",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Cwm Taf": {
-        "name": "Cwm Taf",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Denbighshire": {
-        "name": "Denbighshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Flintshire": {
-        "name": "Flintshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Gwynedd": {
-        "name": "Gwynedd",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Hywel Dda": {
-        "name": "Hywel Dda",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Isle of Anglesey": {
-        "name": "Isle of Anglesey",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Merthyr Tydfil": {
-        "name": "Merthyr Tydfil",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Monmouthshire": {
-        "name": "Monmouthshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Neath Port Talbot": {
-        "name": "Neath Port Talbot",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Newport": {
-        "name": "Newport",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Pembrokeshire": {
-        "name": "Pembrokeshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Powys": {
-        "name": "Powys",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Rhondda Cynon Taf": {
-        "name": "Rhondda Cynon Taf",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Swansea Bay": {
-        "name": "Swansea Bay",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Torfaen County": {
-        "name": "Torfaen County",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Vale of Glamorgan": {
-        "name": "Vale of Glamorgan",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Wrexham": {
-        "name": "Wrexham",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Northern Ireland": {
-        "name": "Northern Ireland",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "country"
-      },
-      "Antrim and Newtownabbey": {
-        "name": "Antrim and Newtownabbey",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Ards and North Down": {
-        "name": "Ards and North Down",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Armagh City Banbridge and Craigavon": {
-        "name": "Armagh City Banbridge and Craigavon",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Belfast": {
-        "name": "Belfast",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Causeway Coast and Glens": {
-        "name": "Causeway Coast and Glens",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Derry City and Strabane": {
-        "name": "Derry City and Strabane",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Fermanagh and Omagh": {
-        "name": "Fermanagh and Omagh",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Lisburn and Castlereagh": {
-        "name": "Lisburn and Castlereagh",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Mid Ulster": {
-        "name": "Mid Ulster",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Mid and East Antrim": {
-        "name": "Mid and East Antrim",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Newry Mourne and Down": {
-        "name": "Newry Mourne and Down",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
       }
     }
+  },
+  "Curaçao": {
+    "name": "Curaçao",
+    "file": "data/countries/curaçao.csv",
+    "geoId": "CW",
+    "countryTerritoryCode": "CUW",
+    "regions": {}
+  },
+  "Mozambique": {
+    "name": "Mozambique",
+    "file": "data/countries/mozambique.csv",
+    "geoId": "MZ",
+    "countryTerritoryCode": "MOZ",
+    "regions": {}
+  },
+  "Norway": {
+    "name": "Norway",
+    "file": "data/countries/norway.csv",
+    "geoId": "NO",
+    "countryTerritoryCode": "NOR",
+    "regions": {}
+  },
+  "Bolivia": {
+    "name": "Bolivia",
+    "file": "data/countries/bolivia.csv",
+    "geoId": "BO",
+    "countryTerritoryCode": "BOL",
+    "regions": {}
   },
   "Bahrain": {
     "name": "Bahrain",
@@ -4639,11 +4639,11 @@
     "countryTerritoryCode": "BHR",
     "regions": {}
   },
-  "Vietnam": {
-    "name": "Vietnam",
-    "file": "data/countries/vietnam.csv",
-    "geoId": "VN",
-    "countryTerritoryCode": "VNM",
+  "Liberia": {
+    "name": "Liberia",
+    "file": "data/countries/liberia.csv",
+    "geoId": "LR",
+    "countryTerritoryCode": "LBR",
     "regions": {}
   }
 }
