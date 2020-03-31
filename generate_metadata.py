@@ -1,6 +1,7 @@
 import time
 import glob
 import pandas as pd
+import numpy as np
 import json
 
 
@@ -11,6 +12,7 @@ def meta_countries(countries={}):
         country_df = pd.read_csv(country_file)
 
         head = country_df.iloc[0]
+        head = head.fillna('')
 
         countries[head.countriesAndTerritories] = {
             'name': head.countriesAndTerritories,

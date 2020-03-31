@@ -22,7 +22,7 @@ def scrape_countries():
             country_file.writelines([header] + curr_lines)
 
     for line_bin in request.urlopen(COUNTRIES_DATA):
-        line = line_bin.decode('iso-8859-1')
+        line = line_bin.decode('utf-8')
 
         if header == '':
             header = line
