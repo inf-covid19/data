@@ -1,5 +1,5 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-03-30,RS,,state,241,3,18,True,11377239,43,2.11826,0.0124
+2020-03-30,RS,,state,254,4,18,True,11377239,43,2.23253,0.0157
 2020-03-29,RS,,state,230,2,17,False,11377239,43,2.02158,0.0087
 2020-03-28,RS,,state,200,2,16,False,11377239,43,1.75790,0.0100
 2020-03-27,RS,,state,197,2,15,False,11377239,43,1.73153,0.0102
@@ -36,7 +36,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,RS,Anta Gorda,city,2,0,3,False,5981,4300703,33.43922,
 2020-03-25,RS,Anta Gorda,city,2,0,2,False,5981,4300703,33.43922,
 2020-03-24,RS,Anta Gorda,city,1,0,1,False,5981,4300703,16.71961,
-2020-03-30,RS,Bagé,city,11,0,12,True,121143,4301602,9.08018,
+2020-03-30,RS,Bagé,city,15,0,12,True,121143,4301602,12.38206,
 2020-03-29,RS,Bagé,city,9,0,11,False,121143,4301602,7.42924,
 2020-03-28,RS,Bagé,city,9,0,10,False,121143,4301602,7.42924,
 2020-03-27,RS,Bagé,city,9,0,9,False,121143,4301602,7.42924,
@@ -114,7 +114,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,RS,Carlos Barbosa,city,1,0,3,False,29833,4304804,3.35199,
 2020-03-22,RS,Carlos Barbosa,city,1,0,2,False,29833,4304804,3.35199,
 2020-03-21,RS,Carlos Barbosa,city,1,0,1,False,29833,4304804,3.35199,
-2020-03-30,RS,Caxias do Sul,city,6,0,16,True,510906,4305108,1.17438,
+2020-03-30,RS,Caxias do Sul,city,13,0,16,True,510906,4305108,2.54450,
 2020-03-29,RS,Caxias do Sul,city,6,0,15,False,510906,4305108,1.17438,
 2020-03-28,RS,Caxias do Sul,city,6,0,14,False,510906,4305108,1.17438,
 2020-03-27,RS,Caxias do Sul,city,6,0,13,False,510906,4305108,1.17438,
@@ -267,7 +267,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-28,RS,Nova Palma,city,1,0,3,False,6512,4313102,15.35627,
 2020-03-27,RS,Nova Palma,city,1,0,2,False,6512,4313102,15.35627,
 2020-03-26,RS,Nova Palma,city,1,0,1,False,6512,4313102,15.35627,
-2020-03-30,RS,Novo Hamburgo,city,1,0,2,True,246748,4313409,0.40527,
+2020-03-30,RS,Novo Hamburgo,city,2,1,2,True,246748,4313409,0.81054,0.5000
 2020-03-29,RS,Novo Hamburgo,city,1,0,1,False,246748,4313409,0.40527,
 2020-03-30,RS,Osório,city,1,0,8,True,45994,4313508,2.17420,
 2020-03-29,RS,Osório,city,1,0,7,False,45994,4313508,2.17420,
@@ -416,6 +416,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,RS,Taquara,city,2,0,3,False,57466,4321204,3.48032,
 2020-03-20,RS,Taquara,city,1,0,2,False,57466,4321204,1.74016,
 2020-03-19,RS,Taquara,city,1,0,1,False,57466,4321204,1.74016,
+2020-03-30,RS,Taquari,city,1,0,1,True,26862,4321303,3.72273,
 2020-03-30,RS,Torres,city,7,0,10,True,38732,4321501,18.07291,
 2020-03-29,RS,Torres,city,7,0,9,False,38732,4321501,18.07291,
 2020-03-28,RS,Torres,city,6,0,8,False,38732,4321501,15.49107,
