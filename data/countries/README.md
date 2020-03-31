@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Mar 31 2020 10:02:06 UTC.
+> Last updated at Mar 31 2020 12:02:56 UTC.
 
 
 | Country | Dataset |
@@ -9,9 +9,9 @@
 | Angola | [`angola.csv`](angola.csv) |
 | Albania | [`albania.csv`](albania.csv) |
 | Andorra | [`andorra.csv`](andorra.csv) |
-| Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
 | Algeria | [`algeria.csv`](algeria.csv) |
 | Anguilla | [`anguilla.csv`](anguilla.csv) |
+| Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
 | Argentina | [`argentina.csv`](argentina.csv) |
 | Armenia | [`armenia.csv`](armenia.csv) |
 | Aruba | [`aruba.csv`](aruba.csv) |
@@ -51,7 +51,7 @@
 | Cote dIvoire | [`cote_divoire.csv`](cote_divoire.csv) |
 | Croatia | [`croatia.csv`](croatia.csv) |
 | Cuba | [`cuba.csv`](cuba.csv) |
-| Curacao | [`curacao.csv`](curacao.csv) |
+| CuraÃ§ao | [`curaã§ao.csv`](curaã§ao.csv) |
 | Cyprus | [`cyprus.csv`](cyprus.csv) |
 | Czech Republic | [`czech_republic.csv`](czech_republic.csv) |
 | Democratic Republic of the Congo | [`democratic_republic_of_the_congo.csv`](democratic_republic_of_the_congo.csv) |
@@ -67,6 +67,7 @@
 | Estonia | [`estonia.csv`](estonia.csv) |
 | Eswatini | [`eswatini.csv`](eswatini.csv) |
 | Ethiopia | [`ethiopia.csv`](ethiopia.csv) |
+| Falkland Islands (Malvinas) | [`falkland_islands_(malvinas).csv`](falkland_islands_(malvinas).csv) |
 | Faroe Islands | [`faroe_islands.csv`](faroe_islands.csv) |
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
@@ -142,6 +143,7 @@
 | Niger | [`niger.csv`](niger.csv) |
 | Nigeria | [`nigeria.csv`](nigeria.csv) |
 | North Macedonia | [`north_macedonia.csv`](north_macedonia.csv) |
+| Northern Mariana Islands | [`northern_mariana_islands.csv`](northern_mariana_islands.csv) |
 | Norway | [`norway.csv`](norway.csv) |
 | Oman | [`oman.csv`](oman.csv) |
 | Pakistan | [`pakistan.csv`](pakistan.csv) |
@@ -173,6 +175,7 @@
 | Somalia | [`somalia.csv`](somalia.csv) |
 | South Africa | [`south_africa.csv`](south_africa.csv) |
 | South Korea | [`south_korea.csv`](south_korea.csv) |
+| South Sudan | [`south_sudan.csv`](south_sudan.csv) |
 | Spain | [`spain.csv`](spain.csv) |
 | Sri Lanka | [`sri_lanka.csv`](sri_lanka.csv) |
 | Sudan | [`sudan.csv`](sudan.csv) |
