@@ -1,6 +1,6 @@
 ## United States of America
 
-> Last updated at Mar 31 2020 06:02:23 UTC.
+> Last updated at Mar 31 2020 08:02:38 UTC.
 
 
 | State | Dataset |
@@ -41,6 +41,7 @@
 | New York | [`36.csv`](36.csv) |
 | North Carolina | [`37.csv`](37.csv) |
 | North Dakota | [`38.csv`](38.csv) |
+| Northern Mariana Islands | [`69.csv`](69.csv) |
 | Ohio | [`39.csv`](39.csv) |
 | Oklahoma | [`40.csv`](40.csv) |
 | Oregon | [`41.csv`](41.csv) |
