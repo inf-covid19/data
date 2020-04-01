@@ -119,7 +119,7 @@ def meta_united_kingdom(countries={}):
 
 
 def meta_united_states_of_america(countries={}):
-    regions_file = glob.glob('data/united_state_of_america/*.csv')
+    regions_file = glob.glob('data/united_states_of_america/*.csv')
     country = 'United_States_of_America'
 
     for region_file in regions_file:
