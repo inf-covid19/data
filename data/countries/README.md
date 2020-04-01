@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 01 2020 08:02:23 UTC.
+> Last updated at Apr 01 2020 10:02:19 UTC.
 
 
 | Country | Dataset |
@@ -30,11 +30,13 @@
 | Bhutan | [`bhutan.csv`](bhutan.csv) |
 | Bolivia | [`bolivia.csv`](bolivia.csv) |
 | Bosnia and Herzegovina | [`bosnia_and_herzegovina.csv`](bosnia_and_herzegovina.csv) |
+| Botswana | [`botswana.csv`](botswana.csv) |
 | Brazil | [`brazil.csv`](brazil.csv) |
 | British Virgin Islands | [`british_virgin_islands.csv`](british_virgin_islands.csv) |
 | Brunei Darussalam | [`brunei_darussalam.csv`](brunei_darussalam.csv) |
 | Bulgaria | [`bulgaria.csv`](bulgaria.csv) |
 | Burkina Faso | [`burkina_faso.csv`](burkina_faso.csv) |
+| Burundi | [`burundi.csv`](burundi.csv) |
 | Cambodia | [`cambodia.csv`](cambodia.csv) |
 | Cameroon | [`cameroon.csv`](cameroon.csv) |
 | Canada | [`canada.csv`](canada.csv) |
@@ -168,6 +170,7 @@
 | Senegal | [`senegal.csv`](senegal.csv) |
 | Serbia | [`serbia.csv`](serbia.csv) |
 | Seychelles | [`seychelles.csv`](seychelles.csv) |
+| Sierra Leone | [`sierra_leone.csv`](sierra_leone.csv) |
 | Singapore | [`singapore.csv`](singapore.csv) |
 | Sint Maarten | [`sint_maarten.csv`](sint_maarten.csv) |
 | Slovakia | [`slovakia.csv`](slovakia.csv) |
