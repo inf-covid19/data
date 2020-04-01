@@ -20,12 +20,14 @@ def scrape_united_states_of_america():
                'place_type', 'fips', 'cases', 'deaths']
 
     counties_df = pd.read_csv(COUNTIES_DATASET)
-    counties_df = counties_df.sort_values(by=['state', 'county', 'date'], ascending=[True, True, False])
+    counties_df = counties_df.sort_values(
+        by=['state', 'county', 'date'], ascending=[True, True, False])
     counties_df['place_type'] = 'county'
     counties_df = counties_df[headers]
 
     states_df = pd.read_csv(STATES_DATASET)
-    states_df = states_df.sort_values(by=['state', 'date'], ascending=[True, False])
+    states_df = states_df.sort_values(
+        by=['state', 'date'], ascending=[True, False])
     states_df['county'] = ''
     states_df['place_type'] = 'state'
     states_df = states_df[headers]
@@ -38,12 +40,13 @@ def scrape_united_states_of_america():
         current_df = states_df[is_current_fips]
         current_df.to_csv(fips_file, index=False, float_format='%.f')
 
-        is_same_fips = counties_df['fips'] // 1000 == fips
+        state = current_df['state'].iloc[0]
+        is_same_fips = counties_df['state'] == state
         current_counties_df = counties_df[is_same_fips]
         current_counties_df.to_csv(
             fips_file, index=False, header=False, mode='a', float_format='%.f')
 
-        states_fips[f'{fips:02d}'] = current_df['state'].iloc[0]
+        states_fips[f'{fips:02d}'] = state
 
     with open(path.join(us_dir, 'README.md'), 'w') as readme_f:
         readme_f.write(get_readme_contents(states_fips))
