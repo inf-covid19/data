@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 02 2020 08:02:35 UTC.
+> Last updated at Apr 02 2020 10:02:37 UTC.
 
 
 | Country | Dataset |
@@ -29,6 +29,7 @@
 | Bermuda | [`bermuda.csv`](bermuda.csv) |
 | Bhutan | [`bhutan.csv`](bhutan.csv) |
 | Bolivia | [`bolivia.csv`](bolivia.csv) |
+| Bonaire | [`bonaire.csv`](bonaire.csv) |
 | Bosnia and Herzegovina | [`bosnia_and_herzegovina.csv`](bosnia_and_herzegovina.csv) |
 | Botswana | [`botswana.csv`](botswana.csv) |
 | Brazil | [`brazil.csv`](brazil.csv) |
@@ -162,6 +163,7 @@
 | Romania | [`romania.csv`](romania.csv) |
 | Russia | [`russia.csv`](russia.csv) |
 | Rwanda | [`rwanda.csv`](rwanda.csv) |
+| Saint Barthelemy | [`saint_barthelemy.csv`](saint_barthelemy.csv) |
 | Saint Kitts and Nevis | [`saint_kitts_and_nevis.csv`](saint_kitts_and_nevis.csv) |
 | Saint Lucia | [`saint_lucia.csv`](saint_lucia.csv) |
 | Saint Vincent and the Grenadines | [`saint_vincent_and_the_grenadines.csv`](saint_vincent_and_the_grenadines.csv) |
