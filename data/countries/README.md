@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 03 2020 08:02:35 UTC.
+> Last updated at Apr 03 2020 10:02:16 UTC.
 
 
 | Country | Dataset |
@@ -70,7 +70,6 @@
 | Estonia | [`estonia.csv`](estonia.csv) |
 | Eswatini | [`eswatini.csv`](eswatini.csv) |
 | Ethiopia | [`ethiopia.csv`](ethiopia.csv) |
-| Falkland Islands (Malvinas) | [`falkland_islands_(malvinas).csv`](falkland_islands_(malvinas).csv) |
 | Faroe Islands | [`faroe_islands.csv`](faroe_islands.csv) |
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
@@ -122,6 +121,7 @@
 | Lithuania | [`lithuania.csv`](lithuania.csv) |
 | Luxembourg | [`luxembourg.csv`](luxembourg.csv) |
 | Madagascar | [`madagascar.csv`](madagascar.csv) |
+| Malawi | [`malawi.csv`](malawi.csv) |
 | Malaysia | [`malaysia.csv`](malaysia.csv) |
 | Maldives | [`maldives.csv`](maldives.csv) |
 | Mali | [`mali.csv`](mali.csv) |
@@ -180,7 +180,6 @@
 | Somalia | [`somalia.csv`](somalia.csv) |
 | South Africa | [`south_africa.csv`](south_africa.csv) |
 | South Korea | [`south_korea.csv`](south_korea.csv) |
-| South Sudan | [`south_sudan.csv`](south_sudan.csv) |
 | Spain | [`spain.csv`](spain.csv) |
 | Sri Lanka | [`sri_lanka.csv`](sri_lanka.csv) |
 | Sudan | [`sudan.csv`](sudan.csv) |
