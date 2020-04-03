@@ -19,10 +19,12 @@ def scrape_spain():
     request.urlretrieve(COUNTIES_DATASET, raw_file)
     with open(raw_file, 'rt', encoding='iso-8859-1') as raw_f:
         with open(csv_file, 'w') as csv_f:
+            is_header = True
             for line in raw_f:
-                if not line.startswith('NOTA:'):
-                    csv_f.write(','.join([v.strip()
-                                          for v in line.split(",")]) + '\n')
+                values = [v.strip() for v in line.split(",")]
+                if is_header or len(values[0]) == 2:
+                    csv_f.write(','.join(values) + '\n')
+                is_header = False
 
     headers = ['date', 'region', 'city',
                'place_type', 'iso', 'cases', 'deaths', 'hospitalized', 'critical']
