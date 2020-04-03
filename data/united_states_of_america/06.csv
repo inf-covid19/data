@@ -1,4 +1,5 @@
 date,state,county,place_type,fips,cases,deaths
+2020-04-01,California,,state,6,9816,212
 2020-03-31,California,,state,6,8582,183
 2020-03-30,California,,state,6,7421,146
 2020-03-29,California,,state,6,6266,130
@@ -66,6 +67,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-01-27,California,,state,6,2,0
 2020-01-26,California,,state,6,2,0
 2020-01-25,California,,state,6,1,0
+2020-04-01,California,Alameda,county,6001,380,8
 2020-03-31,California,Alameda,county,6001,334,7
 2020-03-30,California,Alameda,county,6001,304,7
 2020-03-29,California,Alameda,county,6001,291,6
@@ -97,8 +99,10 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-03,California,Alameda,county,6001,2,0
 2020-03-02,California,Alameda,county,6001,1,0
 2020-03-01,California,Alameda,county,6001,1,0
+2020-04-01,California,Alpine,county,6003,1,0
 2020-03-31,California,Alpine,county,6003,1,0
 2020-03-30,California,Alpine,county,6003,1,0
+2020-04-01,California,Amador,county,6005,3,1
 2020-03-31,California,Amador,county,6005,2,0
 2020-03-30,California,Amador,county,6005,2,0
 2020-03-29,California,Amador,county,6005,2,0
@@ -111,6 +115,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-22,California,Amador,county,6005,1,0
 2020-03-21,California,Amador,county,6005,1,0
 2020-03-20,California,Amador,county,6005,1,0
+2020-04-01,California,Butte,county,6007,8,0
 2020-03-31,California,Butte,county,6007,8,0
 2020-03-30,California,Butte,county,6007,8,0
 2020-03-29,California,Butte,county,6007,5,0
@@ -122,6 +127,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-23,California,Butte,county,6007,3,0
 2020-03-22,California,Butte,county,6007,2,0
 2020-03-21,California,Butte,county,6007,1,0
+2020-04-01,California,Calaveras,county,6009,3,0
 2020-03-31,California,Calaveras,county,6009,3,0
 2020-03-30,California,Calaveras,county,6009,3,0
 2020-03-29,California,Calaveras,county,6009,3,0
@@ -130,11 +136,13 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-26,California,Calaveras,county,6009,3,0
 2020-03-25,California,Calaveras,county,6009,2,0
 2020-03-24,California,Calaveras,county,6009,2,0
+2020-04-01,California,Colusa,county,6011,1,0
 2020-03-31,California,Colusa,county,6011,1,0
 2020-03-30,California,Colusa,county,6011,1,0
 2020-03-29,California,Colusa,county,6011,1,0
 2020-03-28,California,Colusa,county,6011,1,0
 2020-03-27,California,Colusa,county,6011,1,0
+2020-04-01,California,Contra Costa,county,6013,250,3
 2020-03-31,California,Contra Costa,county,6013,222,3
 2020-03-30,California,Contra Costa,county,6013,187,3
 2020-03-29,California,Contra Costa,county,6013,175,3
@@ -164,6 +172,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-05,California,Contra Costa,county,6013,1,0
 2020-03-04,California,Contra Costa,county,6013,1,0
 2020-03-03,California,Contra Costa,county,6013,1,0
+2020-04-01,California,El Dorado,county,6017,18,0
 2020-03-31,California,El Dorado,county,6017,18,0
 2020-03-30,California,El Dorado,county,6017,15,0
 2020-03-29,California,El Dorado,county,6017,12,0
@@ -175,6 +184,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-23,California,El Dorado,county,6017,2,0
 2020-03-22,California,El Dorado,county,6017,2,0
 2020-03-21,California,El Dorado,county,6017,2,0
+2020-04-01,California,Fresno,county,6019,82,0
 2020-03-31,California,Fresno,county,6019,68,0
 2020-03-30,California,Fresno,county,6019,53,0
 2020-03-29,California,Fresno,county,6019,43,0
@@ -200,10 +210,12 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-09,California,Fresno,county,6019,1,0
 2020-03-08,California,Fresno,county,6019,1,0
 2020-03-07,California,Fresno,county,6019,1,0
+2020-04-01,California,Glenn,county,6021,2,0
 2020-03-31,California,Glenn,county,6021,2,0
 2020-03-30,California,Glenn,county,6021,2,0
 2020-03-29,California,Glenn,county,6021,1,0
 2020-03-28,California,Glenn,county,6021,1,0
+2020-04-01,California,Humboldt,county,6023,27,0
 2020-03-31,California,Humboldt,county,6023,27,0
 2020-03-30,California,Humboldt,county,6023,21,0
 2020-03-29,California,Humboldt,county,6023,18,0
@@ -245,6 +257,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-22,California,Humboldt,county,6023,1,0
 2020-02-21,California,Humboldt,county,6023,1,0
 2020-02-20,California,Humboldt,county,6023,1,0
+2020-04-01,California,Imperial,county,6025,43,0
 2020-03-31,California,Imperial,county,6025,38,0
 2020-03-30,California,Imperial,county,6025,33,0
 2020-03-29,California,Imperial,county,6025,25,0
@@ -257,6 +270,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-22,California,Imperial,county,6025,4,0
 2020-03-21,California,Imperial,county,6025,4,0
 2020-03-20,California,Imperial,county,6025,4,0
+2020-04-01,California,Inyo,county,6027,9,0
 2020-03-31,California,Inyo,county,6027,8,0
 2020-03-30,California,Inyo,county,6027,8,0
 2020-03-29,California,Inyo,county,6027,8,0
@@ -264,6 +278,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-27,California,Inyo,county,6027,5,0
 2020-03-26,California,Inyo,county,6027,2,0
 2020-03-25,California,Inyo,county,6027,1,0
+2020-04-01,California,Kern,county,6029,110,1
 2020-03-31,California,Kern,county,6029,101,1
 2020-03-30,California,Kern,county,6029,76,1
 2020-03-29,California,Kern,county,6029,51,1
@@ -279,11 +294,13 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-19,California,Kern,county,6029,2,0
 2020-03-18,California,Kern,county,6029,1,0
 2020-03-17,California,Kern,county,6029,1,0
+2020-04-01,California,Kings,county,6031,4,0
 2020-03-31,California,Kings,county,6031,4,0
 2020-03-30,California,Kings,county,6031,3,0
 2020-03-29,California,Kings,county,6031,2,0
 2020-03-28,California,Kings,county,6031,1,0
 2020-03-27,California,Kings,county,6031,1,0
+2020-04-01,California,Los Angeles,county,6037,3518,65
 2020-03-31,California,Los Angeles,county,6037,3011,54
 2020-03-30,California,Los Angeles,county,6037,2474,44
 2020-03-29,California,Los Angeles,county,6037,2136,37
@@ -350,6 +367,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-01-28,California,Los Angeles,county,6037,1,0
 2020-01-27,California,Los Angeles,county,6037,1,0
 2020-01-26,California,Los Angeles,county,6037,1,0
+2020-04-01,California,Madera,county,6039,23,1
 2020-03-31,California,Madera,county,6039,23,1
 2020-03-30,California,Madera,county,6039,21,1
 2020-03-29,California,Madera,county,6039,18,1
@@ -375,6 +393,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-09,California,Madera,county,6039,1,0
 2020-03-08,California,Madera,county,6039,1,0
 2020-03-07,California,Madera,county,6039,1,0
+2020-04-01,California,Marin,county,6041,108,4
 2020-03-31,California,Marin,county,6041,102,4
 2020-03-30,California,Marin,county,6041,99,1
 2020-03-29,California,Marin,county,6041,93,1
@@ -410,6 +429,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-28,California,Marin,county,6041,1,0
 2020-02-27,California,Marin,county,6041,1,0
 2020-02-26,California,Marin,county,6041,1,0
+2020-04-01,California,Mendocino,county,6045,4,0
 2020-03-31,California,Mendocino,county,6045,4,0
 2020-03-30,California,Mendocino,county,6045,4,0
 2020-03-29,California,Mendocino,county,6045,3,0
@@ -424,6 +444,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-20,California,Mendocino,county,6045,1,0
 2020-03-19,California,Mendocino,county,6045,1,0
 2020-03-18,California,Mendocino,county,6045,1,0
+2020-04-01,California,Merced,county,6047,10,0
 2020-03-31,California,Merced,county,6047,10,0
 2020-03-30,California,Merced,county,6047,9,0
 2020-03-29,California,Merced,county,6047,8,0
@@ -432,6 +453,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-26,California,Merced,county,6047,4,0
 2020-03-25,California,Merced,county,6047,1,0
 2020-03-24,California,Merced,county,6047,1,0
+2020-04-01,California,Mono,county,6051,13,1
 2020-03-31,California,Mono,county,6051,13,1
 2020-03-30,California,Mono,county,6051,13,0
 2020-03-29,California,Mono,county,6051,11,0
@@ -440,6 +462,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-26,California,Mono,county,6051,6,0
 2020-03-25,California,Mono,county,6051,4,0
 2020-03-24,California,Mono,county,6051,2,0
+2020-04-01,California,Monterey,county,6053,42,2
 2020-03-31,California,Monterey,county,6053,42,2
 2020-03-30,California,Monterey,county,6053,36,1
 2020-03-29,California,Monterey,county,6053,32,1
@@ -455,6 +478,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-19,California,Monterey,county,6053,2,0
 2020-03-18,California,Monterey,county,6053,2,0
 2020-03-17,California,Monterey,county,6053,2,0
+2020-04-01,California,Napa,county,6055,19,1
 2020-03-31,California,Napa,county,6055,16,1
 2020-03-30,California,Napa,county,6055,15,0
 2020-03-29,California,Napa,county,6055,11,0
@@ -490,6 +514,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-28,California,Napa,county,6055,1,0
 2020-02-27,California,Napa,county,6055,1,0
 2020-02-26,California,Napa,county,6055,1,0
+2020-04-01,California,Nevada,county,6057,26,0
 2020-03-31,California,Nevada,county,6057,21,0
 2020-03-30,California,Nevada,county,6057,18,0
 2020-03-29,California,Nevada,county,6057,12,0
@@ -506,6 +531,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-18,California,Nevada,county,6057,1,0
 2020-03-17,California,Nevada,county,6057,1,0
 2020-03-16,California,Nevada,county,6057,1,0
+2020-04-01,California,Orange,county,6059,606,10
 2020-03-31,California,Orange,county,6059,502,7
 2020-03-30,California,Orange,county,6059,464,4
 2020-03-29,California,Orange,county,6059,431,4
@@ -573,6 +599,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-01-27,California,Orange,county,6059,1,0
 2020-01-26,California,Orange,county,6059,1,0
 2020-01-25,California,Orange,county,6059,1,0
+2020-04-01,California,Placer,county,6061,78,2
 2020-03-31,California,Placer,county,6061,67,2
 2020-03-30,California,Placer,county,6061,57,2
 2020-03-29,California,Placer,county,6061,53,2
@@ -603,7 +630,9 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-04,California,Placer,county,6061,2,1
 2020-03-03,California,Placer,county,6061,2,0
 2020-03-02,California,Placer,county,6061,1,0
+2020-04-01,California,Plumas,county,6063,1,0
 2020-03-31,California,Plumas,county,6063,1,0
+2020-04-01,California,Riverside,county,6065,371,13
 2020-03-31,California,Riverside,county,6065,371,13
 2020-03-30,California,Riverside,county,6065,291,9
 2020-03-29,California,Riverside,county,6065,195,8
@@ -629,6 +658,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-09,California,Riverside,county,6065,4,0
 2020-03-08,California,Riverside,county,6065,1,0
 2020-03-07,California,Riverside,county,6065,1,0
+2020-04-01,California,Sacramento,county,6067,314,9
 2020-03-31,California,Sacramento,county,6067,224,7
 2020-03-30,California,Sacramento,county,6067,224,7
 2020-03-29,California,Sacramento,county,6067,164,6
@@ -669,6 +699,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-23,California,Sacramento,county,6067,1,0
 2020-02-22,California,Sacramento,county,6067,1,0
 2020-02-21,California,Sacramento,county,6067,1,0
+2020-04-01,California,San Benito,county,6069,23,1
 2020-03-31,California,San Benito,county,6069,21,1
 2020-03-30,California,San Benito,county,6069,17,1
 2020-03-29,California,San Benito,county,6069,14,1
@@ -688,6 +719,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-15,California,San Benito,county,6069,1,0
 2020-03-14,California,San Benito,county,6069,1,0
 2020-03-13,California,San Benito,county,6069,1,0
+2020-04-01,California,San Bernardino,county,6071,254,6
 2020-03-31,California,San Bernardino,county,6071,183,6
 2020-03-30,California,San Bernardino,county,6071,111,3
 2020-03-29,California,San Bernardino,county,6071,111,3
@@ -705,6 +737,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-17,California,San Bernardino,county,6071,3,0
 2020-03-16,California,San Bernardino,county,6071,2,0
 2020-03-15,California,San Bernardino,county,6071,1,0
+2020-04-01,California,San Diego,county,6073,849,15
 2020-03-31,California,San Diego,county,6073,734,9
 2020-03-30,California,San Diego,county,6073,603,7
 2020-03-29,California,San Diego,county,6073,519,7
@@ -756,6 +789,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-12,California,San Diego,county,6073,1,0
 2020-02-11,California,San Diego,county,6073,1,0
 2020-02-10,California,San Diego,county,6073,1,0
+2020-04-01,California,San Francisco,county,6075,437,7
 2020-03-31,California,San Francisco,county,6075,400,6
 2020-03-30,California,San Francisco,county,6075,374,6
 2020-03-29,California,San Francisco,county,6075,343,5
@@ -815,6 +849,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-04,California,San Francisco,county,6075,2,0
 2020-02-03,California,San Francisco,county,6075,2,0
 2020-02-02,California,San Francisco,county,6075,2,0
+2020-04-01,California,San Joaquin,county,6077,161,8
 2020-03-31,California,San Joaquin,county,6077,151,8
 2020-03-30,California,San Joaquin,county,6077,136,6
 2020-03-29,California,San Joaquin,county,6077,121,5
@@ -837,6 +872,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-12,California,San Joaquin,county,6077,3,0
 2020-03-11,California,San Joaquin,county,6077,1,0
 2020-03-10,California,San Joaquin,county,6077,1,0
+2020-04-01,California,San Luis Obispo,county,6079,83,0
 2020-03-31,California,San Luis Obispo,county,6079,80,0
 2020-03-30,California,San Luis Obispo,county,6079,77,0
 2020-03-29,California,San Luis Obispo,county,6079,71,0
@@ -855,6 +891,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-16,California,San Luis Obispo,county,6079,3,0
 2020-03-15,California,San Luis Obispo,county,6079,2,0
 2020-03-14,California,San Luis Obispo,county,6079,1,0
+2020-04-01,California,San Mateo,county,6081,388,10
 2020-03-31,California,San Mateo,county,6081,309,10
 2020-03-30,California,San Mateo,county,6081,309,6
 2020-03-29,California,San Mateo,county,6081,277,6
@@ -885,6 +922,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-04,California,San Mateo,county,6081,1,0
 2020-03-03,California,San Mateo,county,6081,1,0
 2020-03-02,California,San Mateo,county,6081,1,0
+2020-04-01,California,Santa Barbara,county,6083,111,0
 2020-03-31,California,Santa Barbara,county,6083,99,0
 2020-03-30,California,Santa Barbara,county,6083,88,0
 2020-03-29,California,Santa Barbara,county,6083,68,0
@@ -902,6 +940,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-17,California,Santa Barbara,county,6083,2,0
 2020-03-16,California,Santa Barbara,county,6083,1,0
 2020-03-15,California,Santa Barbara,county,6083,1,0
+2020-04-01,California,Santa Clara,county,6085,956,33
 2020-03-31,California,Santa Clara,county,6085,890,31
 2020-03-30,California,Santa Clara,county,6085,848,29
 2020-03-29,California,Santa Clara,county,6085,646,26
@@ -963,6 +1002,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-02,California,Santa Clara,county,6085,2,0
 2020-02-01,California,Santa Clara,county,6085,1,0
 2020-01-31,California,Santa Clara,county,6085,1,0
+2020-04-01,California,Santa Cruz,county,6087,54,1
 2020-03-31,California,Santa Cruz,county,6087,49,1
 2020-03-30,California,Santa Cruz,county,6087,45,1
 2020-03-29,California,Santa Cruz,county,6087,44,1
@@ -988,6 +1028,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-09,California,Santa Cruz,county,6087,2,0
 2020-03-08,California,Santa Cruz,county,6087,1,0
 2020-03-07,California,Santa Cruz,county,6087,1,0
+2020-04-01,California,Shasta,county,6089,7,1
 2020-03-31,California,Shasta,county,6089,6,1
 2020-03-30,California,Shasta,county,6089,6,1
 2020-03-29,California,Shasta,county,6089,4,1
@@ -1011,6 +1052,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-11,California,Shasta,county,6089,1,0
 2020-03-10,California,Shasta,county,6089,1,0
 2020-03-09,California,Shasta,county,6089,1,0
+2020-04-01,California,Siskiyou,county,6093,3,0
 2020-03-31,California,Siskiyou,county,6093,3,0
 2020-03-30,California,Siskiyou,county,6093,3,0
 2020-03-29,California,Siskiyou,county,6093,3,0
@@ -1022,6 +1064,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-23,California,Siskiyou,county,6093,3,0
 2020-03-22,California,Siskiyou,county,6093,2,0
 2020-03-21,California,Siskiyou,county,6093,2,0
+2020-04-01,California,Solano,county,6095,54,0
 2020-03-31,California,Solano,county,6095,54,0
 2020-03-30,California,Solano,county,6095,48,0
 2020-03-29,California,Solano,county,6095,39,0
@@ -1059,6 +1102,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-26,California,Solano,county,6095,11,0
 2020-02-25,California,Solano,county,6095,1,0
 2020-02-24,California,Solano,county,6095,1,0
+2020-04-01,California,Sonoma,county,6097,91,1
 2020-03-31,California,Sonoma,county,6097,85,1
 2020-03-30,California,Sonoma,county,6097,73,1
 2020-03-29,California,Sonoma,county,6097,57,1
@@ -1094,6 +1138,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-02-28,California,Sonoma,county,6097,1,0
 2020-02-27,California,Sonoma,county,6097,1,0
 2020-02-26,California,Sonoma,county,6097,1,0
+2020-04-01,California,Stanislaus,county,6099,44,0
 2020-03-31,California,Stanislaus,county,6099,39,0
 2020-03-30,California,Stanislaus,county,6099,33,0
 2020-03-29,California,Stanislaus,county,6099,31,0
@@ -1115,6 +1160,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-13,California,Stanislaus,county,6099,2,0
 2020-03-12,California,Stanislaus,county,6099,2,0
 2020-03-11,California,Stanislaus,county,6099,2,0
+2020-04-01,California,Sutter,county,6101,14,0
 2020-03-31,California,Sutter,county,6101,10,0
 2020-03-30,California,Sutter,county,6101,9,0
 2020-03-29,California,Sutter,county,6101,6,0
@@ -1122,7 +1168,8 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-27,California,Sutter,county,6101,2,0
 2020-03-26,California,Sutter,county,6101,2,0
 2020-03-25,California,Sutter,county,6101,2,0
-2020-03-31,California,Tulare,county,6107,45,3
+2020-04-01,California,Tulare,county,6107,59,2
+2020-03-31,California,Tulare,county,6107,45,1
 2020-03-30,California,Tulare,county,6107,43,1
 2020-03-29,California,Tulare,county,6107,35,1
 2020-03-28,California,Tulare,county,6107,29,1
@@ -1142,9 +1189,11 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-14,California,Tulare,county,6107,3,0
 2020-03-13,California,Tulare,county,6107,2,0
 2020-03-12,California,Tulare,county,6107,1,0
+2020-04-01,California,Tuolumne,county,6109,1,0
 2020-03-31,California,Tuolumne,county,6109,1,0
 2020-03-30,California,Tuolumne,county,6109,1,0
 2020-03-29,California,Tuolumne,county,6109,1,0
+2020-04-01,California,Unknown,county,,1,0
 2020-03-31,California,Unknown,county,,1,0
 2020-03-30,California,Unknown,county,,1,0
 2020-03-29,California,Unknown,county,,1,0
@@ -1155,6 +1204,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-24,California,Unknown,county,,1,0
 2020-03-23,California,Unknown,county,,1,0
 2020-03-22,California,Unknown,county,,1,0
+2020-04-01,California,Ventura,county,6111,160,5
 2020-03-31,California,Ventura,county,6111,149,5
 2020-03-30,California,Ventura,county,6111,126,4
 2020-03-29,California,Ventura,county,6111,109,4
@@ -1177,6 +1227,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-12,California,Ventura,county,6111,2,0
 2020-03-11,California,Ventura,county,6111,2,0
 2020-03-10,California,Ventura,county,6111,1,0
+2020-04-01,California,Yolo,county,6113,28,1
 2020-03-31,California,Yolo,county,6113,25,1
 2020-03-30,California,Yolo,county,6113,24,1
 2020-03-29,California,Yolo,county,6113,16,1
@@ -1203,6 +1254,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-08,California,Yolo,county,6113,1,0
 2020-03-07,California,Yolo,county,6113,1,0
 2020-03-06,California,Yolo,county,6113,1,0
+2020-04-01,California,Yuba,county,6115,7,0
 2020-03-31,California,Yuba,county,6115,7,0
 2020-03-30,California,Yuba,county,6115,6,0
 2020-03-29,California,Yuba,county,6115,3,0
