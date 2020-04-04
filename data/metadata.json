@@ -1931,6 +1931,11 @@
         "parent": "SE",
         "place_type": "city"
       },
+      "Capela": {
+        "name": "Capela",
+        "parent": "SE",
+        "place_type": "city"
+      },
       "Nossa Senhora da Glória": {
         "name": "Nossa Senhora da Glória",
         "parent": "SE",
@@ -1971,6 +1976,11 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "Altamira": {
+        "name": "Altamira",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "Ananindeua": {
         "name": "Ananindeua",
         "parent": "PA",
@@ -1986,8 +1996,18 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "Benevides": {
+        "name": "Benevides",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "Castanhal": {
         "name": "Castanhal",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "Goianésia do Pará": {
+        "name": "Goianésia do Pará",
         "parent": "PA",
         "place_type": "city"
       },
@@ -2006,6 +2026,16 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "Novo Progresso": {
+        "name": "Novo Progresso",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "Oeiras do Pará": {
+        "name": "Oeiras do Pará",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "Parauapebas": {
         "name": "Parauapebas",
         "parent": "PA",
@@ -2013,6 +2043,11 @@
       },
       "Santarém": {
         "name": "Santarém",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "São Geraldo do Araguaia": {
+        "name": "São Geraldo do Araguaia",
         "parent": "PA",
         "place_type": "city"
       },
@@ -2441,6 +2476,11 @@
         "place_type": "state",
         "file": "data/brazil/pi.csv"
       },
+      "Campo Maior": {
+        "name": "Campo Maior",
+        "parent": "PI",
+        "place_type": "city"
+      },
       "Parnaíba": {
         "name": "Parnaíba",
         "parent": "PI",
@@ -2581,8 +2621,18 @@
         "parent": "PB",
         "place_type": "city"
       },
+      "Junco do Seridó": {
+        "name": "Junco do Seridó",
+        "parent": "PB",
+        "place_type": "city"
+      },
       "Patos": {
         "name": "Patos",
+        "parent": "PB",
+        "place_type": "city"
+      },
+      "Serra Branca": {
+        "name": "Serra Branca",
         "parent": "PB",
         "place_type": "city"
       },
@@ -4493,8 +4543,8 @@
       },
       "Mississippi": {
         "name": "Mississippi",
-        "place_type": "state",
-        "file": "data/united_states_of_america/28.csv"
+        "parent": "Arkansas",
+        "place_type": "county"
       },
       "Adams": {
         "name": "Adams",
@@ -4743,7 +4793,7 @@
       },
       "Panola": {
         "name": "Panola",
-        "parent": "Mississippi",
+        "parent": "Texas",
         "place_type": "county"
       },
       "Pearl River": {
@@ -4848,6 +4898,11 @@
       },
       "Washington": {
         "name": "Washington",
+        "parent": "New York",
+        "place_type": "county"
+      },
+      "Wayne": {
+        "name": "Wayne",
         "parent": "New York",
         "place_type": "county"
       },
@@ -4966,6 +5021,11 @@
         "parent": "South Dakota",
         "place_type": "county"
       },
+      "Lake": {
+        "name": "Lake",
+        "parent": "Montana",
+        "place_type": "county"
+      },
       "Lyman": {
         "name": "Lyman",
         "parent": "South Dakota",
@@ -4978,7 +5038,7 @@
       },
       "Meade": {
         "name": "Meade",
-        "parent": "South Dakota",
+        "parent": "Kentucky",
         "place_type": "county"
       },
       "Minnehaha": {
@@ -4993,6 +5053,11 @@
       },
       "Roberts": {
         "name": "Roberts",
+        "parent": "South Dakota",
+        "place_type": "county"
+      },
+      "Spink": {
+        "name": "Spink",
         "parent": "South Dakota",
         "place_type": "county"
       },
@@ -5064,6 +5129,11 @@
       "Cleburne": {
         "name": "Cleburne",
         "parent": "Arkansas",
+        "place_type": "county"
+      },
+      "Coffee": {
+        "name": "Coffee",
+        "parent": "Georgia",
         "place_type": "county"
       },
       "Colbert": {
@@ -5341,6 +5411,11 @@
         "parent": "Missouri",
         "place_type": "county"
       },
+      "Atoka": {
+        "name": "Atoka",
+        "parent": "Oklahoma",
+        "place_type": "county"
+      },
       "Beckham": {
         "name": "Beckham",
         "parent": "Oklahoma",
@@ -5423,6 +5498,16 @@
       },
       "Kay": {
         "name": "Kay",
+        "parent": "Oklahoma",
+        "place_type": "county"
+      },
+      "Kingfisher": {
+        "name": "Kingfisher",
+        "parent": "Oklahoma",
+        "place_type": "county"
+      },
+      "Kiowa": {
+        "name": "Kiowa",
         "parent": "Oklahoma",
         "place_type": "county"
       },
@@ -5541,6 +5626,11 @@
         "parent": "Oklahoma",
         "place_type": "county"
       },
+      "Woodward": {
+        "name": "Woodward",
+        "parent": "Oklahoma",
+        "place_type": "county"
+      },
       "Arkansas": {
         "name": "Arkansas",
         "parent": "Arkansas",
@@ -5593,7 +5683,7 @@
       },
       "Crittenden": {
         "name": "Crittenden",
-        "parent": "Arkansas",
+        "parent": "Kentucky",
         "place_type": "county"
       },
       "Cross": {
@@ -5661,6 +5751,11 @@
         "place_type": "state",
         "file": "data/united_states_of_america/32.csv"
       },
+      "Ouachita": {
+        "name": "Ouachita",
+        "parent": "Louisiana",
+        "place_type": "county"
+      },
       "Poinsett": {
         "name": "Poinsett",
         "parent": "Arkansas",
@@ -5701,6 +5796,11 @@
         "parent": "Tennessee",
         "place_type": "county"
       },
+      "Sharp": {
+        "name": "Sharp",
+        "parent": "Arkansas",
+        "place_type": "county"
+      },
       "St. Francis": {
         "name": "St. Francis",
         "parent": "Arkansas",
@@ -5730,6 +5830,11 @@
         "name": "Maryland",
         "place_type": "state",
         "file": "data/united_states_of_america/24.csv"
+      },
+      "Allegany": {
+        "name": "Allegany",
+        "parent": "New York",
+        "place_type": "county"
       },
       "Anne Arundel": {
         "name": "Anne Arundel",
@@ -5841,6 +5946,11 @@
         "parent": "Kentucky",
         "place_type": "county"
       },
+      "Bath": {
+        "name": "Bath",
+        "parent": "Kentucky",
+        "place_type": "county"
+      },
       "Bourbon": {
         "name": "Bourbon",
         "parent": "Kansas",
@@ -5889,6 +5999,11 @@
       "Christian": {
         "name": "Christian",
         "parent": "Illinois",
+        "place_type": "county"
+      },
+      "Cumberland": {
+        "name": "Cumberland",
+        "parent": "Virginia",
         "place_type": "county"
       },
       "Daviess": {
@@ -6016,6 +6131,11 @@
         "parent": "Texas",
         "place_type": "county"
       },
+      "Pendleton": {
+        "name": "Pendleton",
+        "parent": "West Virginia",
+        "place_type": "county"
+      },
       "Powell": {
         "name": "Powell",
         "parent": "Kentucky",
@@ -6028,17 +6148,12 @@
       },
       "Spencer": {
         "name": "Spencer",
-        "parent": "Kentucky",
+        "parent": "Indiana",
         "place_type": "county"
       },
       "Taylor": {
         "name": "Taylor",
         "parent": "Georgia",
-        "place_type": "county"
-      },
-      "Wayne": {
-        "name": "Wayne",
-        "parent": "New York",
         "place_type": "county"
       },
       "Woodford": {
@@ -6276,6 +6391,11 @@
         "parent": "Wisconsin",
         "place_type": "county"
       },
+      "Trempealeau": {
+        "name": "Trempealeau",
+        "parent": "Wisconsin",
+        "place_type": "county"
+      },
       "Vilas": {
         "name": "Vilas",
         "parent": "Wisconsin",
@@ -6328,6 +6448,11 @@
       },
       "Black Hawk": {
         "name": "Black Hawk",
+        "parent": "Iowa",
+        "place_type": "county"
+      },
+      "Bremer": {
+        "name": "Bremer",
         "parent": "Iowa",
         "place_type": "county"
       },
@@ -6408,6 +6533,11 @@
       },
       "Muscatine": {
         "name": "Muscatine",
+        "parent": "Iowa",
+        "place_type": "county"
+      },
+      "O'Brien": {
+        "name": "O'Brien",
         "parent": "Iowa",
         "place_type": "county"
       },
@@ -6536,6 +6666,11 @@
         "parent": "Missouri",
         "place_type": "county"
       },
+      "Howell": {
+        "name": "Howell",
+        "parent": "Missouri",
+        "place_type": "county"
+      },
       "Kansas City": {
         "name": "Kansas City",
         "parent": "Missouri",
@@ -6558,6 +6693,11 @@
       },
       "Moniteau": {
         "name": "Moniteau",
+        "parent": "Missouri",
+        "place_type": "county"
+      },
+      "New Madrid": {
+        "name": "New Madrid",
         "parent": "Missouri",
         "place_type": "county"
       },
@@ -6751,11 +6891,6 @@
         "parent": "New York",
         "place_type": "county"
       },
-      "Ouachita": {
-        "name": "Ouachita",
-        "parent": "Louisiana",
-        "place_type": "county"
-      },
       "Plaquemines": {
         "name": "Plaquemines",
         "parent": "Louisiana",
@@ -6881,11 +7016,6 @@
         "parent": "Georgia",
         "place_type": "county"
       },
-      "Cumberland": {
-        "name": "Cumberland",
-        "parent": "Pennsylvania",
-        "place_type": "county"
-      },
       "DuPage": {
         "name": "DuPage",
         "parent": "Illinois",
@@ -6913,7 +7043,7 @@
       },
       "Kane": {
         "name": "Kane",
-        "parent": "Illinois",
+        "parent": "Utah",
         "place_type": "county"
       },
       "Kankakee": {
@@ -6931,9 +7061,9 @@
         "parent": "Nebraska",
         "place_type": "county"
       },
-      "Lake": {
-        "name": "Lake",
-        "parent": "Montana",
+      "Macoupin": {
+        "name": "Macoupin",
+        "parent": "Illinois",
         "place_type": "county"
       },
       "Massac": {
@@ -6956,6 +7086,11 @@
         "parent": "Illinois",
         "place_type": "county"
       },
+      "Moultrie": {
+        "name": "Moultrie",
+        "parent": "Illinois",
+        "place_type": "county"
+      },
       "Ogle": {
         "name": "Ogle",
         "parent": "Illinois",
@@ -6963,6 +7098,11 @@
       },
       "Peoria": {
         "name": "Peoria",
+        "parent": "Illinois",
+        "place_type": "county"
+      },
+      "Piatt": {
+        "name": "Piatt",
         "parent": "Illinois",
         "place_type": "county"
       },
@@ -7161,6 +7301,11 @@
         "parent": "Ohio",
         "place_type": "county"
       },
+      "Guernsey": {
+        "name": "Guernsey",
+        "parent": "Ohio",
+        "place_type": "county"
+      },
       "Hamilton": {
         "name": "Hamilton",
         "parent": "New York",
@@ -7264,6 +7409,11 @@
       "Van Wert": {
         "name": "Van Wert",
         "parent": "Ohio",
+        "place_type": "county"
+      },
+      "Williams": {
+        "name": "Williams",
+        "parent": "North Dakota",
         "place_type": "county"
       },
       "Wyandot": {
@@ -7688,6 +7838,11 @@
       },
       "Bartholomew": {
         "name": "Bartholomew",
+        "parent": "Indiana",
+        "place_type": "county"
+      },
+      "Blackford": {
+        "name": "Blackford",
         "parent": "Indiana",
         "place_type": "county"
       },
@@ -8136,11 +8291,6 @@
         "parent": "North Dakota",
         "place_type": "county"
       },
-      "Williams": {
-        "name": "Williams",
-        "parent": "North Dakota",
-        "place_type": "county"
-      },
       "Andrews": {
         "name": "Andrews",
         "parent": "Texas",
@@ -8271,6 +8421,11 @@
         "parent": "Texas",
         "place_type": "county"
       },
+      "Donley": {
+        "name": "Donley",
+        "parent": "Texas",
+        "place_type": "county"
+      },
       "Eastland": {
         "name": "Eastland",
         "parent": "Texas",
@@ -8313,6 +8468,16 @@
       },
       "Galveston": {
         "name": "Galveston",
+        "parent": "Texas",
+        "place_type": "county"
+      },
+      "Gillespie": {
+        "name": "Gillespie",
+        "parent": "Texas",
+        "place_type": "county"
+      },
+      "Goliad": {
+        "name": "Goliad",
         "parent": "Texas",
         "place_type": "county"
       },
@@ -8493,6 +8658,11 @@
       },
       "Nueces": {
         "name": "Nueces",
+        "parent": "Texas",
+        "place_type": "county"
+      },
+      "Palo Pinto": {
+        "name": "Palo Pinto",
         "parent": "Texas",
         "place_type": "county"
       },
@@ -8991,6 +9161,11 @@
         "parent": "South Carolina",
         "place_type": "county"
       },
+      "Hampton": {
+        "name": "Hampton",
+        "parent": "South Carolina",
+        "place_type": "county"
+      },
       "Horry": {
         "name": "Horry",
         "parent": "South Carolina",
@@ -9018,6 +9193,11 @@
       },
       "Marlboro": {
         "name": "Marlboro",
+        "parent": "South Carolina",
+        "place_type": "county"
+      },
+      "McCormick": {
+        "name": "McCormick",
         "parent": "South Carolina",
         "place_type": "county"
       },
@@ -9108,6 +9288,11 @@
       },
       "Okanogan": {
         "name": "Okanogan",
+        "parent": "Washington",
+        "place_type": "county"
+      },
+      "Pend Oreille": {
+        "name": "Pend Oreille",
         "parent": "Washington",
         "place_type": "county"
       },
@@ -9456,6 +9641,11 @@
         "parent": "Idaho",
         "place_type": "county"
       },
+      "Uinta": {
+        "name": "Uinta",
+        "parent": "Wyoming",
+        "place_type": "county"
+      },
       "Washakie": {
         "name": "Washakie",
         "parent": "Wyoming",
@@ -9558,6 +9748,11 @@
       },
       "Kandiyohi": {
         "name": "Kandiyohi",
+        "parent": "Minnesota",
+        "place_type": "county"
+      },
+      "Koochiching": {
+        "name": "Koochiching",
         "parent": "Minnesota",
         "place_type": "county"
       },
@@ -9906,11 +10101,6 @@
         "parent": "Tennessee",
         "place_type": "county"
       },
-      "Coffee": {
-        "name": "Coffee",
-        "parent": "Georgia",
-        "place_type": "county"
-      },
       "Davidson": {
         "name": "Davidson",
         "parent": "North Carolina",
@@ -10121,6 +10311,11 @@
         "parent": "North Carolina",
         "place_type": "county"
       },
+      "Dare": {
+        "name": "Dare",
+        "parent": "North Carolina",
+        "place_type": "county"
+      },
       "Davie": {
         "name": "Davie",
         "parent": "North Carolina",
@@ -10148,6 +10343,11 @@
       },
       "Gaston": {
         "name": "Gaston",
+        "parent": "North Carolina",
+        "place_type": "county"
+      },
+      "Gates": {
+        "name": "Gates",
         "parent": "North Carolina",
         "place_type": "county"
       },
@@ -10253,7 +10453,7 @@
       },
       "Richmond": {
         "name": "Richmond",
-        "parent": "Virginia",
+        "parent": "Georgia",
         "place_type": "county"
       },
       "Robeson": {
@@ -10278,6 +10478,11 @@
       },
       "Stanly": {
         "name": "Stanly",
+        "parent": "North Carolina",
+        "place_type": "county"
+      },
+      "Stokes": {
+        "name": "Stokes",
         "parent": "North Carolina",
         "place_type": "county"
       },
@@ -10801,6 +11006,11 @@
         "parent": "Pennsylvania",
         "place_type": "county"
       },
+      "Forest": {
+        "name": "Forest",
+        "parent": "Pennsylvania",
+        "place_type": "county"
+      },
       "Huntingdon": {
         "name": "Huntingdon",
         "parent": "Pennsylvania",
@@ -10923,6 +11133,11 @@
       },
       "Matanuska-Susitna Borough": {
         "name": "Matanuska-Susitna Borough",
+        "parent": "Alaska",
+        "place_type": "county"
+      },
+      "Yukon-Koyukuk Census Area": {
+        "name": "Yukon-Koyukuk Census Area",
         "parent": "Alaska",
         "place_type": "county"
       },
@@ -11131,8 +11346,8 @@
         "parent": "Virginia",
         "place_type": "county"
       },
-      "James city": {
-        "name": "James city",
+      "James City": {
+        "name": "James City",
         "parent": "Virginia",
         "place_type": "county"
       },
@@ -11266,6 +11481,11 @@
         "parent": "Virginia",
         "place_type": "county"
       },
+      "Salem city": {
+        "name": "Salem city",
+        "parent": "Virginia",
+        "place_type": "county"
+      },
       "Shenandoah": {
         "name": "Shenandoah",
         "parent": "Virginia",
@@ -11331,8 +11551,18 @@
         "parent": "Nebraska",
         "place_type": "county"
       },
+      "Colfax": {
+        "name": "Colfax",
+        "parent": "Nebraska",
+        "place_type": "county"
+      },
       "Cuming": {
         "name": "Cuming",
+        "parent": "Nebraska",
+        "place_type": "county"
+      },
+      "Gage": {
+        "name": "Gage",
         "parent": "Nebraska",
         "place_type": "county"
       },
@@ -11356,6 +11586,11 @@
         "parent": "Nebraska",
         "place_type": "county"
       },
+      "Otoe": {
+        "name": "Otoe",
+        "parent": "Nebraska",
+        "place_type": "county"
+      },
       "Sarpy": {
         "name": "Sarpy",
         "parent": "Nebraska",
@@ -11375,11 +11610,6 @@
         "name": "New York",
         "place_type": "state",
         "file": "data/united_states_of_america/36.csv"
-      },
-      "Allegany": {
-        "name": "Allegany",
-        "parent": "New York",
-        "place_type": "county"
       },
       "Broome": {
         "name": "Broome",
@@ -11501,6 +11731,11 @@
         "parent": "New York",
         "place_type": "county"
       },
+      "Yates": {
+        "name": "Yates",
+        "parent": "New York",
+        "place_type": "county"
+      },
       "Kansas": {
         "name": "Kansas",
         "place_type": "state",
@@ -11511,8 +11746,18 @@
         "parent": "Kansas",
         "place_type": "county"
       },
+      "Cloud": {
+        "name": "Cloud",
+        "parent": "Kansas",
+        "place_type": "county"
+      },
       "Coffey": {
         "name": "Coffey",
+        "parent": "Kansas",
+        "place_type": "county"
+      },
+      "Cowley": {
+        "name": "Cowley",
         "parent": "Kansas",
         "place_type": "county"
       },
