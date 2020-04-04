@@ -1,15 +1,15 @@
 ## Countries
 
-> Last updated at Apr 04 2020 04:02:20 UTC.
+> Last updated at Apr 04 2020 10:02:09 UTC.
 
 
 | Country | Dataset |
 | ------ | ------- |
 | Afghanistan | [`afghanistan.csv`](afghanistan.csv) |
-| Angola | [`angola.csv`](angola.csv) |
 | Albania | [`albania.csv`](albania.csv) |
 | Andorra | [`andorra.csv`](andorra.csv) |
 | Algeria | [`algeria.csv`](algeria.csv) |
+| Angola | [`angola.csv`](angola.csv) |
 | Anguilla | [`anguilla.csv`](anguilla.csv) |
 | Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
 | Argentina | [`argentina.csv`](argentina.csv) |
@@ -70,6 +70,7 @@
 | Estonia | [`estonia.csv`](estonia.csv) |
 | Eswatini | [`eswatini.csv`](eswatini.csv) |
 | Ethiopia | [`ethiopia.csv`](ethiopia.csv) |
+| Falkland Islands (Malvinas) | [`falkland_islands_(malvinas).csv`](falkland_islands_(malvinas).csv) |
 | Faroe Islands | [`faroe_islands.csv`](faroe_islands.csv) |
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
