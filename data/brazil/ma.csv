@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-02,MA,,state,80,1,14,True,7075181,21,1.13071,0.0125
+2020-04-03,MA,,state,87,1,15,True,7075181,21,1.22965,0.0115
+2020-04-02,MA,,state,80,1,14,False,7075181,21,1.13071,0.0125
 2020-04-01,MA,,state,70,1,13,False,7075181,21,0.98937,0.0143
 2020-03-31,MA,,state,51,1,12,False,7075181,21,0.72083,0.0196
 2020-03-30,MA,,state,30,1,11,False,7075181,21,0.42402,0.0333
@@ -13,11 +14,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,MA,,state,2,0,3,False,7075181,21,0.02827,
 2020-03-21,MA,,state,2,0,2,False,7075181,21,0.02827,
 2020-03-20,MA,,state,1,0,1,False,7075181,21,0.01413,
-2020-04-02,MA,Açailândia,city,1,0,2,True,112445,2100055,0.88932,
+2020-04-03,MA,Açailândia,city,1,0,3,True,112445,2100055,0.88932,
+2020-04-02,MA,Açailândia,city,1,0,2,False,112445,2100055,0.88932,
 2020-04-01,MA,Açailândia,city,1,0,1,False,112445,2100055,0.88932,
-2020-04-02,MA,Imperatriz,city,1,0,2,True,258682,2105302,0.38658,
+2020-04-03,MA,Imperatriz,city,1,0,3,True,258682,2105302,0.38658,
+2020-04-02,MA,Imperatriz,city,1,0,2,False,258682,2105302,0.38658,
 2020-04-01,MA,Imperatriz,city,1,0,1,False,258682,2105302,0.38658,
-2020-04-02,MA,São Luís,city,78,1,14,True,1101884,2111300,7.07879,0.0128
+2020-04-03,MA,Paço do Lumiar,city,1,0,1,True,122197,2107506,0.81835,
+2020-04-03,MA,São José de Ribamar,city,2,0,1,True,177687,2111201,1.12557,
+2020-04-03,MA,São Luís,city,82,1,15,True,1101884,2111300,7.44180,0.0122
+2020-04-02,MA,São Luís,city,78,1,14,False,1101884,2111300,7.07879,0.0128
 2020-04-01,MA,São Luís,city,68,1,13,False,1101884,2111300,6.17125,0.0147
 2020-03-31,MA,São Luís,city,51,1,12,False,1101884,2111300,4.62844,0.0196
 2020-03-30,MA,São Luís,city,30,1,11,False,1101884,2111300,2.72261,0.0333
