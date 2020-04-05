@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-03,AL,,state,23,2,24,True,3337357,27,0.68917,0.0870
+2020-04-04,AL,,state,23,2,25,True,3337357,27,0.68917,0.0870
+2020-04-03,AL,,state,23,2,24,False,3337357,27,0.68917,0.0870
 2020-04-02,AL,,state,18,1,23,False,3337357,27,0.53935,0.0556
 2020-04-01,AL,,state,18,1,22,False,3337357,27,0.53935,0.0556
 2020-03-31,AL,,state,18,1,21,False,3337357,27,0.53935,0.0556
@@ -23,13 +24,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-10,AL,,state,1,0,3,False,3337357,27,0.02996,
 2020-03-09,AL,,state,1,0,2,False,3337357,27,0.02996,
 2020-03-08,AL,,state,1,0,1,False,3337357,27,0.02996,
-2020-04-03,AL,Importados/Indefinidos,city,4,0,6,True,,,,
+2020-04-04,AL,Importados/Indefinidos,city,4,0,7,True,,,,
+2020-04-03,AL,Importados/Indefinidos,city,4,0,6,False,,,,
 2020-04-02,AL,Importados/Indefinidos,city,4,0,5,False,,,,
 2020-04-01,AL,Importados/Indefinidos,city,4,0,4,False,,,,
 2020-03-31,AL,Importados/Indefinidos,city,4,0,3,False,,,,
 2020-03-30,AL,Importados/Indefinidos,city,4,0,2,False,,,,
 2020-03-29,AL,Importados/Indefinidos,city,4,0,1,False,,,,
-2020-04-03,AL,Maceió,city,17,2,24,True,1018948,2704302,1.66839,0.1176
+2020-04-04,AL,Maceió,city,17,2,25,True,1018948,2704302,1.66839,0.1176
+2020-04-03,AL,Maceió,city,17,2,24,False,1018948,2704302,1.66839,0.1176
 2020-04-02,AL,Maceió,city,13,1,23,False,1018948,2704302,1.27583,0.0769
 2020-04-01,AL,Maceió,city,13,1,22,False,1018948,2704302,1.27583,0.0769
 2020-03-31,AL,Maceió,city,13,1,21,False,1018948,2704302,1.27583,0.0769
@@ -53,8 +56,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-10,AL,Maceió,city,1,0,3,False,1018948,2704302,0.09814,
 2020-03-09,AL,Maceió,city,1,0,2,False,1018948,2704302,0.09814,
 2020-03-08,AL,Maceió,city,1,0,1,False,1018948,2704302,0.09814,
-2020-04-03,AL,Marechal Deodoro,city,1,0,1,True,51901,2704708,1.92675,
-2020-04-03,AL,Porto Real do Colégio,city,1,0,10,True,20066,2707503,4.98355,
+2020-04-04,AL,Marechal Deodoro,city,1,0,2,True,51901,2704708,1.92675,
+2020-04-03,AL,Marechal Deodoro,city,1,0,1,False,51901,2704708,1.92675,
+2020-04-04,AL,Porto Real do Colégio,city,1,0,11,True,20066,2707503,4.98355,
+2020-04-03,AL,Porto Real do Colégio,city,1,0,10,False,20066,2707503,4.98355,
 2020-04-02,AL,Porto Real do Colégio,city,1,0,9,False,20066,2707503,4.98355,
 2020-04-01,AL,Porto Real do Colégio,city,1,0,8,False,20066,2707503,4.98355,
 2020-03-31,AL,Porto Real do Colégio,city,1,0,7,False,20066,2707503,4.98355,
