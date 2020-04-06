@@ -41,7 +41,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SP,Agudos,city,1,0,3,True,37214,3500709,2.68716,
 2020-04-03,SP,Agudos,city,1,0,2,False,37214,3500709,2.68716,
 2020-04-02,SP,Agudos,city,1,0,1,False,37214,3500709,2.68716,
-2020-04-04,SP,Americana,city,2,0,5,True,239597,3501608,0.83473,
+2020-04-04,SP,Americana,city,3,1,5,True,239597,3501608,1.25210,0.3333
 2020-04-03,SP,Americana,city,2,0,4,False,239597,3501608,0.83473,
 2020-04-02,SP,Americana,city,2,0,3,False,239597,3501608,0.83473,
 2020-04-01,SP,Americana,city,2,0,2,False,239597,3501608,0.83473,
@@ -49,12 +49,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SP,Araraquara,city,2,0,3,True,236072,3503208,0.84720,
 2020-04-03,SP,Araraquara,city,2,0,2,False,236072,3503208,0.84720,
 2020-04-02,SP,Araraquara,city,1,0,1,False,236072,3503208,0.42360,
-2020-04-04,SP,Araçatuba,city,2,0,5,True,197016,3502804,1.01515,
+2020-04-04,SP,Araçatuba,city,4,0,5,True,197016,3502804,2.03029,
 2020-04-03,SP,Araçatuba,city,2,0,4,False,197016,3502804,1.01515,
 2020-04-02,SP,Araçatuba,city,2,0,3,False,197016,3502804,1.01515,
 2020-04-01,SP,Araçatuba,city,2,0,2,False,197016,3502804,1.01515,
 2020-03-31,SP,Araçatuba,city,1,0,1,False,197016,3502804,0.50757,
-2020-04-04,SP,Arujá,city,4,1,8,True,89824,3503901,4.45315,0.2500
+2020-04-04,SP,Arujá,city,5,1,8,True,89824,3503901,5.56644,0.2000
 2020-04-03,SP,Arujá,city,4,1,7,False,89824,3503901,4.45315,0.2500
 2020-04-02,SP,Arujá,city,4,1,6,False,89824,3503901,4.45315,0.2500
 2020-04-01,SP,Arujá,city,2,0,5,False,89824,3503901,2.22658,
@@ -65,9 +65,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SP,Assis,city,1,0,3,True,104386,3504008,0.95798,
 2020-04-03,SP,Assis,city,1,0,2,False,104386,3504008,0.95798,
 2020-04-02,SP,Assis,city,1,0,1,False,104386,3504008,0.95798,
-2020-04-04,SP,Atibaia,city,2,0,2,True,142761,3504107,1.40094,
+2020-04-04,SP,Atibaia,city,3,0,2,True,142761,3504107,2.10141,
 2020-04-03,SP,Atibaia,city,2,0,1,False,142761,3504107,1.40094,
-2020-04-04,SP,Barueri,city,28,1,12,True,274182,3505708,10.21219,0.0357
+2020-04-04,SP,Barueri,city,29,1,12,True,274182,3505708,10.57692,0.0345
 2020-04-03,SP,Barueri,city,28,1,11,False,274182,3505708,10.21219,0.0357
 2020-04-02,SP,Barueri,city,26,0,10,False,274182,3505708,9.48275,
 2020-04-01,SP,Barueri,city,21,0,9,False,274182,3505708,7.65915,
@@ -84,6 +84,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,SP,Bauru,city,0,0,3,False,376818,3506003,,
 2020-04-01,SP,Bauru,city,2,0,2,False,376818,3506003,0.53076,
 2020-03-31,SP,Bauru,city,1,0,1,False,376818,3506003,0.26538,
+2020-04-04,SP,Botucatu,city,7,0,1,True,146497,3507506,4.77825,
 2020-04-04,SP,Brodowski,city,1,0,6,True,24939,3507803,4.00978,
 2020-04-03,SP,Brodowski,city,1,0,5,False,24939,3507803,4.00978,
 2020-04-02,SP,Brodowski,city,1,0,4,False,24939,3507803,4.00978,
@@ -110,7 +111,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,SP,Cajamar,city,1,0,3,False,76801,3509205,1.30207,
 2020-03-31,SP,Cajamar,city,1,0,2,False,76801,3509205,1.30207,
 2020-03-30,SP,Cajamar,city,1,0,1,False,76801,3509205,1.30207,
-2020-04-04,SP,Campinas,city,24,1,12,True,1204073,3509502,1.99323,0.0417
+2020-04-04,SP,Campinas,city,26,4,12,True,1204073,3509502,2.15934,0.1538
 2020-04-03,SP,Campinas,city,24,1,11,False,1204073,3509502,1.99323,0.0417
 2020-04-02,SP,Campinas,city,23,1,10,False,1204073,3509502,1.91018,0.0435
 2020-04-01,SP,Campinas,city,22,1,9,False,1204073,3509502,1.82713,0.0455
@@ -136,7 +137,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-17,SP,Carapicuíba,city,1,,3,False,400927,3510609,0.24942,
 2020-03-16,SP,Carapicuíba,city,1,,2,False,400927,3510609,0.24942,
 2020-03-14,SP,Carapicuíba,city,1,,1,False,400927,3510609,0.24942,
-2020-04-04,SP,Cotia,city,27,2,12,True,249210,3513009,10.83424,0.0741
+2020-04-04,SP,Cedral,city,1,0,1,True,9237,3511300,10.82603,
+2020-04-04,SP,Cotia,city,28,2,12,True,249210,3513009,11.23550,0.0714
 2020-04-03,SP,Cotia,city,27,2,11,False,249210,3513009,10.83424,0.0741
 2020-04-02,SP,Cotia,city,23,2,10,False,249210,3513009,9.22916,0.0870
 2020-04-01,SP,Cotia,city,21,2,9,False,249210,3513009,8.42663,0.0952
@@ -148,19 +150,19 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,SP,Cotia,city,2,,3,False,249210,3513009,0.80254,
 2020-03-19,SP,Cotia,city,2,,2,False,249210,3513009,0.80254,
 2020-03-18,SP,Cotia,city,1,,1,False,249210,3513009,0.40127,
-2020-04-04,SP,Cravinhos,city,1,1,2,True,35292,3513108,2.83350,1.0000
+2020-04-04,SP,Cravinhos,city,2,1,2,True,35292,3513108,5.66701,0.5000
 2020-04-03,SP,Cravinhos,city,1,1,1,False,35292,3513108,2.83350,1.0000
-2020-04-04,SP,Diadema,city,20,1,7,True,423884,3513801,4.71827,0.0500
+2020-04-04,SP,Diadema,city,23,1,7,True,423884,3513801,5.42601,0.0435
 2020-04-03,SP,Diadema,city,20,1,6,False,423884,3513801,4.71827,0.0500
 2020-04-02,SP,Diadema,city,0,0,5,False,423884,3513801,,
 2020-04-01,SP,Diadema,city,8,0,4,False,423884,3513801,1.88731,
 2020-03-31,SP,Diadema,city,5,0,3,False,423884,3513801,1.17957,
 2020-03-30,SP,Diadema,city,2,0,2,False,423884,3513801,0.47183,
 2020-03-27,SP,Diadema,city,1,0,1,False,423884,3513801,0.23591,
-2020-04-04,SP,Dracena,city,1,0,3,True,46793,3514403,2.13707,
+2020-04-04,SP,Dracena,city,1,1,3,True,46793,3514403,2.13707,1.0000
 2020-04-03,SP,Dracena,city,1,0,2,False,46793,3514403,2.13707,
 2020-04-02,SP,Dracena,city,1,0,1,False,46793,3514403,2.13707,
-2020-04-04,SP,Embu das Artes,city,18,1,9,True,273726,3515004,6.57592,0.0556
+2020-04-04,SP,Embu das Artes,city,19,1,9,True,273726,3515004,6.94125,0.0526
 2020-04-03,SP,Embu das Artes,city,18,1,8,False,273726,3515004,6.57592,0.0556
 2020-04-02,SP,Embu das Artes,city,14,1,7,False,273726,3515004,5.11460,0.0714
 2020-04-01,SP,Embu das Artes,city,8,1,6,False,273726,3515004,2.92263,0.1250
@@ -169,7 +171,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SP,Embu das Artes,city,1,0,3,False,273726,3515004,0.36533,
 2020-03-26,SP,Embu das Artes,city,1,0,2,False,273726,3515004,0.36533,
 2020-03-25,SP,Embu das Artes,city,1,0,1,False,273726,3515004,0.36533,
-2020-04-04,SP,Ferraz de Vasconcelos,city,14,0,16,True,194276,3515707,7.20624,
+2020-04-04,SP,Ferraz de Vasconcelos,city,15,0,16,True,194276,3515707,7.72097,
 2020-04-03,SP,Ferraz de Vasconcelos,city,14,0,15,False,194276,3515707,7.20624,
 2020-04-02,SP,Ferraz de Vasconcelos,city,12,0,14,False,194276,3515707,6.17678,
 2020-04-01,SP,Ferraz de Vasconcelos,city,9,0,13,False,194276,3515707,4.63258,
@@ -188,20 +190,21 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SP,Franca,city,2,0,3,True,353187,3516200,0.56627,
 2020-04-03,SP,Franca,city,2,0,2,False,353187,3516200,0.56627,
 2020-04-02,SP,Franca,city,1,0,1,False,353187,3516200,0.28314,
-2020-04-04,SP,Francisco Morato,city,7,0,3,True,175844,3516309,3.98080,
+2020-04-04,SP,Francisco Morato,city,8,1,3,True,175844,3516309,4.54949,0.1250
 2020-04-03,SP,Francisco Morato,city,7,0,2,False,175844,3516309,3.98080,
 2020-04-02,SP,Francisco Morato,city,3,1,1,False,175844,3516309,1.70606,0.3333
-2020-04-04,SP,Franco da Rocha,city,6,1,5,True,154489,3516408,3.88377,0.1667
+2020-04-04,SP,Franco da Rocha,city,7,1,5,True,154489,3516408,4.53107,0.1429
 2020-04-03,SP,Franco da Rocha,city,6,1,4,False,154489,3516408,3.88377,0.1667
 2020-04-02,SP,Franco da Rocha,city,6,0,3,False,154489,3516408,3.88377,
 2020-04-01,SP,Franco da Rocha,city,4,0,2,False,154489,3516408,2.58918,
 2020-03-31,SP,Franco da Rocha,city,3,0,1,False,154489,3516408,1.94189,
+2020-04-04,SP,Guararapes,city,2,0,1,True,32939,3518206,6.07183,
 2020-04-04,SP,Guarujá,city,3,0,5,True,320459,3518701,0.93616,
 2020-04-03,SP,Guarujá,city,3,0,4,False,320459,3518701,0.93616,
 2020-04-02,SP,Guarujá,city,3,0,3,False,320459,3518701,0.93616,
 2020-04-01,SP,Guarujá,city,1,0,2,False,320459,3518701,0.31205,
 2020-03-31,SP,Guarujá,city,1,0,1,False,320459,3518701,0.31205,
-2020-04-04,SP,Guarulhos,city,52,2,13,True,1379182,3518800,3.77035,0.0385
+2020-04-04,SP,Guarulhos,city,62,5,13,True,1379182,3518800,4.49542,0.0806
 2020-04-03,SP,Guarulhos,city,52,2,12,False,1379182,3518800,3.77035,0.0385
 2020-04-02,SP,Guarulhos,city,35,2,11,False,1379182,3518800,2.53774,0.0571
 2020-04-01,SP,Guarulhos,city,25,2,10,False,1379182,3518800,1.81267,0.0800
@@ -224,7 +227,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,SP,Hortolândia,city,1,0,3,False,230851,3519071,0.43318,
 2020-03-25,SP,Hortolândia,city,2,0,2,False,230851,3519071,0.86636,
 2020-03-20,SP,Hortolândia,city,1,,1,False,230851,3519071,0.43318,
-2020-04-04,SP,Importados/Indefinidos,city,69,0,11,True,,,,
+2020-04-04,SP,Importados/Indefinidos,city,76,0,11,True,,,,
 2020-04-03,SP,Importados/Indefinidos,city,69,0,10,False,,,,
 2020-04-02,SP,Importados/Indefinidos,city,75,0,9,False,,,,
 2020-04-01,SP,Importados/Indefinidos,city,59,0,8,False,,,,
@@ -252,18 +255,19 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,SP,Itanhaém,city,2,0,3,False,101816,3522109,1.96433,
 2020-04-02,SP,Itanhaém,city,2,0,2,False,101816,3522109,1.96433,
 2020-04-01,SP,Itanhaém,city,2,0,1,False,101816,3522109,1.96433,
-2020-04-04,SP,Itapecerica da Serra,city,6,1,5,True,175693,3522208,3.41505,0.1667
+2020-04-04,SP,Itapecerica da Serra,city,9,1,5,True,175693,3522208,5.12257,0.1111
 2020-04-03,SP,Itapecerica da Serra,city,6,1,4,False,175693,3522208,3.41505,0.1667
 2020-04-02,SP,Itapecerica da Serra,city,4,0,3,False,175693,3522208,2.27670,
 2020-04-01,SP,Itapecerica da Serra,city,4,0,2,False,175693,3522208,2.27670,
 2020-03-31,SP,Itapecerica da Serra,city,3,0,1,False,175693,3522208,1.70752,
-2020-04-04,SP,Itapevi,city,6,0,6,True,237700,3522505,2.52419,
+2020-04-04,SP,Itapevi,city,7,1,6,True,237700,3522505,2.94489,0.1429
 2020-04-03,SP,Itapevi,city,6,0,5,False,237700,3522505,2.52419,
 2020-04-02,SP,Itapevi,city,6,0,4,False,237700,3522505,2.52419,
 2020-04-01,SP,Itapevi,city,6,0,3,False,237700,3522505,2.52419,
 2020-03-31,SP,Itapevi,city,6,0,2,False,237700,3522505,2.52419,
 2020-03-30,SP,Itapevi,city,1,0,1,False,237700,3522505,0.42070,
-2020-04-04,SP,Itaquaquecetuba,city,9,0,5,True,370821,3523107,2.42705,
+2020-04-04,SP,Itapira,city,1,0,1,True,74773,3522604,1.33738,
+2020-04-04,SP,Itaquaquecetuba,city,10,0,5,True,370821,3523107,2.69672,
 2020-04-03,SP,Itaquaquecetuba,city,9,0,4,False,370821,3523107,2.42705,
 2020-04-02,SP,Itaquaquecetuba,city,5,0,3,False,370821,3523107,1.34836,
 2020-04-01,SP,Itaquaquecetuba,city,3,0,2,False,370821,3523107,0.80902,
@@ -303,6 +307,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SP,Jaú,city,1,0,3,True,150252,3525300,0.66555,
 2020-04-03,SP,Jaú,city,1,0,2,False,150252,3525300,0.66555,
 2020-04-02,SP,Jaú,city,1,0,1,False,150252,3525300,0.66555,
+2020-04-04,SP,José Bonifácio,city,1,0,1,True,37015,3525706,2.70161,
 2020-04-04,SP,Jundiaí,city,6,0,9,True,418962,3525904,1.43211,
 2020-04-03,SP,Jundiaí,city,6,0,8,False,418962,3525904,1.43211,
 2020-04-02,SP,Jundiaí,city,5,0,7,False,418962,3525904,1.19343,
@@ -329,7 +334,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,SP,Louveira,city,1,0,3,False,48885,3527306,2.04562,
 2020-03-27,SP,Louveira,city,1,0,2,False,48885,3527306,2.04562,
 2020-03-26,SP,Louveira,city,2,0,1,False,48885,3527306,4.09123,
-2020-04-04,SP,Mairiporã,city,3,0,8,True,100179,3528502,2.99464,
+2020-04-04,SP,Mairiporã,city,4,1,8,True,100179,3528502,3.99285,0.2500
 2020-04-03,SP,Mairiporã,city,3,0,7,False,100179,3528502,2.99464,
 2020-04-02,SP,Mairiporã,city,3,0,6,False,100179,3528502,2.99464,
 2020-04-01,SP,Mairiporã,city,2,0,5,False,100179,3528502,1.99643,
@@ -344,7 +349,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,SP,Matão,city,2,0,3,False,83170,3529302,2.40471,
 2020-04-01,SP,Matão,city,1,0,2,False,83170,3529302,1.20236,
 2020-03-31,SP,Matão,city,1,0,1,False,83170,3529302,1.20236,
-2020-04-04,SP,Mauá,city,10,0,14,True,472912,3529401,2.11456,
+2020-04-04,SP,Mauá,city,15,0,14,True,472912,3529401,3.17184,
 2020-04-03,SP,Mauá,city,10,0,13,False,472912,3529401,2.11456,
 2020-04-02,SP,Mauá,city,7,0,12,False,472912,3529401,1.48019,
 2020-04-01,SP,Mauá,city,3,0,11,False,472912,3529401,0.63437,
@@ -363,7 +368,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,SP,Mogi Guaçu,city,1,0,3,False,151888,3530706,0.65838,
 2020-04-01,SP,Mogi Guaçu,city,1,0,2,False,151888,3530706,0.65838,
 2020-03-31,SP,Mogi Guaçu,city,1,0,1,False,151888,3530706,0.65838,
-2020-04-04,SP,Mogi das Cruzes,city,16,1,10,True,445842,3530607,3.58872,0.0625
+2020-04-04,SP,Mogi das Cruzes,city,17,1,10,True,445842,3530607,3.81301,0.0588
 2020-04-03,SP,Mogi das Cruzes,city,16,1,9,False,445842,3530607,3.58872,0.0625
 2020-04-02,SP,Mogi das Cruzes,city,13,0,8,False,445842,3530607,2.91583,
 2020-04-01,SP,Mogi das Cruzes,city,11,0,7,False,445842,3530607,2.46724,
@@ -373,12 +378,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,SP,Mogi das Cruzes,city,7,0,3,False,445842,3530607,1.57006,
 2020-03-25,SP,Mogi das Cruzes,city,4,0,2,False,445842,3530607,0.89718,
 2020-03-20,SP,Mogi das Cruzes,city,1,,1,False,445842,3530607,0.22429,
-2020-04-04,SP,Nova Odessa,city,0,0,5,True,60174,3533403,,
+2020-04-04,SP,Nova Odessa,city,1,1,5,True,60174,3533403,1.66185,1.0000
 2020-04-03,SP,Nova Odessa,city,0,0,4,False,60174,3533403,,
 2020-04-02,SP,Nova Odessa,city,1,0,3,False,60174,3533403,1.66185,
 2020-04-01,SP,Nova Odessa,city,1,0,2,False,60174,3533403,1.66185,
 2020-03-31,SP,Nova Odessa,city,1,0,1,False,60174,3533403,1.66185,
-2020-04-04,SP,Osasco,city,57,3,11,True,698418,3534401,8.16130,0.0526
+2020-04-04,SP,Orlândia,city,1,0,1,True,44028,3534302,2.27128,
+2020-04-04,SP,Osasco,city,62,2,11,True,698418,3534401,8.87721,0.0323
 2020-04-03,SP,Osasco,city,57,3,10,False,698418,3534401,8.16130,0.0526
 2020-04-02,SP,Osasco,city,51,3,9,False,698418,3534401,7.30222,0.0588
 2020-04-01,SP,Osasco,city,43,2,8,False,698418,3534401,6.15677,0.0465
@@ -389,19 +395,20 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,SP,Osasco,city,3,1,3,False,698418,3534401,0.42954,0.3333
 2020-03-20,SP,Osasco,city,1,,2,False,698418,3534401,0.14318,
 2020-03-18,SP,Osasco,city,1,,1,False,698418,3534401,0.14318,
-2020-04-04,SP,Paulínia,city,1,0,6,True,109424,3536505,0.91388,
+2020-04-04,SP,Pariquera-Açu,city,1,0,1,True,19648,3536208,5.08958,
+2020-04-04,SP,Paulínia,city,2,0,6,True,109424,3536505,1.82775,
 2020-04-03,SP,Paulínia,city,1,0,5,False,109424,3536505,0.91388,
 2020-04-02,SP,Paulínia,city,1,0,4,False,109424,3536505,0.91388,
 2020-04-01,SP,Paulínia,city,1,0,3,False,109424,3536505,0.91388,
 2020-03-31,SP,Paulínia,city,1,0,2,False,109424,3536505,0.91388,
 2020-03-30,SP,Paulínia,city,1,0,1,False,109424,3536505,0.91388,
-2020-04-04,SP,Penápolis,city,1,0,6,True,63407,3537305,1.57711,
+2020-04-04,SP,Penápolis,city,1,1,6,True,63407,3537305,1.57711,1.0000
 2020-04-03,SP,Penápolis,city,1,0,5,False,63407,3537305,1.57711,
 2020-04-02,SP,Penápolis,city,1,0,4,False,63407,3537305,1.57711,
 2020-04-01,SP,Penápolis,city,1,0,3,False,63407,3537305,1.57711,
 2020-03-31,SP,Penápolis,city,1,0,2,False,63407,3537305,1.57711,
 2020-03-30,SP,Penápolis,city,1,0,1,False,63407,3537305,1.57711,
-2020-04-04,SP,Piracicaba,city,5,0,6,True,404142,3538709,1.23719,
+2020-04-04,SP,Piracicaba,city,6,0,6,True,404142,3538709,1.48463,
 2020-04-03,SP,Piracicaba,city,5,0,5,False,404142,3538709,1.23719,
 2020-04-02,SP,Piracicaba,city,6,0,4,False,404142,3538709,1.48463,
 2020-04-01,SP,Piracicaba,city,5,0,3,False,404142,3538709,1.23719,
@@ -412,8 +419,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,SP,Pirajuí,city,1,0,3,False,25492,3538907,3.92280,
 2020-04-01,SP,Pirajuí,city,1,0,2,False,25492,3538907,3.92280,
 2020-03-31,SP,Pirajuí,city,1,0,1,False,25492,3538907,3.92280,
-2020-04-04,SP,Porto Feliz,city,1,0,6,True,53098,3540606,1.88331,
-2020-04-03,SP,Porto Feliz,city,1,0,5,False,53098,3540606,1.88331,
+2020-04-03,SP,Porto Feliz,city,1,0,5,True,53098,3540606,1.88331,
 2020-04-02,SP,Porto Feliz,city,1,0,4,False,53098,3540606,1.88331,
 2020-04-01,SP,Porto Feliz,city,1,0,3,False,53098,3540606,1.88331,
 2020-03-31,SP,Porto Feliz,city,0,0,2,False,53098,3540606,,
@@ -427,7 +433,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SP,Poá,city,1,0,3,False,117452,3539806,0.85141,
 2020-03-26,SP,Poá,city,1,0,2,False,117452,3539806,0.85141,
 2020-03-25,SP,Poá,city,1,0,1,False,117452,3539806,0.85141,
-2020-04-04,SP,Praia Grande,city,2,0,4,True,325073,3541000,0.61525,
+2020-04-04,SP,Praia Grande,city,4,0,4,True,325073,3541000,1.23049,
 2020-04-03,SP,Praia Grande,city,2,0,3,False,325073,3541000,0.61525,
 2020-04-02,SP,Praia Grande,city,1,0,2,False,325073,3541000,0.30762,
 2020-04-01,SP,Praia Grande,city,1,0,1,False,325073,3541000,0.30762,
@@ -442,7 +448,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SP,Ribeirão Pires,city,1,0,3,False,123393,3543303,0.81042,
 2020-03-26,SP,Ribeirão Pires,city,1,0,2,False,123393,3543303,0.81042,
 2020-03-25,SP,Ribeirão Pires,city,1,0,1,False,123393,3543303,0.81042,
-2020-04-04,SP,Ribeirão Preto,city,15,1,8,True,703293,3543402,2.13282,0.0667
+2020-04-04,SP,Ribeirão Preto,city,24,1,8,True,703293,3543402,3.41252,0.0417
 2020-04-03,SP,Ribeirão Preto,city,15,1,7,False,703293,3543402,2.13282,0.0667
 2020-04-02,SP,Ribeirão Preto,city,11,1,6,False,703293,3543402,1.56407,0.0909
 2020-04-01,SP,Ribeirão Preto,city,8,1,5,False,703293,3543402,1.13751,0.1250
@@ -450,7 +456,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,SP,Ribeirão Preto,city,5,1,3,False,703293,3543402,0.71094,0.2000
 2020-03-27,SP,Ribeirão Preto,city,3,1,2,False,703293,3543402,0.42656,0.3333
 2020-03-26,SP,Ribeirão Preto,city,1,1,1,False,703293,3543402,0.14219,1.0000
-2020-04-04,SP,Rio Claro,city,1,0,9,True,206424,3543907,0.48444,
+2020-04-04,SP,Rio Claro,city,2,0,9,True,206424,3543907,0.96888,
 2020-04-03,SP,Rio Claro,city,1,0,8,False,206424,3543907,0.48444,
 2020-04-02,SP,Rio Claro,city,0,0,7,False,206424,3543907,,
 2020-04-01,SP,Rio Claro,city,1,0,6,False,206424,3543907,0.48444,
@@ -464,12 +470,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,SP,Salto de Pirapora,city,1,0,3,False,45422,3545308,2.20158,
 2020-04-01,SP,Salto de Pirapora,city,1,0,2,False,45422,3545308,2.20158,
 2020-03-31,SP,Salto de Pirapora,city,1,0,1,False,45422,3545308,2.20158,
+2020-04-04,SP,Santa Branca,city,2,0,1,True,14788,3546009,13.52448,
 2020-04-04,SP,Santa Isabel,city,1,0,5,True,57386,3546801,1.74259,
 2020-04-03,SP,Santa Isabel,city,1,0,4,False,57386,3546801,1.74259,
 2020-04-02,SP,Santa Isabel,city,1,0,3,False,57386,3546801,1.74259,
 2020-04-01,SP,Santa Isabel,city,1,0,2,False,57386,3546801,1.74259,
 2020-03-31,SP,Santa Isabel,city,1,0,1,False,57386,3546801,1.74259,
-2020-04-04,SP,Santana de Parnaíba,city,22,0,21,True,139447,3547304,15.77660,
+2020-04-04,SP,Santana de Parnaíba,city,24,0,21,True,139447,3547304,17.21084,
 2020-04-03,SP,Santana de Parnaíba,city,22,0,20,False,139447,3547304,15.77660,
 2020-04-02,SP,Santana de Parnaíba,city,20,0,19,False,139447,3547304,14.34237,
 2020-04-01,SP,Santana de Parnaíba,city,18,0,18,False,139447,3547304,12.90813,
@@ -490,7 +497,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-09,SP,Santana de Parnaíba,city,1,,3,False,139447,3547304,0.71712,
 2020-03-08,SP,Santana de Parnaíba,city,1,,2,False,139447,3547304,0.71712,
 2020-03-07,SP,Santana de Parnaíba,city,1,,1,False,139447,3547304,0.71712,
-2020-04-04,SP,Santo André,city,70,2,14,True,718773,3547809,9.73882,0.0286
+2020-04-04,SP,Santo André,city,76,3,14,True,718773,3547809,10.57357,0.0395
 2020-04-03,SP,Santo André,city,70,2,13,False,718773,3547809,9.73882,0.0286
 2020-04-02,SP,Santo André,city,59,2,12,False,718773,3547809,8.20843,0.0339
 2020-04-01,SP,Santo André,city,51,2,11,False,718773,3547809,7.09543,0.0392
@@ -504,7 +511,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,SP,Santo André,city,6,,3,False,718773,3547809,0.83476,
 2020-03-17,SP,Santo André,city,1,,2,False,718773,3547809,0.13913,
 2020-03-16,SP,Santo André,city,1,,1,False,718773,3547809,0.13913,
-2020-04-04,SP,Santos,city,55,0,6,True,433311,3548500,12.69296,
+2020-04-04,SP,Santos,city,66,2,6,True,433311,3548500,15.23155,0.0303
 2020-04-03,SP,Santos,city,55,0,5,False,433311,3548500,12.69296,
 2020-04-02,SP,Santos,city,37,0,4,False,433311,3548500,8.53890,
 2020-04-01,SP,Santos,city,23,0,3,False,433311,3548500,5.30797,
@@ -517,7 +524,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,SP,Sorocaba,city,3,1,3,False,679378,3552205,0.44158,0.3333
 2020-03-30,SP,Sorocaba,city,3,1,2,False,679378,3552205,0.44158,0.3333
 2020-03-27,SP,Sorocaba,city,1,0,1,False,679378,3552205,0.14719,
-2020-04-04,SP,Suzano,city,6,1,11,True,297637,3552502,2.01588,0.1667
+2020-04-04,SP,Suzano,city,8,0,11,True,297637,3552502,2.68784,
 2020-04-03,SP,Suzano,city,6,1,10,False,297637,3552502,2.01588,0.1667
 2020-04-02,SP,Suzano,city,5,1,9,False,297637,3552502,1.67990,0.2000
 2020-04-01,SP,Suzano,city,4,1,8,False,297637,3552502,1.34392,0.2500
@@ -528,7 +535,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,SP,Suzano,city,1,0,3,False,297637,3552502,0.33598,
 2020-03-20,SP,Suzano,city,1,,2,False,297637,3552502,0.33598,
 2020-03-19,SP,Suzano,city,1,,1,False,297637,3552502,0.33598,
-2020-04-04,SP,São Bernardo do Campo,city,70,4,14,True,838936,3548708,8.34390,0.0571
+2020-04-04,SP,São Bernardo do Campo,city,77,4,14,True,838936,3548708,9.17829,0.0519
 2020-04-03,SP,São Bernardo do Campo,city,70,4,13,False,838936,3548708,8.34390,0.0571
 2020-04-02,SP,São Bernardo do Campo,city,59,2,12,False,838936,3548708,7.03272,0.0339
 2020-04-01,SP,São Bernardo do Campo,city,52,2,11,False,838936,3548708,6.19833,0.0385
@@ -542,7 +549,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,SP,São Bernardo do Campo,city,3,,3,False,838936,3548708,0.35760,
 2020-03-17,SP,São Bernardo do Campo,city,1,,2,False,838936,3548708,0.11920,
 2020-03-16,SP,São Bernardo do Campo,city,1,,1,False,838936,3548708,0.11920,
-2020-04-04,SP,São Caetano do Sul,city,36,1,14,True,161127,3548807,22.34262,0.0278
+2020-04-04,SP,São Caetano do Sul,city,38,1,14,True,161127,3548807,23.58388,0.0263
 2020-04-03,SP,São Caetano do Sul,city,36,1,13,False,161127,3548807,22.34262,0.0278
 2020-04-02,SP,São Caetano do Sul,city,33,1,12,False,161127,3548807,20.48074,0.0303
 2020-04-01,SP,São Caetano do Sul,city,32,1,11,False,161127,3548807,19.86011,0.0312
@@ -561,7 +568,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,SP,São José do Rio Pardo,city,1,0,3,False,54946,3549706,1.81997,
 2020-04-01,SP,São José do Rio Pardo,city,1,0,2,False,54946,3549706,1.81997,
 2020-03-31,SP,São José do Rio Pardo,city,1,0,1,False,54946,3549706,1.81997,
-2020-04-04,SP,São José do Rio Preto,city,7,0,12,True,460671,3549805,1.51952,
+2020-04-04,SP,São José do Rio Preto,city,9,0,12,True,460671,3549805,1.95367,
 2020-04-03,SP,São José do Rio Preto,city,7,0,11,False,460671,3549805,1.51952,
 2020-04-02,SP,São José do Rio Preto,city,7,0,10,False,460671,3549805,1.51952,
 2020-04-01,SP,São José do Rio Preto,city,7,0,9,False,460671,3549805,1.51952,
@@ -573,7 +580,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,SP,São José do Rio Preto,city,1,,3,False,460671,3549805,0.21707,
 2020-03-19,SP,São José do Rio Preto,city,1,,2,False,460671,3549805,0.21707,
 2020-03-18,SP,São José do Rio Preto,city,1,,1,False,460671,3549805,0.21707,
-2020-04-04,SP,São José dos Campos,city,20,0,11,True,721944,3549904,2.77030,
+2020-04-04,SP,São José dos Campos,city,24,0,11,True,721944,3549904,3.32436,
 2020-04-03,SP,São José dos Campos,city,20,0,10,False,721944,3549904,2.77030,
 2020-04-02,SP,São José dos Campos,city,14,0,9,False,721944,3549904,1.93921,
 2020-04-01,SP,São José dos Campos,city,12,0,8,False,721944,3549904,1.66218,
@@ -584,7 +591,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,SP,São José dos Campos,city,2,0,3,False,721944,3549904,0.27703,
 2020-03-20,SP,São José dos Campos,city,1,,2,False,721944,3549904,0.13851,
 2020-03-18,SP,São José dos Campos,city,1,,1,False,721944,3549904,0.13851,
-2020-04-04,SP,São Paulo,city,3202,186,30,True,12252023,3550308,26.13446,0.0581
+2020-04-04,SP,São Manuel,city,1,0,1,True,40954,3550100,2.44176,
+2020-04-04,SP,São Paulo,city,3496,212,30,True,12252023,3550308,28.53406,0.0606
 2020-04-03,SP,São Paulo,city,3202,186,29,False,12252023,3550308,26.13446,0.0581
 2020-04-02,SP,São Paulo,city,2815,164,28,False,12252023,3550308,22.97580,0.0583
 2020-04-01,SP,São Paulo,city,2418,144,27,False,12252023,3550308,19.73552,0.0596
@@ -614,8 +622,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-02-28,SP,São Paulo,city,2,,3,False,12252023,3550308,0.01632,
 2020-02-27,SP,São Paulo,city,1,,2,False,12252023,3550308,0.00816,
 2020-02-26,SP,São Paulo,city,1,,1,False,12252023,3550308,0.00816,
-2020-04-04,SP,São Pedro,city,0,0,6,True,35653,3550407,,
-2020-04-03,SP,São Pedro,city,0,0,5,False,35653,3550407,,
+2020-04-03,SP,São Pedro,city,0,0,5,True,35653,3550407,,
 2020-04-02,SP,São Pedro,city,0,0,4,False,35653,3550407,,
 2020-04-01,SP,São Pedro,city,1,0,3,False,35653,3550407,2.80481,
 2020-03-31,SP,São Pedro,city,1,0,2,False,35653,3550407,2.80481,
@@ -629,12 +636,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SP,São Sebastião,city,2,0,3,False,88980,3550704,2.24770,
 2020-03-26,SP,São Sebastião,city,2,0,2,False,88980,3550704,2.24770,
 2020-03-25,SP,São Sebastião,city,2,0,1,False,88980,3550704,2.24770,
-2020-04-04,SP,São Vicente,city,4,0,5,True,365798,3551009,1.09350,
+2020-04-04,SP,São Vicente,city,5,0,5,True,365798,3551009,1.36687,
 2020-04-03,SP,São Vicente,city,4,0,4,False,365798,3551009,1.09350,
 2020-04-02,SP,São Vicente,city,3,1,3,False,365798,3551009,0.82012,0.3333
 2020-04-01,SP,São Vicente,city,2,0,2,False,365798,3551009,0.54675,
 2020-03-31,SP,São Vicente,city,1,0,1,False,365798,3551009,0.27337,
-2020-04-04,SP,Taboão da Serra,city,34,1,9,True,289664,3552809,11.73774,0.0294
+2020-04-04,SP,Taboão da Serra,city,39,2,9,True,289664,3552809,13.46388,0.0513
 2020-04-03,SP,Taboão da Serra,city,34,1,8,False,289664,3552809,11.73774,0.0294
 2020-04-02,SP,Taboão da Serra,city,29,1,7,False,289664,3552809,10.01160,0.0345
 2020-04-01,SP,Taboão da Serra,city,22,1,6,False,289664,3552809,7.59501,0.0455
