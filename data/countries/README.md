@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 06 2020 06:02:09 UTC.
+> Last updated at Apr 06 2020 08:02:12 UTC.
 
 
 | Country | Dataset |
@@ -181,6 +181,7 @@
 | Somalia | [`somalia.csv`](somalia.csv) |
 | South Africa | [`south_africa.csv`](south_africa.csv) |
 | South Korea | [`south_korea.csv`](south_korea.csv) |
+| South Sudan | [`south_sudan.csv`](south_sudan.csv) |
 | Spain | [`spain.csv`](spain.csv) |
 | Sri Lanka | [`sri_lanka.csv`](sri_lanka.csv) |
 | Sudan | [`sudan.csv`](sudan.csv) |
