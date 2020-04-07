@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 07 2020 06:02:27 UTC.
+> Last updated at Apr 07 2020 10:02:04 UTC.
 
 
 | Country | Dataset |
@@ -56,7 +56,7 @@
 | Cuba | [`cuba.csv`](cuba.csv) |
 | Curaçao | [`curaçao.csv`](curaçao.csv) |
 | Cyprus | [`cyprus.csv`](cyprus.csv) |
-| Czech Republic | [`czech_republic.csv`](czech_republic.csv) |
+| Czechia | [`czechia.csv`](czechia.csv) |
 | Democratic Republic of the Congo | [`democratic_republic_of_the_congo.csv`](democratic_republic_of_the_congo.csv) |
 | Denmark | [`denmark.csv`](denmark.csv) |
 | Djibouti | [`djibouti.csv`](djibouti.csv) |
@@ -164,7 +164,6 @@
 | Romania | [`romania.csv`](romania.csv) |
 | Russia | [`russia.csv`](russia.csv) |
 | Rwanda | [`rwanda.csv`](rwanda.csv) |
-| Saint Barthelemy | [`saint_barthelemy.csv`](saint_barthelemy.csv) |
 | Saint Kitts and Nevis | [`saint_kitts_and_nevis.csv`](saint_kitts_and_nevis.csv) |
 | Saint Lucia | [`saint_lucia.csv`](saint_lucia.csv) |
 | Saint Vincent and the Grenadines | [`saint_vincent_and_the_grenadines.csv`](saint_vincent_and_the_grenadines.csv) |
