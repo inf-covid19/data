@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-05,MA,,state,132,2,17,True,7075181,21,1.86568,0.0152
+2020-04-06,MA,,state,171,4,18,True,7075181,21,2.41690,0.0234
+2020-04-05,MA,,state,132,2,17,False,7075181,21,1.86568,0.0152
 2020-04-04,MA,,state,95,2,16,False,7075181,21,1.34272,0.0211
 2020-04-03,MA,,state,87,1,15,False,7075181,21,1.22965,0.0115
 2020-04-02,MA,,state,80,1,14,False,7075181,21,1.13071,0.0125
@@ -16,23 +17,29 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,MA,,state,2,0,3,False,7075181,21,0.02827,
 2020-03-21,MA,,state,2,0,2,False,7075181,21,0.02827,
 2020-03-20,MA,,state,1,0,1,False,7075181,21,0.01413,
-2020-04-05,MA,Açailândia,city,1,0,5,True,112445,2100055,0.88932,
+2020-04-06,MA,Açailândia,city,1,0,6,True,112445,2100055,0.88932,
+2020-04-05,MA,Açailândia,city,1,0,5,False,112445,2100055,0.88932,
 2020-04-04,MA,Açailândia,city,1,0,4,False,112445,2100055,0.88932,
 2020-04-03,MA,Açailândia,city,1,0,3,False,112445,2100055,0.88932,
 2020-04-02,MA,Açailândia,city,1,0,2,False,112445,2100055,0.88932,
 2020-04-01,MA,Açailândia,city,1,0,1,False,112445,2100055,0.88932,
-2020-04-05,MA,Imperatriz,city,1,0,5,True,258682,2105302,0.38658,
+2020-04-06,MA,Cajapió,city,1,0,1,True,11177,2102408,8.94694,
+2020-04-06,MA,Imperatriz,city,3,0,6,True,258682,2105302,1.15973,
+2020-04-05,MA,Imperatriz,city,1,0,5,False,258682,2105302,0.38658,
 2020-04-04,MA,Imperatriz,city,1,0,4,False,258682,2105302,0.38658,
 2020-04-03,MA,Imperatriz,city,1,0,3,False,258682,2105302,0.38658,
 2020-04-02,MA,Imperatriz,city,1,0,2,False,258682,2105302,0.38658,
 2020-04-01,MA,Imperatriz,city,1,0,1,False,258682,2105302,0.38658,
-2020-04-05,MA,Paço do Lumiar,city,2,0,3,True,122197,2107506,1.63670,
+2020-04-06,MA,Paço do Lumiar,city,4,0,4,True,122197,2107506,3.27340,
+2020-04-05,MA,Paço do Lumiar,city,2,0,3,False,122197,2107506,1.63670,
 2020-04-04,MA,Paço do Lumiar,city,2,0,2,False,122197,2107506,1.63670,
 2020-04-03,MA,Paço do Lumiar,city,1,0,1,False,122197,2107506,0.81835,
-2020-04-05,MA,São José de Ribamar,city,5,0,3,True,177687,2111201,2.81394,
+2020-04-06,MA,São José de Ribamar,city,8,0,4,True,177687,2111201,4.50230,
+2020-04-05,MA,São José de Ribamar,city,5,0,3,False,177687,2111201,2.81394,
 2020-04-04,MA,São José de Ribamar,city,3,0,2,False,177687,2111201,1.68836,
 2020-04-03,MA,São José de Ribamar,city,2,0,1,False,177687,2111201,1.12557,
-2020-04-05,MA,São Luís,city,121,2,17,True,1101884,2111300,10.98119,0.0165
+2020-04-06,MA,São Luís,city,152,4,18,True,1101884,2111300,13.79456,0.0263
+2020-04-05,MA,São Luís,city,121,2,17,False,1101884,2111300,10.98119,0.0165
 2020-04-04,MA,São Luís,city,86,2,16,False,1101884,2111300,7.80481,0.0233
 2020-04-03,MA,São Luís,city,82,1,15,False,1101884,2111300,7.44180,0.0122
 2020-04-02,MA,São Luís,city,78,1,14,False,1101884,2111300,7.07879,0.0128
@@ -49,5 +56,6 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,MA,São Luís,city,2,0,3,False,1101884,2111300,0.18151,
 2020-03-21,MA,São Luís,city,2,0,2,False,1101884,2111300,0.18151,
 2020-03-20,MA,São Luís,city,1,0,1,False,1101884,2111300,0.09075,
-2020-04-05,MA,Timon,city,2,0,2,True,169107,2112209,1.18268,
+2020-04-06,MA,Timon,city,2,0,3,True,169107,2112209,1.18268,
+2020-04-05,MA,Timon,city,2,0,2,False,169107,2112209,1.18268,
 2020-04-04,MA,Timon,city,2,0,1,False,169107,2112209,1.18268,
