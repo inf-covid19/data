@@ -33,7 +33,7 @@ def scrape_chile():
             '',
             '',
             'region',
-            cols[1],
+            cols[2],
             cols[4]
         ])
 
