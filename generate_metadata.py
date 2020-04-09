@@ -14,13 +14,17 @@ def meta_countries(countries={}):
         head = country_df.iloc[0]
         head = head.fillna('')
 
-        countries[head.countriesAndTerritories] = {
+        country_key = head.countriesAndTerritories.strip()
+
+        countries[country_key] = {
             'name': head.countriesAndTerritories,
             'file': country_file,
             'geoId': head.geoId,
             'countryTerritoryCode': head.countryterritoryCode,
             'regions': {}
         }
+
+    countries = dict(sorted(countries.items(), key=lambda item: item[0]))
     return countries
 
 
@@ -33,6 +37,8 @@ def meta_brazil(countries={}):
         }
     }
 
+    regions = {}
+
     for region_file in regions_file:
         region_df = pd.read_csv(region_file)
 
@@ -41,17 +47,22 @@ def meta_brazil(countries={}):
 
         for _, row in unique_region.iterrows():
             if row['place_type'] == 'state':
-                countries[country]['regions'][row['state']] = {
+                region_key = row['state']
+                regions[region_key] = {
                     'name': row['state'],
                     'place_type': row['place_type'],
                     'file': region_file
                 }
             elif row['place_type'] == 'city':
-                countries[country]['regions'][row['city']] = {
+                region_key = '{}:{}'.format(row['state'], row['city'])
+                regions[region_key] = {
                     'name': row['city'],
                     'parent': row['state'],
                     'place_type': row['place_type']
                 }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
 
     return countries
 
@@ -60,6 +71,8 @@ def meta_spain(countries={}):
     regions_file = glob.glob('data/spain/*.csv')
     country = 'Spain'
 
+    regions = {}
+
     for region_file in regions_file:
         region_df = pd.read_csv(region_file)
 
@@ -67,12 +80,15 @@ def meta_spain(countries={}):
             'region', 'city', 'place_type', 'iso']].drop_duplicates()
 
         for _, row in unique_region.iterrows():
-            countries[country]['regions'][row['region']] = {
+            regions[row['region']] = {
                 'name': row['region'],
                 'iso': row['iso'],
                 'place_type': row['place_type'],
                 'file': region_file,
             }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
 
     return countries
 
@@ -81,6 +97,8 @@ def meta_sweden(countries={}):
     regions_file = glob.glob('data/sweden/*.csv')
     country = 'Sweden'
 
+    regions = {}
+
     for region_file in regions_file:
         region_df = pd.read_csv(region_file)
 
@@ -88,12 +106,15 @@ def meta_sweden(countries={}):
             'county', 'county_iso', 'place_type']].drop_duplicates()
 
         for _, row in unique_region.iterrows():
-            countries[country]['regions'][row['county']] = {
+            regions[row['county']] = {
                 'name': row['county'],
                 'iso': row['county_iso'],
                 'file': region_file,
                 'place_type': row['place_type']
             }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
 
     return countries
 
@@ -102,6 +123,8 @@ def meta_united_kingdom(countries={}):
     regions_file = glob.glob('data/united_kingdom/*.csv')
     country = 'United_Kingdom'
 
+    regions = {}
+
     for region_file in regions_file:
         region_df = pd.read_csv(region_file)
 
@@ -109,11 +132,14 @@ def meta_united_kingdom(countries={}):
             'country', 'region', 'place_type']].drop_duplicates()
 
         for _, row in unique_region.iterrows():
-            countries[country]['regions'][row['region']] = {
+            regions[row['region']] = {
                 'name': row['region'],
                 'file': region_file,
                 'place_type': row['place_type']
             }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
 
     return countries
 
@@ -121,6 +147,8 @@ def meta_united_kingdom(countries={}):
 def meta_united_states_of_america(countries={}):
     regions_file = glob.glob('data/united_states_of_america/*.csv')
     country = 'United_States_of_America'
+
+    regions = {}
 
     for region_file in regions_file:
         region_df = pd.read_csv(region_file)
@@ -130,17 +158,22 @@ def meta_united_states_of_america(countries={}):
 
         for _, row in unique_region.iterrows():
             if row['place_type'] == 'state':
-                countries[country]['regions'][row['state']] = {
+                region_key = row['state']
+                regions[region_key] = {
                     'name': row['state'],
                     'place_type': row['place_type'],
                     'file': region_file
                 }
             elif row['place_type'] == 'county':
-                countries[country]['regions'][row['county']] = {
+                region_key = '{}:{}'.format(row['state'], row['county'])
+                regions[region_key] = {
                     'name': row['county'],
                     'parent': row['state'],
                     'place_type': row['place_type']
                 }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
 
     return countries
 
@@ -149,6 +182,8 @@ def meta_chile(countries={}):
     regions_file = glob.glob('data/chile/*.csv')
     country = 'Chile'
 
+    regions = {}
+
     for region_file in regions_file:
         region_df = pd.read_csv(region_file)
 
@@ -156,12 +191,15 @@ def meta_chile(countries={}):
             'region', 'province', 'city', 'place_type', 'region_iso']].drop_duplicates()
 
         for _, row in unique_region.iterrows():
-            countries[country]['regions'][row['region']] = {
+            regions[row['region']] = {
                 'name': row['region'],
                 'iso': row['region_iso'],
                 'place_type': row['place_type'],
                 'file': region_file,
             }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
 
     return countries
 
