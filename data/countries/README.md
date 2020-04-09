@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 09 2020 08:02:12 UTC.
+> Last updated at Apr 09 2020 10:02:20 UTC.
 
 
 | Country | Dataset |
@@ -168,6 +168,7 @@
 | Saint Lucia | [`saint_lucia.csv`](saint_lucia.csv) |
 | Saint Vincent and the Grenadines | [`saint_vincent_and_the_grenadines.csv`](saint_vincent_and_the_grenadines.csv) |
 | San Marino | [`san_marino.csv`](san_marino.csv) |
+| Sao Tome and Principe | [`sao_tome_and_principe.csv`](sao_tome_and_principe.csv) |
 | Saudi Arabia | [`saudi_arabia.csv`](saudi_arabia.csv) |
 | Senegal | [`senegal.csv`](senegal.csv) |
 | Serbia | [`serbia.csv`](serbia.csv) |
