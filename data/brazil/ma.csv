@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-07,MA,,state,229,11,19,True,7075181,21,3.23667,0.0480
+2020-04-08,MA,,state,272,12,20,True,7075181,21,3.84442,0.0441
+2020-04-07,MA,,state,229,11,19,False,7075181,21,3.23667,0.0480
 2020-04-06,MA,,state,171,4,18,False,7075181,21,2.41690,0.0234
 2020-04-05,MA,,state,132,2,17,False,7075181,21,1.86568,0.0152
 2020-04-04,MA,,state,95,2,16,False,7075181,21,1.34272,0.0211
@@ -18,35 +19,46 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,MA,,state,2,0,3,False,7075181,21,0.02827,
 2020-03-21,MA,,state,2,0,2,False,7075181,21,0.02827,
 2020-03-20,MA,,state,1,0,1,False,7075181,21,0.01413,
-2020-04-07,MA,Açailândia,city,1,0,7,True,112445,2100055,0.88932,
+2020-04-08,MA,Açailândia,city,1,0,8,True,112445,2100055,0.88932,
+2020-04-07,MA,Açailândia,city,1,0,7,False,112445,2100055,0.88932,
 2020-04-06,MA,Açailândia,city,1,0,6,False,112445,2100055,0.88932,
 2020-04-05,MA,Açailândia,city,1,0,5,False,112445,2100055,0.88932,
 2020-04-04,MA,Açailândia,city,1,0,4,False,112445,2100055,0.88932,
 2020-04-03,MA,Açailândia,city,1,0,3,False,112445,2100055,0.88932,
 2020-04-02,MA,Açailândia,city,1,0,2,False,112445,2100055,0.88932,
 2020-04-01,MA,Açailândia,city,1,0,1,False,112445,2100055,0.88932,
-2020-04-07,MA,Cajapió,city,1,0,2,True,11177,2102408,8.94694,
+2020-04-08,MA,Cajapió,city,1,0,3,True,11177,2102408,8.94694,
+2020-04-07,MA,Cajapió,city,1,0,2,False,11177,2102408,8.94694,
 2020-04-06,MA,Cajapió,city,1,0,1,False,11177,2102408,8.94694,
-2020-04-07,MA,Imperatriz,city,4,0,7,True,258682,2105302,1.54630,
+2020-04-08,MA,Colinas,city,1,0,1,True,41178,2103505,2.42848,
+2020-04-08,MA,Icatu,city,1,0,1,True,27113,2105104,3.68827,
+2020-04-08,MA,Imperatriz,city,4,0,8,True,258682,2105302,1.54630,
+2020-04-07,MA,Imperatriz,city,4,0,7,False,258682,2105302,1.54630,
 2020-04-06,MA,Imperatriz,city,3,0,6,False,258682,2105302,1.15973,
 2020-04-05,MA,Imperatriz,city,1,0,5,False,258682,2105302,0.38658,
 2020-04-04,MA,Imperatriz,city,1,0,4,False,258682,2105302,0.38658,
 2020-04-03,MA,Imperatriz,city,1,0,3,False,258682,2105302,0.38658,
 2020-04-02,MA,Imperatriz,city,1,0,2,False,258682,2105302,0.38658,
 2020-04-01,MA,Imperatriz,city,1,0,1,False,258682,2105302,0.38658,
-2020-04-07,MA,Paço do Lumiar,city,6,0,5,True,122197,2107506,4.91010,
+2020-04-08,MA,Paço do Lumiar,city,9,1,6,True,122197,2107506,7.36516,0.1111
+2020-04-07,MA,Paço do Lumiar,city,6,0,5,False,122197,2107506,4.91010,
 2020-04-06,MA,Paço do Lumiar,city,4,0,4,False,122197,2107506,3.27340,
 2020-04-05,MA,Paço do Lumiar,city,2,0,3,False,122197,2107506,1.63670,
 2020-04-04,MA,Paço do Lumiar,city,2,0,2,False,122197,2107506,1.63670,
 2020-04-03,MA,Paço do Lumiar,city,1,0,1,False,122197,2107506,0.81835,
-2020-04-07,MA,Santa Inês,city,1,0,1,True,89044,2109908,1.12304,
-2020-04-07,MA,São Benedito do Rio Preto,city,1,0,1,True,18663,2110401,5.35820,
-2020-04-07,MA,São José de Ribamar,city,10,0,5,True,177687,2111201,5.62787,
+2020-04-08,MA,Raposa,city,1,0,1,True,30761,2109452,3.25087,
+2020-04-08,MA,Santa Inês,city,1,0,2,True,89044,2109908,1.12304,
+2020-04-07,MA,Santa Inês,city,1,0,1,False,89044,2109908,1.12304,
+2020-04-08,MA,São Benedito do Rio Preto,city,1,0,2,True,18663,2110401,5.35820,
+2020-04-07,MA,São Benedito do Rio Preto,city,1,0,1,False,18663,2110401,5.35820,
+2020-04-08,MA,São José de Ribamar,city,21,0,6,True,177687,2111201,11.81853,
+2020-04-07,MA,São José de Ribamar,city,10,0,5,False,177687,2111201,5.62787,
 2020-04-06,MA,São José de Ribamar,city,8,0,4,False,177687,2111201,4.50230,
 2020-04-05,MA,São José de Ribamar,city,5,0,3,False,177687,2111201,2.81394,
 2020-04-04,MA,São José de Ribamar,city,3,0,2,False,177687,2111201,1.68836,
 2020-04-03,MA,São José de Ribamar,city,2,0,1,False,177687,2111201,1.12557,
-2020-04-07,MA,São Luís,city,203,11,19,True,1101884,2111300,18.42299,0.0542
+2020-04-08,MA,São Luís,city,228,11,20,True,1101884,2111300,20.69183,0.0482
+2020-04-07,MA,São Luís,city,203,11,19,False,1101884,2111300,18.42299,0.0542
 2020-04-06,MA,São Luís,city,152,4,18,False,1101884,2111300,13.79456,0.0263
 2020-04-05,MA,São Luís,city,121,2,17,False,1101884,2111300,10.98119,0.0165
 2020-04-04,MA,São Luís,city,86,2,16,False,1101884,2111300,7.80481,0.0233
@@ -65,7 +77,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,MA,São Luís,city,2,0,3,False,1101884,2111300,0.18151,
 2020-03-21,MA,São Luís,city,2,0,2,False,1101884,2111300,0.18151,
 2020-03-20,MA,São Luís,city,1,0,1,False,1101884,2111300,0.09075,
-2020-04-07,MA,Timon,city,2,0,4,True,169107,2112209,1.18268,
+2020-04-08,MA,Timon,city,2,0,5,True,169107,2112209,1.18268,
+2020-04-07,MA,Timon,city,2,0,4,False,169107,2112209,1.18268,
 2020-04-06,MA,Timon,city,2,0,3,False,169107,2112209,1.18268,
 2020-04-05,MA,Timon,city,2,0,2,False,169107,2112209,1.18268,
 2020-04-04,MA,Timon,city,2,0,1,False,169107,2112209,1.18268,
+2020-04-08,MA,Urbano Santos,city,1,0,1,True,33122,2112605,3.01914,

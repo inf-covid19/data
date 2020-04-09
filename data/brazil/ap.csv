@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-07,AP,,state,51,2,19,True,845731,16,6.03029,0.0392
+2020-04-08,AP,,state,107,2,20,True,845731,16,12.65178,0.0187
+2020-04-07,AP,,state,51,2,19,False,845731,16,6.03029,0.0392
 2020-04-06,AP,,state,39,2,18,False,845731,16,4.61140,0.0513
 2020-04-05,AP,,state,32,1,17,False,845731,16,3.78371,0.0312
 2020-04-04,AP,,state,29,1,16,False,845731,16,3.42899,0.0345
@@ -18,9 +19,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,AP,,state,1,0,3,False,845731,16,0.11824,
 2020-03-21,AP,,state,1,0,2,False,845731,16,0.11824,
 2020-03-20,AP,,state,1,0,1,False,845731,16,0.11824,
-2020-04-07,AP,Importados/Indefinidos,city,0,1,2,True,,,,
+2020-04-08,AP,Importados/Indefinidos,city,0,1,3,True,,,,
+2020-04-07,AP,Importados/Indefinidos,city,0,1,2,False,,,,
 2020-04-06,AP,Importados/Indefinidos,city,0,1,1,False,,,,
-2020-04-07,AP,Macapá,city,47,1,19,True,503327,1600303,9.33787,0.0213
+2020-04-08,AP,Macapá,city,95,1,20,True,503327,1600303,18.87441,0.0105
+2020-04-07,AP,Macapá,city,47,1,19,False,503327,1600303,9.33787,0.0213
 2020-04-06,AP,Macapá,city,35,1,18,False,503327,1600303,6.95373,0.0286
 2020-04-05,AP,Macapá,city,29,1,17,False,503327,1600303,5.76166,0.0345
 2020-04-04,AP,Macapá,city,28,1,16,False,503327,1600303,5.56298,0.0357
@@ -39,10 +42,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,AP,Macapá,city,1,0,3,False,503327,1600303,0.19868,
 2020-03-21,AP,Macapá,city,1,0,2,False,503327,1600303,0.19868,
 2020-03-20,AP,Macapá,city,1,0,1,False,503327,1600303,0.19868,
-2020-04-07,AP,Oiapoque,city,1,0,4,True,27270,1600501,3.66703,
+2020-04-08,AP,Oiapoque,city,1,0,5,True,27270,1600501,3.66703,
+2020-04-07,AP,Oiapoque,city,1,0,4,False,27270,1600501,3.66703,
 2020-04-06,AP,Oiapoque,city,1,0,3,False,27270,1600501,3.66703,
 2020-04-05,AP,Oiapoque,city,1,0,2,False,27270,1600501,3.66703,
 2020-04-04,AP,Oiapoque,city,1,0,1,False,27270,1600501,3.66703,
-2020-04-07,AP,Santana,city,3,0,3,True,121364,1600600,2.47190,
+2020-04-08,AP,Santana,city,11,0,4,True,121364,1600600,9.06364,
+2020-04-07,AP,Santana,city,3,0,3,False,121364,1600600,2.47190,
 2020-04-06,AP,Santana,city,3,0,2,False,121364,1600600,2.47190,
 2020-04-05,AP,Santana,city,2,0,1,False,121364,1600600,1.64794,

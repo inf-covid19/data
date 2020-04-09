@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-07,SE,,state,36,4,16,True,2298696,28,1.56611,0.1111
+2020-04-08,SE,,state,39,4,17,True,2298696,28,1.69661,0.1026
+2020-04-07,SE,,state,36,4,16,False,2298696,28,1.56611,0.1111
 2020-04-06,SE,,state,32,4,15,False,2298696,28,1.39209,0.1250
 2020-04-04,SE,,state,32,3,14,False,2298696,28,1.39209,0.0938
 2020-04-03,SE,,state,27,2,13,False,2298696,28,1.17458,0.0741
@@ -15,7 +16,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,SE,,state,6,0,3,False,2298696,28,0.26102,
 2020-03-16,SE,,state,5,0,2,False,2298696,28,0.21751,
 2020-03-14,SE,,state,1,0,1,False,2298696,28,0.04350,
-2020-04-07,SE,Aracaju,city,30,4,16,True,657013,2800308,4.56612,0.1333
+2020-04-08,SE,Aracaju,city,32,4,17,True,657013,2800308,4.87053,0.1250
+2020-04-07,SE,Aracaju,city,30,4,16,False,657013,2800308,4.56612,0.1333
 2020-04-06,SE,Aracaju,city,27,4,15,False,657013,2800308,4.10951,0.1481
 2020-04-04,SE,Aracaju,city,27,3,14,False,657013,2800308,4.10951,0.1111
 2020-04-03,SE,Aracaju,city,23,2,13,False,657013,2800308,3.50069,0.0870
@@ -31,15 +33,18 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,SE,Aracaju,city,5,,3,False,657013,2800308,0.76102,
 2020-03-16,SE,Aracaju,city,5,,2,False,657013,2800308,0.76102,
 2020-03-14,SE,Aracaju,city,1,0,1,False,657013,2800308,0.15220,
-2020-04-07,SE,Capela,city,1,0,5,True,34213,2801306,2.92287,
+2020-04-08,SE,Capela,city,1,0,6,True,34213,2801306,2.92287,
+2020-04-07,SE,Capela,city,1,0,5,False,34213,2801306,2.92287,
 2020-04-06,SE,Capela,city,1,0,4,False,34213,2801306,2.92287,
 2020-04-04,SE,Capela,city,1,0,3,False,34213,2801306,2.92287,
 2020-04-03,SE,Capela,city,1,0,2,False,34213,2801306,2.92287,
 2020-04-02,SE,Capela,city,1,0,1,False,34213,2801306,2.92287,
-2020-04-07,SE,Itabaiana,city,1,0,3,True,95427,2802908,1.04792,
+2020-04-08,SE,Itabaiana,city,1,0,4,True,95427,2802908,1.04792,
+2020-04-07,SE,Itabaiana,city,1,0,3,False,95427,2802908,1.04792,
 2020-04-06,SE,Itabaiana,city,1,0,2,False,95427,2802908,1.04792,
 2020-04-04,SE,Itabaiana,city,1,0,1,False,95427,2802908,1.04792,
-2020-04-07,SE,Nossa Senhora da Glória,city,1,0,12,True,36924,2804508,2.70827,
+2020-04-08,SE,Nossa Senhora da Glória,city,1,0,13,True,36924,2804508,2.70827,
+2020-04-07,SE,Nossa Senhora da Glória,city,1,0,12,False,36924,2804508,2.70827,
 2020-04-06,SE,Nossa Senhora da Glória,city,1,0,11,False,36924,2804508,2.70827,
 2020-04-04,SE,Nossa Senhora da Glória,city,1,0,10,False,36924,2804508,2.70827,
 2020-04-03,SE,Nossa Senhora da Glória,city,1,0,9,False,36924,2804508,2.70827,
@@ -51,7 +56,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,SE,Nossa Senhora da Glória,city,1,0,3,False,36924,2804508,2.70827,
 2020-03-24,SE,Nossa Senhora da Glória,city,1,,2,False,36924,2804508,2.70827,
 2020-03-21,SE,Nossa Senhora da Glória,city,1,0,1,False,36924,2804508,2.70827,
-2020-04-07,SE,Propriá,city,2,0,13,True,29626,2805703,6.75083,
+2020-04-08,SE,Pacatuba,city,1,0,1,True,14428,2804904,6.93097,
+2020-04-08,SE,Propriá,city,2,0,14,True,29626,2805703,6.75083,
+2020-04-07,SE,Propriá,city,2,0,13,False,29626,2805703,6.75083,
 2020-04-06,SE,Propriá,city,2,0,12,False,29626,2805703,6.75083,
 2020-04-04,SE,Propriá,city,2,0,11,False,29626,2805703,6.75083,
 2020-04-03,SE,Propriá,city,2,0,10,False,29626,2805703,6.75083,
@@ -64,4 +71,5 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,SE,Propriá,city,2,,3,False,29626,2805703,6.75083,
 2020-03-20,SE,Propriá,city,2,0,2,False,29626,2805703,6.75083,
 2020-03-18,SE,Propriá,city,1,0,1,False,29626,2805703,3.37541,
-2020-04-07,SE,Simão Dias,city,1,0,1,True,40484,2807105,2.47011,
+2020-04-08,SE,Simão Dias,city,1,0,2,True,40484,2807105,2.47011,
+2020-04-07,SE,Simão Dias,city,1,0,1,False,40484,2807105,2.47011,
