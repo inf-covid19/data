@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 10 2020 08:02:11 UTC.
+> Last updated at Apr 10 2020 10:02:11 UTC.
 
 
 | Country | Dataset |
@@ -208,5 +208,6 @@
 | Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
 | Venezuela | [`venezuela.csv`](venezuela.csv) |
 | Vietnam | [`vietnam.csv`](vietnam.csv) |
+| Yemen | [`yemen.csv`](yemen.csv) |
 | Zambia | [`zambia.csv`](zambia.csv) |
 | Zimbabwe | [`zimbabwe.csv`](zimbabwe.csv) |
