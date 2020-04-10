@@ -1,6 +1,7 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-08,AC,,state,58,1,23,True,881935,12,6.57645,0.0172
-2020-04-07,AC,,state,50,1,22,False,881935,12,5.66935,0.0200
+2020-04-09,AC,,state,62,2,24,True,881935,12,7.03000,0.0323
+2020-04-08,AC,,state,58,2,23,False,881935,12,6.57645,0.0345
+2020-04-07,AC,,state,50,2,22,False,881935,12,5.66935,0.0400
 2020-04-06,AC,,state,50,1,21,False,881935,12,5.66935,0.0200
 2020-04-05,AC,,state,48,0,20,False,881935,12,5.44258,
 2020-04-04,AC,,state,46,0,19,False,881935,12,5.21580,
@@ -22,7 +23,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-19,AC,,state,4,0,3,False,881935,12,0.45355,
 2020-03-18,AC,,state,3,0,2,False,881935,12,0.34016,
 2020-03-17,AC,,state,3,0,1,False,881935,12,0.34016,
-2020-04-08,AC,Acrelândia,city,9,0,11,True,15256,1200013,58.99318,
+2020-04-09,AC,Acrelândia,city,9,0,12,True,15256,1200013,58.99318,
+2020-04-08,AC,Acrelândia,city,9,0,11,False,15256,1200013,58.99318,
 2020-04-07,AC,Acrelândia,city,9,0,10,False,15256,1200013,58.99318,
 2020-04-06,AC,Acrelândia,city,9,0,9,False,15256,1200013,58.99318,
 2020-04-05,AC,Acrelândia,city,9,0,8,False,15256,1200013,58.99318,
@@ -33,11 +35,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AC,Acrelândia,city,7,0,3,False,15256,1200013,45.88359,
 2020-03-30,AC,Acrelândia,city,6,0,2,False,15256,1200013,39.32879,
 2020-03-29,AC,Acrelândia,city,2,0,1,False,15256,1200013,13.10960,
-2020-04-08,AC,Bujari,city,1,0,1,True,10266,1200138,9.74089,
-2020-04-08,AC,Plácido de Castro,city,2,0,3,True,19761,1200385,10.12095,
+2020-04-09,AC,Bujari,city,1,0,2,True,10266,1200138,9.74089,
+2020-04-08,AC,Bujari,city,1,0,1,False,10266,1200138,9.74089,
+2020-04-09,AC,Plácido de Castro,city,3,0,4,True,19761,1200385,15.18142,
+2020-04-08,AC,Plácido de Castro,city,2,0,3,False,19761,1200385,10.12095,
 2020-04-07,AC,Plácido de Castro,city,1,0,2,False,19761,1200385,5.06047,
 2020-04-06,AC,Plácido de Castro,city,1,0,1,False,19761,1200385,5.06047,
-2020-04-08,AC,Porto Acre,city,1,0,11,True,18504,1200807,5.40424,
+2020-04-09,AC,Porto Acre,city,1,0,12,True,18504,1200807,5.40424,
+2020-04-08,AC,Porto Acre,city,1,0,11,False,18504,1200807,5.40424,
 2020-04-07,AC,Porto Acre,city,1,0,10,False,18504,1200807,5.40424,
 2020-04-06,AC,Porto Acre,city,1,0,9,False,18504,1200807,5.40424,
 2020-04-05,AC,Porto Acre,city,1,0,8,False,18504,1200807,5.40424,
@@ -48,8 +53,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AC,Porto Acre,city,1,0,3,False,18504,1200807,5.40424,
 2020-03-30,AC,Porto Acre,city,1,0,2,False,18504,1200807,5.40424,
 2020-03-29,AC,Porto Acre,city,1,0,1,False,18504,1200807,5.40424,
-2020-04-08,AC,Rio Branco,city,45,1,23,True,407319,1200401,11.04785,0.0222
-2020-04-07,AC,Rio Branco,city,39,1,22,False,407319,1200401,9.57481,0.0256
+2020-04-09,AC,Rio Branco,city,48,2,24,True,407319,1200401,11.78438,0.0417
+2020-04-08,AC,Rio Branco,city,45,2,23,False,407319,1200401,11.04785,0.0444
+2020-04-07,AC,Rio Branco,city,39,2,22,False,407319,1200401,9.57481,0.0513
 2020-04-06,AC,Rio Branco,city,39,1,21,False,407319,1200401,9.57481,0.0256
 2020-04-05,AC,Rio Branco,city,38,0,20,False,407319,1200401,9.32930,
 2020-04-04,AC,Rio Branco,city,36,0,19,False,407319,1200401,8.83828,
