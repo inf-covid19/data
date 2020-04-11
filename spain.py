@@ -27,16 +27,17 @@ def scrape_spain():
                 is_header = False
 
     headers = ['date', 'region', 'city',
-               'place_type', 'iso', 'cases', 'deaths', 'hospitalized', 'critical']
+               'place_type', 'iso', 'cases', 'deaths', 'hospitalized', 'critical', 'recovered']
 
     df = pd.read_csv(csv_file, parse_dates=[1], dayfirst=True)
     df = df.rename(columns={
-        'CCAA Codigo ISO': 'iso',
-        'Fecha': 'date',
-        'Casos': 'cases',
+        'CCAA': 'iso',
+        'FECHA': 'date',
+        'CASOS': 'cases',
         'Hospitalizados': 'hospitalized',
         'UCI': 'critical',
-        'Fallecidos': 'deaths'
+        'Fallecidos': 'deaths',
+        'Recuperados': 'recovered'
     })
     df = df.sort_values(by=['iso', 'date'], ascending=[True, False])
     df['region'] = df.apply(lambda r: CCAA_ISO[r['iso']], axis=1)
@@ -84,7 +85,7 @@ CCAA_ISO = {
     'IB': 'Islas Baleares',
     'MC': 'Región de Murcia',
     'MD': 'Comunidad de Madrid',
-    'ME': 'Melilla', # it should be ES-ML
+    'ML': 'Melilla',
     'NC': 'Comunidad Foral de Navarra',
     'PV': 'País Vasco',
     'RI': 'La Rioja',
