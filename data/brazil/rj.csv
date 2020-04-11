@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-09,RJ,,state,2216,122,28,True,17264943,33,12.83526,0.0551
+2020-04-10,RJ,,state,2464,147,29,True,17264943,33,14.27169,0.0597
+2020-04-09,RJ,,state,2216,122,28,False,17264943,33,12.83526,0.0551
 2020-04-08,RJ,,state,1938,106,27,False,17264943,33,11.22506,0.0547
 2020-04-07,RJ,,state,1688,89,26,False,17264943,33,9.77704,0.0527
 2020-04-06,RJ,,state,1461,71,25,False,17264943,33,8.46223,0.0486
@@ -27,7 +28,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-08,RJ,,state,3,0,3,False,17264943,33,0.01738,
 2020-03-06,RJ,,state,2,0,2,False,17264943,33,0.01158,
 2020-03-05,RJ,,state,1,0,1,False,17264943,33,0.00579,
-2020-04-09,RJ,Angra dos Reis,city,4,0,11,True,203785,3300100,1.96285,
+2020-04-10,RJ,Angra dos Reis,city,4,0,12,True,203785,3300100,1.96285,
+2020-04-09,RJ,Angra dos Reis,city,4,0,11,False,203785,3300100,1.96285,
 2020-04-08,RJ,Angra dos Reis,city,4,0,10,False,203785,3300100,1.96285,
 2020-04-07,RJ,Angra dos Reis,city,4,0,9,False,203785,3300100,1.96285,
 2020-04-06,RJ,Angra dos Reis,city,3,0,8,False,203785,3300100,1.47214,
@@ -38,14 +40,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RJ,Angra dos Reis,city,1,0,3,False,203785,3300100,0.49071,
 2020-03-31,RJ,Angra dos Reis,city,1,0,2,False,203785,3300100,0.49071,
 2020-03-30,RJ,Angra dos Reis,city,1,0,1,False,203785,3300100,0.49071,
-2020-04-09,RJ,Araruama,city,3,0,7,True,132400,3300209,2.26586,
+2020-04-10,RJ,Araruama,city,3,0,8,True,132400,3300209,2.26586,
+2020-04-09,RJ,Araruama,city,3,0,7,False,132400,3300209,2.26586,
 2020-04-08,RJ,Araruama,city,1,0,6,False,132400,3300209,0.75529,
 2020-04-07,RJ,Araruama,city,1,0,5,False,132400,3300209,0.75529,
 2020-04-06,RJ,Araruama,city,1,0,4,False,132400,3300209,0.75529,
 2020-04-05,RJ,Araruama,city,1,0,3,False,132400,3300209,0.75529,
 2020-04-04,RJ,Araruama,city,1,0,2,False,132400,3300209,0.75529,
 2020-04-03,RJ,Araruama,city,1,0,1,False,132400,3300209,0.75529,
-2020-04-09,RJ,Arraial do Cabo,city,1,1,9,True,30349,3300258,3.29500,1.0000
+2020-04-10,RJ,Arraial do Cabo,city,1,1,10,True,30349,3300258,3.29500,1.0000
+2020-04-09,RJ,Arraial do Cabo,city,1,1,9,False,30349,3300258,3.29500,1.0000
 2020-04-08,RJ,Arraial do Cabo,city,1,1,8,False,30349,3300258,3.29500,1.0000
 2020-04-07,RJ,Arraial do Cabo,city,1,1,7,False,30349,3300258,3.29500,1.0000
 2020-04-06,RJ,Arraial do Cabo,city,1,1,6,False,30349,3300258,3.29500,1.0000
@@ -54,7 +58,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,RJ,Arraial do Cabo,city,1,1,3,False,30349,3300258,3.29500,1.0000
 2020-04-02,RJ,Arraial do Cabo,city,1,1,2,False,30349,3300258,3.29500,1.0000
 2020-04-01,RJ,Arraial do Cabo,city,1,1,1,False,30349,3300258,3.29500,1.0000
-2020-04-09,RJ,Barra Mansa,city,8,0,28,True,184412,3300407,4.33811,
+2020-04-10,RJ,Barra Mansa,city,11,0,29,True,184412,3300407,5.96490,
+2020-04-09,RJ,Barra Mansa,city,8,0,28,False,184412,3300407,4.33811,
 2020-04-08,RJ,Barra Mansa,city,8,0,27,False,184412,3300407,4.33811,
 2020-04-07,RJ,Barra Mansa,city,8,0,26,False,184412,3300407,4.33811,
 2020-04-06,RJ,Barra Mansa,city,3,0,25,False,184412,3300407,1.62679,
@@ -82,14 +87,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-08,RJ,Barra Mansa,city,1,0,3,False,184412,3300407,0.54226,
 2020-03-06,RJ,Barra Mansa,city,1,0,2,False,184412,3300407,0.54226,
 2020-03-05,RJ,Barra Mansa,city,1,0,1,False,184412,3300407,0.54226,
-2020-04-09,RJ,Barra do Piraí,city,3,0,7,True,100374,3300308,2.98882,
+2020-04-10,RJ,Barra do Piraí,city,3,0,8,True,100374,3300308,2.98882,
+2020-04-09,RJ,Barra do Piraí,city,3,0,7,False,100374,3300308,2.98882,
 2020-04-08,RJ,Barra do Piraí,city,3,0,6,False,100374,3300308,2.98882,
 2020-04-07,RJ,Barra do Piraí,city,3,0,5,False,100374,3300308,2.98882,
 2020-04-06,RJ,Barra do Piraí,city,2,0,4,False,100374,3300308,1.99255,
 2020-04-05,RJ,Barra do Piraí,city,2,0,3,False,100374,3300308,1.99255,
 2020-04-04,RJ,Barra do Piraí,city,2,0,2,False,100374,3300308,1.99255,
 2020-04-03,RJ,Barra do Piraí,city,2,0,1,False,100374,3300308,1.99255,
-2020-04-09,RJ,Belford Roxo,city,28,3,15,True,510906,3300456,5.48046,0.1071
+2020-04-10,RJ,Belford Roxo,city,28,3,16,True,510906,3300456,5.48046,0.1071
+2020-04-09,RJ,Belford Roxo,city,28,3,15,False,510906,3300456,5.48046,0.1071
 2020-04-08,RJ,Belford Roxo,city,23,3,14,False,510906,3300456,4.50181,0.1304
 2020-04-07,RJ,Belford Roxo,city,19,3,13,False,510906,3300456,3.71888,0.1579
 2020-04-06,RJ,Belford Roxo,city,14,3,12,False,510906,3300456,2.74023,0.2143
@@ -104,13 +111,18 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-28,RJ,Belford Roxo,city,1,0,3,False,510906,3300456,0.19573,
 2020-03-27,RJ,Belford Roxo,city,1,0,2,False,510906,3300456,0.19573,
 2020-03-26,RJ,Belford Roxo,city,1,0,1,False,510906,3300456,0.19573,
-2020-04-09,RJ,Bom Jardim,city,2,0,3,True,27446,3300506,7.28704,
+2020-04-10,RJ,Bom Jardim,city,2,0,4,True,27446,3300506,7.28704,
+2020-04-09,RJ,Bom Jardim,city,2,0,3,False,27446,3300506,7.28704,
 2020-04-08,RJ,Bom Jardim,city,1,0,2,False,27446,3300506,3.64352,
 2020-04-07,RJ,Bom Jardim,city,1,0,1,False,27446,3300506,3.64352,
-2020-04-09,RJ,Cabo Frio,city,4,0,3,True,226525,3300704,1.76581,
+2020-04-10,RJ,Bom Jesus do Itabapoana,city,3,1,1,True,37096,3300605,8.08713,0.3333
+2020-04-10,RJ,Cabo Frio,city,4,0,4,True,226525,3300704,1.76581,
+2020-04-09,RJ,Cabo Frio,city,4,0,3,False,226525,3300704,1.76581,
 2020-04-08,RJ,Cabo Frio,city,3,0,2,False,226525,3300704,1.32436,
 2020-04-07,RJ,Cabo Frio,city,1,0,1,False,226525,3300704,0.44145,
-2020-04-09,RJ,Campos dos Goytacazes,city,4,0,17,True,507548,3301009,0.78810,
+2020-04-10,RJ,Cachoeiras de Macacu,city,1,0,1,True,58937,3300803,1.69673,
+2020-04-10,RJ,Campos dos Goytacazes,city,4,0,18,True,507548,3301009,0.78810,
+2020-04-09,RJ,Campos dos Goytacazes,city,4,0,17,False,507548,3301009,0.78810,
 2020-04-08,RJ,Campos dos Goytacazes,city,4,0,16,False,507548,3301009,0.78810,
 2020-04-07,RJ,Campos dos Goytacazes,city,3,0,15,False,507548,3301009,0.59108,
 2020-04-06,RJ,Campos dos Goytacazes,city,2,0,14,False,507548,3301009,0.39405,
@@ -127,11 +139,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,RJ,Campos dos Goytacazes,city,1,0,3,False,507548,3301009,0.19703,
 2020-03-25,RJ,Campos dos Goytacazes,city,1,0,2,False,507548,3301009,0.19703,
 2020-03-24,RJ,Campos dos Goytacazes,city,1,0,1,False,507548,3301009,0.19703,
-2020-04-09,RJ,Cantagalo,city,1,0,1,True,20172,3301108,4.95737,
-2020-04-09,RJ,Casimiro de Abreu,city,3,0,3,True,44184,3301306,6.78979,
+2020-04-10,RJ,Cantagalo,city,1,0,2,True,20172,3301108,4.95737,
+2020-04-09,RJ,Cantagalo,city,1,0,1,False,20172,3301108,4.95737,
+2020-04-10,RJ,Casimiro de Abreu,city,3,0,4,True,44184,3301306,6.78979,
+2020-04-09,RJ,Casimiro de Abreu,city,3,0,3,False,44184,3301306,6.78979,
 2020-04-08,RJ,Casimiro de Abreu,city,3,0,2,False,44184,3301306,6.78979,
 2020-04-07,RJ,Casimiro de Abreu,city,3,0,1,False,44184,3301306,6.78979,
-2020-04-09,RJ,Duque de Caxias,city,48,8,17,True,919596,3301702,5.21968,0.1667
+2020-04-10,RJ,Duque de Caxias,city,62,15,18,True,919596,3301702,6.74209,0.2419
+2020-04-09,RJ,Duque de Caxias,city,48,8,17,False,919596,3301702,5.21968,0.1667
 2020-04-08,RJ,Duque de Caxias,city,38,8,16,False,919596,3301702,4.13225,0.2105
 2020-04-07,RJ,Duque de Caxias,city,33,5,15,False,919596,3301702,3.58853,0.1515
 2020-04-06,RJ,Duque de Caxias,city,21,3,14,False,919596,3301702,2.28361,0.1429
@@ -148,7 +163,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,RJ,Duque de Caxias,city,2,0,3,False,919596,3301702,0.21749,
 2020-03-25,RJ,Duque de Caxias,city,2,0,2,False,919596,3301702,0.21749,
 2020-03-24,RJ,Duque de Caxias,city,1,0,1,False,919596,3301702,0.10874,
-2020-04-09,RJ,Guapimirim,city,3,0,22,True,60517,3301850,4.95728,
+2020-04-10,RJ,Guapimirim,city,3,0,23,True,60517,3301850,4.95728,
+2020-04-09,RJ,Guapimirim,city,3,0,22,False,60517,3301850,4.95728,
 2020-04-08,RJ,Guapimirim,city,3,0,21,False,60517,3301850,4.95728,
 2020-04-07,RJ,Guapimirim,city,3,0,20,False,60517,3301850,4.95728,
 2020-04-06,RJ,Guapimirim,city,2,0,19,False,60517,3301850,3.30486,
@@ -170,14 +186,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,RJ,Guapimirim,city,1,0,3,False,60517,3301850,1.65243,
 2020-03-19,RJ,Guapimirim,city,1,0,2,False,60517,3301850,1.65243,
 2020-03-18,RJ,Guapimirim,city,1,0,1,False,60517,3301850,1.65243,
-2020-04-09,RJ,Iguaba Grande,city,3,2,7,True,28310,3301876,10.59696,0.6667
+2020-04-10,RJ,Iguaba Grande,city,3,2,8,True,28310,3301876,10.59696,0.6667
+2020-04-09,RJ,Iguaba Grande,city,3,2,7,False,28310,3301876,10.59696,0.6667
 2020-04-08,RJ,Iguaba Grande,city,3,2,6,False,28310,3301876,10.59696,0.6667
 2020-04-07,RJ,Iguaba Grande,city,3,2,5,False,28310,3301876,10.59696,0.6667
 2020-04-06,RJ,Iguaba Grande,city,1,0,4,False,28310,3301876,3.53232,
 2020-04-05,RJ,Iguaba Grande,city,1,0,3,False,28310,3301876,3.53232,
 2020-04-04,RJ,Iguaba Grande,city,1,0,2,False,28310,3301876,3.53232,
 2020-04-03,RJ,Iguaba Grande,city,1,0,1,False,28310,3301876,3.53232,
-2020-04-09,RJ,Importados/Indefinidos,city,1,0,20,True,,,,
+2020-04-10,RJ,Importados/Indefinidos,city,1,0,21,True,,,,
+2020-04-09,RJ,Importados/Indefinidos,city,1,0,20,False,,,,
 2020-04-08,RJ,Importados/Indefinidos,city,1,0,19,False,,,,
 2020-04-07,RJ,Importados/Indefinidos,city,1,0,18,False,,,,
 2020-04-06,RJ,Importados/Indefinidos,city,1,0,17,False,,,,
@@ -197,7 +215,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,RJ,Importados/Indefinidos,city,2,0,3,False,,,,
 2020-03-22,RJ,Importados/Indefinidos,city,2,0,2,False,,,,
 2020-03-21,RJ,Importados/Indefinidos,city,4,0,1,False,,,,
-2020-04-09,RJ,Itaboraí,city,20,2,14,True,240592,3301900,8.31283,0.1000
+2020-04-10,RJ,Itaboraí,city,20,2,15,True,240592,3301900,8.31283,0.1000
+2020-04-09,RJ,Itaboraí,city,20,2,14,False,240592,3301900,8.31283,0.1000
 2020-04-08,RJ,Itaboraí,city,15,2,13,False,240592,3301900,6.23462,0.1333
 2020-04-07,RJ,Itaboraí,city,15,2,12,False,240592,3301900,6.23462,0.1333
 2020-04-06,RJ,Itaboraí,city,14,2,11,False,240592,3301900,5.81898,0.1429
@@ -211,7 +230,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,RJ,Itaboraí,city,3,0,3,False,240592,3301900,1.24692,
 2020-03-28,RJ,Itaboraí,city,2,0,2,False,240592,3301900,0.83128,
 2020-03-27,RJ,Itaboraí,city,1,0,1,False,240592,3301900,0.41564,
-2020-04-09,RJ,Itaguaí,city,6,0,8,True,133019,3302007,4.51063,
+2020-04-10,RJ,Itaguaí,city,4,0,9,True,133019,3302007,3.00709,
+2020-04-09,RJ,Itaguaí,city,6,0,8,False,133019,3302007,4.51063,
 2020-04-08,RJ,Itaguaí,city,3,0,7,False,133019,3302007,2.25532,
 2020-04-07,RJ,Itaguaí,city,3,0,6,False,133019,3302007,2.25532,
 2020-04-06,RJ,Itaguaí,city,3,0,5,False,133019,3302007,2.25532,
@@ -219,15 +239,19 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,RJ,Itaguaí,city,2,0,3,False,133019,3302007,1.50354,
 2020-04-03,RJ,Itaguaí,city,2,0,2,False,133019,3302007,1.50354,
 2020-04-02,RJ,Itaguaí,city,1,0,1,False,133019,3302007,0.75177,
-2020-04-09,RJ,Itaperuna,city,2,0,5,True,103224,3302205,1.93753,
+2020-04-10,RJ,Itaperuna,city,2,0,6,True,103224,3302205,1.93753,
+2020-04-09,RJ,Itaperuna,city,2,0,5,False,103224,3302205,1.93753,
 2020-04-08,RJ,Itaperuna,city,2,0,4,False,103224,3302205,1.93753,
 2020-04-07,RJ,Itaperuna,city,2,0,3,False,103224,3302205,1.93753,
 2020-04-06,RJ,Itaperuna,city,2,0,2,False,103224,3302205,1.93753,
 2020-04-05,RJ,Itaperuna,city,1,0,1,False,103224,3302205,0.96877,
-2020-04-09,RJ,Japeri,city,3,0,3,True,104768,3302270,2.86347,
+2020-04-10,RJ,Itatiaia,city,1,0,1,True,31805,3302254,3.14416,
+2020-04-10,RJ,Japeri,city,3,0,4,True,104768,3302270,2.86347,
+2020-04-09,RJ,Japeri,city,3,0,3,False,104768,3302270,2.86347,
 2020-04-08,RJ,Japeri,city,1,0,2,False,104768,3302270,0.95449,
 2020-04-07,RJ,Japeri,city,1,0,1,False,104768,3302270,0.95449,
-2020-04-09,RJ,Macaé,city,6,1,10,True,256672,3302403,2.33761,0.1667
+2020-04-10,RJ,Macaé,city,6,1,11,True,256672,3302403,2.33761,0.1667
+2020-04-09,RJ,Macaé,city,6,1,10,False,256672,3302403,2.33761,0.1667
 2020-04-08,RJ,Macaé,city,6,0,9,False,256672,3302403,2.33761,
 2020-04-07,RJ,Macaé,city,6,0,8,False,256672,3302403,2.33761,
 2020-04-06,RJ,Macaé,city,6,0,7,False,256672,3302403,2.33761,
@@ -237,7 +261,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,RJ,Macaé,city,1,0,3,False,256672,3302403,0.38960,
 2020-04-01,RJ,Macaé,city,1,0,2,False,256672,3302403,0.38960,
 2020-03-31,RJ,Macaé,city,1,0,1,False,256672,3302403,0.38960,
-2020-04-09,RJ,Magé,city,9,0,8,True,245071,3302502,3.67241,
+2020-04-10,RJ,Magé,city,11,0,9,True,245071,3302502,4.48850,
+2020-04-09,RJ,Magé,city,9,0,8,False,245071,3302502,3.67241,
 2020-04-08,RJ,Magé,city,7,0,7,False,245071,3302502,2.85632,
 2020-04-07,RJ,Magé,city,7,0,6,False,245071,3302502,2.85632,
 2020-04-06,RJ,Magé,city,5,0,5,False,245071,3302502,2.04023,
@@ -245,7 +270,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,RJ,Magé,city,5,0,3,False,245071,3302502,2.04023,
 2020-04-03,RJ,Magé,city,4,0,2,False,245071,3302502,1.63218,
 2020-04-02,RJ,Magé,city,3,0,1,False,245071,3302502,1.22414,
-2020-04-09,RJ,Mangaratiba,city,2,0,13,True,44468,3302601,4.49762,
+2020-04-10,RJ,Mangaratiba,city,3,1,14,True,44468,3302601,6.74642,0.3333
+2020-04-09,RJ,Mangaratiba,city,2,0,13,False,44468,3302601,4.49762,
 2020-04-08,RJ,Mangaratiba,city,2,0,12,False,44468,3302601,4.49762,
 2020-04-07,RJ,Mangaratiba,city,2,0,11,False,44468,3302601,4.49762,
 2020-04-06,RJ,Mangaratiba,city,2,0,10,False,44468,3302601,4.49762,
@@ -258,7 +284,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,RJ,Mangaratiba,city,1,0,3,False,44468,3302601,2.24881,
 2020-03-29,RJ,Mangaratiba,city,1,0,2,False,44468,3302601,2.24881,
 2020-03-28,RJ,Mangaratiba,city,1,0,1,False,44468,3302601,2.24881,
-2020-04-09,RJ,Maricá,city,12,1,12,True,161207,3302700,7.44385,0.0833
+2020-04-10,RJ,Maricá,city,15,2,13,True,161207,3302700,9.30481,0.1333
+2020-04-09,RJ,Maricá,city,12,1,12,False,161207,3302700,7.44385,0.0833
 2020-04-08,RJ,Maricá,city,10,1,11,False,161207,3302700,6.20320,0.1000
 2020-04-07,RJ,Maricá,city,9,1,10,False,161207,3302700,5.58288,0.1111
 2020-04-06,RJ,Maricá,city,8,1,9,False,161207,3302700,4.96256,0.1250
@@ -270,7 +297,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RJ,Maricá,city,2,0,3,False,161207,3302700,1.24064,
 2020-03-30,RJ,Maricá,city,1,0,2,False,161207,3302700,0.62032,
 2020-03-29,RJ,Maricá,city,1,0,1,False,161207,3302700,0.62032,
-2020-04-09,RJ,Mesquita,city,19,1,8,True,176103,3302858,10.78914,0.0526
+2020-04-10,RJ,Mesquita,city,23,1,9,True,176103,3302858,13.06054,0.0435
+2020-04-09,RJ,Mesquita,city,19,1,8,False,176103,3302858,10.78914,0.0526
 2020-04-08,RJ,Mesquita,city,9,1,7,False,176103,3302858,5.11065,0.1111
 2020-04-07,RJ,Mesquita,city,7,1,6,False,176103,3302858,3.97495,0.1429
 2020-04-06,RJ,Mesquita,city,6,1,5,False,176103,3302858,3.40710,0.1667
@@ -278,7 +306,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,RJ,Mesquita,city,1,1,3,False,176103,3302858,0.56785,1.0000
 2020-04-03,RJ,Mesquita,city,0,0,2,False,176103,3302858,,
 2020-04-02,RJ,Mesquita,city,1,0,1,False,176103,3302858,0.56785,
-2020-04-09,RJ,Miguel Pereira,city,1,1,21,True,25538,3302908,3.91573,1.0000
+2020-04-10,RJ,Miguel Pereira,city,2,1,22,True,25538,3302908,7.83147,0.5000
+2020-04-09,RJ,Miguel Pereira,city,1,1,21,False,25538,3302908,3.91573,1.0000
 2020-04-08,RJ,Miguel Pereira,city,1,1,20,False,25538,3302908,3.91573,1.0000
 2020-04-07,RJ,Miguel Pereira,city,1,1,19,False,25538,3302908,3.91573,1.0000
 2020-04-06,RJ,Miguel Pereira,city,1,1,18,False,25538,3302908,3.91573,1.0000
@@ -299,14 +328,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RJ,Miguel Pereira,city,1,1,3,False,25538,3302908,3.91573,1.0000
 2020-03-21,RJ,Miguel Pereira,city,1,1,2,False,25538,3302908,3.91573,1.0000
 2020-03-19,RJ,Miguel Pereira,city,1,1,1,False,25538,3302908,3.91573,1.0000
-2020-04-09,RJ,Nilópolis,city,12,0,7,True,162485,3303203,7.38530,
+2020-04-10,RJ,Nilópolis,city,13,0,8,True,162485,3303203,8.00074,
+2020-04-09,RJ,Nilópolis,city,12,0,7,False,162485,3303203,7.38530,
 2020-04-08,RJ,Nilópolis,city,10,0,6,False,162485,3303203,6.15441,
 2020-04-07,RJ,Nilópolis,city,9,0,5,False,162485,3303203,5.53897,
 2020-04-06,RJ,Nilópolis,city,4,0,4,False,162485,3303203,2.46177,
 2020-04-05,RJ,Nilópolis,city,4,0,3,False,162485,3303203,2.46177,
 2020-04-04,RJ,Nilópolis,city,1,0,2,False,162485,3303203,0.61544,
 2020-04-03,RJ,Nilópolis,city,1,0,1,False,162485,3303203,0.61544,
-2020-04-09,RJ,Niterói,city,117,5,25,True,513584,3303302,22.78108,0.0427
+2020-04-10,RJ,Niterói,city,117,5,26,True,513584,3303302,22.78108,0.0427
+2020-04-09,RJ,Niterói,city,117,5,25,False,513584,3303302,22.78108,0.0427
 2020-04-08,RJ,Niterói,city,106,2,24,False,513584,3303302,20.63927,0.0189
 2020-04-07,RJ,Niterói,city,94,2,23,False,513584,3303302,18.30275,0.0213
 2020-04-06,RJ,Niterói,city,92,2,22,False,513584,3303302,17.91333,0.0217
@@ -331,13 +362,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-16,RJ,Niterói,city,1,0,3,False,513584,3303302,0.19471,
 2020-03-15,RJ,Niterói,city,1,0,2,False,513584,3303302,0.19471,
 2020-03-12,RJ,Niterói,city,1,0,1,False,513584,3303302,0.19471,
-2020-04-09,RJ,Nova Friburgo,city,13,0,6,True,190631,3303401,6.81946,
+2020-04-10,RJ,Nova Friburgo,city,13,0,7,True,190631,3303401,6.81946,
+2020-04-09,RJ,Nova Friburgo,city,13,0,6,False,190631,3303401,6.81946,
 2020-04-08,RJ,Nova Friburgo,city,7,0,5,False,190631,3303401,3.67202,
 2020-04-07,RJ,Nova Friburgo,city,7,0,4,False,190631,3303401,3.67202,
 2020-04-06,RJ,Nova Friburgo,city,4,0,3,False,190631,3303401,2.09829,
 2020-04-05,RJ,Nova Friburgo,city,2,0,2,False,190631,3303401,1.04915,
 2020-04-04,RJ,Nova Friburgo,city,1,0,1,False,190631,3303401,0.52457,
-2020-04-09,RJ,Nova Iguaçu,city,57,2,13,True,821128,3303500,6.94167,0.0351
+2020-04-10,RJ,Nova Iguaçu,city,68,3,14,True,821128,3303500,8.28129,0.0441
+2020-04-09,RJ,Nova Iguaçu,city,57,2,13,False,821128,3303500,6.94167,0.0351
 2020-04-08,RJ,Nova Iguaçu,city,50,2,12,False,821128,3303500,6.08918,0.0400
 2020-04-07,RJ,Nova Iguaçu,city,38,2,11,False,821128,3303500,4.62778,0.0526
 2020-04-06,RJ,Nova Iguaçu,city,29,2,10,False,821128,3303500,3.53173,0.0690
@@ -350,15 +383,20 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,RJ,Nova Iguaçu,city,7,0,3,False,821128,3303500,0.85249,
 2020-03-29,RJ,Nova Iguaçu,city,3,0,2,False,821128,3303500,0.36535,
 2020-03-28,RJ,Nova Iguaçu,city,1,0,1,False,821128,3303500,0.12178,
-2020-04-09,RJ,Paraty,city,1,0,1,True,43165,3303807,2.31669,
-2020-04-09,RJ,Paraíba do Sul,city,3,0,6,True,44285,3303708,6.77430,
+2020-04-10,RJ,Paracambi,city,1,0,1,True,52257,3303609,1.91362,
+2020-04-10,RJ,Paraty,city,1,0,2,True,43165,3303807,2.31669,
+2020-04-09,RJ,Paraty,city,1,0,1,False,43165,3303807,2.31669,
+2020-04-10,RJ,Paraíba do Sul,city,3,0,7,True,44285,3303708,6.77430,
+2020-04-09,RJ,Paraíba do Sul,city,3,0,6,False,44285,3303708,6.77430,
 2020-04-08,RJ,Paraíba do Sul,city,3,0,5,False,44285,3303708,6.77430,
 2020-04-07,RJ,Paraíba do Sul,city,3,0,4,False,44285,3303708,6.77430,
 2020-04-06,RJ,Paraíba do Sul,city,2,0,3,False,44285,3303708,4.51620,
 2020-04-05,RJ,Paraíba do Sul,city,2,0,2,False,44285,3303708,4.51620,
 2020-04-04,RJ,Paraíba do Sul,city,2,0,1,False,44285,3303708,4.51620,
-2020-04-09,RJ,Paty do Alferes,city,2,0,1,True,27769,3303856,7.20228,
-2020-04-09,RJ,Petrópolis,city,22,1,20,True,306191,3303906,7.18506,0.0455
+2020-04-10,RJ,Paty do Alferes,city,2,0,2,True,27769,3303856,7.20228,
+2020-04-09,RJ,Paty do Alferes,city,2,0,1,False,27769,3303856,7.20228,
+2020-04-10,RJ,Petrópolis,city,26,1,21,True,306191,3303906,8.49143,0.0385
+2020-04-09,RJ,Petrópolis,city,22,1,20,False,306191,3303906,7.18506,0.0455
 2020-04-08,RJ,Petrópolis,city,22,1,19,False,306191,3303906,7.18506,0.0455
 2020-04-07,RJ,Petrópolis,city,20,1,18,False,306191,3303906,6.53187,0.0500
 2020-04-06,RJ,Petrópolis,city,16,1,17,False,306191,3303906,5.22550,0.0625
@@ -378,20 +416,24 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,RJ,Petrópolis,city,3,1,3,False,306191,3303906,0.97978,0.3333
 2020-03-22,RJ,Petrópolis,city,3,1,2,False,306191,3303906,0.97978,0.3333
 2020-03-21,RJ,Petrópolis,city,3,1,1,False,306191,3303906,0.97978,0.3333
-2020-04-09,RJ,Porciúncula,city,1,0,7,True,18847,3304102,5.30588,
+2020-04-10,RJ,Porciúncula,city,1,0,8,True,18847,3304102,5.30588,
+2020-04-09,RJ,Porciúncula,city,1,0,7,False,18847,3304102,5.30588,
 2020-04-08,RJ,Porciúncula,city,1,0,6,False,18847,3304102,5.30588,
 2020-04-07,RJ,Porciúncula,city,1,0,5,False,18847,3304102,5.30588,
 2020-04-06,RJ,Porciúncula,city,1,0,4,False,18847,3304102,5.30588,
 2020-04-05,RJ,Porciúncula,city,1,0,3,False,18847,3304102,5.30588,
 2020-04-04,RJ,Porciúncula,city,1,0,2,False,18847,3304102,5.30588,
 2020-04-03,RJ,Porciúncula,city,1,0,1,False,18847,3304102,5.30588,
-2020-04-09,RJ,Porto Real,city,1,0,3,True,19683,3304110,5.08053,
+2020-04-10,RJ,Porto Real,city,2,0,4,True,19683,3304110,10.16105,
+2020-04-09,RJ,Porto Real,city,1,0,3,False,19683,3304110,5.08053,
 2020-04-08,RJ,Porto Real,city,1,0,2,False,19683,3304110,5.08053,
 2020-04-07,RJ,Porto Real,city,1,0,1,False,19683,3304110,5.08053,
-2020-04-09,RJ,Quatis,city,2,0,3,True,14302,3304128,13.98406,
+2020-04-10,RJ,Quatis,city,2,0,4,True,14302,3304128,13.98406,
+2020-04-09,RJ,Quatis,city,2,0,3,False,14302,3304128,13.98406,
 2020-04-08,RJ,Quatis,city,2,0,2,False,14302,3304128,13.98406,
 2020-04-07,RJ,Quatis,city,2,0,1,False,14302,3304128,13.98406,
-2020-04-09,RJ,Queimados,city,7,0,11,True,150319,3304144,4.65676,
+2020-04-10,RJ,Queimados,city,8,0,12,True,150319,3304144,5.32202,
+2020-04-09,RJ,Queimados,city,7,0,11,False,150319,3304144,4.65676,
 2020-04-08,RJ,Queimados,city,5,0,10,False,150319,3304144,3.32626,
 2020-04-07,RJ,Queimados,city,5,0,9,False,150319,3304144,3.32626,
 2020-04-06,RJ,Queimados,city,4,0,8,False,150319,3304144,2.66101,
@@ -402,7 +444,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RJ,Queimados,city,1,0,3,False,150319,3304144,0.66525,
 2020-03-31,RJ,Queimados,city,1,0,2,False,150319,3304144,0.66525,
 2020-03-30,RJ,Queimados,city,1,0,1,False,150319,3304144,0.66525,
-2020-04-09,RJ,Resende,city,5,0,16,True,131341,3304201,3.80688,
+2020-04-10,RJ,Resende,city,6,0,17,True,131341,3304201,4.56826,
+2020-04-09,RJ,Resende,city,5,0,16,False,131341,3304201,3.80688,
 2020-04-08,RJ,Resende,city,4,0,15,False,131341,3304201,3.04551,
 2020-04-07,RJ,Resende,city,4,0,14,False,131341,3304201,3.04551,
 2020-04-06,RJ,Resende,city,3,0,13,False,131341,3304201,2.28413,
@@ -418,7 +461,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,RJ,Resende,city,0,0,3,False,131341,3304201,,
 2020-03-26,RJ,Resende,city,1,0,2,False,131341,3304201,0.76138,
 2020-03-25,RJ,Resende,city,1,0,1,False,131341,3304201,0.76138,
-2020-04-09,RJ,Rio Bonito,city,3,2,11,True,60201,3304300,4.98331,0.6667
+2020-04-10,RJ,Rio Bonito,city,4,2,12,True,60201,3304300,6.64441,0.5000
+2020-04-09,RJ,Rio Bonito,city,3,2,11,False,60201,3304300,4.98331,0.6667
 2020-04-08,RJ,Rio Bonito,city,3,2,10,False,60201,3304300,4.98331,0.6667
 2020-04-07,RJ,Rio Bonito,city,3,2,9,False,60201,3304300,4.98331,0.6667
 2020-04-06,RJ,Rio Bonito,city,2,2,8,False,60201,3304300,3.32220,1.0000
@@ -429,9 +473,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RJ,Rio Bonito,city,2,1,3,False,60201,3304300,3.32220,0.5000
 2020-03-31,RJ,Rio Bonito,city,2,1,2,False,60201,3304300,3.32220,0.5000
 2020-03-30,RJ,Rio Bonito,city,2,1,1,False,60201,3304300,3.32220,0.5000
-2020-04-09,RJ,Rio das Flores,city,1,0,2,True,9284,3304508,10.77122,
+2020-04-10,RJ,Rio das Flores,city,1,0,3,True,9284,3304508,10.77122,
+2020-04-09,RJ,Rio das Flores,city,1,0,2,False,9284,3304508,10.77122,
 2020-04-08,RJ,Rio das Flores,city,1,,1,False,9284,3304508,10.77122,
-2020-04-09,RJ,Rio das Ostras,city,3,1,12,True,150674,3304524,1.99105,0.3333
+2020-04-10,RJ,Rio das Ostras,city,5,1,13,True,150674,3304524,3.31842,0.2000
+2020-04-09,RJ,Rio das Ostras,city,3,1,12,False,150674,3304524,1.99105,0.3333
 2020-04-08,RJ,Rio das Ostras,city,3,1,11,False,150674,3304524,1.99105,0.3333
 2020-04-07,RJ,Rio das Ostras,city,3,1,10,False,150674,3304524,1.99105,0.3333
 2020-04-06,RJ,Rio das Ostras,city,3,1,9,False,150674,3304524,1.99105,0.3333
@@ -443,7 +489,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RJ,Rio das Ostras,city,2,0,3,False,150674,3304524,1.32737,
 2020-03-30,RJ,Rio das Ostras,city,2,0,2,False,150674,3304524,1.32737,
 2020-03-29,RJ,Rio das Ostras,city,2,0,1,False,150674,3304524,1.32737,
-2020-04-09,RJ,Rio de Janeiro,city,1633,82,27,True,6718903,3304557,24.30456,0.0502
+2020-04-10,RJ,Rio de Janeiro,city,1808,92,28,True,6718903,3304557,26.90915,0.0509
+2020-04-09,RJ,Rio de Janeiro,city,1633,82,27,False,6718903,3304557,24.30456,0.0502
 2020-04-08,RJ,Rio de Janeiro,city,1449,73,26,False,6718903,3304557,21.56602,0.0504
 2020-04-07,RJ,Rio de Janeiro,city,1251,59,25,False,6718903,3304557,18.61911,0.0472
 2020-04-06,RJ,Rio de Janeiro,city,1110,47,24,False,6718903,3304557,16.52055,0.0423
@@ -470,10 +517,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-12,RJ,Rio de Janeiro,city,13,0,3,False,6718903,3304557,0.19348,
 2020-03-08,RJ,Rio de Janeiro,city,2,0,2,False,6718903,3304557,0.02977,
 2020-03-06,RJ,Rio de Janeiro,city,1,0,1,False,6718903,3304557,0.01488,
-2020-04-09,RJ,Sapucaia,city,1,0,3,True,18228,3305406,5.48607,
+2020-04-10,RJ,Sapucaia,city,1,0,4,True,18228,3305406,5.48607,
+2020-04-09,RJ,Sapucaia,city,1,0,3,False,18228,3305406,5.48607,
 2020-04-08,RJ,Sapucaia,city,1,0,2,False,18228,3305406,5.48607,
 2020-04-07,RJ,Sapucaia,city,1,0,1,False,18228,3305406,5.48607,
-2020-04-09,RJ,Seropédica,city,3,0,12,True,82312,3305554,3.64467,
+2020-04-10,RJ,Seropédica,city,4,0,13,True,82312,3305554,4.85956,
+2020-04-09,RJ,Seropédica,city,3,0,12,False,82312,3305554,3.64467,
 2020-04-08,RJ,Seropédica,city,2,0,11,False,82312,3305554,2.42978,
 2020-04-07,RJ,Seropédica,city,2,0,10,False,82312,3305554,2.42978,
 2020-04-06,RJ,Seropédica,city,1,0,9,False,82312,3305554,1.21489,
@@ -485,8 +534,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RJ,Seropédica,city,1,0,3,False,82312,3305554,1.21489,
 2020-03-30,RJ,Seropédica,city,1,0,2,False,82312,3305554,1.21489,
 2020-03-29,RJ,Seropédica,city,1,0,1,False,82312,3305554,1.21489,
-2020-04-09,RJ,Sumidouro,city,1,0,1,True,15623,3305703,6.40082,
-2020-04-09,RJ,São Gonçalo,city,31,3,18,True,1084839,3304904,2.85757,0.0968
+2020-04-10,RJ,Sumidouro,city,1,0,2,True,15623,3305703,6.40082,
+2020-04-09,RJ,Sumidouro,city,1,0,1,False,15623,3305703,6.40082,
+2020-04-10,RJ,São Francisco de Itabapoana,city,1,0,1,True,42205,3304755,2.36939,
+2020-04-10,RJ,São Gonçalo,city,35,4,19,True,1084839,3304904,3.22629,0.1143
+2020-04-09,RJ,São Gonçalo,city,31,3,18,False,1084839,3304904,2.85757,0.0968
 2020-04-08,RJ,São Gonçalo,city,26,3,17,False,1084839,3304904,2.39667,0.1154
 2020-04-07,RJ,São Gonçalo,city,22,3,16,False,1084839,3304904,2.02795,0.1364
 2020-04-06,RJ,São Gonçalo,city,13,1,15,False,1084839,3304904,1.19833,0.0769
@@ -504,12 +556,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,RJ,São Gonçalo,city,3,0,3,False,1084839,3304904,0.27654,
 2020-03-24,RJ,São Gonçalo,city,3,0,2,False,1084839,3304904,0.27654,
 2020-03-23,RJ,São Gonçalo,city,3,0,1,False,1084839,3304904,0.27654,
-2020-04-09,RJ,São João da Barra,city,1,0,5,True,36102,3305000,2.76993,
+2020-04-10,RJ,São João da Barra,city,1,0,6,True,36102,3305000,2.76993,
+2020-04-09,RJ,São João da Barra,city,1,0,5,False,36102,3305000,2.76993,
 2020-04-08,RJ,São João da Barra,city,1,0,4,False,36102,3305000,2.76993,
 2020-04-07,RJ,São João da Barra,city,1,0,3,False,36102,3305000,2.76993,
 2020-04-06,RJ,São João da Barra,city,1,0,2,False,36102,3305000,2.76993,
 2020-04-05,RJ,São João da Barra,city,1,0,1,False,36102,3305000,2.76993,
-2020-04-09,RJ,São João de Meriti,city,23,2,11,True,472406,3305109,4.86869,0.0870
+2020-04-10,RJ,São João de Meriti,city,25,2,12,True,472406,3305109,5.29206,0.0800
+2020-04-09,RJ,São João de Meriti,city,23,2,11,False,472406,3305109,4.86869,0.0870
 2020-04-08,RJ,São João de Meriti,city,17,1,10,False,472406,3305109,3.59860,0.0588
 2020-04-07,RJ,São João de Meriti,city,12,1,9,False,472406,3305109,2.54019,0.0833
 2020-04-06,RJ,São João de Meriti,city,10,1,8,False,472406,3305109,2.11682,0.1000
@@ -520,7 +574,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RJ,São João de Meriti,city,2,0,3,False,472406,3305109,0.42336,
 2020-03-31,RJ,São João de Meriti,city,1,0,2,False,472406,3305109,0.21168,
 2020-03-30,RJ,São João de Meriti,city,1,0,1,False,472406,3305109,0.21168,
-2020-04-09,RJ,São Pedro da Aldeia,city,3,0,10,True,104476,3305208,2.87147,
+2020-04-10,RJ,São Pedro da Aldeia,city,4,0,11,True,104476,3305208,3.82863,
+2020-04-09,RJ,São Pedro da Aldeia,city,3,0,10,False,104476,3305208,2.87147,
 2020-04-08,RJ,São Pedro da Aldeia,city,3,0,9,False,104476,3305208,2.87147,
 2020-04-07,RJ,São Pedro da Aldeia,city,3,0,8,False,104476,3305208,2.87147,
 2020-04-06,RJ,São Pedro da Aldeia,city,2,0,7,False,104476,3305208,1.91432,
@@ -530,12 +585,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,RJ,São Pedro da Aldeia,city,1,0,3,False,104476,3305208,0.95716,
 2020-04-01,RJ,São Pedro da Aldeia,city,1,0,2,False,104476,3305208,0.95716,
 2020-03-31,RJ,São Pedro da Aldeia,city,1,0,1,False,104476,3305208,0.95716,
-2020-04-09,RJ,Tanguá,city,1,0,5,True,34309,3305752,2.91469,
+2020-04-10,RJ,Tanguá,city,2,1,6,True,34309,3305752,5.82937,0.5000
+2020-04-09,RJ,Tanguá,city,1,0,5,False,34309,3305752,2.91469,
 2020-04-08,RJ,Tanguá,city,1,0,4,False,34309,3305752,2.91469,
 2020-04-07,RJ,Tanguá,city,1,0,3,False,34309,3305752,2.91469,
 2020-04-06,RJ,Tanguá,city,1,0,2,False,34309,3305752,2.91469,
 2020-04-05,RJ,Tanguá,city,1,0,1,False,34309,3305752,2.91469,
-2020-04-09,RJ,Teresópolis,city,7,0,11,True,182594,3305802,3.83364,
+2020-04-10,RJ,Teresópolis,city,8,0,12,True,182594,3305802,4.38130,
+2020-04-09,RJ,Teresópolis,city,7,0,11,False,182594,3305802,3.83364,
 2020-04-08,RJ,Teresópolis,city,7,0,10,False,182594,3305802,3.83364,
 2020-04-07,RJ,Teresópolis,city,7,0,9,False,182594,3305802,3.83364,
 2020-04-06,RJ,Teresópolis,city,7,0,8,False,182594,3305802,3.83364,
@@ -548,14 +605,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,RJ,Teresópolis,city,1,0,1,False,182594,3305802,0.54766,
 2020-04-06,RJ,Trajano de Moraes,city,0,0,2,True,10626,3305901,,
 2020-04-05,RJ,Trajano de Moraes,city,1,0,1,False,10626,3305901,9.41088,
-2020-04-09,RJ,Três Rios,city,1,0,7,True,81804,3306008,1.22243,
+2020-04-10,RJ,Três Rios,city,1,0,8,True,81804,3306008,1.22243,
+2020-04-09,RJ,Três Rios,city,1,0,7,False,81804,3306008,1.22243,
 2020-04-08,RJ,Três Rios,city,1,0,6,False,81804,3306008,1.22243,
 2020-04-07,RJ,Três Rios,city,1,0,5,False,81804,3306008,1.22243,
 2020-04-06,RJ,Três Rios,city,1,0,4,False,81804,3306008,1.22243,
 2020-04-05,RJ,Três Rios,city,1,0,3,False,81804,3306008,1.22243,
 2020-04-04,RJ,Três Rios,city,1,0,2,False,81804,3306008,1.22243,
 2020-04-03,RJ,Três Rios,city,1,0,1,False,81804,3306008,1.22243,
-2020-04-09,RJ,Valença,city,2,0,16,True,76523,3306107,2.61359,
+2020-04-10,RJ,Valença,city,2,0,17,True,76523,3306107,2.61359,
+2020-04-09,RJ,Valença,city,2,0,16,False,76523,3306107,2.61359,
 2020-04-08,RJ,Valença,city,2,0,15,False,76523,3306107,2.61359,
 2020-04-07,RJ,Valença,city,2,0,14,False,76523,3306107,2.61359,
 2020-04-06,RJ,Valença,city,2,0,13,False,76523,3306107,2.61359,
@@ -571,7 +630,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,RJ,Valença,city,1,0,3,False,76523,3306107,1.30680,
 2020-03-26,RJ,Valença,city,1,0,2,False,76523,3306107,1.30680,
 2020-03-25,RJ,Valença,city,1,0,1,False,76523,3306107,1.30680,
-2020-04-09,RJ,Volta Redonda,city,63,4,17,True,273012,3306305,23.07591,0.0635
+2020-04-10,RJ,Volta Redonda,city,71,6,18,True,273012,3306305,26.00618,0.0845
+2020-04-09,RJ,Volta Redonda,city,63,4,17,False,273012,3306305,23.07591,0.0635
 2020-04-08,RJ,Volta Redonda,city,58,2,16,False,273012,3306305,21.24449,0.0345
 2020-04-07,RJ,Volta Redonda,city,58,2,15,False,273012,3306305,21.24449,0.0345
 2020-04-06,RJ,Volta Redonda,city,55,2,14,False,273012,3306305,20.14563,0.0364
