@@ -1,6 +1,6 @@
 ## Sweden
 
-> Last updated at Apr 11 2020 02:02:18 UTC.
+> Last updated at Apr 11 2020 06:02:29 UTC.
 
 
 | County | Dataset |

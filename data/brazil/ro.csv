@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-09,RO,,state,28,2,20,True,1777225,11,1.57549,0.0714
+2020-04-10,RO,,state,32,2,21,True,1777225,11,1.80056,0.0625
+2020-04-09,RO,,state,28,2,20,False,1777225,11,1.57549,0.0714
 2020-04-08,RO,,state,26,1,19,False,1777225,11,1.46295,0.0385
 2020-04-07,RO,,state,23,1,18,False,1777225,11,1.29415,0.0435
 2020-04-06,RO,,state,18,1,17,False,1777225,11,1.01281,0.0556
@@ -19,7 +20,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RO,,state,3,0,3,False,1777225,11,0.16880,
 2020-03-21,RO,,state,3,0,2,False,1777225,11,0.16880,
 2020-03-20,RO,,state,1,0,1,False,1777225,11,0.05627,
-2020-04-09,RO,Jaru,city,1,0,11,True,51775,1100114,1.93143,
+2020-04-10,RO,Ariquemes,city,2,0,1,True,107863,1100023,1.85420,
+2020-04-10,RO,Jaru,city,1,0,12,True,51775,1100114,1.93143,
+2020-04-09,RO,Jaru,city,1,0,11,False,51775,1100114,1.93143,
 2020-04-08,RO,Jaru,city,1,0,10,False,51775,1100114,1.93143,
 2020-04-07,RO,Jaru,city,1,0,9,False,51775,1100114,1.93143,
 2020-04-06,RO,Jaru,city,1,0,8,False,51775,1100114,1.93143,
@@ -30,7 +33,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RO,Jaru,city,1,0,3,False,51775,1100114,1.93143,
 2020-03-31,RO,Jaru,city,1,0,2,False,51775,1100114,1.93143,
 2020-03-30,RO,Jaru,city,1,0,1,False,51775,1100114,1.93143,
-2020-04-09,RO,Ji-Paraná,city,1,0,20,True,128969,1100122,0.77538,
+2020-04-10,RO,Ji-Paraná,city,1,0,21,True,128969,1100122,0.77538,
+2020-04-09,RO,Ji-Paraná,city,1,0,20,False,128969,1100122,0.77538,
 2020-04-08,RO,Ji-Paraná,city,1,0,19,False,128969,1100122,0.77538,
 2020-04-07,RO,Ji-Paraná,city,1,0,18,False,128969,1100122,0.77538,
 2020-04-06,RO,Ji-Paraná,city,1,0,17,False,128969,1100122,0.77538,
@@ -50,9 +54,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RO,Ji-Paraná,city,1,0,3,False,128969,1100122,0.77538,
 2020-03-21,RO,Ji-Paraná,city,1,0,2,False,128969,1100122,0.77538,
 2020-03-20,RO,Ji-Paraná,city,1,0,1,False,128969,1100122,0.77538,
-2020-04-09,RO,Ouro Preto do Oeste,city,1,0,2,True,36035,1100155,2.77508,
+2020-04-10,RO,Ouro Preto do Oeste,city,1,0,3,True,36035,1100155,2.77508,
+2020-04-09,RO,Ouro Preto do Oeste,city,1,0,2,False,36035,1100155,2.77508,
 2020-04-08,RO,Ouro Preto do Oeste,city,1,0,1,False,36035,1100155,2.77508,
-2020-04-09,RO,Porto Velho,city,23,2,19,True,529544,1100205,4.34336,0.0870
+2020-04-10,RO,Porto Velho,city,23,2,20,True,529544,1100205,4.34336,0.0870
+2020-04-09,RO,Porto Velho,city,23,2,19,False,529544,1100205,4.34336,0.0870
 2020-04-08,RO,Porto Velho,city,21,1,18,False,529544,1100205,3.96568,0.0476
 2020-04-07,RO,Porto Velho,city,19,1,17,False,529544,1100205,3.58799,0.0526
 2020-04-06,RO,Porto Velho,city,14,1,16,False,529544,1100205,2.64378,0.0714
@@ -71,12 +77,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,RO,Porto Velho,city,4,0,3,False,529544,1100205,0.75537,
 2020-03-22,RO,Porto Velho,city,2,0,2,False,529544,1100205,0.37768,
 2020-03-21,RO,Porto Velho,city,2,0,1,False,529544,1100205,0.37768,
-2020-04-09,RO,Rolim de Moura,city,1,0,5,True,55058,1100288,1.81627,
+2020-04-10,RO,Rolim de Moura,city,3,0,6,True,55058,1100288,5.44880,
+2020-04-09,RO,Rolim de Moura,city,1,0,5,False,55058,1100288,1.81627,
 2020-04-08,RO,Rolim de Moura,city,1,0,4,False,55058,1100288,1.81627,
 2020-04-07,RO,Rolim de Moura,city,1,0,3,False,55058,1100288,1.81627,
 2020-04-06,RO,Rolim de Moura,city,1,0,2,False,55058,1100288,1.81627,
 2020-04-05,RO,Rolim de Moura,city,1,0,1,False,55058,1100288,1.81627,
-2020-04-09,RO,Vilhena,city,1,0,5,True,99854,1100304,1.00146,
+2020-04-10,RO,Vilhena,city,1,0,6,True,99854,1100304,1.00146,
+2020-04-09,RO,Vilhena,city,1,0,5,False,99854,1100304,1.00146,
 2020-04-08,RO,Vilhena,city,1,0,4,False,99854,1100304,1.00146,
 2020-04-07,RO,Vilhena,city,1,0,3,False,99854,1100304,1.00146,
 2020-04-06,RO,Vilhena,city,1,0,2,False,99854,1100304,1.00146,
