@@ -6150,9 +6150,9 @@
       },
       "Melilla": {
         "name": "Melilla",
-        "iso": "ME",
+        "iso": "ML",
         "place_type": "autonomous_community",
-        "file": "data/spain/es-me.csv"
+        "file": "data/spain/es-ml.csv"
       },
       "País Vasco": {
         "name": "País Vasco",
@@ -6426,689 +6426,794 @@
     "geoId": "UK",
     "countryTerritoryCode": "GBR",
     "regions": {
-      "Aneurin Bevan": {
-        "name": "Aneurin Bevan",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Antrim and Newtownabbey": {
-        "name": "Antrim and Newtownabbey",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Ards and North Down": {
-        "name": "Ards and North Down",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Armagh City Banbridge and Craigavon": {
-        "name": "Armagh City Banbridge and Craigavon",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Ayrshire and Arran": {
-        "name": "Ayrshire and Arran",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Barking and Dagenham": {
-        "name": "Barking and Dagenham",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Barnet": {
-        "name": "Barnet",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Barnsley": {
-        "name": "Barnsley",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bath and North East Somerset": {
-        "name": "Bath and North East Somerset",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bedford": {
-        "name": "Bedford",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Belfast": {
-        "name": "Belfast",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Betsi Cadwaladr": {
-        "name": "Betsi Cadwaladr",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Bexley": {
-        "name": "Bexley",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Birmingham": {
-        "name": "Birmingham",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Blackburn with Darwen": {
-        "name": "Blackburn with Darwen",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Blackpool": {
-        "name": "Blackpool",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Blaenau Gwent": {
-        "name": "Blaenau Gwent",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Bolton": {
-        "name": "Bolton",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Borders": {
-        "name": "Borders",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Bournemouth": {
-        "name": "Bournemouth",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bracknell Forest": {
-        "name": "Bracknell Forest",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bradford": {
-        "name": "Bradford",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Brent": {
-        "name": "Brent",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bridgend": {
-        "name": "Bridgend",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Brighton and Hove": {
-        "name": "Brighton and Hove",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bristol": {
-        "name": "Bristol",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bromley": {
-        "name": "Bromley",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Buckinghamshire": {
-        "name": "Buckinghamshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Bury": {
-        "name": "Bury",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Caerphilly": {
-        "name": "Caerphilly",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Calderdale": {
-        "name": "Calderdale",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Cambridgeshire": {
-        "name": "Cambridgeshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Camden": {
-        "name": "Camden",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Cardiff and Vale": {
-        "name": "Cardiff and Vale",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Carmarthenshire": {
-        "name": "Carmarthenshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Causeway Coast and Glens": {
-        "name": "Causeway Coast and Glens",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Central Bedfordshire": {
-        "name": "Central Bedfordshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Ceredigion": {
-        "name": "Ceredigion",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Cheshire East": {
-        "name": "Cheshire East",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Cheshire West and Chester": {
-        "name": "Cheshire West and Chester",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "City and County of Swansea": {
-        "name": "City and County of Swansea",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "City of Cardiff": {
-        "name": "City of Cardiff",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Conwy": {
-        "name": "Conwy",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Cornwall and Isles of Scilly": {
-        "name": "Cornwall and Isles of Scilly",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "County Durham": {
-        "name": "County Durham",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Coventry": {
-        "name": "Coventry",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Croydon": {
-        "name": "Croydon",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Cumbria": {
-        "name": "Cumbria",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Cwm Taf": {
-        "name": "Cwm Taf",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Darlington": {
-        "name": "Darlington",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Denbighshire": {
-        "name": "Denbighshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Derby": {
-        "name": "Derby",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Derbyshire": {
-        "name": "Derbyshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Derry City and Strabane": {
-        "name": "Derry City and Strabane",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Devon": {
-        "name": "Devon",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Doncaster": {
-        "name": "Doncaster",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Dorset": {
-        "name": "Dorset",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Dudley": {
-        "name": "Dudley",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Dumfries and Gallow": {
-        "name": "Dumfries and Gallow",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Ealing": {
-        "name": "Ealing",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "East Riding of Yorkshire": {
-        "name": "East Riding of Yorkshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "East Sussex": {
-        "name": "East Sussex",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "East of England": {
-        "name": "East of England",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "nhsr"
-      },
-      "Eileanan Siar (Western Isles)": {
-        "name": "Eileanan Siar (Western Isles)",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Enfield": {
-        "name": "Enfield",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
       "England": {
         "name": "England",
         "file": "data/united_kingdom/england.csv",
         "place_type": "country"
       },
-      "Essex": {
+      "England:Barking and Dagenham": {
+        "name": "Barking and Dagenham",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Barnet": {
+        "name": "Barnet",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Barnsley": {
+        "name": "Barnsley",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bath and North East Somerset": {
+        "name": "Bath and North East Somerset",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bedford": {
+        "name": "Bedford",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bexley": {
+        "name": "Bexley",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Birmingham": {
+        "name": "Birmingham",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Blackburn with Darwen": {
+        "name": "Blackburn with Darwen",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Blackpool": {
+        "name": "Blackpool",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bolton": {
+        "name": "Bolton",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bournemouth": {
+        "name": "Bournemouth",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bracknell Forest": {
+        "name": "Bracknell Forest",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bradford": {
+        "name": "Bradford",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Brent": {
+        "name": "Brent",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Brighton and Hove": {
+        "name": "Brighton and Hove",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bristol": {
+        "name": "Bristol",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bromley": {
+        "name": "Bromley",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Buckinghamshire": {
+        "name": "Buckinghamshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Bury": {
+        "name": "Bury",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Calderdale": {
+        "name": "Calderdale",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Cambridgeshire": {
+        "name": "Cambridgeshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Camden": {
+        "name": "Camden",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Central Bedfordshire": {
+        "name": "Central Bedfordshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Cheshire East": {
+        "name": "Cheshire East",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Cheshire West and Chester": {
+        "name": "Cheshire West and Chester",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Cornwall and Isles of Scilly": {
+        "name": "Cornwall and Isles of Scilly",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:County Durham": {
+        "name": "County Durham",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Coventry": {
+        "name": "Coventry",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Croydon": {
+        "name": "Croydon",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Cumbria": {
+        "name": "Cumbria",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Darlington": {
+        "name": "Darlington",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Derby": {
+        "name": "Derby",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Derbyshire": {
+        "name": "Derbyshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Devon": {
+        "name": "Devon",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Doncaster": {
+        "name": "Doncaster",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Dorset": {
+        "name": "Dorset",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Dudley": {
+        "name": "Dudley",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Ealing": {
+        "name": "Ealing",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:East Riding of Yorkshire": {
+        "name": "East Riding of Yorkshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:East Sussex": {
+        "name": "East Sussex",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:East of England": {
+        "name": "East of England",
+        "parent": "England",
+        "place_type": "nhsr"
+      },
+      "England:Enfield": {
+        "name": "Enfield",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Essex": {
         "name": "Essex",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Fermanagh and Omagh": {
-        "name": "Fermanagh and Omagh",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Fife": {
-        "name": "Fife",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Flintshire": {
-        "name": "Flintshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Forth Valley": {
-        "name": "Forth Valley",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Gateshead": {
+      "England:Gateshead": {
         "name": "Gateshead",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Gloucestershire": {
+      "England:Gloucestershire": {
         "name": "Gloucestershire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Grampian": {
-        "name": "Grampian",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Greater Glasgow and Clyde": {
-        "name": "Greater Glasgow and Clyde",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Greenwich": {
+      "England:Greenwich": {
         "name": "Greenwich",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Gwynedd": {
-        "name": "Gwynedd",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Hackney and City of London": {
+      "England:Hackney and City of London": {
         "name": "Hackney and City of London",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Halton": {
+      "England:Halton": {
         "name": "Halton",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Hammersmith and Fulham": {
+      "England:Hammersmith and Fulham": {
         "name": "Hammersmith and Fulham",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Hampshire": {
+      "England:Hampshire": {
         "name": "Hampshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Haringey": {
+      "England:Haringey": {
         "name": "Haringey",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Harrow": {
+      "England:Harrow": {
         "name": "Harrow",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Hartlepool": {
+      "England:Hartlepool": {
         "name": "Hartlepool",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Havering": {
+      "England:Havering": {
         "name": "Havering",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Herefordshire": {
+      "England:Herefordshire": {
         "name": "Herefordshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Hertfordshire": {
+      "England:Hertfordshire": {
         "name": "Hertfordshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Highland": {
-        "name": "Highland",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Hillingdon": {
+      "England:Hillingdon": {
         "name": "Hillingdon",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Hounslow": {
+      "England:Hounslow": {
         "name": "Hounslow",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Hywel Dda": {
-        "name": "Hywel Dda",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Isle of Anglesey": {
-        "name": "Isle of Anglesey",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Isle of Wight": {
+      "England:Isle of Wight": {
         "name": "Isle of Wight",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Islington": {
+      "England:Islington": {
         "name": "Islington",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Kensington and Chelsea": {
+      "England:Kensington and Chelsea": {
         "name": "Kensington and Chelsea",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Kent": {
+      "England:Kent": {
         "name": "Kent",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Kingston upon Hull": {
+      "England:Kingston upon Hull": {
         "name": "Kingston upon Hull",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Kingston upon Thames": {
+      "England:Kingston upon Thames": {
         "name": "Kingston upon Thames",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Kirklees": {
+      "England:Kirklees": {
         "name": "Kirklees",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Knowsley": {
+      "England:Knowsley": {
         "name": "Knowsley",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Lambeth": {
+      "England:Lambeth": {
         "name": "Lambeth",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Lanarkshire": {
-        "name": "Lanarkshire",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Lancashire": {
+      "England:Lancashire": {
         "name": "Lancashire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Leeds": {
+      "England:Leeds": {
         "name": "Leeds",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Leicester": {
+      "England:Leicester": {
         "name": "Leicester",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Leicestershire": {
+      "England:Leicestershire": {
         "name": "Leicestershire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Lewisham": {
+      "England:Lewisham": {
         "name": "Lewisham",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Lincolnshire": {
+      "England:Lincolnshire": {
         "name": "Lincolnshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Lisburn and Castlereagh": {
-        "name": "Lisburn and Castlereagh",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Liverpool": {
+      "England:Liverpool": {
         "name": "Liverpool",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "London": {
+      "England:London": {
         "name": "London",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "nhsr"
       },
-      "Lothian": {
-        "name": "Lothian",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
-      },
-      "Luton": {
+      "England:Luton": {
         "name": "Luton",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Manchester": {
+      "England:Manchester": {
         "name": "Manchester",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Medway": {
+      "England:Medway": {
         "name": "Medway",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Merthyr Tydfil": {
-        "name": "Merthyr Tydfil",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Merton": {
+      "England:Merton": {
         "name": "Merton",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Mid Ulster": {
-        "name": "Mid Ulster",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Mid and East Antrim": {
-        "name": "Mid and East Antrim",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Middlesbrough": {
+      "England:Middlesbrough": {
         "name": "Middlesbrough",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Midlands": {
+      "England:Midlands": {
         "name": "Midlands",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "nhsr"
       },
-      "Milton Keynes": {
+      "England:Milton Keynes": {
         "name": "Milton Keynes",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Monmouthshire": {
-        "name": "Monmouthshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Neath Port Talbot": {
-        "name": "Neath Port Talbot",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Newcastle upon Tyne": {
+      "England:Newcastle upon Tyne": {
         "name": "Newcastle upon Tyne",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Newham": {
+      "England:Newham": {
         "name": "Newham",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Newport": {
-        "name": "Newport",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Newry Mourne and Down": {
-        "name": "Newry Mourne and Down",
-        "file": "data/united_kingdom/northern_ireland.csv",
-        "place_type": "lgd"
-      },
-      "Norfolk": {
+      "England:Norfolk": {
         "name": "Norfolk",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "North East Lincolnshire": {
+      "England:North East Lincolnshire": {
         "name": "North East Lincolnshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "North East and Yorkshire": {
+      "England:North East and Yorkshire": {
         "name": "North East and Yorkshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "nhsr"
       },
-      "North Lincolnshire": {
+      "England:North Lincolnshire": {
         "name": "North Lincolnshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "North Somerset": {
+      "England:North Somerset": {
         "name": "North Somerset",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "North Tyneside": {
+      "England:North Tyneside": {
         "name": "North Tyneside",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "North West": {
+      "England:North West": {
         "name": "North West",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "nhsr"
       },
-      "North Yorkshire": {
+      "England:North Yorkshire": {
         "name": "North Yorkshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
         "place_type": "utla"
       },
-      "Northamptonshire": {
+      "England:Northamptonshire": {
         "name": "Northamptonshire",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Northumberland": {
+        "name": "Northumberland",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Nottingham": {
+        "name": "Nottingham",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Nottinghamshire": {
+        "name": "Nottinghamshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Oldham": {
+        "name": "Oldham",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Oxfordshire": {
+        "name": "Oxfordshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Peterborough": {
+        "name": "Peterborough",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Plymouth": {
+        "name": "Plymouth",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Portsmouth": {
+        "name": "Portsmouth",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Reading": {
+        "name": "Reading",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Redbridge": {
+        "name": "Redbridge",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Redcar and Cleveland": {
+        "name": "Redcar and Cleveland",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Richmond upon Thames": {
+        "name": "Richmond upon Thames",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Rochdale": {
+        "name": "Rochdale",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Rotherham": {
+        "name": "Rotherham",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Rutland": {
+        "name": "Rutland",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Salford": {
+        "name": "Salford",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Sandwell": {
+        "name": "Sandwell",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Sefton": {
+        "name": "Sefton",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Sheffield": {
+        "name": "Sheffield",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Shropshire": {
+        "name": "Shropshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Slough": {
+        "name": "Slough",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Solihull": {
+        "name": "Solihull",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Somerset": {
+        "name": "Somerset",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:South East": {
+        "name": "South East",
+        "parent": "England",
+        "place_type": "nhsr"
+      },
+      "England:South Gloucestershire": {
+        "name": "South Gloucestershire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:South Tyneside": {
+        "name": "South Tyneside",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:South West": {
+        "name": "South West",
+        "parent": "England",
+        "place_type": "nhsr"
+      },
+      "England:Southampton": {
+        "name": "Southampton",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Southend-on-Sea": {
+        "name": "Southend-on-Sea",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Southwark": {
+        "name": "Southwark",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:St Helens": {
+        "name": "St Helens",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Staffordshire": {
+        "name": "Staffordshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Stockport": {
+        "name": "Stockport",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Stockton-on-Tees": {
+        "name": "Stockton-on-Tees",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Stoke-on-Trent": {
+        "name": "Stoke-on-Trent",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Suffolk": {
+        "name": "Suffolk",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Sunderland": {
+        "name": "Sunderland",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Surrey": {
+        "name": "Surrey",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Sutton": {
+        "name": "Sutton",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Swindon": {
+        "name": "Swindon",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Tameside": {
+        "name": "Tameside",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Telford and Wrekin": {
+        "name": "Telford and Wrekin",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Thurrock": {
+        "name": "Thurrock",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Torbay": {
+        "name": "Torbay",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Tower Hamlets": {
+        "name": "Tower Hamlets",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Trafford": {
+        "name": "Trafford",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Unconfirmed": {
+        "name": "Unconfirmed",
+        "parent": "England",
+        "place_type": "nhsr"
+      },
+      "England:Wakefield": {
+        "name": "Wakefield",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Walsall": {
+        "name": "Walsall",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Waltham Forest": {
+        "name": "Waltham Forest",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Wandsworth": {
+        "name": "Wandsworth",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Warrington": {
+        "name": "Warrington",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Warwickshire": {
+        "name": "Warwickshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:West Berkshire": {
+        "name": "West Berkshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:West Sussex": {
+        "name": "West Sussex",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Westminster": {
+        "name": "Westminster",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Wigan": {
+        "name": "Wigan",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Wiltshire": {
+        "name": "Wiltshire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Windsor and Maidenhead": {
+        "name": "Windsor and Maidenhead",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Wirral": {
+        "name": "Wirral",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Wokingham": {
+        "name": "Wokingham",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Wolverhampton": {
+        "name": "Wolverhampton",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:Worcestershire": {
+        "name": "Worcestershire",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:York": {
+        "name": "York",
+        "parent": "England",
         "place_type": "utla"
       },
       "Northern Ireland": {
@@ -7116,389 +7221,299 @@
         "file": "data/united_kingdom/northern_ireland.csv",
         "place_type": "country"
       },
-      "Northumberland": {
-        "name": "Northumberland",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Antrim and Newtownabbey": {
+        "name": "Antrim and Newtownabbey",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Nottingham": {
-        "name": "Nottingham",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Ards and North Down": {
+        "name": "Ards and North Down",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Nottinghamshire": {
-        "name": "Nottinghamshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Armagh City Banbridge and Craigavon": {
+        "name": "Armagh City Banbridge and Craigavon",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Oldham": {
-        "name": "Oldham",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Belfast": {
+        "name": "Belfast",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Orkney": {
-        "name": "Orkney",
-        "file": "data/united_kingdom/scotland.csv",
-        "place_type": "health_board"
+      "Northern Ireland:Causeway Coast and Glens": {
+        "name": "Causeway Coast and Glens",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Oxfordshire": {
-        "name": "Oxfordshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Derry City and Strabane": {
+        "name": "Derry City and Strabane",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Pembrokeshire": {
-        "name": "Pembrokeshire",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
+      "Northern Ireland:Fermanagh and Omagh": {
+        "name": "Fermanagh and Omagh",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Peterborough": {
-        "name": "Peterborough",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Lisburn and Castlereagh": {
+        "name": "Lisburn and Castlereagh",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Plymouth": {
-        "name": "Plymouth",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Mid Ulster": {
+        "name": "Mid Ulster",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Portsmouth": {
-        "name": "Portsmouth",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Mid and East Antrim": {
+        "name": "Mid and East Antrim",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Powys": {
-        "name": "Powys",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
+      "Northern Ireland:Newry Mourne and Down": {
+        "name": "Newry Mourne and Down",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
-      "Reading": {
-        "name": "Reading",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Redbridge": {
-        "name": "Redbridge",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Redcar and Cleveland": {
-        "name": "Redcar and Cleveland",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Resident outside Wales": {
-        "name": "Resident outside Wales",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Rhondda Cynon Taf": {
-        "name": "Rhondda Cynon Taf",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Richmond upon Thames": {
-        "name": "Richmond upon Thames",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Rochdale": {
-        "name": "Rochdale",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Rotherham": {
-        "name": "Rotherham",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Rutland": {
-        "name": "Rutland",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Salford": {
-        "name": "Salford",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Sandwell": {
-        "name": "Sandwell",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Northern Ireland:Unconfirmed": {
+        "name": "Unconfirmed",
+        "parent": "Northern Ireland",
+        "place_type": "lgd"
       },
       "Scotland": {
         "name": "Scotland",
         "file": "data/united_kingdom/scotland.csv",
         "place_type": "country"
       },
-      "Sefton": {
-        "name": "Sefton",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Scotland:Ayrshire and Arran": {
+        "name": "Ayrshire and Arran",
+        "parent": "Scotland",
+        "place_type": "health_board"
       },
-      "Sheffield": {
-        "name": "Sheffield",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
+      "Scotland:Borders": {
+        "name": "Borders",
+        "parent": "Scotland",
+        "place_type": "health_board"
       },
-      "Shetland": {
+      "Scotland:Dumfries and Gallow": {
+        "name": "Dumfries and Gallow",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Eileanan Siar (Western Isles)": {
+        "name": "Eileanan Siar (Western Isles)",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Fife": {
+        "name": "Fife",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Forth Valley": {
+        "name": "Forth Valley",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Golden Jubilee National Hospital": {
+        "name": "Golden Jubilee National Hospital",
+        "parent": "Scotland",
+        "place_type": "unknown"
+      },
+      "Scotland:Grampian": {
+        "name": "Grampian",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Greater Glasgow and Clyde": {
+        "name": "Greater Glasgow and Clyde",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Highland": {
+        "name": "Highland",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Lanarkshire": {
+        "name": "Lanarkshire",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Lothian": {
+        "name": "Lothian",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Orkney": {
+        "name": "Orkney",
+        "parent": "Scotland",
+        "place_type": "health_board"
+      },
+      "Scotland:Shetland": {
         "name": "Shetland",
-        "file": "data/united_kingdom/scotland.csv",
+        "parent": "Scotland",
         "place_type": "health_board"
       },
-      "Shropshire": {
-        "name": "Shropshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Slough": {
-        "name": "Slough",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Solihull": {
-        "name": "Solihull",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Somerset": {
-        "name": "Somerset",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "South East": {
-        "name": "South East",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "nhsr"
-      },
-      "South Gloucestershire": {
-        "name": "South Gloucestershire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "South Tyneside": {
-        "name": "South Tyneside",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "South West": {
-        "name": "South West",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "nhsr"
-      },
-      "Southampton": {
-        "name": "Southampton",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Southend-on-Sea": {
-        "name": "Southend-on-Sea",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Southwark": {
-        "name": "Southwark",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "St Helens": {
-        "name": "St Helens",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Staffordshire": {
-        "name": "Staffordshire",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Stockport": {
-        "name": "Stockport",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Stockton-on-Tees": {
-        "name": "Stockton-on-Tees",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Stoke-on-Trent": {
-        "name": "Stoke-on-Trent",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Suffolk": {
-        "name": "Suffolk",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Sunderland": {
-        "name": "Sunderland",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Surrey": {
-        "name": "Surrey",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Sutton": {
-        "name": "Sutton",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Swansea Bay": {
-        "name": "Swansea Bay",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "health_board"
-      },
-      "Swindon": {
-        "name": "Swindon",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Tameside": {
-        "name": "Tameside",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Tayside": {
+      "Scotland:Tayside": {
         "name": "Tayside",
-        "file": "data/united_kingdom/scotland.csv",
+        "parent": "Scotland",
         "place_type": "health_board"
-      },
-      "Telford and Wrekin": {
-        "name": "Telford and Wrekin",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Thurrock": {
-        "name": "Thurrock",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Torbay": {
-        "name": "Torbay",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Torfaen County": {
-        "name": "Torfaen County",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Tower Hamlets": {
-        "name": "Tower Hamlets",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Trafford": {
-        "name": "Trafford",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
-      },
-      "Unconfirmed": {
-        "name": "Unconfirmed",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "nhsr"
-      },
-      "Vale of Glamorgan": {
-        "name": "Vale of Glamorgan",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "Wakefield": {
-        "name": "Wakefield",
-        "file": "data/united_kingdom/england.csv",
-        "place_type": "utla"
       },
       "Wales": {
         "name": "Wales",
         "file": "data/united_kingdom/wales.csv",
         "place_type": "country"
       },
-      "Walsall": {
-        "name": "Walsall",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Aneurin Bevan": {
+        "name": "Aneurin Bevan",
+        "parent": "Wales",
+        "place_type": "health_board"
+      },
+      "Wales:Betsi Cadwaladr": {
+        "name": "Betsi Cadwaladr",
+        "parent": "Wales",
+        "place_type": "health_board"
+      },
+      "Wales:Blaenau Gwent": {
+        "name": "Blaenau Gwent",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Waltham Forest": {
-        "name": "Waltham Forest",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Bridgend": {
+        "name": "Bridgend",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Wandsworth": {
-        "name": "Wandsworth",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Caerphilly": {
+        "name": "Caerphilly",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Warrington": {
-        "name": "Warrington",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Cardiff and Vale": {
+        "name": "Cardiff and Vale",
+        "parent": "Wales",
+        "place_type": "health_board"
+      },
+      "Wales:Carmarthenshire": {
+        "name": "Carmarthenshire",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Warwickshire": {
-        "name": "Warwickshire",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Ceredigion": {
+        "name": "Ceredigion",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "West Berkshire": {
-        "name": "West Berkshire",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:City and County of Swansea": {
+        "name": "City and County of Swansea",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "West Sussex": {
-        "name": "West Sussex",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:City of Cardiff": {
+        "name": "City of Cardiff",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Westminster": {
-        "name": "Westminster",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Conwy": {
+        "name": "Conwy",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Wigan": {
-        "name": "Wigan",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Cwm Taf": {
+        "name": "Cwm Taf",
+        "parent": "Wales",
+        "place_type": "health_board"
+      },
+      "Wales:Denbighshire": {
+        "name": "Denbighshire",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Wiltshire": {
-        "name": "Wiltshire",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Flintshire": {
+        "name": "Flintshire",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Windsor and Maidenhead": {
-        "name": "Windsor and Maidenhead",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Gwynedd": {
+        "name": "Gwynedd",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Wirral": {
-        "name": "Wirral",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Hywel Dda": {
+        "name": "Hywel Dda",
+        "parent": "Wales",
+        "place_type": "health_board"
+      },
+      "Wales:Isle of Anglesey": {
+        "name": "Isle of Anglesey",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Wokingham": {
-        "name": "Wokingham",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Merthyr Tydfil": {
+        "name": "Merthyr Tydfil",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Wolverhampton": {
-        "name": "Wolverhampton",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Monmouthshire": {
+        "name": "Monmouthshire",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Worcestershire": {
-        "name": "Worcestershire",
-        "file": "data/united_kingdom/england.csv",
+      "Wales:Neath Port Talbot": {
+        "name": "Neath Port Talbot",
+        "parent": "Wales",
         "place_type": "utla"
       },
-      "Wrexham": {
+      "Wales:Newport": {
+        "name": "Newport",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Pembrokeshire": {
+        "name": "Pembrokeshire",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Powys": {
+        "name": "Powys",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Resident outside Wales": {
+        "name": "Resident outside Wales",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Rhondda Cynon Taf": {
+        "name": "Rhondda Cynon Taf",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Swansea Bay": {
+        "name": "Swansea Bay",
+        "parent": "Wales",
+        "place_type": "health_board"
+      },
+      "Wales:Torfaen County": {
+        "name": "Torfaen County",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Unconfirmed": {
+        "name": "Unconfirmed",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Vale of Glamorgan": {
+        "name": "Vale of Glamorgan",
+        "parent": "Wales",
+        "place_type": "utla"
+      },
+      "Wales:Wrexham": {
         "name": "Wrexham",
-        "file": "data/united_kingdom/wales.csv",
-        "place_type": "utla"
-      },
-      "York": {
-        "name": "York",
-        "file": "data/united_kingdom/england.csv",
+        "parent": "Wales",
         "place_type": "utla"
       }
     }

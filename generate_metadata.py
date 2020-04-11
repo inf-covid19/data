@@ -132,12 +132,21 @@ def meta_united_kingdom(countries={}):
             'country', 'region', 'place_type']].drop_duplicates()
 
         for _, row in unique_region.iterrows():
-            regions[row['region']] = {
-                'name': row['region'],
-                'file': region_file,
-                'place_type': row['place_type']
-            }
-
+            if row['place_type'] == 'country':
+                region_key = row['country']
+                regions[region_key] = {
+                    'name': region_key,
+                    'file': region_file,
+                    'place_type': row['place_type']
+                }
+            else:
+                region_key = f'{row["country"]}:{row["region"]}'
+                regions[region_key] = {
+                    'name': row['region'],
+                    'parent': row['country'],
+                    'place_type': row['place_type'],
+                }
+ 
     regions = dict(sorted(regions.items(), key=lambda item: item[0]))
     countries[country]['regions'] = regions
 
