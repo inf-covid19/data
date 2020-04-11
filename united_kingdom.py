@@ -28,6 +28,8 @@ def scrape_united_kingdom():
         'confirm': 'cases',
         'area': 'region',
     })
+    df = df.fillna(value={'place_type': 'unknown'})
+
     df['place_type'] = df.apply(lambda r: r['place_type'].lower().replace(' ', '_'), axis=1)
     df = df.sort_values(by=['country', 'region', 'date'],
                         ascending=[True, True, False])
