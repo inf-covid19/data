@@ -1,14 +1,14 @@
 ## Countries
 
-> Last updated at Apr 11 2020 08:02:19 UTC.
+> Last updated at Apr 11 2020 16:02:28 UTC.
 
 
 | Country | Dataset |
 | ------ | ------- |
 | Afghanistan | [`afghanistan.csv`](afghanistan.csv) |
 | Albania | [`albania.csv`](albania.csv) |
-| Andorra | [`andorra.csv`](andorra.csv) |
 | Algeria | [`algeria.csv`](algeria.csv) |
+| Andorra | [`andorra.csv`](andorra.csv) |
 | Angola | [`angola.csv`](angola.csv) |
 | Anguilla | [`anguilla.csv`](anguilla.csv) |
 | Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
