@@ -213,6 +213,32 @@ def meta_chile(countries={}):
     return countries
 
 
+def meta_bolivia(countries={}):
+    regions_file = glob.glob('data/bolivia/*.csv')
+    country = 'Bolivia'
+
+    regions = {}
+
+    for region_file in regions_file:
+        region_df = pd.read_csv(region_file)
+
+        unique_region = region_df[[
+            'region', 'province', 'city', 'place_type', 'region_iso']].drop_duplicates()
+
+        for _, row in unique_region.iterrows():
+            regions[row['region']] = {
+                'name': row['region'],
+                'iso': row['region_iso'],
+                'place_type': row['place_type'],
+                'file': region_file,
+            }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
+
+    return countries
+
+
 def get_metadata(fn, args=None):
     result = 'Done'
     print(f'[{fn.__name__}] Starting...')
@@ -235,6 +261,7 @@ if __name__ == "__main__":
     meta_json = get_metadata(meta_united_kingdom, meta_json)
     meta_json = get_metadata(meta_united_states_of_america, meta_json)
     meta_json = get_metadata(meta_chile, meta_json)
+    meta_json = get_metadata(meta_bolivia, meta_json)
 
     with open('data/metadata.json', 'w') as file:
         file.write(json.dumps(meta_json, indent=2, ensure_ascii=False))

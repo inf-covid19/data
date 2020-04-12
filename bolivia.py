@@ -16,10 +16,9 @@ def scrape_bolivia():
 
     page = requests.get(URL).json()
     
-    today = str(datetime.date.today())
     day = str(datetime.datetime.strptime(page['fecha'], '%d/%m/%y %H:%M'))[:10]
     updated_files = []
-    header = 'date,region_iso,province,city,place_type,cases,deaths,recovered\n'
+    header = 'date,region_iso,region,province,city,place_type,cases,deaths,recovered\n'
     for dep in page['departamento'].keys():
         region = ISO_REGION[dep]
         iso = dep
@@ -28,6 +27,7 @@ def scrape_bolivia():
             day,
             iso,
             region,
+            '',
             '',
             'departamento',
             str(page['departamento'][dep]['contador']['confirmados']),

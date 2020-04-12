@@ -165,7 +165,62 @@
     "file": "data/countries/bolivia.csv",
     "geoId": "BO",
     "countryTerritoryCode": "BOL",
-    "regions": {}
+    "regions": {
+      "Beni": {
+        "name": "Beni",
+        "iso": "bn",
+        "place_type": "departamento",
+        "file": "data/bolivia/bn.csv"
+      },
+      "Chuquisaca": {
+        "name": "Chuquisaca",
+        "iso": "ch",
+        "place_type": "departamento",
+        "file": "data/bolivia/ch.csv"
+      },
+      "Cochabamba": {
+        "name": "Cochabamba",
+        "iso": "cb",
+        "place_type": "departamento",
+        "file": "data/bolivia/cb.csv"
+      },
+      "La Paz": {
+        "name": "La Paz",
+        "iso": "lp",
+        "place_type": "departamento",
+        "file": "data/bolivia/lp.csv"
+      },
+      "Oruro": {
+        "name": "Oruro",
+        "iso": "or",
+        "place_type": "departamento",
+        "file": "data/bolivia/or.csv"
+      },
+      "Pando": {
+        "name": "Pando",
+        "iso": "pn",
+        "place_type": "departamento",
+        "file": "data/bolivia/pn.csv"
+      },
+      "Potosí": {
+        "name": "Potosí",
+        "iso": "pt",
+        "place_type": "departamento",
+        "file": "data/bolivia/pt.csv"
+      },
+      "Santa Cruz": {
+        "name": "Santa Cruz",
+        "iso": "sc",
+        "place_type": "departamento",
+        "file": "data/bolivia/sc.csv"
+      },
+      "Tarija": {
+        "name": "Tarija",
+        "iso": "tj",
+        "place_type": "departamento",
+        "file": "data/bolivia/tj.csv"
+      }
+    }
   },
   "Bonaire, Saint Eustatius and Saba": {
     "name": "Bonaire, Saint Eustatius and Saba",
