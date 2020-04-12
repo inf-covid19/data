@@ -8,6 +8,7 @@ from spain import scrape_spain
 from united_kingdom import scrape_united_kingdom
 from chile import scrape_chile
 from bolivia import scrape_bolivia
+from argentina import scrape_argentina
 
 def scrape(fn):
     result = 'Done'
@@ -30,3 +31,4 @@ if __name__ == "__main__":
     scrape(scrape_united_kingdom)
     scrape(scrape_chile)
     scrape(scrape_bolivia)
+    scrape(scrape_argentina)
