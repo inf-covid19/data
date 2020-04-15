@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-13,AL,,state,58,4,34,True,3337357,27,1.73790,0.0690
+2020-04-14,AL,,state,72,4,35,True,3337357,27,2.15740,0.0556
+2020-04-13,AL,,state,58,4,34,False,3337357,27,1.73790,0.0690
 2020-04-12,AL,,state,48,3,33,False,3337357,27,1.43826,0.0625
 2020-04-11,AL,,state,48,3,32,False,3337357,27,1.43826,0.0625
 2020-04-10,AL,,state,45,3,31,False,3337357,27,1.34837,0.0667
@@ -33,7 +34,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-10,AL,,state,1,0,3,False,3337357,27,0.02996,
 2020-03-09,AL,,state,1,0,2,False,3337357,27,0.02996,
 2020-03-08,AL,,state,1,0,1,False,3337357,27,0.02996,
-2020-04-13,AL,Importados/Indefinidos,city,7,0,16,True,,,,
+2020-04-14,AL,Importados/Indefinidos,city,7,0,17,True,,,,
+2020-04-13,AL,Importados/Indefinidos,city,7,0,16,False,,,,
 2020-04-12,AL,Importados/Indefinidos,city,7,0,15,False,,,,
 2020-04-11,AL,Importados/Indefinidos,city,7,0,14,False,,,,
 2020-04-10,AL,Importados/Indefinidos,city,7,0,13,False,,,,
@@ -49,7 +51,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AL,Importados/Indefinidos,city,4,0,3,False,,,,
 2020-03-30,AL,Importados/Indefinidos,city,4,0,2,False,,,,
 2020-03-29,AL,Importados/Indefinidos,city,4,0,1,False,,,,
-2020-04-13,AL,Maceió,city,47,4,34,True,1018948,2704302,4.61260,0.0851
+2020-04-14,AL,Maceió,city,59,4,35,True,1018948,2704302,5.79029,0.0678
+2020-04-13,AL,Maceió,city,47,4,34,False,1018948,2704302,4.61260,0.0851
 2020-04-12,AL,Maceió,city,37,3,33,False,1018948,2704302,3.63120,0.0811
 2020-04-11,AL,Maceió,city,37,3,32,False,1018948,2704302,3.63120,0.0811
 2020-04-10,AL,Maceió,city,34,3,31,False,1018948,2704302,3.33677,0.0882
@@ -83,7 +86,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-10,AL,Maceió,city,1,0,3,False,1018948,2704302,0.09814,
 2020-03-09,AL,Maceió,city,1,0,2,False,1018948,2704302,0.09814,
 2020-03-08,AL,Maceió,city,1,0,1,False,1018948,2704302,0.09814,
-2020-04-13,AL,Marechal Deodoro,city,2,0,11,True,51901,2704708,3.85349,
+2020-04-14,AL,Marechal Deodoro,city,3,0,12,True,51901,2704708,5.78024,
+2020-04-13,AL,Marechal Deodoro,city,2,0,11,False,51901,2704708,3.85349,
 2020-04-12,AL,Marechal Deodoro,city,2,0,10,False,51901,2704708,3.85349,
 2020-04-11,AL,Marechal Deodoro,city,2,0,9,False,51901,2704708,3.85349,
 2020-04-10,AL,Marechal Deodoro,city,2,0,8,False,51901,2704708,3.85349,
@@ -94,7 +98,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,AL,Marechal Deodoro,city,2,0,3,False,51901,2704708,3.85349,
 2020-04-04,AL,Marechal Deodoro,city,1,0,2,False,51901,2704708,1.92675,
 2020-04-03,AL,Marechal Deodoro,city,1,0,1,False,51901,2704708,1.92675,
-2020-04-13,AL,Palmeira dos Índios,city,1,0,8,True,73218,2706307,1.36578,
+2020-04-14,AL,Palmeira dos Índios,city,1,0,9,True,73218,2706307,1.36578,
+2020-04-13,AL,Palmeira dos Índios,city,1,0,8,False,73218,2706307,1.36578,
 2020-04-12,AL,Palmeira dos Índios,city,1,0,7,False,73218,2706307,1.36578,
 2020-04-11,AL,Palmeira dos Índios,city,1,0,6,False,73218,2706307,1.36578,
 2020-04-10,AL,Palmeira dos Índios,city,1,0,5,False,73218,2706307,1.36578,
@@ -102,7 +107,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,AL,Palmeira dos Índios,city,1,0,3,False,73218,2706307,1.36578,
 2020-04-07,AL,Palmeira dos Índios,city,1,0,2,False,73218,2706307,1.36578,
 2020-04-06,AL,Palmeira dos Índios,city,1,0,1,False,73218,2706307,1.36578,
-2020-04-13,AL,Porto Real do Colégio,city,1,0,20,True,20066,2707503,4.98355,
+2020-04-14,AL,Porto Real do Colégio,city,1,0,21,True,20066,2707503,4.98355,
+2020-04-13,AL,Porto Real do Colégio,city,1,0,20,False,20066,2707503,4.98355,
 2020-04-12,AL,Porto Real do Colégio,city,1,0,19,False,20066,2707503,4.98355,
 2020-04-11,AL,Porto Real do Colégio,city,1,0,18,False,20066,2707503,4.98355,
 2020-04-10,AL,Porto Real do Colégio,city,1,0,17,False,20066,2707503,4.98355,
@@ -122,3 +128,4 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,AL,Porto Real do Colégio,city,1,0,3,False,20066,2707503,4.98355,
 2020-03-26,AL,Porto Real do Colégio,city,1,0,2,False,20066,2707503,4.98355,
 2020-03-25,AL,Porto Real do Colégio,city,1,0,1,False,20066,2707503,4.98355,
+2020-04-14,AL,Satuba,city,1,0,1,True,13828,2708907,7.23170,
