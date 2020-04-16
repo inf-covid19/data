@@ -449,6 +449,11 @@
         "place_type": "state",
         "file": "data/brazil/ap.csv"
       },
+      "AP:Laranjal do Jari": {
+        "name": "Laranjal do Jari",
+        "parent": "AP",
+        "place_type": "city"
+      },
       "AP:Macapá": {
         "name": "Macapá",
         "parent": "AP",
@@ -2584,8 +2589,18 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "PA:Bragança": {
+        "name": "Bragança",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "PA:Bujaru": {
         "name": "Bujaru",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Cachoeira do Arari": {
+        "name": "Cachoeira do Arari",
         "parent": "PA",
         "place_type": "city"
       },
@@ -2594,8 +2609,18 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "PA:Canaã dos Carajás": {
+        "name": "Canaã dos Carajás",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "PA:Capanema": {
         "name": "Capanema",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Capitão Poço": {
+        "name": "Capitão Poço",
         "parent": "PA",
         "place_type": "city"
       },
@@ -2609,6 +2634,11 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "PA:Curralinho": {
+        "name": "Curralinho",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "PA:Goianésia do Pará": {
         "name": "Goianésia do Pará",
         "parent": "PA",
@@ -2619,13 +2649,38 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "PA:Juruti": {
+        "name": "Juruti",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "PA:Marabá": {
         "name": "Marabá",
         "parent": "PA",
         "place_type": "city"
       },
+      "PA:Marapanim": {
+        "name": "Marapanim",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "PA:Marituba": {
         "name": "Marituba",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Monte Alegre": {
+        "name": "Monte Alegre",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Muaná": {
+        "name": "Muaná",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Nova Ipixuna": {
+        "name": "Nova Ipixuna",
         "parent": "PA",
         "place_type": "city"
       },
@@ -2649,8 +2704,18 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "PA:Rondon do Pará": {
+        "name": "Rondon do Pará",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "PA:Salinópolis": {
         "name": "Salinópolis",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Santa Bárbara do Pará": {
+        "name": "Santa Bárbara do Pará",
         "parent": "PA",
         "place_type": "city"
       },
@@ -2674,8 +2739,23 @@
         "parent": "PA",
         "place_type": "city"
       },
+      "PA:Tucumã": {
+        "name": "Tucumã",
+        "parent": "PA",
+        "place_type": "city"
+      },
       "PA:Tucuruí": {
         "name": "Tucuruí",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Vigia": {
+        "name": "Vigia",
+        "parent": "PA",
+        "place_type": "city"
+      },
+      "PA:Óbidos": {
+        "name": "Óbidos",
         "parent": "PA",
         "place_type": "city"
       },
@@ -6151,6 +6231,11 @@
       },
       "TO:Paraíso do Tocantins": {
         "name": "Paraíso do Tocantins",
+        "parent": "TO",
+        "place_type": "city"
+      },
+      "TO:Tocantinópolis": {
+        "name": "Tocantinópolis",
         "parent": "TO",
         "place_type": "city"
       }
@@ -11728,6 +11813,11 @@
         "parent": "Illinois",
         "place_type": "county"
       },
+      "Illinois:Clay": {
+        "name": "Clay",
+        "parent": "Illinois",
+        "place_type": "county"
+      },
       "Illinois:Clinton": {
         "name": "Clinton",
         "parent": "Illinois",
@@ -13078,6 +13168,11 @@
         "parent": "Kansas",
         "place_type": "county"
       },
+      "Kansas:Dickinson": {
+        "name": "Dickinson",
+        "parent": "Kansas",
+        "place_type": "county"
+      },
       "Kansas:Doniphan": {
         "name": "Doniphan",
         "parent": "Kansas",
@@ -13438,6 +13533,11 @@
         "parent": "Kentucky",
         "place_type": "county"
       },
+      "Kentucky:Casey": {
+        "name": "Casey",
+        "parent": "Kentucky",
+        "place_type": "county"
+      },
       "Kentucky:Christian": {
         "name": "Christian",
         "parent": "Kentucky",
@@ -13495,6 +13595,11 @@
       },
       "Kentucky:Gallatin": {
         "name": "Gallatin",
+        "parent": "Kentucky",
+        "place_type": "county"
+      },
+      "Kentucky:Garrard": {
+        "name": "Garrard",
         "parent": "Kentucky",
         "place_type": "county"
       },
@@ -13625,6 +13730,11 @@
       },
       "Kentucky:Lincoln": {
         "name": "Lincoln",
+        "parent": "Kentucky",
+        "place_type": "county"
+      },
+      "Kentucky:Livingston": {
+        "name": "Livingston",
         "parent": "Kentucky",
         "place_type": "county"
       },
@@ -16458,6 +16568,11 @@
         "parent": "Nebraska",
         "place_type": "county"
       },
+      "Nebraska:Saline": {
+        "name": "Saline",
+        "parent": "Nebraska",
+        "place_type": "county"
+      },
       "Nebraska:Sarpy": {
         "name": "Sarpy",
         "parent": "Nebraska",
@@ -17603,6 +17718,11 @@
         "parent": "North Carolina",
         "place_type": "county"
       },
+      "North Carolina:Tyrrell": {
+        "name": "Tyrrell",
+        "parent": "North Carolina",
+        "place_type": "county"
+      },
       "North Carolina:Union": {
         "name": "Union",
         "parent": "North Carolina",
@@ -18408,6 +18528,11 @@
         "parent": "Oklahoma",
         "place_type": "county"
       },
+      "Oklahoma:Johnston": {
+        "name": "Johnston",
+        "parent": "Oklahoma",
+        "place_type": "county"
+      },
       "Oklahoma:Kay": {
         "name": "Kay",
         "parent": "Oklahoma",
@@ -18665,6 +18790,11 @@
       },
       "Oregon:Jackson": {
         "name": "Jackson",
+        "parent": "Oregon",
+        "place_type": "county"
+      },
+      "Oregon:Jefferson": {
+        "name": "Jefferson",
         "parent": "Oregon",
         "place_type": "county"
       },
@@ -20093,6 +20223,11 @@
         "parent": "Texas",
         "place_type": "county"
       },
+      "Texas:Armstrong": {
+        "name": "Armstrong",
+        "parent": "Texas",
+        "place_type": "county"
+      },
       "Texas:Atascosa": {
         "name": "Atascosa",
         "parent": "Texas",
@@ -20305,6 +20440,11 @@
       },
       "Texas:Donley": {
         "name": "Donley",
+        "parent": "Texas",
+        "place_type": "county"
+      },
+      "Texas:Duval": {
+        "name": "Duval",
         "parent": "Texas",
         "place_type": "county"
       },
@@ -20940,6 +21080,11 @@
       },
       "Texas:Wichita": {
         "name": "Wichita",
+        "parent": "Texas",
+        "place_type": "county"
+      },
+      "Texas:Wilbarger": {
+        "name": "Wilbarger",
         "parent": "Texas",
         "place_type": "county"
       },
@@ -22118,6 +22263,11 @@
         "parent": "West Virginia",
         "place_type": "county"
       },
+      "West Virginia:Lincoln": {
+        "name": "Lincoln",
+        "parent": "West Virginia",
+        "place_type": "county"
+      },
       "West Virginia:Logan": {
         "name": "Logan",
         "parent": "West Virginia",
@@ -22560,6 +22710,11 @@
       },
       "Wisconsin:Walworth": {
         "name": "Walworth",
+        "parent": "Wisconsin",
+        "place_type": "county"
+      },
+      "Wisconsin:Washburn": {
+        "name": "Washburn",
         "parent": "Wisconsin",
         "place_type": "county"
       },
