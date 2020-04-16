@@ -289,6 +289,11 @@
         "place_type": "state",
         "file": "data/brazil/al.csv"
       },
+      "AL:Boca da Mata": {
+        "name": "Boca da Mata",
+        "parent": "AL",
+        "place_type": "city"
+      },
       "AL:Importados/Indefinidos": {
         "name": "Importados/Indefinidos",
         "parent": "AL",
@@ -311,6 +316,11 @@
       },
       "AL:Porto Real do Colégio": {
         "name": "Porto Real do Colégio",
+        "parent": "AL",
+        "place_type": "city"
+      },
+      "AL:Rio Largo": {
+        "name": "Rio Largo",
         "parent": "AL",
         "place_type": "city"
       },
@@ -1344,6 +1354,11 @@
         "parent": "ES",
         "place_type": "city"
       },
+      "ES:Jerônimo Monteiro": {
+        "name": "Jerônimo Monteiro",
+        "parent": "ES",
+        "place_type": "city"
+      },
       "ES:Linhares": {
         "name": "Linhares",
         "parent": "ES",
@@ -1356,6 +1371,11 @@
       },
       "ES:Santa Leopoldina": {
         "name": "Santa Leopoldina",
+        "parent": "ES",
+        "place_type": "city"
+      },
+      "ES:Santa Maria de Jetibá": {
+        "name": "Santa Maria de Jetibá",
         "parent": "ES",
         "place_type": "city"
       },
@@ -1436,6 +1456,11 @@
       },
       "GO:Aparecida de Goiânia": {
         "name": "Aparecida de Goiânia",
+        "parent": "GO",
+        "place_type": "city"
+      },
+      "GO:Aragoiânia": {
+        "name": "Aragoiânia",
         "parent": "GO",
         "place_type": "city"
       },
@@ -1599,6 +1624,11 @@
         "parent": "GO",
         "place_type": "city"
       },
+      "GO:Santo Antônio do Descoberto": {
+        "name": "Santo Antônio do Descoberto",
+        "parent": "GO",
+        "place_type": "city"
+      },
       "GO:Senador Canedo": {
         "name": "Senador Canedo",
         "parent": "GO",
@@ -1681,6 +1711,11 @@
       },
       "MA:Colinas": {
         "name": "Colinas",
+        "parent": "MA",
+        "place_type": "city"
+      },
+      "MA:Davinópolis": {
+        "name": "Davinópolis",
         "parent": "MA",
         "place_type": "city"
       },
@@ -2429,6 +2464,11 @@
         "parent": "MT",
         "place_type": "city"
       },
+      "MT:Conquista D'Oeste": {
+        "name": "Conquista D'Oeste",
+        "parent": "MT",
+        "place_type": "city"
+      },
       "MT:Cuiabá": {
         "name": "Cuiabá",
         "parent": "MT",
@@ -2954,6 +2994,11 @@
         "parent": "PE",
         "place_type": "city"
       },
+      "PE:Ribeirão": {
+        "name": "Ribeirão",
+        "parent": "PE",
+        "place_type": "city"
+      },
       "PE:Salgueiro": {
         "name": "Salgueiro",
         "parent": "PE",
@@ -3009,6 +3054,11 @@
         "parent": "PE",
         "place_type": "city"
       },
+      "PE:Triunfo": {
+        "name": "Triunfo",
+        "parent": "PE",
+        "place_type": "city"
+      },
       "PE:Vitória de Santo Antão": {
         "name": "Vitória de Santo Antão",
         "parent": "PE",
@@ -3018,6 +3068,16 @@
         "name": "PI",
         "place_type": "state",
         "file": "data/brazil/pi.csv"
+      },
+      "PI:Altos": {
+        "name": "Altos",
+        "parent": "PI",
+        "place_type": "city"
+      },
+      "PI:Bonfim do Piauí": {
+        "name": "Bonfim do Piauí",
+        "parent": "PI",
+        "place_type": "city"
       },
       "PI:Campo Maior": {
         "name": "Campo Maior",
@@ -3031,6 +3091,11 @@
       },
       "PI:Parnaíba": {
         "name": "Parnaíba",
+        "parent": "PI",
+        "place_type": "city"
+      },
+      "PI:Picos": {
+        "name": "Picos",
         "parent": "PI",
         "place_type": "city"
       },
@@ -3509,6 +3574,11 @@
         "parent": "RJ",
         "place_type": "city"
       },
+      "RJ:Areal": {
+        "name": "Areal",
+        "parent": "RJ",
+        "place_type": "city"
+      },
       "RJ:Armação dos Búzios": {
         "name": "Armação dos Búzios",
         "parent": "RJ",
@@ -3561,6 +3631,11 @@
       },
       "RJ:Cantagalo": {
         "name": "Cantagalo",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "RJ:Carapebus": {
+        "name": "Carapebus",
         "parent": "RJ",
         "place_type": "city"
       },
@@ -3631,6 +3706,11 @@
       },
       "RJ:Maricá": {
         "name": "Maricá",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "RJ:Mendes": {
+        "name": "Mendes",
         "parent": "RJ",
         "place_type": "city"
       },
@@ -3714,6 +3794,11 @@
         "parent": "RJ",
         "place_type": "city"
       },
+      "RJ:Quissamã": {
+        "name": "Quissamã",
+        "parent": "RJ",
+        "place_type": "city"
+      },
       "RJ:Resende": {
         "name": "Resende",
         "parent": "RJ",
@@ -3751,6 +3836,11 @@
       },
       "RJ:Seropédica": {
         "name": "Seropédica",
+        "parent": "RJ",
+        "place_type": "city"
+      },
+      "RJ:Silva Jardim": {
+        "name": "Silva Jardim",
         "parent": "RJ",
         "place_type": "city"
       },
@@ -4144,6 +4234,11 @@
         "parent": "RS",
         "place_type": "city"
       },
+      "RS:Candelária": {
+        "name": "Candelária",
+        "parent": "RS",
+        "place_type": "city"
+      },
       "RS:Canguçu": {
         "name": "Canguçu",
         "parent": "RS",
@@ -4176,6 +4271,11 @@
       },
       "RS:Cerro Grande do Sul": {
         "name": "Cerro Grande do Sul",
+        "parent": "RS",
+        "place_type": "city"
+      },
+      "RS:Chapada": {
+        "name": "Chapada",
         "parent": "RS",
         "place_type": "city"
       },
@@ -4301,6 +4401,11 @@
       },
       "RS:Montenegro": {
         "name": "Montenegro",
+        "parent": "RS",
+        "place_type": "city"
+      },
+      "RS:Nicolau Vergueiro": {
+        "name": "Nicolau Vergueiro",
         "parent": "RS",
         "place_type": "city"
       },
@@ -4471,6 +4576,11 @@
       },
       "RS:Teutônia": {
         "name": "Teutônia",
+        "parent": "RS",
+        "place_type": "city"
+      },
+      "RS:Tio Hugo": {
+        "name": "Tio Hugo",
         "parent": "RS",
         "place_type": "city"
       },
