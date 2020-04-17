@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-15,AP,,state,342,7,27,True,845731,16,40.43839,0.0205
+2020-04-16,AP,,state,362,10,28,True,845731,16,42.80321,0.0276
+2020-04-15,AP,,state,342,7,27,False,845731,16,40.43839,0.0205
 2020-04-14,AP,,state,308,7,26,False,845731,16,36.41820,0.0227
 2020-04-13,AP,,state,244,6,25,False,845731,16,28.85078,0.0246
 2020-04-12,AP,,state,237,5,24,False,845731,16,28.02309,0.0211
@@ -26,8 +27,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,AP,,state,1,0,3,False,845731,16,0.11824,
 2020-03-21,AP,,state,1,0,2,False,845731,16,0.11824,
 2020-03-20,AP,,state,1,0,1,False,845731,16,0.11824,
-2020-04-15,AP,Laranjal do Jari,city,1,0,1,True,50410,1600279,1.98373,
-2020-04-15,AP,Macapá,city,290,5,27,True,503327,1600303,57.61662,0.0172
+2020-04-16,AP,Laranjal do Jari,city,2,0,2,True,50410,1600279,3.96747,
+2020-04-15,AP,Laranjal do Jari,city,1,0,1,False,50410,1600279,1.98373,
+2020-04-16,AP,Macapá,city,303,8,28,True,503327,1600303,60.19943,0.0264
+2020-04-15,AP,Macapá,city,290,5,27,False,503327,1600303,57.61662,0.0172
 2020-04-14,AP,Macapá,city,261,5,26,False,503327,1600303,51.85496,0.0192
 2020-04-13,AP,Macapá,city,211,4,25,False,503327,1600303,41.92106,0.0190
 2020-04-12,AP,Macapá,city,204,3,24,False,503327,1600303,40.53031,0.0147
@@ -54,9 +57,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,AP,Macapá,city,1,0,3,False,503327,1600303,0.19868,
 2020-03-21,AP,Macapá,city,1,0,2,False,503327,1600303,0.19868,
 2020-03-20,AP,Macapá,city,1,0,1,False,503327,1600303,0.19868,
-2020-04-15,AP,Mazagão,city,1,0,2,True,21632,1600402,4.62278,
+2020-04-16,AP,Mazagão,city,2,0,3,True,21632,1600402,9.24556,
+2020-04-15,AP,Mazagão,city,1,0,2,False,21632,1600402,4.62278,
 2020-04-14,AP,Mazagão,city,1,0,1,False,21632,1600402,4.62278,
-2020-04-15,AP,Oiapoque,city,2,0,12,True,27270,1600501,7.33407,
+2020-04-16,AP,Oiapoque,city,4,0,13,True,27270,1600501,14.66813,
+2020-04-15,AP,Oiapoque,city,2,0,12,False,27270,1600501,7.33407,
 2020-04-14,AP,Oiapoque,city,2,0,11,False,27270,1600501,7.33407,
 2020-04-13,AP,Oiapoque,city,2,0,10,False,27270,1600501,7.33407,
 2020-04-12,AP,Oiapoque,city,2,0,9,False,27270,1600501,7.33407,
@@ -68,9 +73,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,AP,Oiapoque,city,1,0,3,False,27270,1600501,3.66703,
 2020-04-05,AP,Oiapoque,city,1,0,2,False,27270,1600501,3.66703,
 2020-04-04,AP,Oiapoque,city,1,0,1,False,27270,1600501,3.66703,
-2020-04-15,AP,Porto Grande,city,1,0,2,True,21971,1600535,4.55145,
+2020-04-16,AP,Porto Grande,city,1,0,3,True,21971,1600535,4.55145,
+2020-04-15,AP,Porto Grande,city,1,0,2,False,21971,1600535,4.55145,
 2020-04-14,AP,Porto Grande,city,1,0,1,False,21971,1600535,4.55145,
-2020-04-15,AP,Santana,city,43,2,11,True,121364,1600600,35.43061,0.0465
+2020-04-16,AP,Santana,city,48,2,12,True,121364,1600600,39.55044,0.0417
+2020-04-15,AP,Santana,city,43,2,11,False,121364,1600600,35.43061,0.0465
 2020-04-14,AP,Santana,city,41,2,10,False,121364,1600600,33.78267,0.0488
 2020-04-13,AP,Santana,city,31,2,9,False,121364,1600600,25.54299,0.0645
 2020-04-12,AP,Santana,city,31,2,8,False,121364,1600600,25.54299,0.0645
@@ -81,5 +88,6 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,AP,Santana,city,3,1,3,False,121364,1600600,2.47190,0.3333
 2020-04-06,AP,Santana,city,3,1,2,False,121364,1600600,2.47190,0.3333
 2020-04-05,AP,Santana,city,2,0,1,False,121364,1600600,1.64794,
-2020-04-15,AP,Vitória do Jari,city,2,0,2,True,15931,1600808,12.55414,
+2020-04-16,AP,Vitória do Jari,city,2,0,3,True,15931,1600808,12.55414,
+2020-04-15,AP,Vitória do Jari,city,2,0,2,False,15931,1600808,12.55414,
 2020-04-14,AP,Vitória do Jari,city,2,0,1,False,15931,1600808,12.55414,
