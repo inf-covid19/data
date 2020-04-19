@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-17,PB,,state,205,28,37,True,4018127,25,5.10188,0.1366
+2020-04-18,PB,,state,236,29,38,True,4018127,25,5.87338,0.1229
+2020-04-17,PB,,state,205,28,37,False,4018127,25,5.10188,0.1366
 2020-04-16,PB,,state,195,26,36,False,4018127,25,4.85301,0.1333
 2020-04-15,PB,,state,165,24,35,False,4018127,25,4.10639,0.1455
 2020-04-14,PB,,state,152,21,34,False,4018127,25,3.78286,0.1382
@@ -36,7 +37,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-14,PB,,state,0,0,3,False,4018127,25,,
 2020-03-13,PB,,state,0,0,2,False,4018127,25,,
 2020-03-12,PB,,state,0,0,1,False,4018127,25,,
-2020-04-17,PB,Bayeux,city,6,1,10,True,96880,2501807,6.19323,0.1667
+2020-04-18,PB,Bayeux,city,8,1,11,True,96880,2501807,8.25764,0.1250
+2020-04-17,PB,Bayeux,city,6,1,10,False,96880,2501807,6.19323,0.1667
 2020-04-16,PB,Bayeux,city,6,1,9,False,96880,2501807,6.19323,0.1667
 2020-04-15,PB,Bayeux,city,4,1,8,False,96880,2501807,4.12882,0.2500
 2020-04-14,PB,Bayeux,city,4,1,7,False,96880,2501807,4.12882,0.2500
@@ -46,7 +48,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,PB,Bayeux,city,0,0,3,False,96880,2501807,,
 2020-04-09,PB,Bayeux,city,1,0,2,False,96880,2501807,1.03220,
 2020-04-08,PB,Bayeux,city,1,0,1,False,96880,2501807,1.03220,
-2020-04-17,PB,Cabedelo,city,8,2,17,True,67736,2503209,11.81056,0.2500
+2020-04-18,PB,Cabedelo,city,9,2,18,True,67736,2503209,13.28688,0.2222
+2020-04-17,PB,Cabedelo,city,8,2,17,False,67736,2503209,11.81056,0.2500
 2020-04-16,PB,Cabedelo,city,7,2,16,False,67736,2503209,10.33424,0.2857
 2020-04-15,PB,Cabedelo,city,6,2,15,False,67736,2503209,8.85792,0.3333
 2020-04-14,PB,Cabedelo,city,5,2,14,False,67736,2503209,7.38160,0.4000
@@ -63,7 +66,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,PB,Cabedelo,city,1,0,3,False,67736,2503209,1.47632,
 2020-04-02,PB,Cabedelo,city,1,0,2,False,67736,2503209,1.47632,
 2020-04-01,PB,Cabedelo,city,1,0,1,False,67736,2503209,1.47632,
-2020-04-17,PB,Campina Grande,city,8,1,22,True,409731,2504009,1.95250,0.1250
+2020-04-18,PB,Campina Grande,city,12,1,23,True,409731,2504009,2.92875,0.0833
+2020-04-17,PB,Campina Grande,city,8,1,22,False,409731,2504009,1.95250,0.1250
 2020-04-16,PB,Campina Grande,city,8,1,21,False,409731,2504009,1.95250,0.1250
 2020-04-15,PB,Campina Grande,city,4,0,20,False,409731,2504009,0.97625,
 2020-04-14,PB,Campina Grande,city,3,0,19,False,409731,2504009,0.73219,
@@ -85,7 +89,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,PB,Campina Grande,city,2,0,3,False,409731,2504009,0.48813,
 2020-03-28,PB,Campina Grande,city,2,0,2,False,409731,2504009,0.48813,
 2020-03-27,PB,Campina Grande,city,1,0,1,False,409731,2504009,0.24406,
-2020-04-17,PB,Igaracy,city,1,0,26,True,6117,2502607,16.34788,
+2020-04-18,PB,Congo,city,1,0,1,True,4786,2504702,20.89427,
+2020-04-18,PB,Igaracy,city,1,0,27,True,6117,2502607,16.34788,
+2020-04-17,PB,Igaracy,city,1,0,26,False,6117,2502607,16.34788,
 2020-04-16,PB,Igaracy,city,1,0,25,False,6117,2502607,16.34788,
 2020-04-15,PB,Igaracy,city,1,0,24,False,6117,2502607,16.34788,
 2020-04-14,PB,Igaracy,city,1,0,23,False,6117,2502607,16.34788,
@@ -111,7 +117,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,PB,Igaracy,city,1,0,3,False,6117,2502607,16.34788,
 2020-03-24,PB,Igaracy,city,1,0,2,False,6117,2502607,16.34788,
 2020-03-23,PB,Igaracy,city,1,0,1,False,6117,2502607,16.34788,
-2020-04-17,PB,João Pessoa,city,148,17,31,True,809015,2507507,18.29385,0.1149
+2020-04-18,PB,João Pessoa,city,163,17,32,True,809015,2507507,20.14796,0.1043
+2020-04-17,PB,João Pessoa,city,148,17,31,False,809015,2507507,18.29385,0.1149
 2020-04-16,PB,João Pessoa,city,142,16,30,False,809015,2507507,17.55221,0.1127
 2020-04-15,PB,João Pessoa,city,124,16,29,False,809015,2507507,15.32728,0.1290
 2020-04-14,PB,João Pessoa,city,115,14,28,False,809015,2507507,14.21482,0.1217
@@ -142,7 +149,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,PB,João Pessoa,city,1,0,3,False,809015,2507507,0.12361,
 2020-03-19,PB,João Pessoa,city,1,0,2,False,809015,2507507,0.12361,
 2020-03-18,PB,João Pessoa,city,1,0,1,False,809015,2507507,0.12361,
-2020-04-17,PB,Junco do Seridó,city,3,1,15,True,7150,2507804,41.95804,0.3333
+2020-04-18,PB,Junco do Seridó,city,3,1,16,True,7150,2507804,41.95804,0.3333
+2020-04-17,PB,Junco do Seridó,city,3,1,15,False,7150,2507804,41.95804,0.3333
 2020-04-16,PB,Junco do Seridó,city,3,1,14,False,7150,2507804,41.95804,0.3333
 2020-04-15,PB,Junco do Seridó,city,3,1,13,False,7150,2507804,41.95804,0.3333
 2020-04-14,PB,Junco do Seridó,city,3,1,12,False,7150,2507804,41.95804,0.3333
@@ -157,7 +165,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,PB,Junco do Seridó,city,1,1,3,False,7150,2507804,13.98601,1.0000
 2020-04-04,PB,Junco do Seridó,city,1,1,2,False,7150,2507804,13.98601,1.0000
 2020-04-03,PB,Junco do Seridó,city,1,0,1,False,7150,2507804,13.98601,
-2020-04-17,PB,Patos,city,5,2,19,True,107605,2510808,4.64662,0.4000
+2020-04-18,PB,Patos,city,7,2,20,True,107605,2510808,6.50527,0.2857
+2020-04-17,PB,Patos,city,5,2,19,False,107605,2510808,4.64662,0.4000
 2020-04-16,PB,Patos,city,5,2,18,False,107605,2510808,4.64662,0.4000
 2020-04-15,PB,Patos,city,4,1,17,False,107605,2510808,3.71730,0.2500
 2020-04-14,PB,Patos,city,4,1,16,False,107605,2510808,3.71730,0.2500
@@ -176,10 +185,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,PB,Patos,city,1,1,3,False,107605,2510808,0.92932,1.0000
 2020-03-31,PB,Patos,city,1,1,2,False,107605,2510808,0.92932,1.0000
 2020-03-30,PB,Patos,city,1,0,1,False,107605,2510808,0.92932,
-2020-04-17,PB,Pombal,city,2,0,2,True,32801,2512101,6.09738,
+2020-04-18,PB,Pombal,city,2,0,3,True,32801,2512101,6.09738,
+2020-04-17,PB,Pombal,city,2,0,2,False,32801,2512101,6.09738,
 2020-04-16,PB,Pombal,city,1,0,1,False,32801,2512101,3.04869,
-2020-04-17,PB,Riachão do Poço,city,1,1,1,True,4509,2512762,22.17787,1.0000
-2020-04-17,PB,Santa Rita,city,17,1,11,True,136586,2513703,12.44637,0.0588
+2020-04-18,PB,Queimadas,city,1,0,1,True,43967,2512507,2.27443,
+2020-04-18,PB,Riachão do Poço,city,1,1,2,True,4509,2512762,22.17787,1.0000
+2020-04-17,PB,Riachão do Poço,city,1,1,1,False,4509,2512762,22.17787,1.0000
+2020-04-18,PB,Santa Rita,city,21,2,12,True,136586,2513703,15.37493,0.0952
+2020-04-17,PB,Santa Rita,city,17,1,11,False,136586,2513703,12.44637,0.0588
 2020-04-16,PB,Santa Rita,city,17,1,10,False,136586,2513703,12.44637,0.0588
 2020-04-15,PB,Santa Rita,city,14,1,9,False,136586,2513703,10.24995,0.0714
 2020-04-14,PB,Santa Rita,city,12,1,8,False,136586,2513703,8.78567,0.0833
@@ -190,13 +203,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,PB,Santa Rita,city,5,0,3,False,136586,2513703,3.66070,
 2020-04-08,PB,Santa Rita,city,4,0,2,False,136586,2513703,2.92856,
 2020-04-07,PB,Santa Rita,city,2,0,1,False,136586,2513703,1.46428,
-2020-04-17,PB,Sapé,city,1,1,6,True,52625,2515302,1.90024,1.0000
+2020-04-18,PB,Sapé,city,2,1,7,True,52625,2515302,3.80048,0.5000
+2020-04-17,PB,Sapé,city,1,1,6,False,52625,2515302,1.90024,1.0000
 2020-04-16,PB,Sapé,city,1,1,5,False,52625,2515302,1.90024,1.0000
 2020-04-15,PB,Sapé,city,1,1,4,False,52625,2515302,1.90024,1.0000
 2020-04-14,PB,Sapé,city,1,0,3,False,52625,2515302,1.90024,
 2020-04-13,PB,Sapé,city,1,0,2,False,52625,2515302,1.90024,
 2020-04-12,PB,Sapé,city,1,0,1,False,52625,2515302,1.90024,
-2020-04-17,PB,Serra Branca,city,1,0,15,True,13699,2515500,7.29980,
+2020-04-18,PB,Serra Branca,city,1,0,16,True,13699,2515500,7.29980,
+2020-04-17,PB,Serra Branca,city,1,0,15,False,13699,2515500,7.29980,
 2020-04-16,PB,Serra Branca,city,1,0,14,False,13699,2515500,7.29980,
 2020-04-15,PB,Serra Branca,city,1,0,13,False,13699,2515500,7.29980,
 2020-04-14,PB,Serra Branca,city,1,0,12,False,13699,2515500,7.29980,
@@ -211,7 +226,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,PB,Serra Branca,city,1,0,3,False,13699,2515500,7.29980,
 2020-04-04,PB,Serra Branca,city,1,0,2,False,13699,2515500,7.29980,
 2020-04-03,PB,Serra Branca,city,1,0,1,False,13699,2515500,7.29980,
-2020-04-17,PB,Sousa,city,1,0,22,True,69444,2516201,1.44001,
+2020-04-18,PB,Sousa,city,1,0,23,True,69444,2516201,1.44001,
+2020-04-17,PB,Sousa,city,1,0,22,False,69444,2516201,1.44001,
 2020-04-16,PB,Sousa,city,1,0,21,False,69444,2516201,1.44001,
 2020-04-15,PB,Sousa,city,1,0,20,False,69444,2516201,1.44001,
 2020-04-14,PB,Sousa,city,1,0,19,False,69444,2516201,1.44001,
@@ -233,12 +249,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,PB,Sousa,city,1,0,3,False,69444,2516201,1.44001,
 2020-03-28,PB,Sousa,city,1,0,2,False,69444,2516201,1.44001,
 2020-03-27,PB,Sousa,city,1,0,1,False,69444,2516201,1.44001,
-2020-04-17,PB,São Bento,city,1,0,1,True,34031,2513901,2.93850,
-2020-04-17,PB,São João do Rio do Peixe,city,1,0,4,True,18034,2500700,5.54508,
+2020-04-18,PB,São Bento,city,1,0,2,True,34031,2513901,2.93850,
+2020-04-17,PB,São Bento,city,1,0,1,False,34031,2513901,2.93850,
+2020-04-18,PB,São João do Rio do Peixe,city,1,0,5,True,18034,2500700,5.54508,
+2020-04-17,PB,São João do Rio do Peixe,city,1,0,4,False,18034,2500700,5.54508,
 2020-04-16,PB,São João do Rio do Peixe,city,1,0,3,False,18034,2500700,5.54508,
 2020-04-15,PB,São João do Rio do Peixe,city,1,0,2,False,18034,2500700,5.54508,
 2020-04-14,PB,São João do Rio do Peixe,city,1,0,1,False,18034,2500700,5.54508,
-2020-04-17,PB,Taperoá,city,1,1,4,True,15376,2516508,6.50364,1.0000
+2020-04-18,PB,Taperoá,city,1,1,5,True,15376,2516508,6.50364,1.0000
+2020-04-17,PB,Taperoá,city,1,1,4,False,15376,2516508,6.50364,1.0000
 2020-04-16,PB,Taperoá,city,1,1,3,False,15376,2516508,6.50364,1.0000
 2020-04-15,PB,Taperoá,city,1,1,2,False,15376,2516508,6.50364,1.0000
 2020-04-14,PB,Taperoá,city,1,1,1,False,15376,2516508,6.50364,1.0000
