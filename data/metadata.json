@@ -1711,6 +1711,11 @@
         "parent": "DF",
         "place_type": "city"
       },
+      "DF:Importados/Indefinidos": {
+        "name": "Importados/Indefinidos",
+        "parent": "DF",
+        "place_type": "city"
+      },
       "ES": {
         "name": "ES",
         "place_type": "state",
@@ -9252,8 +9257,8 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:Bournemouth": {
-        "name": "Bournemouth",
+      "England:Bournemouth, Christchurch and Poole": {
+        "name": "Bournemouth, Christchurch and Poole",
         "parent": "England",
         "place_type": "utla"
       },
@@ -9277,8 +9282,8 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:Bristol": {
-        "name": "Bristol",
+      "England:Bristol, City of": {
+        "name": "Bristol, City of",
         "parent": "England",
         "place_type": "utla"
       },
@@ -9324,6 +9329,11 @@
       },
       "England:Cheshire West and Chester": {
         "name": "Cheshire West and Chester",
+        "parent": "England",
+        "place_type": "utla"
+      },
+      "England:City of London": {
+        "name": "City of London",
         "parent": "England",
         "place_type": "utla"
       },
@@ -9392,6 +9402,11 @@
         "parent": "England",
         "place_type": "utla"
       },
+      "England:East Midlands": {
+        "name": "East Midlands",
+        "parent": "England",
+        "place_type": "region"
+      },
       "England:East Riding of Yorkshire": {
         "name": "East Riding of Yorkshire",
         "parent": "England",
@@ -9405,7 +9420,7 @@
       "England:East of England": {
         "name": "East of England",
         "parent": "England",
-        "place_type": "nhsr"
+        "place_type": "region"
       },
       "England:Enfield": {
         "name": "Enfield",
@@ -9432,8 +9447,8 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:Hackney and City of London": {
-        "name": "Hackney and City of London",
+      "England:Hackney": {
+        "name": "Hackney",
         "parent": "England",
         "place_type": "utla"
       },
@@ -9472,8 +9487,8 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:Herefordshire": {
-        "name": "Herefordshire",
+      "England:Herefordshire, County of": {
+        "name": "Herefordshire, County of",
         "parent": "England",
         "place_type": "utla"
       },
@@ -9512,8 +9527,8 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:Kingston upon Hull": {
-        "name": "Kingston upon Hull",
+      "England:Kingston upon Hull, City of": {
+        "name": "Kingston upon Hull, City of",
         "parent": "England",
         "place_type": "utla"
       },
@@ -9575,7 +9590,7 @@
       "England:London": {
         "name": "London",
         "parent": "England",
-        "place_type": "nhsr"
+        "place_type": "region"
       },
       "England:Luton": {
         "name": "Luton",
@@ -9602,11 +9617,6 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:Midlands": {
-        "name": "Midlands",
-        "parent": "England",
-        "place_type": "nhsr"
-      },
       "England:Milton Keynes": {
         "name": "Milton Keynes",
         "parent": "England",
@@ -9627,15 +9637,15 @@
         "parent": "England",
         "place_type": "utla"
       },
+      "England:North East": {
+        "name": "North East",
+        "parent": "England",
+        "place_type": "region"
+      },
       "England:North East Lincolnshire": {
         "name": "North East Lincolnshire",
         "parent": "England",
         "place_type": "utla"
-      },
-      "England:North East and Yorkshire": {
-        "name": "North East and Yorkshire",
-        "parent": "England",
-        "place_type": "nhsr"
       },
       "England:North Lincolnshire": {
         "name": "North Lincolnshire",
@@ -9655,7 +9665,7 @@
       "England:North West": {
         "name": "North West",
         "parent": "England",
-        "place_type": "nhsr"
+        "place_type": "region"
       },
       "England:North Yorkshire": {
         "name": "North Yorkshire",
@@ -9785,7 +9795,7 @@
       "England:South East": {
         "name": "South East",
         "parent": "England",
-        "place_type": "nhsr"
+        "place_type": "region"
       },
       "England:South Gloucestershire": {
         "name": "South Gloucestershire",
@@ -9800,7 +9810,7 @@
       "England:South West": {
         "name": "South West",
         "parent": "England",
-        "place_type": "nhsr"
+        "place_type": "region"
       },
       "England:Southampton": {
         "name": "Southampton",
@@ -9817,8 +9827,8 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:St Helens": {
-        "name": "St Helens",
+      "England:St. Helens": {
+        "name": "St. Helens",
         "parent": "England",
         "place_type": "utla"
       },
@@ -9897,11 +9907,6 @@
         "parent": "England",
         "place_type": "utla"
       },
-      "England:Unconfirmed": {
-        "name": "Unconfirmed",
-        "parent": "England",
-        "place_type": "nhsr"
-      },
       "England:Wakefield": {
         "name": "Wakefield",
         "parent": "England",
@@ -9936,6 +9941,11 @@
         "name": "West Berkshire",
         "parent": "England",
         "place_type": "utla"
+      },
+      "England:West Midlands": {
+        "name": "West Midlands",
+        "parent": "England",
+        "place_type": "region"
       },
       "England:West Sussex": {
         "name": "West Sussex",
@@ -9986,6 +9996,11 @@
         "name": "York",
         "parent": "England",
         "place_type": "utla"
+      },
+      "England:Yorkshire and The Humber": {
+        "name": "Yorkshire and The Humber",
+        "parent": "England",
+        "place_type": "region"
       },
       "Northern Ireland": {
         "name": "Northern Ireland",
