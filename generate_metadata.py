@@ -4,6 +4,8 @@ import pandas as pd
 import numpy as np
 import json
 
+from helpers import executor
+
 
 def meta_countries(countries={}):
     countries_file = glob.glob('data/countries/*.csv')
@@ -146,7 +148,7 @@ def meta_united_kingdom(countries={}):
                     'parent': row['country'],
                     'place_type': row['place_type'],
                 }
- 
+
     regions = dict(sorted(regions.items(), key=lambda item: item[0]))
     countries[country]['regions'] = regions
 
@@ -265,20 +267,6 @@ def meta_argentina(countries={}):
     return countries
 
 
-def get_metadata(fn, args=None):
-    result = 'Done'
-    print(f'[{fn.__name__}] Starting...')
-    start_time = time.time()
-    r = None
-    try:
-        r = fn(args)
-    except Exception as e:
-        result = f'Failed ({e.__repr__()})'
-    elapsed_time = time.time() - start_time
-    print(f'[{fn.__name__}] {result} in {elapsed_time:.3f}s!')
-    return r
-
-
 if __name__ == "__main__":
     meta_json = {}
     meta_gatherer = [
@@ -294,7 +282,7 @@ if __name__ == "__main__":
     ]
 
     for fn in meta_gatherer:
-        meta_json = get_metadata(fn, meta_json)
+        meta_json = executor(fn, meta_json)
 
     with open('data/metadata.json', 'w') as file:
         file.write(json.dumps(meta_json, indent=2, ensure_ascii=False))

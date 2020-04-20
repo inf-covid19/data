@@ -1,6 +1,6 @@
 ## United Kingdom
 
-> Last updated at Apr 19 2020 18:02:31 UTC.
+> Last updated at Apr 20 2020 21:10:44 UTC.
 
 
 | Country | Dataset |
@@ -8,3 +8,4 @@
 | Northern Ireland | [`northern_ireland.csv`](northern_ireland.csv) |
 | Scotland | [`scotland.csv`](scotland.csv) |
 | Wales | [`wales.csv`](wales.csv) |
+| England | [`england.csv`](england.csv) |

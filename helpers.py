@@ -1,3 +1,5 @@
+import time
+import traceback
 from os import getcwd, makedirs, path, rename
 
 
@@ -41,3 +43,26 @@ def ensure_consistency(updated_files, identifier):
                     latest_line = line
                     prev_id = _id
                 update_f.write(latest_line)
+
+
+def executor(fn, *args, **kwargs):
+    trace_info = None
+
+    print(f'[{fn.__name__}] Starting...')
+    start_time = time.time()
+
+    r = None
+    try:
+        r = fn(*args, **kwargs)
+    except Exception:
+        trace_info = traceback.format_exc().splitlines()
+    elapsed_time = time.time() - start_time
+
+    if trace_info is None:
+        print(f'[{fn.__name__}] Done in {elapsed_time:.3f}s!')
+    else:
+        print(f'[{fn.__name__}] Failed in {elapsed_time:.3f}s!')
+        print(f'[{fn.__name__}]  ' + f'\n[{fn.__name__}]  '.join(trace_info))
+    print('')
+
+    return r
