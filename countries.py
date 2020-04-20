@@ -1,6 +1,7 @@
 from urllib import request
 from os import getcwd, path
 import datetime
+import pandas as pd
 
 from helpers import ensure_dirs
 
@@ -13,40 +14,32 @@ def scrape_countries():
     ensure_dirs(countries_dir)
 
     countries = {}
-    prev_country = ''
-    header = ''
-    curr_lines = []
+    df = pd.read_csv(COUNTRIES_DATA)
 
-    def write_file():
-        with open(path.join(countries_dir, f'{prev_country}.csv'), 'w') as country_file:
-            country_file.writelines([header] + curr_lines)
+    for country in df['countriesAndTerritories'].unique():
+        is_country = df['countriesAndTerritories'] == country
+        country_filename = country.lower().replace(' ', '_') + '.csv'
+        country_file = path.join(countries_dir, country_filename)
+        countries[country] = country_filename
 
-    for line_bin in request.urlopen(COUNTRIES_DATA):
-        line = line_bin.decode('utf-8')
-
-        if header == '':
-            header = line
-            continue
-
-        country_name = line.split(',')[6]
-        country = country_name.lower()
-        if len(prev_country) > 0 and country != prev_country:
-            write_file()
-            curr_lines = []
-
-        curr_lines.append(line)
-        prev_country = country
-        countries[country_name] = True
-
-    write_file()
+        country_df = df[is_country]
+        country_df.to_csv(country_file, index=False, float_format='%.f')
 
     with open(path.join(countries_dir, 'README.md'), 'w') as readme_f:
         readme_f.write(get_readme_contents(countries))
 
 
 def get_readme_contents(countries):
-    countries_datasets = [(country.replace('_', ' '), country.lower()+'.csv') for country in countries]
-    toc = [f'| {name} | [`{dataset}`]({dataset}) |' for name, dataset in countries_datasets]
+    countries_datasets = [
+        (country.replace('_', ' '), filename)
+        for country, filename
+        in countries.items()
+    ]
+    toc = [
+        f'| {name} | [`{dataset}`]({dataset}) |'
+        for name, dataset
+        in countries_datasets
+    ]
     toc_contents = '\n'.join(toc)
     return f"""## Countries
 

@@ -1,213 +1,213 @@
 ## Countries
 
-> Last updated at Apr 20 2020 18:02:15 UTC.
+> Last updated at Apr 20 2020 19:49:39 UTC.
 
 
 | Country | Dataset |
 | ------ | ------- |
-| AF | [`af.csv`](af.csv) |
-| AL | [`al.csv`](al.csv) |
-| DZ | [`dz.csv`](dz.csv) |
-| AD | [`ad.csv`](ad.csv) |
-| AO | [`ao.csv`](ao.csv) |
-| AI | [`ai.csv`](ai.csv) |
-| AG | [`ag.csv`](ag.csv) |
-| AR | [`ar.csv`](ar.csv) |
-| AM | [`am.csv`](am.csv) |
-| AW | [`aw.csv`](aw.csv) |
-| AU | [`au.csv`](au.csv) |
-| AT | [`at.csv`](at.csv) |
-| AZ | [`az.csv`](az.csv) |
-| BS | [`bs.csv`](bs.csv) |
-| BH | [`bh.csv`](bh.csv) |
-| BD | [`bd.csv`](bd.csv) |
-| BB | [`bb.csv`](bb.csv) |
-| BY | [`by.csv`](by.csv) |
-| BE | [`be.csv`](be.csv) |
-| BZ | [`bz.csv`](bz.csv) |
-| BJ | [`bj.csv`](bj.csv) |
-| BM | [`bm.csv`](bm.csv) |
-| BT | [`bt.csv`](bt.csv) |
-| BO | [`bo.csv`](bo.csv) |
-| BQ | [`bq.csv`](bq.csv) |
-| BA | [`ba.csv`](ba.csv) |
-| BW | [`bw.csv`](bw.csv) |
-| BR | [`br.csv`](br.csv) |
-| VG | [`vg.csv`](vg.csv) |
-| BN | [`bn.csv`](bn.csv) |
-| BG | [`bg.csv`](bg.csv) |
-| BF | [`bf.csv`](bf.csv) |
-| BI | [`bi.csv`](bi.csv) |
-| KH | [`kh.csv`](kh.csv) |
-| CM | [`cm.csv`](cm.csv) |
-| CA | [`ca.csv`](ca.csv) |
-| CV | [`cv.csv`](cv.csv) |
-| JPG11668 | [`jpg11668.csv`](jpg11668.csv) |
-| KY | [`ky.csv`](ky.csv) |
-| CF | [`cf.csv`](cf.csv) |
-| TD | [`td.csv`](td.csv) |
-| CL | [`cl.csv`](cl.csv) |
-| CN | [`cn.csv`](cn.csv) |
-| CO | [`co.csv`](co.csv) |
-| CG | [`cg.csv`](cg.csv) |
-| CR | [`cr.csv`](cr.csv) |
-| CI | [`ci.csv`](ci.csv) |
-| HR | [`hr.csv`](hr.csv) |
-| CU | [`cu.csv`](cu.csv) |
-| CW | [`cw.csv`](cw.csv) |
-| CY | [`cy.csv`](cy.csv) |
-| CZ | [`cz.csv`](cz.csv) |
-| CD | [`cd.csv`](cd.csv) |
-| DK | [`dk.csv`](dk.csv) |
-| DJ | [`dj.csv`](dj.csv) |
-| DM | [`dm.csv`](dm.csv) |
-| DO | [`do.csv`](do.csv) |
-| EC | [`ec.csv`](ec.csv) |
-| EG | [`eg.csv`](eg.csv) |
-| SV | [`sv.csv`](sv.csv) |
-| GQ | [`gq.csv`](gq.csv) |
-| ER | [`er.csv`](er.csv) |
-| EE | [`ee.csv`](ee.csv) |
-| SZ | [`sz.csv`](sz.csv) |
-| ET | [`et.csv`](et.csv) |
-| FK | [`fk.csv`](fk.csv) |
-| FO | [`fo.csv`](fo.csv) |
-| FJ | [`fj.csv`](fj.csv) |
-| FI | [`fi.csv`](fi.csv) |
-| FR | [`fr.csv`](fr.csv) |
-| PF | [`pf.csv`](pf.csv) |
-| GA | [`ga.csv`](ga.csv) |
-| GM | [`gm.csv`](gm.csv) |
-| GE | [`ge.csv`](ge.csv) |
-| DE | [`de.csv`](de.csv) |
-| GH | [`gh.csv`](gh.csv) |
-| GI | [`gi.csv`](gi.csv) |
-| EL | [`el.csv`](el.csv) |
-| GL | [`gl.csv`](gl.csv) |
-| GD | [`gd.csv`](gd.csv) |
-| GU | [`gu.csv`](gu.csv) |
-| GT | [`gt.csv`](gt.csv) |
-| GG | [`gg.csv`](gg.csv) |
-| GN | [`gn.csv`](gn.csv) |
-| GW | [`gw.csv`](gw.csv) |
-| GY | [`gy.csv`](gy.csv) |
-| HT | [`ht.csv`](ht.csv) |
-| VA | [`va.csv`](va.csv) |
-| HN | [`hn.csv`](hn.csv) |
-| HU | [`hu.csv`](hu.csv) |
-| IS | [`is.csv`](is.csv) |
-| IN | [`in.csv`](in.csv) |
-| ID | [`id.csv`](id.csv) |
-| IR | [`ir.csv`](ir.csv) |
-| IQ | [`iq.csv`](iq.csv) |
-| IE | [`ie.csv`](ie.csv) |
-| IM | [`im.csv`](im.csv) |
-| IL | [`il.csv`](il.csv) |
-| IT | [`it.csv`](it.csv) |
-| JM | [`jm.csv`](jm.csv) |
-| JP | [`jp.csv`](jp.csv) |
-| JE | [`je.csv`](je.csv) |
-| JO | [`jo.csv`](jo.csv) |
-| KZ | [`kz.csv`](kz.csv) |
-| KE | [`ke.csv`](ke.csv) |
-| XK | [`xk.csv`](xk.csv) |
-| KW | [`kw.csv`](kw.csv) |
-| KG | [`kg.csv`](kg.csv) |
-| LA | [`la.csv`](la.csv) |
-| LV | [`lv.csv`](lv.csv) |
-| LB | [`lb.csv`](lb.csv) |
-| LR | [`lr.csv`](lr.csv) |
-| LY | [`ly.csv`](ly.csv) |
-| LI | [`li.csv`](li.csv) |
-| LT | [`lt.csv`](lt.csv) |
-| LU | [`lu.csv`](lu.csv) |
-| MG | [`mg.csv`](mg.csv) |
-| MW | [`mw.csv`](mw.csv) |
-| MY | [`my.csv`](my.csv) |
-| MV | [`mv.csv`](mv.csv) |
-| ML | [`ml.csv`](ml.csv) |
-| MT | [`mt.csv`](mt.csv) |
-| MR | [`mr.csv`](mr.csv) |
-| MU | [`mu.csv`](mu.csv) |
-| MX | [`mx.csv`](mx.csv) |
-| MD | [`md.csv`](md.csv) |
-| MC | [`mc.csv`](mc.csv) |
-| MN | [`mn.csv`](mn.csv) |
-| ME | [`me.csv`](me.csv) |
-| MS | [`ms.csv`](ms.csv) |
-| MA | [`ma.csv`](ma.csv) |
-| MZ | [`mz.csv`](mz.csv) |
-| MM | [`mm.csv`](mm.csv) |
-| NA | [`na.csv`](na.csv) |
-| NP | [`np.csv`](np.csv) |
-| NL | [`nl.csv`](nl.csv) |
-| NC | [`nc.csv`](nc.csv) |
-| NZ | [`nz.csv`](nz.csv) |
-| NI | [`ni.csv`](ni.csv) |
-| NE | [`ne.csv`](ne.csv) |
-| NG | [`ng.csv`](ng.csv) |
-| MK | [`mk.csv`](mk.csv) |
-| MP | [`mp.csv`](mp.csv) |
-| NO | [`no.csv`](no.csv) |
-| OM | [`om.csv`](om.csv) |
-| PK | [`pk.csv`](pk.csv) |
-| PS | [`ps.csv`](ps.csv) |
-| PA | [`pa.csv`](pa.csv) |
-| PG | [`pg.csv`](pg.csv) |
-| PY | [`py.csv`](py.csv) |
-| PE | [`pe.csv`](pe.csv) |
-| PH | [`ph.csv`](ph.csv) |
-| PL | [`pl.csv`](pl.csv) |
-| PT | [`pt.csv`](pt.csv) |
-| PR | [`pr.csv`](pr.csv) |
-| QA | [`qa.csv`](qa.csv) |
-| RO | [`ro.csv`](ro.csv) |
-| RU | [`ru.csv`](ru.csv) |
-| RW | [`rw.csv`](rw.csv) |
-| KN | [`kn.csv`](kn.csv) |
-| LC | [`lc.csv`](lc.csv) |
-| VC | [`vc.csv`](vc.csv) |
-| SM | [`sm.csv`](sm.csv) |
-| ST | [`st.csv`](st.csv) |
-| SA | [`sa.csv`](sa.csv) |
-| SN | [`sn.csv`](sn.csv) |
-| RS | [`rs.csv`](rs.csv) |
-| SC | [`sc.csv`](sc.csv) |
-| SL | [`sl.csv`](sl.csv) |
-| SG | [`sg.csv`](sg.csv) |
-| SX | [`sx.csv`](sx.csv) |
-| SK | [`sk.csv`](sk.csv) |
-| SI | [`si.csv`](si.csv) |
-| SO | [`so.csv`](so.csv) |
-| ZA | [`za.csv`](za.csv) |
-| KR | [`kr.csv`](kr.csv) |
-| SS | [`ss.csv`](ss.csv) |
-| ES | [`es.csv`](es.csv) |
-| LK | [`lk.csv`](lk.csv) |
-| SD | [`sd.csv`](sd.csv) |
-| SR | [`sr.csv`](sr.csv) |
-| SE | [`se.csv`](se.csv) |
-| CH | [`ch.csv`](ch.csv) |
-| SY | [`sy.csv`](sy.csv) |
-| TW | [`tw.csv`](tw.csv) |
-| TH | [`th.csv`](th.csv) |
-| TL | [`tl.csv`](tl.csv) |
-| TG | [`tg.csv`](tg.csv) |
-| TT | [`tt.csv`](tt.csv) |
-| TN | [`tn.csv`](tn.csv) |
-| TR | [`tr.csv`](tr.csv) |
-| TC | [`tc.csv`](tc.csv) |
-| UG | [`ug.csv`](ug.csv) |
-| UA | [`ua.csv`](ua.csv) |
-| AE | [`ae.csv`](ae.csv) |
-| UK | [`uk.csv`](uk.csv) |
-| TZ | [`tz.csv`](tz.csv) |
-| US | [`us.csv`](us.csv) |
-| VI | [`vi.csv`](vi.csv) |
-| UY | [`uy.csv`](uy.csv) |
-| UZ | [`uz.csv`](uz.csv) |
-| VE | [`ve.csv`](ve.csv) |
-| VN | [`vn.csv`](vn.csv) |
-| YE | [`ye.csv`](ye.csv) |
-| ZM | [`zm.csv`](zm.csv) |
-| ZW | [`zw.csv`](zw.csv) |
+| Afghanistan | [`afghanistan.csv`](afghanistan.csv) |
+| Albania | [`albania.csv`](albania.csv) |
+| Algeria | [`algeria.csv`](algeria.csv) |
+| Andorra | [`andorra.csv`](andorra.csv) |
+| Angola | [`angola.csv`](angola.csv) |
+| Anguilla | [`anguilla.csv`](anguilla.csv) |
+| Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
+| Argentina | [`argentina.csv`](argentina.csv) |
+| Armenia | [`armenia.csv`](armenia.csv) |
+| Aruba | [`aruba.csv`](aruba.csv) |
+| Australia | [`australia.csv`](australia.csv) |
+| Austria | [`austria.csv`](austria.csv) |
+| Azerbaijan | [`azerbaijan.csv`](azerbaijan.csv) |
+| Bahamas | [`bahamas.csv`](bahamas.csv) |
+| Bahrain | [`bahrain.csv`](bahrain.csv) |
+| Bangladesh | [`bangladesh.csv`](bangladesh.csv) |
+| Barbados | [`barbados.csv`](barbados.csv) |
+| Belarus | [`belarus.csv`](belarus.csv) |
+| Belgium | [`belgium.csv`](belgium.csv) |
+| Belize | [`belize.csv`](belize.csv) |
+| Benin | [`benin.csv`](benin.csv) |
+| Bermuda | [`bermuda.csv`](bermuda.csv) |
+| Bhutan | [`bhutan.csv`](bhutan.csv) |
+| Bolivia | [`bolivia.csv`](bolivia.csv) |
+| Bonaire, Saint Eustatius and Saba | [`bonaire,_saint_eustatius_and_saba.csv`](bonaire,_saint_eustatius_and_saba.csv) |
+| Bosnia and Herzegovina | [`bosnia_and_herzegovina.csv`](bosnia_and_herzegovina.csv) |
+| Botswana | [`botswana.csv`](botswana.csv) |
+| Brazil | [`brazil.csv`](brazil.csv) |
+| British Virgin Islands | [`british_virgin_islands.csv`](british_virgin_islands.csv) |
+| Brunei Darussalam | [`brunei_darussalam.csv`](brunei_darussalam.csv) |
+| Bulgaria | [`bulgaria.csv`](bulgaria.csv) |
+| Burkina Faso | [`burkina_faso.csv`](burkina_faso.csv) |
+| Burundi | [`burundi.csv`](burundi.csv) |
+| Cambodia | [`cambodia.csv`](cambodia.csv) |
+| Cameroon | [`cameroon.csv`](cameroon.csv) |
+| Canada | [`canada.csv`](canada.csv) |
+| Cape Verde | [`cape_verde.csv`](cape_verde.csv) |
+| Cases on an international conveyance Japan | [`cases_on_an_international_conveyance_japan.csv`](cases_on_an_international_conveyance_japan.csv) |
+| Cayman Islands | [`cayman_islands.csv`](cayman_islands.csv) |
+| Central African Republic | [`central_african_republic.csv`](central_african_republic.csv) |
+| Chad | [`chad.csv`](chad.csv) |
+| Chile | [`chile.csv`](chile.csv) |
+| China | [`china.csv`](china.csv) |
+| Colombia | [`colombia.csv`](colombia.csv) |
+| Congo | [`congo.csv`](congo.csv) |
+| Costa Rica | [`costa_rica.csv`](costa_rica.csv) |
+| Cote dIvoire | [`cote_divoire.csv`](cote_divoire.csv) |
+| Croatia | [`croatia.csv`](croatia.csv) |
+| Cuba | [`cuba.csv`](cuba.csv) |
+| Curaçao | [`curaçao.csv`](curaçao.csv) |
+| Cyprus | [`cyprus.csv`](cyprus.csv) |
+| Czechia | [`czechia.csv`](czechia.csv) |
+| Democratic Republic of the Congo | [`democratic_republic_of_the_congo.csv`](democratic_republic_of_the_congo.csv) |
+| Denmark | [`denmark.csv`](denmark.csv) |
+| Djibouti | [`djibouti.csv`](djibouti.csv) |
+| Dominica | [`dominica.csv`](dominica.csv) |
+| Dominican Republic | [`dominican_republic.csv`](dominican_republic.csv) |
+| Ecuador | [`ecuador.csv`](ecuador.csv) |
+| Egypt | [`egypt.csv`](egypt.csv) |
+| El Salvador | [`el_salvador.csv`](el_salvador.csv) |
+| Equatorial Guinea | [`equatorial_guinea.csv`](equatorial_guinea.csv) |
+| Eritrea | [`eritrea.csv`](eritrea.csv) |
+| Estonia | [`estonia.csv`](estonia.csv) |
+| Eswatini | [`eswatini.csv`](eswatini.csv) |
+| Ethiopia | [`ethiopia.csv`](ethiopia.csv) |
+| Falkland Islands (Malvinas) | [`falkland_islands_(malvinas).csv`](falkland_islands_(malvinas).csv) |
+| Faroe Islands | [`faroe_islands.csv`](faroe_islands.csv) |
+| Fiji | [`fiji.csv`](fiji.csv) |
+| Finland | [`finland.csv`](finland.csv) |
+| France | [`france.csv`](france.csv) |
+| French Polynesia | [`french_polynesia.csv`](french_polynesia.csv) |
+| Gabon | [`gabon.csv`](gabon.csv) |
+| Gambia | [`gambia.csv`](gambia.csv) |
+| Georgia | [`georgia.csv`](georgia.csv) |
+| Germany | [`germany.csv`](germany.csv) |
+| Ghana | [`ghana.csv`](ghana.csv) |
+| Gibraltar | [`gibraltar.csv`](gibraltar.csv) |
+| Greece | [`greece.csv`](greece.csv) |
+| Greenland | [`greenland.csv`](greenland.csv) |
+| Grenada | [`grenada.csv`](grenada.csv) |
+| Guam | [`guam.csv`](guam.csv) |
+| Guatemala | [`guatemala.csv`](guatemala.csv) |
+| Guernsey | [`guernsey.csv`](guernsey.csv) |
+| Guinea | [`guinea.csv`](guinea.csv) |
+| Guinea Bissau | [`guinea_bissau.csv`](guinea_bissau.csv) |
+| Guyana | [`guyana.csv`](guyana.csv) |
+| Haiti | [`haiti.csv`](haiti.csv) |
+| Holy See | [`holy_see.csv`](holy_see.csv) |
+| Honduras | [`honduras.csv`](honduras.csv) |
+| Hungary | [`hungary.csv`](hungary.csv) |
+| Iceland | [`iceland.csv`](iceland.csv) |
+| India | [`india.csv`](india.csv) |
+| Indonesia | [`indonesia.csv`](indonesia.csv) |
+| Iran | [`iran.csv`](iran.csv) |
+| Iraq | [`iraq.csv`](iraq.csv) |
+| Ireland | [`ireland.csv`](ireland.csv) |
+| Isle of Man | [`isle_of_man.csv`](isle_of_man.csv) |
+| Israel | [`israel.csv`](israel.csv) |
+| Italy | [`italy.csv`](italy.csv) |
+| Jamaica | [`jamaica.csv`](jamaica.csv) |
+| Japan | [`japan.csv`](japan.csv) |
+| Jersey | [`jersey.csv`](jersey.csv) |
+| Jordan | [`jordan.csv`](jordan.csv) |
+| Kazakhstan | [`kazakhstan.csv`](kazakhstan.csv) |
+| Kenya | [`kenya.csv`](kenya.csv) |
+| Kosovo | [`kosovo.csv`](kosovo.csv) |
+| Kuwait | [`kuwait.csv`](kuwait.csv) |
+| Kyrgyzstan | [`kyrgyzstan.csv`](kyrgyzstan.csv) |
+| Laos | [`laos.csv`](laos.csv) |
+| Latvia | [`latvia.csv`](latvia.csv) |
+| Lebanon | [`lebanon.csv`](lebanon.csv) |
+| Liberia | [`liberia.csv`](liberia.csv) |
+| Libya | [`libya.csv`](libya.csv) |
+| Liechtenstein | [`liechtenstein.csv`](liechtenstein.csv) |
+| Lithuania | [`lithuania.csv`](lithuania.csv) |
+| Luxembourg | [`luxembourg.csv`](luxembourg.csv) |
+| Madagascar | [`madagascar.csv`](madagascar.csv) |
+| Malawi | [`malawi.csv`](malawi.csv) |
+| Malaysia | [`malaysia.csv`](malaysia.csv) |
+| Maldives | [`maldives.csv`](maldives.csv) |
+| Mali | [`mali.csv`](mali.csv) |
+| Malta | [`malta.csv`](malta.csv) |
+| Mauritania | [`mauritania.csv`](mauritania.csv) |
+| Mauritius | [`mauritius.csv`](mauritius.csv) |
+| Mexico | [`mexico.csv`](mexico.csv) |
+| Moldova | [`moldova.csv`](moldova.csv) |
+| Monaco | [`monaco.csv`](monaco.csv) |
+| Mongolia | [`mongolia.csv`](mongolia.csv) |
+| Montenegro | [`montenegro.csv`](montenegro.csv) |
+| Montserrat | [`montserrat.csv`](montserrat.csv) |
+| Morocco | [`morocco.csv`](morocco.csv) |
+| Mozambique | [`mozambique.csv`](mozambique.csv) |
+| Myanmar | [`myanmar.csv`](myanmar.csv) |
+| Namibia | [`namibia.csv`](namibia.csv) |
+| Nepal | [`nepal.csv`](nepal.csv) |
+| Netherlands | [`netherlands.csv`](netherlands.csv) |
+| New Caledonia | [`new_caledonia.csv`](new_caledonia.csv) |
+| New Zealand | [`new_zealand.csv`](new_zealand.csv) |
+| Nicaragua | [`nicaragua.csv`](nicaragua.csv) |
+| Niger | [`niger.csv`](niger.csv) |
+| Nigeria | [`nigeria.csv`](nigeria.csv) |
+| North Macedonia | [`north_macedonia.csv`](north_macedonia.csv) |
+| Northern Mariana Islands | [`northern_mariana_islands.csv`](northern_mariana_islands.csv) |
+| Norway | [`norway.csv`](norway.csv) |
+| Oman | [`oman.csv`](oman.csv) |
+| Pakistan | [`pakistan.csv`](pakistan.csv) |
+| Palestine | [`palestine.csv`](palestine.csv) |
+| Panama | [`panama.csv`](panama.csv) |
+| Papua New Guinea | [`papua_new_guinea.csv`](papua_new_guinea.csv) |
+| Paraguay | [`paraguay.csv`](paraguay.csv) |
+| Peru | [`peru.csv`](peru.csv) |
+| Philippines | [`philippines.csv`](philippines.csv) |
+| Poland | [`poland.csv`](poland.csv) |
+| Portugal | [`portugal.csv`](portugal.csv) |
+| Puerto Rico | [`puerto_rico.csv`](puerto_rico.csv) |
+| Qatar | [`qatar.csv`](qatar.csv) |
+| Romania | [`romania.csv`](romania.csv) |
+| Russia | [`russia.csv`](russia.csv) |
+| Rwanda | [`rwanda.csv`](rwanda.csv) |
+| Saint Kitts and Nevis | [`saint_kitts_and_nevis.csv`](saint_kitts_and_nevis.csv) |
+| Saint Lucia | [`saint_lucia.csv`](saint_lucia.csv) |
+| Saint Vincent and the Grenadines | [`saint_vincent_and_the_grenadines.csv`](saint_vincent_and_the_grenadines.csv) |
+| San Marino | [`san_marino.csv`](san_marino.csv) |
+| Sao Tome and Principe | [`sao_tome_and_principe.csv`](sao_tome_and_principe.csv) |
+| Saudi Arabia | [`saudi_arabia.csv`](saudi_arabia.csv) |
+| Senegal | [`senegal.csv`](senegal.csv) |
+| Serbia | [`serbia.csv`](serbia.csv) |
+| Seychelles | [`seychelles.csv`](seychelles.csv) |
+| Sierra Leone | [`sierra_leone.csv`](sierra_leone.csv) |
+| Singapore | [`singapore.csv`](singapore.csv) |
+| Sint Maarten | [`sint_maarten.csv`](sint_maarten.csv) |
+| Slovakia | [`slovakia.csv`](slovakia.csv) |
+| Slovenia | [`slovenia.csv`](slovenia.csv) |
+| Somalia | [`somalia.csv`](somalia.csv) |
+| South Africa | [`south_africa.csv`](south_africa.csv) |
+| South Korea | [`south_korea.csv`](south_korea.csv) |
+| South Sudan | [`south_sudan.csv`](south_sudan.csv) |
+| Spain | [`spain.csv`](spain.csv) |
+| Sri Lanka | [`sri_lanka.csv`](sri_lanka.csv) |
+| Sudan | [`sudan.csv`](sudan.csv) |
+| Suriname | [`suriname.csv`](suriname.csv) |
+| Sweden | [`sweden.csv`](sweden.csv) |
+| Switzerland | [`switzerland.csv`](switzerland.csv) |
+| Syria | [`syria.csv`](syria.csv) |
+| Taiwan | [`taiwan.csv`](taiwan.csv) |
+| Thailand | [`thailand.csv`](thailand.csv) |
+| Timor Leste | [`timor_leste.csv`](timor_leste.csv) |
+| Togo | [`togo.csv`](togo.csv) |
+| Trinidad and Tobago | [`trinidad_and_tobago.csv`](trinidad_and_tobago.csv) |
+| Tunisia | [`tunisia.csv`](tunisia.csv) |
+| Turkey | [`turkey.csv`](turkey.csv) |
+| Turks and Caicos islands | [`turks_and_caicos_islands.csv`](turks_and_caicos_islands.csv) |
+| Uganda | [`uganda.csv`](uganda.csv) |
+| Ukraine | [`ukraine.csv`](ukraine.csv) |
+| United Arab Emirates | [`united_arab_emirates.csv`](united_arab_emirates.csv) |
+| United Kingdom | [`united_kingdom.csv`](united_kingdom.csv) |
+| United Republic of Tanzania | [`united_republic_of_tanzania.csv`](united_republic_of_tanzania.csv) |
+| United States of America | [`united_states_of_america.csv`](united_states_of_america.csv) |
+| United States Virgin Islands | [`united_states_virgin_islands.csv`](united_states_virgin_islands.csv) |
+| Uruguay | [`uruguay.csv`](uruguay.csv) |
+| Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
+| Venezuela | [`venezuela.csv`](venezuela.csv) |
+| Vietnam | [`vietnam.csv`](vietnam.csv) |
+| Yemen | [`yemen.csv`](yemen.csv) |
+| Zambia | [`zambia.csv`](zambia.csv) |
+| Zimbabwe | [`zimbabwe.csv`](zimbabwe.csv) |
