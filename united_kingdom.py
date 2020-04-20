@@ -103,7 +103,7 @@ def scrape_united_kingdom():
 
 
 def get_readme_contents(countries):
-    toc = [f'| {name} | [`{csv}`]({csv}) |' for name, csv in countries.items()]
+    toc = [f'| {name} | [`{csv}`]({csv}) |' for name, csv in sorted(countries.items(), key=lambda k: k[0])]
     toc_contents = '\n'.join(toc)
     return f"""## United Kingdom
 
