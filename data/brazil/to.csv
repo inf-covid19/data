@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-18,TO,,state,33,1,32,True,1572866,17,2.09808,0.0303
+2020-04-19,TO,,state,34,1,33,True,1572866,17,2.16166,0.0294
+2020-04-18,TO,,state,33,1,32,False,1572866,17,2.09808,0.0303
 2020-04-17,TO,,state,32,1,31,False,1572866,17,2.03450,0.0312
 2020-04-16,TO,,state,31,1,30,False,1572866,17,1.97092,0.0323
 2020-04-15,TO,,state,29,1,29,False,1572866,17,1.84377,0.0345
@@ -31,7 +32,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,TO,,state,1,0,3,False,1572866,17,0.06358,
 2020-03-19,TO,,state,1,0,2,False,1572866,17,0.06358,
 2020-03-18,TO,,state,1,0,1,False,1572866,17,0.06358,
-2020-04-18,TO,Araguaína,city,5,0,23,True,180470,1702109,2.77054,
+2020-04-19,TO,Araguaína,city,5,0,24,True,180470,1702109,2.77054,
+2020-04-18,TO,Araguaína,city,5,0,23,False,180470,1702109,2.77054,
 2020-04-17,TO,Araguaína,city,5,0,22,False,180470,1702109,2.77054,
 2020-04-16,TO,Araguaína,city,5,0,21,False,180470,1702109,2.77054,
 2020-04-15,TO,Araguaína,city,5,0,20,False,180470,1702109,2.77054,
@@ -54,7 +56,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,TO,Araguaína,city,1,0,3,False,180470,1702109,0.55411,
 2020-03-28,TO,Araguaína,city,1,0,2,False,180470,1702109,0.55411,
 2020-03-27,TO,Araguaína,city,1,0,1,False,180470,1702109,0.55411,
-2020-04-18,TO,Cariri do Tocantins,city,1,0,8,True,4382,1703867,22.82063,
+2020-04-19,TO,Cariri do Tocantins,city,1,0,9,True,4382,1703867,22.82063,
+2020-04-18,TO,Cariri do Tocantins,city,1,0,8,False,4382,1703867,22.82063,
 2020-04-17,TO,Cariri do Tocantins,city,1,0,7,False,4382,1703867,22.82063,
 2020-04-16,TO,Cariri do Tocantins,city,1,0,6,False,4382,1703867,22.82063,
 2020-04-15,TO,Cariri do Tocantins,city,1,0,5,False,4382,1703867,22.82063,
@@ -62,7 +65,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,TO,Cariri do Tocantins,city,1,0,3,False,4382,1703867,22.82063,
 2020-04-12,TO,Cariri do Tocantins,city,1,0,2,False,4382,1703867,22.82063,
 2020-04-11,TO,Cariri do Tocantins,city,1,0,1,False,4382,1703867,22.82063,
-2020-04-18,TO,Dianópolis,city,1,0,15,True,22139,1707009,4.51692,
+2020-04-19,TO,Dianópolis,city,1,0,16,True,22139,1707009,4.51692,
+2020-04-18,TO,Dianópolis,city,1,0,15,False,22139,1707009,4.51692,
 2020-04-17,TO,Dianópolis,city,1,0,14,False,22139,1707009,4.51692,
 2020-04-16,TO,Dianópolis,city,1,0,13,False,22139,1707009,4.51692,
 2020-04-15,TO,Dianópolis,city,1,0,12,False,22139,1707009,4.51692,
@@ -77,7 +81,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,TO,Dianópolis,city,1,0,3,False,22139,1707009,4.51692,
 2020-04-05,TO,Dianópolis,city,1,0,2,False,22139,1707009,4.51692,
 2020-04-04,TO,Dianópolis,city,1,0,1,False,22139,1707009,4.51692,
-2020-04-18,TO,Gurupi,city,1,0,11,True,86647,1709500,1.15411,
+2020-04-19,TO,Gurupi,city,1,0,12,True,86647,1709500,1.15411,
+2020-04-18,TO,Gurupi,city,1,0,11,False,86647,1709500,1.15411,
 2020-04-17,TO,Gurupi,city,1,0,10,False,86647,1709500,1.15411,
 2020-04-16,TO,Gurupi,city,1,0,9,False,86647,1709500,1.15411,
 2020-04-15,TO,Gurupi,city,1,0,8,False,86647,1709500,1.15411,
@@ -88,7 +93,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,TO,Gurupi,city,1,0,3,False,86647,1709500,1.15411,
 2020-04-09,TO,Gurupi,city,1,0,2,False,86647,1709500,1.15411,
 2020-04-08,TO,Gurupi,city,1,0,1,False,86647,1709500,1.15411,
-2020-04-18,TO,Palmas,city,23,1,32,True,299127,1721000,7.68904,0.0435
+2020-04-19,TO,Palmas,city,24,1,33,True,299127,1721000,8.02335,0.0417
+2020-04-18,TO,Palmas,city,23,1,32,False,299127,1721000,7.68904,0.0435
 2020-04-17,TO,Palmas,city,22,1,31,False,299127,1721000,7.35474,0.0455
 2020-04-16,TO,Palmas,city,21,1,30,False,299127,1721000,7.02043,0.0476
 2020-04-15,TO,Palmas,city,19,1,29,False,299127,1721000,6.35182,0.0526
@@ -120,7 +126,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,TO,Palmas,city,1,0,3,False,299127,1721000,0.33431,
 2020-03-19,TO,Palmas,city,1,0,2,False,299127,1721000,0.33431,
 2020-03-18,TO,Palmas,city,1,0,1,False,299127,1721000,0.33431,
-2020-04-18,TO,Paraíso do Tocantins,city,1,0,8,True,51252,1716109,1.95114,
+2020-04-19,TO,Paraíso do Tocantins,city,1,0,9,True,51252,1716109,1.95114,
+2020-04-18,TO,Paraíso do Tocantins,city,1,0,8,False,51252,1716109,1.95114,
 2020-04-17,TO,Paraíso do Tocantins,city,1,0,7,False,51252,1716109,1.95114,
 2020-04-16,TO,Paraíso do Tocantins,city,1,0,6,False,51252,1716109,1.95114,
 2020-04-15,TO,Paraíso do Tocantins,city,1,0,5,False,51252,1716109,1.95114,
@@ -128,7 +135,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,TO,Paraíso do Tocantins,city,1,0,3,False,51252,1716109,1.95114,
 2020-04-12,TO,Paraíso do Tocantins,city,1,0,2,False,51252,1716109,1.95114,
 2020-04-11,TO,Paraíso do Tocantins,city,1,0,1,False,51252,1716109,1.95114,
-2020-04-18,TO,Tocantinópolis,city,1,0,4,True,22870,1721208,4.37254,
+2020-04-19,TO,Tocantinópolis,city,1,0,5,True,22870,1721208,4.37254,
+2020-04-18,TO,Tocantinópolis,city,1,0,4,False,22870,1721208,4.37254,
 2020-04-17,TO,Tocantinópolis,city,1,0,3,False,22870,1721208,4.37254,
 2020-04-16,TO,Tocantinópolis,city,1,0,2,False,22870,1721208,4.37254,
 2020-04-15,TO,Tocantinópolis,city,1,0,1,False,22870,1721208,4.37254,
