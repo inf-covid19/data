@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 22 2020 10:02:08 UTC.
+> Last updated at Apr 22 2020 12:02:27 UTC.
 
 
 | Country | Dataset |
@@ -164,7 +164,6 @@
 | Romania | [`romania.csv`](romania.csv) |
 | Russia | [`russia.csv`](russia.csv) |
 | Rwanda | [`rwanda.csv`](rwanda.csv) |
-| Saint Helena | [`saint_helena.csv`](saint_helena.csv) |
 | Saint Kitts and Nevis | [`saint_kitts_and_nevis.csv`](saint_kitts_and_nevis.csv) |
 | Saint Lucia | [`saint_lucia.csv`](saint_lucia.csv) |
 | Saint Vincent and the Grenadines | [`saint_vincent_and_the_grenadines.csv`](saint_vincent_and_the_grenadines.csv) |
