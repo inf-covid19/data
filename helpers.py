@@ -66,3 +66,12 @@ def executor(fn, *args, **kwargs):
     print('')
 
     return r
+
+
+def get(obj, key, default):
+    try:
+        if obj[key] != None:
+            return obj[key]
+    except:
+        pass
+    return default

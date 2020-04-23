@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from os import getcwd, path, rename
 
 import datetime
-from helpers import ensure_dirs, ensure_consistency
+from helpers import ensure_dirs, ensure_consistency, get
 
 URL = 'https://olcreativa.lanacion.com.ar/dev/get_url/api.php?key2=1VNRiUbnk53NdSplwmqjQppdWeTtOYLZgez12XyyiPIM'
 
@@ -19,16 +19,14 @@ def scrape_argentina():
     updated_files = []
     header = 'date,region_iso,region,province,city,place_type,cases,deaths,recovered\n'
     for dep in page:
-        if dep['provincia-key'] == 'totales': continue
+        if dep['provincia-key'] == 'totales':
+            continue
         region = CODE_REGION[dep['provincia-key']]
         day = str(datetime.datetime.strptime(dep['ultima-actualizacion'], '%d/%m/%Y'))[:10]
         iso = REGION_ISO[region]
-        confirmed = '0'
-        if 'Afectados' in dep and dep['Afectados'] != None: confirmed = dep['Afectados']
-        deaths = '0'
-        if 'Muertos' in dep and dep['Muertos'] != None: deaths = dep['Muertos']
-        recovered = '0'
-        if 'Recuperados' in dep and dep['Recuperados'] != None: recovered = dep['Recuperados']
+        confirmed = get(dep, 'Afectados', '0')
+        deaths = get(dep, 'Muertos', '0')
+        recovered = get(dep, 'Recuperados', '0')
         line = ','.join([
             day,
             iso,
