@@ -22,19 +22,22 @@ jobs:
           pipenv install --deploy --dev
 
       - name: Perform update
-        run: pipenv run python scrape.py
+        run: pipenv run python scrape.py | tee tmp/run.txt
 
       - name: Generate metadata
-        run: pipenv run python generate_metadata.py
+        run: pipenv run python generate_metadata.py | tee -a tmp/run.txt
 
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           for data in $(ls -d data/*/); do test -z "$(git diff-index HEAD | grep $data | grep -v README)" || git add $data; git checkout -- $data; done
-          git diff-index --quiet HEAD || git commit -m "Scheduled updates ($(date +'%F %T %Z'))"
+          git diff-index --quiet HEAD || git commit -a -m "Scheduled updates ($(date +'%F %T %Z'))"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Ensure everything is working
+        run: test -z "$(cat tmp/run.txt | grep Failed)"
