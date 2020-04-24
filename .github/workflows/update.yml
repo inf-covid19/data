@@ -2,7 +2,7 @@ name: Scheduled Update
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "15 */2 * * *"
 
 jobs:
   scrape_and_update:
@@ -22,10 +22,10 @@ jobs:
           pipenv install --deploy --dev
 
       - name: Perform update
-        run: pipenv run python scrape.py | tee tmp/run.txt
+        run: pipenv run python scrape.py | tee /tmp/update-run.txt
 
       - name: Generate metadata
-        run: pipenv run python generate_metadata.py | tee -a tmp/run.txt
+        run: pipenv run python generate_metadata.py | tee -a /tmp/update-run.txt
 
       - name: Commit files
         run: |
@@ -40,4 +40,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Ensure everything is working
-        run: test -z "$(cat tmp/run.txt | grep Failed)"
+        run: test -z "$(cat /tmp/update-run.txt | grep Failed)"
