@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-22,AM,,state,2479,206,37,True,4144597,13,59.81281,0.0831
+2020-04-23,AM,,state,2888,234,38,True,4144597,13,69.68108,0.0810
+2020-04-22,AM,,state,2479,206,37,False,4144597,13,59.81281,0.0831
 2020-04-21,AM,,state,2270,193,36,False,4144597,13,54.77010,0.0850
 2020-04-20,AM,,state,2160,185,35,False,4144597,13,52.11604,0.0856
 2020-04-19,AM,,state,2044,182,34,False,4144597,13,49.31722,0.0890
@@ -36,7 +37,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-19,AM,,state,3,0,3,False,4144597,13,0.07238,
 2020-03-18,AM,,state,2,0,2,False,4144597,13,0.04826,
 2020-03-13,AM,,state,2,0,1,False,4144597,13,0.04826,
-2020-04-22,AM,Anamã,city,1,0,9,True,13614,1300086,7.34538,
+2020-04-23,AM,Anamã,city,1,0,10,True,13614,1300086,7.34538,
+2020-04-22,AM,Anamã,city,1,0,9,False,13614,1300086,7.34538,
 2020-04-21,AM,Anamã,city,1,0,8,False,13614,1300086,7.34538,
 2020-04-20,AM,Anamã,city,1,0,7,False,13614,1300086,7.34538,
 2020-04-19,AM,Anamã,city,1,0,6,False,13614,1300086,7.34538,
@@ -45,7 +47,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,AM,Anamã,city,1,0,3,False,13614,1300086,7.34538,
 2020-04-15,AM,Anamã,city,1,0,2,False,13614,1300086,7.34538,
 2020-04-14,AM,Anamã,city,1,0,1,False,13614,1300086,7.34538,
-2020-04-22,AM,Anori,city,8,0,25,True,21010,1300102,38.07711,
+2020-04-23,AM,Anori,city,10,0,26,True,21010,1300102,47.59638,
+2020-04-22,AM,Anori,city,8,0,25,False,21010,1300102,38.07711,
 2020-04-21,AM,Anori,city,7,0,24,False,21010,1300102,33.31747,
 2020-04-20,AM,Anori,city,6,0,23,False,21010,1300102,28.55783,
 2020-04-19,AM,Anori,city,6,0,22,False,21010,1300102,28.55783,
@@ -70,14 +73,19 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AM,Anori,city,1,0,3,False,21010,1300102,4.75964,
 2020-03-30,AM,Anori,city,1,0,2,False,21010,1300102,4.75964,
 2020-03-29,AM,Anori,city,1,0,1,False,21010,1300102,4.75964,
-2020-04-22,AM,Autazes,city,3,0,3,True,39565,1300300,7.58246,
+2020-04-23,AM,Autazes,city,3,0,4,True,39565,1300300,7.58246,
+2020-04-22,AM,Autazes,city,3,0,3,False,39565,1300300,7.58246,
 2020-04-21,AM,Autazes,city,2,0,2,False,39565,1300300,5.05497,
 2020-04-20,AM,Autazes,city,2,0,1,False,39565,1300300,5.05497,
-2020-04-22,AM,Barcelos,city,1,1,1,True,27502,1300409,3.63610,1.0000
-2020-04-22,AM,Benjamin Constant,city,13,0,1,True,42984,1300607,30.24381,
-2020-04-22,AM,Beruri,city,1,1,2,True,19679,1300631,5.08156,1.0000
+2020-04-23,AM,Barcelos,city,1,1,2,True,27502,1300409,3.63610,1.0000
+2020-04-22,AM,Barcelos,city,1,1,1,False,27502,1300409,3.63610,1.0000
+2020-04-23,AM,Benjamin Constant,city,13,0,2,True,42984,1300607,30.24381,
+2020-04-22,AM,Benjamin Constant,city,13,0,1,False,42984,1300607,30.24381,
+2020-04-23,AM,Beruri,city,1,1,3,True,19679,1300631,5.08156,1.0000
+2020-04-22,AM,Beruri,city,1,1,2,False,19679,1300631,5.08156,1.0000
 2020-04-21,AM,Beruri,city,1,1,1,False,19679,1300631,5.08156,1.0000
-2020-04-22,AM,Boca do Acre,city,1,0,28,True,34308,1300706,2.91477,
+2020-04-23,AM,Boca do Acre,city,1,0,29,True,34308,1300706,2.91477,
+2020-04-22,AM,Boca do Acre,city,1,0,28,False,34308,1300706,2.91477,
 2020-04-21,AM,Boca do Acre,city,1,0,27,False,34308,1300706,2.91477,
 2020-04-20,AM,Boca do Acre,city,1,0,26,False,34308,1300706,2.91477,
 2020-04-19,AM,Boca do Acre,city,1,0,25,False,34308,1300706,2.91477,
@@ -105,18 +113,21 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-28,AM,Boca do Acre,city,1,0,3,False,34308,1300706,2.91477,
 2020-03-27,AM,Boca do Acre,city,1,0,2,False,34308,1300706,2.91477,
 2020-03-26,AM,Boca do Acre,city,1,0,1,False,34308,1300706,2.91477,
-2020-04-22,AM,Canutama,city,1,0,4,True,15629,1300904,6.39836,
+2020-04-23,AM,Canutama,city,1,0,5,True,15629,1300904,6.39836,
+2020-04-22,AM,Canutama,city,1,0,4,False,15629,1300904,6.39836,
 2020-04-21,AM,Canutama,city,1,0,3,False,15629,1300904,6.39836,
 2020-04-20,AM,Canutama,city,1,0,2,False,15629,1300904,6.39836,
 2020-04-19,AM,Canutama,city,1,0,1,False,15629,1300904,6.39836,
-2020-04-22,AM,Carauari,city,1,1,7,True,28294,1301001,3.53432,1.0000
+2020-04-23,AM,Carauari,city,1,1,8,True,28294,1301001,3.53432,1.0000
+2020-04-22,AM,Carauari,city,1,1,7,False,28294,1301001,3.53432,1.0000
 2020-04-21,AM,Carauari,city,1,1,6,False,28294,1301001,3.53432,1.0000
 2020-04-20,AM,Carauari,city,1,1,5,False,28294,1301001,3.53432,1.0000
 2020-04-19,AM,Carauari,city,1,1,4,False,28294,1301001,3.53432,1.0000
 2020-04-18,AM,Carauari,city,1,1,3,False,28294,1301001,3.53432,1.0000
 2020-04-17,AM,Carauari,city,1,1,2,False,28294,1301001,3.53432,1.0000
 2020-04-16,AM,Carauari,city,3,1,1,False,28294,1301001,10.60295,0.3333
-2020-04-22,AM,Careiro,city,9,2,12,True,37869,1301100,23.76614,0.2222
+2020-04-23,AM,Careiro,city,16,2,13,True,37869,1301100,42.25092,0.1250
+2020-04-22,AM,Careiro,city,9,2,12,False,37869,1301100,23.76614,0.2222
 2020-04-21,AM,Careiro,city,8,2,11,False,37869,1301100,21.12546,0.2500
 2020-04-20,AM,Careiro,city,6,1,10,False,37869,1301100,15.84409,0.1667
 2020-04-19,AM,Careiro,city,6,1,9,False,37869,1301100,15.84409,0.1667
@@ -128,7 +139,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,AM,Careiro,city,1,0,3,False,37869,1301100,2.64068,
 2020-04-12,AM,Careiro,city,1,0,2,False,37869,1301100,2.64068,
 2020-04-11,AM,Careiro,city,1,0,1,False,37869,1301100,2.64068,
-2020-04-22,AM,Careiro da Várzea,city,4,0,23,True,30225,1301159,13.23408,
+2020-04-23,AM,Careiro da Várzea,city,3,0,24,True,30225,1301159,9.92556,
+2020-04-22,AM,Careiro da Várzea,city,4,0,23,False,30225,1301159,13.23408,
 2020-04-21,AM,Careiro da Várzea,city,4,0,22,False,30225,1301159,13.23408,
 2020-04-20,AM,Careiro da Várzea,city,4,0,21,False,30225,1301159,13.23408,
 2020-04-19,AM,Careiro da Várzea,city,4,0,20,False,30225,1301159,13.23408,
@@ -151,13 +163,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,AM,Careiro da Várzea,city,1,0,3,False,30225,1301159,3.30852,
 2020-04-01,AM,Careiro da Várzea,city,1,0,2,False,30225,1301159,3.30852,
 2020-03-31,AM,Careiro da Várzea,city,1,0,1,False,30225,1301159,3.30852,
-2020-04-22,AM,Coari,city,2,0,6,True,85097,1301209,2.35026,
+2020-04-23,AM,Coari,city,2,0,7,True,85097,1301209,2.35026,
+2020-04-22,AM,Coari,city,2,0,6,False,85097,1301209,2.35026,
 2020-04-21,AM,Coari,city,2,0,5,False,85097,1301209,2.35026,
 2020-04-20,AM,Coari,city,2,0,4,False,85097,1301209,2.35026,
 2020-04-19,AM,Coari,city,2,0,3,False,85097,1301209,2.35026,
 2020-04-18,AM,Coari,city,2,0,2,False,85097,1301209,2.35026,
 2020-04-17,AM,Coari,city,2,0,1,False,85097,1301209,2.35026,
-2020-04-22,AM,Iranduba,city,37,4,18,True,48296,1301852,76.61090,0.1081
+2020-04-23,AM,Iranduba,city,50,5,19,True,48296,1301852,103.52824,0.1000
+2020-04-22,AM,Iranduba,city,37,4,18,False,48296,1301852,76.61090,0.1081
 2020-04-21,AM,Iranduba,city,37,3,17,False,48296,1301852,76.61090,0.0811
 2020-04-20,AM,Iranduba,city,24,3,16,False,48296,1301852,49.69356,0.1250
 2020-04-19,AM,Iranduba,city,24,3,15,False,48296,1301852,49.69356,0.1250
@@ -175,7 +189,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,AM,Iranduba,city,3,0,3,False,48296,1301852,6.21169,
 2020-04-06,AM,Iranduba,city,3,0,2,False,48296,1301852,6.21169,
 2020-04-05,AM,Iranduba,city,2,0,1,False,48296,1301852,4.14113,
-2020-04-22,AM,Itacoatiara,city,48,1,25,True,101337,1301902,47.36671,0.0208
+2020-04-23,AM,Itacoatiara,city,56,4,26,True,101337,1301902,55.26116,0.0714
+2020-04-22,AM,Itacoatiara,city,48,1,25,False,101337,1301902,47.36671,0.0208
 2020-04-21,AM,Itacoatiara,city,39,1,24,False,101337,1301902,38.48545,0.0256
 2020-04-20,AM,Itacoatiara,city,27,1,23,False,101337,1301902,26.64377,0.0370
 2020-04-19,AM,Itacoatiara,city,27,1,22,False,101337,1301902,26.64377,0.0370
@@ -200,11 +215,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AM,Itacoatiara,city,4,0,3,False,101337,1301902,3.94723,
 2020-03-30,AM,Itacoatiara,city,2,0,2,False,101337,1301902,1.97361,
 2020-03-29,AM,Itacoatiara,city,2,0,1,False,101337,1301902,1.97361,
-2020-04-22,AM,Juruá,city,1,0,4,True,14712,1302207,6.79717,
+2020-04-23,AM,Juruá,city,1,0,5,True,14712,1302207,6.79717,
+2020-04-22,AM,Juruá,city,1,0,4,False,14712,1302207,6.79717,
 2020-04-21,AM,Juruá,city,1,0,3,False,14712,1302207,6.79717,
 2020-04-20,AM,Juruá,city,1,0,2,False,14712,1302207,6.79717,
 2020-04-19,AM,Juruá,city,1,0,1,False,14712,1302207,6.79717,
-2020-04-22,AM,Jutaí,city,1,0,17,True,14317,1302306,6.98470,
+2020-04-23,AM,Jutaí,city,1,0,18,True,14317,1302306,6.98470,
+2020-04-22,AM,Jutaí,city,1,0,17,False,14317,1302306,6.98470,
 2020-04-21,AM,Jutaí,city,1,0,16,False,14317,1302306,6.98470,
 2020-04-20,AM,Jutaí,city,1,0,15,False,14317,1302306,6.98470,
 2020-04-19,AM,Jutaí,city,1,0,14,False,14317,1302306,6.98470,
@@ -221,7 +238,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,AM,Jutaí,city,0,0,3,False,14317,1302306,,
 2020-04-07,AM,Jutaí,city,0,0,2,False,14317,1302306,,
 2020-04-06,AM,Jutaí,city,1,0,1,False,14317,1302306,6.98470,
-2020-04-22,AM,Lábrea,city,2,0,9,True,46069,1302405,4.34131,
+2020-04-23,AM,Lábrea,city,13,0,10,True,46069,1302405,28.21854,
+2020-04-22,AM,Lábrea,city,2,0,9,False,46069,1302405,4.34131,
 2020-04-21,AM,Lábrea,city,2,0,8,False,46069,1302405,4.34131,
 2020-04-20,AM,Lábrea,city,2,0,7,False,46069,1302405,4.34131,
 2020-04-19,AM,Lábrea,city,2,0,6,False,46069,1302405,4.34131,
@@ -230,7 +248,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,AM,Lábrea,city,2,0,3,False,46069,1302405,4.34131,
 2020-04-15,AM,Lábrea,city,2,0,2,False,46069,1302405,4.34131,
 2020-04-14,AM,Lábrea,city,2,0,1,False,46069,1302405,4.34131,
-2020-04-22,AM,Manacapuru,city,230,14,27,True,97377,1302504,236.19541,0.0609
+2020-04-23,AM,Manacapuru,city,238,14,28,True,97377,1302504,244.41090,0.0588
+2020-04-22,AM,Manacapuru,city,230,14,27,False,97377,1302504,236.19541,0.0609
 2020-04-21,AM,Manacapuru,city,218,12,26,False,97377,1302504,223.87217,0.0550
 2020-04-20,AM,Manacapuru,city,201,13,25,False,97377,1302504,206.41425,0.0647
 2020-04-19,AM,Manacapuru,city,201,10,24,False,97377,1302504,206.41425,0.0498
@@ -257,7 +276,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,AM,Manacapuru,city,2,0,3,False,97377,1302504,2.05387,
 2020-03-28,AM,Manacapuru,city,2,0,2,False,97377,1302504,2.05387,
 2020-03-27,AM,Manacapuru,city,2,0,1,False,97377,1302504,2.05387,
-2020-04-22,AM,Manaus,city,1958,172,37,True,2182763,1302603,89.70282,0.0878
+2020-04-23,AM,Manaquiri,city,2,0,1,True,32105,1302553,6.22956,
+2020-04-23,AM,Manaus,city,2286,193,38,True,2182763,1302603,104.72965,0.0844
+2020-04-22,AM,Manaus,city,1958,172,37,False,2182763,1302603,89.70282,0.0878
 2020-04-21,AM,Manaus,city,1809,163,36,False,2182763,1302603,82.87661,0.0901
 2020-04-20,AM,Manaus,city,1772,156,35,False,2182763,1302603,81.18151,0.0880
 2020-04-19,AM,Manaus,city,1664,155,34,False,2182763,1302603,76.23365,0.0931
@@ -294,7 +315,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-19,AM,Manaus,city,3,0,3,False,2182763,1302603,0.13744,
 2020-03-18,AM,Manaus,city,2,0,2,False,2182763,1302603,0.09163,
 2020-03-13,AM,Manaus,city,2,0,1,False,2182763,1302603,0.09163,
-2020-04-22,AM,Manicoré,city,1,1,15,True,55751,1302702,1.79369,1.0000
+2020-04-23,AM,Manicoré,city,2,1,16,True,55751,1302702,3.58738,0.5000
+2020-04-22,AM,Manicoré,city,1,1,15,False,55751,1302702,1.79369,1.0000
 2020-04-21,AM,Manicoré,city,1,1,14,False,55751,1302702,1.79369,1.0000
 2020-04-20,AM,Manicoré,city,1,1,13,False,55751,1302702,1.79369,1.0000
 2020-04-19,AM,Manicoré,city,1,1,12,False,55751,1302702,1.79369,1.0000
@@ -309,8 +331,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,AM,Manicoré,city,1,1,3,False,55751,1302702,1.79369,1.0000
 2020-04-09,AM,Manicoré,city,1,1,2,False,55751,1302702,1.79369,1.0000
 2020-04-08,AM,Manicoré,city,1,0,1,False,55751,1302702,1.79369,
-2020-04-22,AM,Maraã,city,7,0,1,True,18224,1302801,38.41089,
-2020-04-22,AM,Maués,city,29,2,13,True,63905,1302900,45.37986,0.0690
+2020-04-23,AM,Maraã,city,7,0,2,True,18224,1302801,38.41089,
+2020-04-22,AM,Maraã,city,7,0,1,False,18224,1302801,38.41089,
+2020-04-23,AM,Maués,city,36,5,14,True,63905,1302900,56.33362,0.1389
+2020-04-22,AM,Maués,city,29,2,13,False,63905,1302900,45.37986,0.0690
 2020-04-21,AM,Maués,city,28,2,12,False,63905,1302900,43.81504,0.0714
 2020-04-20,AM,Maués,city,22,2,11,False,63905,1302900,34.42610,0.0909
 2020-04-19,AM,Maués,city,22,2,10,False,63905,1302900,34.42610,0.0909
@@ -323,8 +347,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-12,AM,Maués,city,0,0,3,False,63905,1302900,,
 2020-04-11,AM,Maués,city,0,0,2,False,63905,1302900,,
 2020-04-10,AM,Maués,city,1,0,1,False,63905,1302900,1.56482,
-2020-04-22,AM,Nova Olinda do Norte,city,1,0,1,True,37378,1303106,2.67537,
-2020-04-22,AM,Novo Airão,city,2,1,24,True,19454,1303205,10.28066,0.5000
+2020-04-23,AM,Nhamundá,city,1,0,1,True,21173,1303007,4.72300,
+2020-04-23,AM,Nova Olinda do Norte,city,1,0,2,True,37378,1303106,2.67537,
+2020-04-22,AM,Nova Olinda do Norte,city,1,0,1,False,37378,1303106,2.67537,
+2020-04-23,AM,Novo Airão,city,2,1,25,True,19454,1303205,10.28066,0.5000
+2020-04-22,AM,Novo Airão,city,2,1,24,False,19454,1303205,10.28066,0.5000
 2020-04-21,AM,Novo Airão,city,2,1,23,False,19454,1303205,10.28066,0.5000
 2020-04-20,AM,Novo Airão,city,2,1,22,False,19454,1303205,10.28066,0.5000
 2020-04-19,AM,Novo Airão,city,2,1,21,False,19454,1303205,10.28066,0.5000
@@ -348,7 +375,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,AM,Novo Airão,city,1,0,3,False,19454,1303205,5.14033,
 2020-03-31,AM,Novo Airão,city,1,0,2,False,19454,1303205,5.14033,
 2020-03-30,AM,Novo Airão,city,1,0,1,False,19454,1303205,5.14033,
-2020-04-22,AM,Parintins,city,35,3,32,True,114273,1303403,30.62841,0.0857
+2020-04-23,AM,Parintins,city,44,3,33,True,114273,1303403,38.50428,0.0682
+2020-04-22,AM,Parintins,city,35,3,32,False,114273,1303403,30.62841,0.0857
 2020-04-21,AM,Parintins,city,29,3,31,False,114273,1303403,25.37782,0.1034
 2020-04-20,AM,Parintins,city,21,3,30,False,114273,1303403,18.37704,0.1429
 2020-04-19,AM,Parintins,city,15,3,29,False,114273,1303403,13.12646,0.2000
@@ -380,7 +408,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,AM,Parintins,city,2,1,3,False,114273,1303403,1.75019,0.5000
 2020-03-23,AM,Parintins,city,1,0,2,False,114273,1303403,0.87510,
 2020-03-22,AM,Parintins,city,1,0,1,False,114273,1303403,0.87510,
-2020-04-22,AM,Presidente Figueiredo,city,12,1,15,True,36279,1303536,33.07699,0.0833
+2020-04-23,AM,Presidente Figueiredo,city,12,1,16,True,36279,1303536,33.07699,0.0833
+2020-04-22,AM,Presidente Figueiredo,city,12,1,15,False,36279,1303536,33.07699,0.0833
 2020-04-21,AM,Presidente Figueiredo,city,12,1,14,False,36279,1303536,33.07699,0.0833
 2020-04-20,AM,Presidente Figueiredo,city,11,1,13,False,36279,1303536,30.32057,0.0909
 2020-04-19,AM,Presidente Figueiredo,city,11,1,12,False,36279,1303536,30.32057,0.0909
@@ -395,13 +424,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,AM,Presidente Figueiredo,city,2,1,3,False,36279,1303536,5.51283,0.5000
 2020-04-09,AM,Presidente Figueiredo,city,2,0,2,False,36279,1303536,5.51283,
 2020-04-08,AM,Presidente Figueiredo,city,2,0,1,False,36279,1303536,5.51283,
-2020-04-22,AM,Rio Preto da Eva,city,2,0,1,True,33347,1303569,5.99754,
-2020-04-22,AM,Santa Isabel do Rio Negro,city,1,0,5,True,25156,1303601,3.97519,
+2020-04-23,AM,Rio Preto da Eva,city,2,0,2,True,33347,1303569,5.99754,
+2020-04-22,AM,Rio Preto da Eva,city,2,0,1,False,33347,1303569,5.99754,
+2020-04-23,AM,Santa Isabel do Rio Negro,city,1,0,6,True,25156,1303601,3.97519,
+2020-04-22,AM,Santa Isabel do Rio Negro,city,1,0,5,False,25156,1303601,3.97519,
 2020-04-21,AM,Santa Isabel do Rio Negro,city,1,0,4,False,25156,1303601,3.97519,
 2020-04-20,AM,Santa Isabel do Rio Negro,city,1,0,3,False,25156,1303601,3.97519,
 2020-04-19,AM,Santa Isabel do Rio Negro,city,1,0,2,False,25156,1303601,3.97519,
 2020-04-18,AM,Santa Isabel do Rio Negro,city,1,0,1,False,25156,1303601,3.97519,
-2020-04-22,AM,Santo Antônio do Içá,city,11,0,28,True,21602,1303700,50.92121,
+2020-04-23,AM,Santo Antônio do Içá,city,11,0,29,True,21602,1303700,50.92121,
+2020-04-22,AM,Santo Antônio do Içá,city,11,0,28,False,21602,1303700,50.92121,
 2020-04-21,AM,Santo Antônio do Içá,city,11,0,27,False,21602,1303700,50.92121,
 2020-04-20,AM,Santo Antônio do Içá,city,10,0,26,False,21602,1303700,46.29201,
 2020-04-19,AM,Santo Antônio do Içá,city,10,0,25,False,21602,1303700,46.29201,
@@ -446,7 +478,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,AM,São Gabriel da Cachoeira,city,0,0,3,False,45564,1303809,,
 2020-04-07,AM,São Gabriel da Cachoeira,city,1,0,2,False,45564,1303809,2.19472,
 2020-04-06,AM,São Gabriel da Cachoeira,city,1,0,1,False,45564,1303809,2.19472,
-2020-04-22,AM,São Paulo de Olivença,city,15,0,16,True,39299,1303908,38.16891,
+2020-04-23,AM,São Paulo de Olivença,city,17,0,17,True,39299,1303908,43.25810,
+2020-04-22,AM,São Paulo de Olivença,city,15,0,16,False,39299,1303908,38.16891,
 2020-04-21,AM,São Paulo de Olivença,city,11,0,15,False,39299,1303908,27.99053,
 2020-04-20,AM,São Paulo de Olivença,city,11,0,14,False,39299,1303908,27.99053,
 2020-04-19,AM,São Paulo de Olivença,city,11,0,13,False,39299,1303908,27.99053,
@@ -462,7 +495,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,AM,São Paulo de Olivença,city,4,0,3,False,39299,1303908,10.17838,
 2020-04-08,AM,São Paulo de Olivença,city,3,0,2,False,39299,1303908,7.63378,
 2020-04-07,AM,São Paulo de Olivença,city,2,0,1,False,39299,1303908,5.08919,
-2020-04-22,AM,Tabatinga,city,22,1,15,True,65844,1304062,33.41231,0.0455
+2020-04-23,AM,Tabatinga,city,33,1,16,True,65844,1304062,50.11846,0.0303
+2020-04-22,AM,Tabatinga,city,22,1,15,False,65844,1304062,33.41231,0.0455
 2020-04-21,AM,Tabatinga,city,21,1,14,False,65844,1304062,31.89357,0.0476
 2020-04-20,AM,Tabatinga,city,11,1,13,False,65844,1304062,16.70615,0.0909
 2020-04-19,AM,Tabatinga,city,11,1,12,False,65844,1304062,16.70615,0.0909
@@ -477,7 +511,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,AM,Tabatinga,city,2,0,3,False,65844,1304062,3.03748,
 2020-04-09,AM,Tabatinga,city,1,0,2,False,65844,1304062,1.51874,
 2020-04-08,AM,Tabatinga,city,1,0,1,False,65844,1304062,1.51874,
-2020-04-22,AM,Tefé,city,6,1,13,True,59849,1304203,10.02523,0.1667
+2020-04-23,AM,Tefé,city,7,1,14,True,59849,1304203,11.69610,0.1429
+2020-04-22,AM,Tefé,city,6,1,13,False,59849,1304203,10.02523,0.1667
 2020-04-21,AM,Tefé,city,6,1,12,False,59849,1304203,10.02523,0.1667
 2020-04-20,AM,Tefé,city,5,1,11,False,59849,1304203,8.35436,0.2000
 2020-04-19,AM,Tefé,city,5,1,10,False,59849,1304203,8.35436,0.2000
@@ -490,7 +525,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-12,AM,Tefé,city,1,0,3,False,59849,1304203,1.67087,
 2020-04-11,AM,Tefé,city,1,0,2,False,59849,1304203,1.67087,
 2020-04-10,AM,Tefé,city,1,0,1,False,59849,1304203,1.67087,
-2020-04-22,AM,Tonantins,city,13,0,21,True,18755,1304237,69.31485,
+2020-04-23,AM,Tonantins,city,12,0,22,True,18755,1304237,63.98294,
+2020-04-22,AM,Tonantins,city,13,0,21,False,18755,1304237,69.31485,
 2020-04-21,AM,Tonantins,city,13,0,20,False,18755,1304237,69.31485,
 2020-04-20,AM,Tonantins,city,13,0,19,False,18755,1304237,69.31485,
 2020-04-19,AM,Tonantins,city,13,0,18,False,18755,1304237,69.31485,
