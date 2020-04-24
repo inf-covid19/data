@@ -16,15 +16,15 @@ from argentina import scrape_argentina
 
 if __name__ == "__main__":
     scraper = [
-        scrape_countries,
-        scrape_brazil,
-        scrape_sweden,
-        scrape_united_states_of_america,
-        scrape_spain,
-        scrape_united_kingdom,
+        # scrape_countries,
+        # scrape_brazil,
+        # scrape_sweden,
+        # scrape_united_states_of_america,
+        # scrape_spain,
+        # scrape_united_kingdom,
         scrape_chile,
-        scrape_bolivia,
-        scrape_argentina,
+        # scrape_bolivia,
+        # scrape_argentina,
     ]
 
     for fn in scraper:
