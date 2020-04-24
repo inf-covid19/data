@@ -1,4 +1,4 @@
-# COVID-19
+# COVID-19 ![Scheduled Update](https://github.com/inf-covid19/data/workflows/Scheduled%20Update/badge.svg)
 
 Scraping world-wide data about COVID-19.
 
