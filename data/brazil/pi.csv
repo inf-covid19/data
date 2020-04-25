@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-23,PI,,state,256,16,35,True,3273227,22,7.82103,0.0625
+2020-04-24,PI,,state,297,17,36,True,3273227,22,9.07361,0.0572
+2020-04-23,PI,,state,256,16,35,False,3273227,22,7.82103,0.0625
 2020-04-22,PI,,state,217,15,34,False,3273227,22,6.62954,0.0691
 2020-04-21,PI,,state,206,15,33,False,3273227,22,6.29348,0.0728
 2020-04-20,PI,,state,186,14,32,False,3273227,22,5.68247,0.0753
@@ -34,7 +35,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,PI,,state,4,0,3,False,3273227,22,0.12220,
 2020-03-20,PI,,state,4,0,2,False,3273227,22,0.12220,
 2020-03-19,PI,,state,3,0,1,False,3273227,22,0.09165,
-2020-04-23,PI,Altos,city,1,0,9,True,40524,2200400,2.46767,
+2020-04-24,PI,Altos,city,1,0,10,True,40524,2200400,2.46767,
+2020-04-23,PI,Altos,city,1,0,9,False,40524,2200400,2.46767,
 2020-04-22,PI,Altos,city,1,0,8,False,40524,2200400,2.46767,
 2020-04-21,PI,Altos,city,1,0,7,False,40524,2200400,2.46767,
 2020-04-20,PI,Altos,city,1,0,6,False,40524,2200400,2.46767,
@@ -43,24 +45,30 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,PI,Altos,city,1,0,3,False,40524,2200400,2.46767,
 2020-04-16,PI,Altos,city,1,0,2,False,40524,2200400,2.46767,
 2020-04-15,PI,Altos,city,1,0,1,False,40524,2200400,2.46767,
-2020-04-23,PI,Angical do Piauí,city,1,0,6,True,6788,2200608,14.73188,
+2020-04-24,PI,Alvorada do Gurguéia,city,1,0,1,True,5419,2200459,18.45359,
+2020-04-24,PI,Angical do Piauí,city,1,0,7,True,6788,2200608,14.73188,
+2020-04-23,PI,Angical do Piauí,city,1,0,6,False,6788,2200608,14.73188,
 2020-04-22,PI,Angical do Piauí,city,1,0,5,False,6788,2200608,14.73188,
 2020-04-21,PI,Angical do Piauí,city,1,0,4,False,6788,2200608,14.73188,
 2020-04-20,PI,Angical do Piauí,city,1,0,3,False,6788,2200608,14.73188,
 2020-04-19,PI,Angical do Piauí,city,1,0,2,False,6788,2200608,14.73188,
 2020-04-18,PI,Angical do Piauí,city,1,0,1,False,6788,2200608,14.73188,
-2020-04-23,PI,Betânia do Piauí,city,1,0,4,True,6205,2201739,16.11604,
+2020-04-24,PI,Betânia do Piauí,city,1,0,5,True,6205,2201739,16.11604,
+2020-04-23,PI,Betânia do Piauí,city,1,0,4,False,6205,2201739,16.11604,
 2020-04-22,PI,Betânia do Piauí,city,1,0,3,False,6205,2201739,16.11604,
 2020-04-21,PI,Betânia do Piauí,city,1,0,2,False,6205,2201739,16.11604,
 2020-04-20,PI,Betânia do Piauí,city,1,0,1,False,6205,2201739,16.11604,
-2020-04-23,PI,Bom Princípio do Piauí,city,1,1,7,True,5630,2201919,17.76199,1.0000
+2020-04-24,PI,Bom Jesus,city,2,0,1,True,25179,2201903,7.94313,
+2020-04-24,PI,Bom Princípio do Piauí,city,1,1,8,True,5630,2201919,17.76199,1.0000
+2020-04-23,PI,Bom Princípio do Piauí,city,1,1,7,False,5630,2201919,17.76199,1.0000
 2020-04-22,PI,Bom Princípio do Piauí,city,1,1,6,False,5630,2201919,17.76199,1.0000
 2020-04-21,PI,Bom Princípio do Piauí,city,1,1,5,False,5630,2201919,17.76199,1.0000
 2020-04-20,PI,Bom Princípio do Piauí,city,1,1,4,False,5630,2201919,17.76199,1.0000
 2020-04-19,PI,Bom Princípio do Piauí,city,1,1,3,False,5630,2201919,17.76199,1.0000
 2020-04-18,PI,Bom Princípio do Piauí,city,1,1,2,False,5630,2201919,17.76199,1.0000
 2020-04-17,PI,Bom Princípio do Piauí,city,1,1,1,False,5630,2201919,17.76199,1.0000
-2020-04-23,PI,Bonfim do Piauí,city,1,0,9,True,5670,2201929,17.63668,
+2020-04-24,PI,Bonfim do Piauí,city,1,0,10,True,5670,2201929,17.63668,
+2020-04-23,PI,Bonfim do Piauí,city,1,0,9,False,5670,2201929,17.63668,
 2020-04-22,PI,Bonfim do Piauí,city,1,0,8,False,5670,2201929,17.63668,
 2020-04-21,PI,Bonfim do Piauí,city,1,0,7,False,5670,2201929,17.63668,
 2020-04-20,PI,Bonfim do Piauí,city,1,0,6,False,5670,2201929,17.63668,
@@ -69,7 +77,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,PI,Bonfim do Piauí,city,1,0,3,False,5670,2201929,17.63668,
 2020-04-16,PI,Bonfim do Piauí,city,1,0,2,False,5670,2201929,17.63668,
 2020-04-15,PI,Bonfim do Piauí,city,1,0,1,False,5670,2201929,17.63668,
-2020-04-23,PI,Campo Maior,city,4,0,21,True,46833,2202208,8.54099,
+2020-04-24,PI,Campo Maior,city,3,0,22,True,46833,2202208,6.40574,
+2020-04-23,PI,Campo Maior,city,4,0,21,False,46833,2202208,8.54099,
 2020-04-22,PI,Campo Maior,city,3,0,20,False,46833,2202208,6.40574,
 2020-04-21,PI,Campo Maior,city,3,0,19,False,46833,2202208,6.40574,
 2020-04-20,PI,Campo Maior,city,3,0,18,False,46833,2202208,6.40574,
@@ -90,7 +99,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,PI,Campo Maior,city,1,0,3,False,46833,2202208,2.13525,
 2020-04-04,PI,Campo Maior,city,1,0,2,False,46833,2202208,2.13525,
 2020-04-03,PI,Campo Maior,city,1,0,1,False,46833,2202208,2.13525,
-2020-04-23,PI,Caracol,city,1,0,11,True,10916,2202505,9.16086,
+2020-04-24,PI,Caracol,city,1,0,12,True,10916,2202505,9.16086,
+2020-04-23,PI,Caracol,city,1,0,11,False,10916,2202505,9.16086,
 2020-04-22,PI,Caracol,city,1,0,10,False,10916,2202505,9.16086,
 2020-04-21,PI,Caracol,city,1,0,9,False,10916,2202505,9.16086,
 2020-04-20,PI,Caracol,city,1,0,8,False,10916,2202505,9.16086,
@@ -101,12 +111,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,PI,Caracol,city,1,0,3,False,10916,2202505,9.16086,
 2020-04-14,PI,Caracol,city,1,0,2,False,10916,2202505,9.16086,
 2020-04-13,PI,Caracol,city,1,0,1,False,10916,2202505,9.16086,
-2020-04-23,PI,Castelo do Piauí,city,1,0,1,True,19716,2202604,5.07202,
-2020-04-23,PI,Colônia do Gurguéia,city,1,0,4,True,6484,2202752,15.42258,
+2020-04-24,PI,Castelo do Piauí,city,1,0,2,True,19716,2202604,5.07202,
+2020-04-23,PI,Castelo do Piauí,city,1,0,1,False,19716,2202604,5.07202,
+2020-04-24,PI,Colônia do Gurguéia,city,2,0,5,True,6484,2202752,30.84516,
+2020-04-23,PI,Colônia do Gurguéia,city,1,0,4,False,6484,2202752,15.42258,
 2020-04-22,PI,Colônia do Gurguéia,city,1,0,3,False,6484,2202752,15.42258,
 2020-04-21,PI,Colônia do Gurguéia,city,1,0,2,False,6484,2202752,15.42258,
 2020-04-20,PI,Colônia do Gurguéia,city,1,0,1,False,6484,2202752,15.42258,
-2020-04-23,PI,Demerval Lobão,city,1,0,8,True,13817,2203305,7.23746,
+2020-04-24,PI,Demerval Lobão,city,1,0,9,True,13817,2203305,7.23746,
+2020-04-23,PI,Demerval Lobão,city,1,0,8,False,13817,2203305,7.23746,
 2020-04-22,PI,Demerval Lobão,city,1,0,7,False,13817,2203305,7.23746,
 2020-04-21,PI,Demerval Lobão,city,1,0,6,False,13817,2203305,7.23746,
 2020-04-20,PI,Demerval Lobão,city,1,0,5,False,13817,2203305,7.23746,
@@ -114,26 +127,31 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,PI,Demerval Lobão,city,1,0,3,False,13817,2203305,7.23746,
 2020-04-17,PI,Demerval Lobão,city,1,0,2,False,13817,2203305,7.23746,
 2020-04-16,PI,Demerval Lobão,city,1,0,1,False,13817,2203305,7.23746,
-2020-04-23,PI,Esperantina,city,4,0,7,True,39737,2203701,10.06619,
+2020-04-24,PI,Esperantina,city,4,0,8,True,39737,2203701,10.06619,
+2020-04-23,PI,Esperantina,city,4,0,7,False,39737,2203701,10.06619,
 2020-04-22,PI,Esperantina,city,4,0,6,False,39737,2203701,10.06619,
 2020-04-21,PI,Esperantina,city,3,0,5,False,39737,2203701,7.54964,
 2020-04-20,PI,Esperantina,city,3,0,4,False,39737,2203701,7.54964,
 2020-04-19,PI,Esperantina,city,1,0,3,False,39737,2203701,2.51655,
 2020-04-18,PI,Esperantina,city,1,0,2,False,39737,2203701,2.51655,
 2020-04-17,PI,Esperantina,city,1,0,1,False,39737,2203701,2.51655,
-2020-04-23,PI,Floriano,city,4,0,5,True,59935,2203909,6.67390,
+2020-04-24,PI,Floriano,city,4,0,6,True,59935,2203909,6.67390,
+2020-04-23,PI,Floriano,city,4,0,5,False,59935,2203909,6.67390,
 2020-04-22,PI,Floriano,city,4,0,4,False,59935,2203909,6.67390,
 2020-04-21,PI,Floriano,city,2,0,3,False,59935,2203909,3.33695,
 2020-04-20,PI,Floriano,city,2,0,2,False,59935,2203909,3.33695,
 2020-04-19,PI,Floriano,city,1,0,1,False,59935,2203909,1.66847,
-2020-04-23,PI,Francinópolis,city,1,0,7,True,5348,2204006,18.69858,
+2020-04-24,PI,Francinópolis,city,2,0,8,True,5348,2204006,37.39716,
+2020-04-23,PI,Francinópolis,city,1,0,7,False,5348,2204006,18.69858,
 2020-04-22,PI,Francinópolis,city,1,0,6,False,5348,2204006,18.69858,
 2020-04-21,PI,Francinópolis,city,1,0,5,False,5348,2204006,18.69858,
 2020-04-20,PI,Francinópolis,city,1,0,4,False,5348,2204006,18.69858,
 2020-04-19,PI,Francinópolis,city,1,0,3,False,5348,2204006,18.69858,
 2020-04-18,PI,Francinópolis,city,1,0,2,False,5348,2204006,18.69858,
 2020-04-17,PI,Francinópolis,city,1,0,1,False,5348,2204006,18.69858,
-2020-04-23,PI,Inhuma,city,1,0,8,True,15308,2204709,6.53253,
+2020-04-24,PI,Ilha Grande,city,1,0,1,True,9426,2204659,10.60895,
+2020-04-24,PI,Inhuma,city,1,0,9,True,15308,2204709,6.53253,
+2020-04-23,PI,Inhuma,city,1,0,8,False,15308,2204709,6.53253,
 2020-04-22,PI,Inhuma,city,1,0,7,False,15308,2204709,6.53253,
 2020-04-21,PI,Inhuma,city,1,0,6,False,15308,2204709,6.53253,
 2020-04-20,PI,Inhuma,city,1,0,5,False,15308,2204709,6.53253,
@@ -141,32 +159,42 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,PI,Inhuma,city,1,0,3,False,15308,2204709,6.53253,
 2020-04-17,PI,Inhuma,city,1,0,2,False,15308,2204709,6.53253,
 2020-04-16,PI,Inhuma,city,1,0,1,False,15308,2204709,6.53253,
-2020-04-23,PI,Itaueira,city,1,0,4,True,11019,2205102,9.07523,
+2020-04-24,PI,Itaueira,city,1,0,5,True,11019,2205102,9.07523,
+2020-04-23,PI,Itaueira,city,1,0,4,False,11019,2205102,9.07523,
 2020-04-22,PI,Itaueira,city,1,0,3,False,11019,2205102,9.07523,
 2020-04-21,PI,Itaueira,city,1,0,2,False,11019,2205102,9.07523,
 2020-04-20,PI,Itaueira,city,1,0,1,False,11019,2205102,9.07523,
-2020-04-23,PI,Lagoa do Barro do Piauí,city,1,0,5,True,4655,2205565,21.48228,
+2020-04-24,PI,José de Freitas,city,1,0,1,True,39208,2205508,2.55050,
+2020-04-24,PI,Lagoa do Barro do Piauí,city,1,0,6,True,4655,2205565,21.48228,
+2020-04-23,PI,Lagoa do Barro do Piauí,city,1,0,5,False,4655,2205565,21.48228,
 2020-04-22,PI,Lagoa do Barro do Piauí,city,1,0,4,False,4655,2205565,21.48228,
 2020-04-21,PI,Lagoa do Barro do Piauí,city,1,0,3,False,4655,2205565,21.48228,
 2020-04-20,PI,Lagoa do Barro do Piauí,city,1,0,2,False,4655,2205565,21.48228,
 2020-04-19,PI,Lagoa do Barro do Piauí,city,1,0,1,False,4655,2205565,21.48228,
-2020-04-23,PI,Luzilândia,city,1,0,1,True,25486,2205805,3.92372,
-2020-04-23,PI,Luís Correia,city,2,0,7,True,30311,2205706,6.59826,
+2020-04-24,PI,Luzilândia,city,1,0,2,True,25486,2205805,3.92372,
+2020-04-23,PI,Luzilândia,city,1,0,1,False,25486,2205805,3.92372,
+2020-04-24,PI,Luís Correia,city,2,0,8,True,30311,2205706,6.59826,
+2020-04-23,PI,Luís Correia,city,2,0,7,False,30311,2205706,6.59826,
 2020-04-22,PI,Luís Correia,city,2,0,6,False,30311,2205706,6.59826,
 2020-04-21,PI,Luís Correia,city,2,0,5,False,30311,2205706,6.59826,
 2020-04-20,PI,Luís Correia,city,2,0,4,False,30311,2205706,6.59826,
 2020-04-19,PI,Luís Correia,city,2,0,3,False,30311,2205706,6.59826,
 2020-04-18,PI,Luís Correia,city,2,0,2,False,30311,2205706,6.59826,
 2020-04-17,PI,Luís Correia,city,2,0,1,False,30311,2205706,6.59826,
-2020-04-23,PI,Miguel Alves,city,2,0,4,True,33760,2206209,5.92417,
+2020-04-24,PI,Manoel Emídio,city,1,0,1,True,5349,2205904,18.69508,
+2020-04-24,PI,Miguel Alves,city,2,0,5,True,33760,2206209,5.92417,
+2020-04-23,PI,Miguel Alves,city,2,0,4,False,33760,2206209,5.92417,
 2020-04-22,PI,Miguel Alves,city,2,0,3,False,33760,2206209,5.92417,
 2020-04-21,PI,Miguel Alves,city,2,0,2,False,33760,2206209,5.92417,
 2020-04-20,PI,Miguel Alves,city,2,0,1,False,33760,2206209,5.92417,
-2020-04-23,PI,Nazaré do Piauí,city,1,0,1,True,7339,2206704,13.62583,
-2020-04-23,PI,Nazária,city,1,0,3,True,8570,2206720,11.66861,
+2020-04-24,PI,Nazaré do Piauí,city,0,0,2,True,7339,2206704,,
+2020-04-23,PI,Nazaré do Piauí,city,1,0,1,False,7339,2206704,13.62583,
+2020-04-24,PI,Nazária,city,2,0,4,True,8570,2206720,23.33722,
+2020-04-23,PI,Nazária,city,1,0,3,False,8570,2206720,11.66861,
 2020-04-22,PI,Nazária,city,1,0,2,False,8570,2206720,11.66861,
 2020-04-21,PI,Nazária,city,1,0,1,False,8570,2206720,11.66861,
-2020-04-23,PI,Parnaíba,city,10,3,26,True,153078,2207702,6.53262,0.3000
+2020-04-24,PI,Parnaíba,city,14,3,27,True,153078,2207702,9.14566,0.2143
+2020-04-23,PI,Parnaíba,city,10,3,26,False,153078,2207702,6.53262,0.3000
 2020-04-22,PI,Parnaíba,city,10,2,25,False,153078,2207702,6.53262,0.2000
 2020-04-21,PI,Parnaíba,city,10,2,24,False,153078,2207702,6.53262,0.2000
 2020-04-20,PI,Parnaíba,city,6,2,23,False,153078,2207702,3.91957,0.3333
@@ -192,12 +220,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,PI,Parnaíba,city,1,1,3,False,153078,2207702,0.65326,1.0000
 2020-03-30,PI,Parnaíba,city,1,1,2,False,153078,2207702,0.65326,1.0000
 2020-03-28,PI,Parnaíba,city,1,0,1,False,153078,2207702,0.65326,
-2020-04-23,PI,Pedro II,city,3,1,5,True,38742,2207900,7.74353,0.3333
+2020-04-24,PI,Pedro II,city,3,1,6,True,38742,2207900,7.74353,0.3333
+2020-04-23,PI,Pedro II,city,3,1,5,False,38742,2207900,7.74353,0.3333
 2020-04-22,PI,Pedro II,city,1,1,4,False,38742,2207900,2.58118,1.0000
 2020-04-21,PI,Pedro II,city,1,1,3,False,38742,2207900,2.58118,1.0000
 2020-04-20,PI,Pedro II,city,1,1,2,False,38742,2207900,2.58118,1.0000
 2020-04-19,PI,Pedro II,city,1,1,1,False,38742,2207900,2.58118,1.0000
-2020-04-23,PI,Picos,city,2,1,9,True,78222,2208007,2.55683,0.5000
+2020-04-24,PI,Picos,city,2,1,10,True,78222,2208007,2.55683,0.5000
+2020-04-23,PI,Picos,city,2,1,9,False,78222,2208007,2.55683,0.5000
 2020-04-22,PI,Picos,city,2,1,8,False,78222,2208007,2.55683,0.5000
 2020-04-21,PI,Picos,city,2,1,7,False,78222,2208007,2.55683,0.5000
 2020-04-20,PI,Picos,city,2,1,6,False,78222,2208007,2.55683,0.5000
@@ -206,7 +236,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,PI,Picos,city,1,0,3,False,78222,2208007,1.27841,
 2020-04-16,PI,Picos,city,1,0,2,False,78222,2208007,1.27841,
 2020-04-15,PI,Picos,city,1,0,1,False,78222,2208007,1.27841,
-2020-04-23,PI,Pimenteiras,city,1,0,11,True,12127,2208106,8.24606,
+2020-04-24,PI,Pimenteiras,city,1,0,12,True,12127,2208106,8.24606,
+2020-04-23,PI,Pimenteiras,city,1,0,11,False,12127,2208106,8.24606,
 2020-04-22,PI,Pimenteiras,city,1,0,10,False,12127,2208106,8.24606,
 2020-04-21,PI,Pimenteiras,city,1,0,9,False,12127,2208106,8.24606,
 2020-04-20,PI,Pimenteiras,city,1,0,8,False,12127,2208106,8.24606,
@@ -217,7 +248,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,PI,Pimenteiras,city,1,0,3,False,12127,2208106,8.24606,
 2020-04-14,PI,Pimenteiras,city,1,0,2,False,12127,2208106,8.24606,
 2020-04-13,PI,Pimenteiras,city,1,0,1,False,12127,2208106,8.24606,
-2020-04-23,PI,Piracuruca,city,6,2,18,True,28791,2208304,20.83985,0.3333
+2020-04-24,PI,Piracuruca,city,6,2,19,True,28791,2208304,20.83985,0.3333
+2020-04-23,PI,Piracuruca,city,6,2,18,False,28791,2208304,20.83985,0.3333
 2020-04-22,PI,Piracuruca,city,5,2,17,False,28791,2208304,17.36654,0.4000
 2020-04-21,PI,Piracuruca,city,5,2,16,False,28791,2208304,17.36654,0.4000
 2020-04-20,PI,Piracuruca,city,5,1,15,False,28791,2208304,17.36654,0.2000
@@ -235,13 +267,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,PI,Piracuruca,city,2,0,3,False,28791,2208304,6.94662,
 2020-04-07,PI,Piracuruca,city,2,0,2,False,28791,2208304,6.94662,
 2020-04-06,PI,Piracuruca,city,1,0,1,False,28791,2208304,3.47331,
-2020-04-23,PI,Ribeira do Piauí,city,1,0,6,True,4477,2208874,22.33639,
+2020-04-24,PI,Ribeira do Piauí,city,1,0,7,True,4477,2208874,22.33639,
+2020-04-23,PI,Ribeira do Piauí,city,1,0,6,False,4477,2208874,22.33639,
 2020-04-22,PI,Ribeira do Piauí,city,1,0,5,False,4477,2208874,22.33639,
 2020-04-21,PI,Ribeira do Piauí,city,1,0,4,False,4477,2208874,22.33639,
 2020-04-20,PI,Ribeira do Piauí,city,1,0,3,False,4477,2208874,22.33639,
 2020-04-19,PI,Ribeira do Piauí,city,1,0,2,False,4477,2208874,22.33639,
 2020-04-18,PI,Ribeira do Piauí,city,1,0,1,False,4477,2208874,22.33639,
-2020-04-23,PI,São José do Divino,city,3,1,27,True,5346,2210052,56.11672,0.3333
+2020-04-24,PI,São José do Divino,city,3,1,28,True,5346,2210052,56.11672,0.3333
+2020-04-23,PI,São José do Divino,city,3,1,27,False,5346,2210052,56.11672,0.3333
 2020-04-22,PI,São José do Divino,city,3,1,26,False,5346,2210052,56.11672,0.3333
 2020-04-21,PI,São José do Divino,city,3,1,25,False,5346,2210052,56.11672,0.3333
 2020-04-20,PI,São José do Divino,city,3,1,24,False,5346,2210052,56.11672,0.3333
@@ -268,14 +302,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,PI,São José do Divino,city,1,1,3,False,5346,2210052,18.70557,1.0000
 2020-03-28,PI,São José do Divino,city,1,1,2,False,5346,2210052,18.70557,1.0000
 2020-03-27,PI,São José do Divino,city,1,1,1,False,5346,2210052,18.70557,1.0000
-2020-04-23,PI,São José do Piauí,city,1,0,7,True,6705,2210201,14.91424,
+2020-04-24,PI,São José do Piauí,city,1,0,8,True,6705,2210201,14.91424,
+2020-04-23,PI,São José do Piauí,city,1,0,7,False,6705,2210201,14.91424,
 2020-04-22,PI,São José do Piauí,city,1,0,6,False,6705,2210201,14.91424,
 2020-04-21,PI,São José do Piauí,city,1,0,5,False,6705,2210201,14.91424,
 2020-04-20,PI,São José do Piauí,city,1,0,4,False,6705,2210201,14.91424,
 2020-04-19,PI,São José do Piauí,city,1,0,3,False,6705,2210201,14.91424,
 2020-04-18,PI,São José do Piauí,city,1,0,2,False,6705,2210201,14.91424,
 2020-04-17,PI,São José do Piauí,city,1,0,1,False,6705,2210201,14.91424,
-2020-04-23,PI,São Raimundo Nonato,city,13,0,10,True,34710,2210607,37.45318,
+2020-04-24,PI,São Raimundo Nonato,city,15,0,11,True,34710,2210607,43.21521,
+2020-04-23,PI,São Raimundo Nonato,city,13,0,10,False,34710,2210607,37.45318,
 2020-04-22,PI,São Raimundo Nonato,city,7,0,9,False,34710,2210607,20.16710,
 2020-04-21,PI,São Raimundo Nonato,city,5,0,8,False,34710,2210607,14.40507,
 2020-04-20,PI,São Raimundo Nonato,city,5,0,7,False,34710,2210607,14.40507,
@@ -285,7 +321,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,PI,São Raimundo Nonato,city,0,0,3,False,34710,2210607,,
 2020-04-15,PI,São Raimundo Nonato,city,0,0,2,False,34710,2210607,,
 2020-04-14,PI,São Raimundo Nonato,city,1,0,1,False,34710,2210607,2.88101,
-2020-04-23,PI,Teresina,city,179,7,35,True,864845,2211001,20.69735,0.0391
+2020-04-24,PI,Teresina,city,204,8,36,True,864845,2211001,23.58804,0.0392
+2020-04-23,PI,Teresina,city,179,7,35,False,864845,2211001,20.69735,0.0391
 2020-04-22,PI,Teresina,city,156,7,34,False,864845,2211001,18.03791,0.0449
 2020-04-21,PI,Teresina,city,150,7,33,False,864845,2211001,17.34415,0.0467
 2020-04-20,PI,Teresina,city,136,7,32,False,864845,2211001,15.72536,0.0515
@@ -320,10 +357,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,PI,Teresina,city,4,0,3,False,864845,2211001,0.46251,
 2020-03-20,PI,Teresina,city,4,0,2,False,864845,2211001,0.46251,
 2020-03-19,PI,Teresina,city,3,0,1,False,864845,2211001,0.34688,
-2020-04-23,PI,União,city,2,0,6,True,44485,2211100,4.49590,
+2020-04-24,PI,União,city,4,0,7,True,44485,2211100,8.99179,
+2020-04-23,PI,União,city,2,0,6,False,44485,2211100,4.49590,
 2020-04-22,PI,União,city,2,0,5,False,44485,2211100,4.49590,
 2020-04-21,PI,União,city,2,0,4,False,44485,2211100,4.49590,
 2020-04-20,PI,União,city,1,0,3,False,44485,2211100,2.24795,
 2020-04-19,PI,União,city,1,0,2,False,44485,2211100,2.24795,
 2020-04-18,PI,União,city,1,0,1,False,44485,2211100,2.24795,
-2020-04-23,PI,Água Branca,city,3,0,1,True,17411,2200202,17.23049,
+2020-04-24,PI,Água Branca,city,4,0,2,True,17411,2200202,22.97398,
+2020-04-23,PI,Água Branca,city,3,0,1,False,17411,2200202,17.23049,
