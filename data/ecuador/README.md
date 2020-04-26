@@ -1,10 +1,10 @@
-## Bolivia
+## Ecuador
 
-> Last updated at Apr 26 2020 15:57:01 UTC.
+> Last updated at Apr 26 2020 16:38:41 UTC.
 
 
-| Region | Dataset |
-| ------ | ------- |
+| Province | Dataset |
+| -------- | ------- |
 | Azuay | [`ec-a.csv`](ec-a.csv) |
 | Bolívar | [`ec-b.csv`](ec-b.csv) |
 | Cañar | [`ec-f.csv`](ec-f.csv) |
