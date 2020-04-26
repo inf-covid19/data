@@ -5,7 +5,7 @@ from os import getcwd, path, rename
 import datetime
 from helpers import ensure_dirs, ensure_consistency
 
-URL = 'https://boliviasegura.gob.bo/wp-content/json/api.php'
+URL = 'https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Bolivia'
 
 
 def scrape_bolivia():
@@ -14,25 +14,43 @@ def scrape_bolivia():
     tmp_dir = path.join(cwd, 'tmp')
     ensure_dirs(bolivia_dir, tmp_dir)
 
-    page = requests.get(URL).json()
-    
-    day = str(datetime.datetime.strptime(page['fecha'], '%d/%m/%y %H:%M'))[:10]
+    today = str(datetime.date.today())
+    page = requests.get(URL)
+    soup = BeautifulSoup(page.content, 'html.parser')
+
+    tables = soup.find_all('table')
+
+    per_dep_table = None
+    per_city_table = None
+
+    for table in tables:
+        if table.caption and 'Epidemiología' in table.caption.get_text():
+            per_dep_table = table
+            continue
+
+        headers = table.find_all('th')
+        if len(headers) > 0 and 'Municipios Bolivianos' in headers[0].get_text():
+            per_city_table = table
+
     updated_files = []
     header = 'date,region_iso,region,province,city,place_type,cases,deaths,recovered\n'
-    for dep in page['departamento'].keys():
-        region = ISO_REGION[dep]
-        iso = dep
+
+    for tr in per_dep_table.tbody.find_all('tr')[1:-1]:
+        cols = [td.get_text().strip() for td in tr.find_all('td')]
+
+        region = cols[0]
+        iso = REGION_ISO[region]
 
         line = ','.join([
-            day,
+            today,
             iso,
             region,
             '',
             '',
             'departamento',
-            str(page['departamento'][dep]['contador']['confirmados']),
-            str(page['departamento'][dep]['contador']['decesos']),
-            str(page['departamento'][dep]['contador']['recuperados'])
+            cols[1],
+            cols[2],
+            cols[3]
         ])
 
         region_file = path.join(bolivia_dir, f'{iso.lower()}.csv')
@@ -42,10 +60,10 @@ def scrape_bolivia():
             if is_empty:
                 f.write(header)
             f.write(f'{line}\n')
-        
-        if not is_empty:
+
+        if not is_empty: 
             updated_files.append(region_file)
-    
+
     ensure_consistency(updated_files, lambda row: row[:5])
 
     with open(path.join(getcwd(), 'data', 'bolivia', 'README.md'), 'w') as readme_f:
@@ -53,7 +71,8 @@ def scrape_bolivia():
 
 
 def get_readme_contents():
-    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name, iso in REGION_ISO.items()]
+    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name,
+           iso in REGION_ISO.items()]
     toc_contents = '\n'.join(toc)
 
     return f"""## Bolivia
@@ -66,8 +85,6 @@ def get_readme_contents():
 {toc_contents}
 
 """
-
-
 
 
 REGION_ISO = {
@@ -83,13 +100,13 @@ REGION_ISO = {
 }
 
 ISO_REGION = {
-    "lp": "La Paz", 
-    "cb": "Cochabamba", 
-    "sc": "Santa Cruz", 
+    "lp": "La Paz",
+    "cb": "Cochabamba",
+    "sc": "Santa Cruz",
     "or": "Oruro",
-    "pt": "Potosí", 
-    "tj": "Tarija", 
-    "ch": "Chuquisaca", 
+    "pt": "Potosí",
+    "tj": "Tarija",
+    "ch": "Chuquisaca",
     "bn": "Beni",
-    "pn": "Pando" 
+    "pn": "Pando"
 }
