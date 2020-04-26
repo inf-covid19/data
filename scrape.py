@@ -15,6 +15,7 @@ from argentina import scrape_argentina
 from ecuador import scrape_ecuador
 from colombia import scrape_colombia
 from peru import scrape_peru
+from uruguay import scrape_uruguay
 
 
 if __name__ == "__main__":
@@ -31,6 +32,7 @@ if __name__ == "__main__":
         scrape_ecuador,
         scrape_colombia,
         scrape_peru,
+        scrape_uruguay,
     ]
 
     for fn in scraper:
