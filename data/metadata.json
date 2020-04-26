@@ -9684,7 +9684,206 @@
     "file": "data/countries/colombia.csv",
     "geoId": "CO",
     "countryTerritoryCode": "COL",
-    "regions": {}
+    "regions": {
+      "Amazonas": {
+        "name": "Amazonas",
+        "iso": "CO-AMA",
+        "place_type": "departamento",
+        "file": "data/colombia/co-ama.csv"
+      },
+      "Antioquia": {
+        "name": "Antioquia",
+        "iso": "CO-ANT",
+        "place_type": "departamento",
+        "file": "data/colombia/co-ant.csv"
+      },
+      "Arauca": {
+        "name": "Arauca",
+        "iso": "CO-ARA",
+        "place_type": "departamento",
+        "file": "data/colombia/co-ara.csv"
+      },
+      "Atlántico": {
+        "name": "Atlántico",
+        "iso": "CO-ATL",
+        "place_type": "departamento",
+        "file": "data/colombia/co-atl.csv"
+      },
+      "Bogotá": {
+        "name": "Bogotá",
+        "iso": "CO-DC",
+        "place_type": "departamento",
+        "file": "data/colombia/co-dc.csv"
+      },
+      "Bolívar": {
+        "name": "Bolívar",
+        "iso": "CO-BOL",
+        "place_type": "departamento",
+        "file": "data/colombia/co-bol.csv"
+      },
+      "Boyacá": {
+        "name": "Boyacá",
+        "iso": "CO-BOY",
+        "place_type": "departamento",
+        "file": "data/colombia/co-boy.csv"
+      },
+      "Caldas": {
+        "name": "Caldas",
+        "iso": "CO-CAL",
+        "place_type": "departamento",
+        "file": "data/colombia/co-cal.csv"
+      },
+      "Caquetá": {
+        "name": "Caquetá",
+        "iso": "CO-CAQ",
+        "place_type": "departamento",
+        "file": "data/colombia/co-caq.csv"
+      },
+      "Casanare": {
+        "name": "Casanare",
+        "iso": "CO-CAS",
+        "place_type": "departamento",
+        "file": "data/colombia/co-cas.csv"
+      },
+      "Cauca": {
+        "name": "Cauca",
+        "iso": "CO-CAU",
+        "place_type": "departamento",
+        "file": "data/colombia/co-cau.csv"
+      },
+      "Cesar": {
+        "name": "Cesar",
+        "iso": "CO-CES",
+        "place_type": "departamento",
+        "file": "data/colombia/co-ces.csv"
+      },
+      "Chocó": {
+        "name": "Chocó",
+        "iso": "CO-CHO",
+        "place_type": "departamento",
+        "file": "data/colombia/co-cho.csv"
+      },
+      "Cundinamarca": {
+        "name": "Cundinamarca",
+        "iso": "CO-CUN",
+        "place_type": "departamento",
+        "file": "data/colombia/co-cun.csv"
+      },
+      "Córdoba": {
+        "name": "Córdoba",
+        "iso": "CO-COR",
+        "place_type": "departamento",
+        "file": "data/colombia/co-cor.csv"
+      },
+      "Guainía": {
+        "name": "Guainía",
+        "iso": "CO-GUA",
+        "place_type": "departamento",
+        "file": "data/colombia/co-gua.csv"
+      },
+      "Guajira": {
+        "name": "Guajira",
+        "iso": "CO-LAG",
+        "place_type": "departamento",
+        "file": "data/colombia/co-lag.csv"
+      },
+      "Guaviare": {
+        "name": "Guaviare",
+        "iso": "CO-GUV",
+        "place_type": "departamento",
+        "file": "data/colombia/co-guv.csv"
+      },
+      "Huila": {
+        "name": "Huila",
+        "iso": "CO-HUI",
+        "place_type": "departamento",
+        "file": "data/colombia/co-hui.csv"
+      },
+      "Magdalena": {
+        "name": "Magdalena",
+        "iso": "CO-MAG",
+        "place_type": "departamento",
+        "file": "data/colombia/co-mag.csv"
+      },
+      "Meta": {
+        "name": "Meta",
+        "iso": "CO-MET",
+        "place_type": "departamento",
+        "file": "data/colombia/co-met.csv"
+      },
+      "Nariño": {
+        "name": "Nariño",
+        "iso": "CO-NAR",
+        "place_type": "departamento",
+        "file": "data/colombia/co-nar.csv"
+      },
+      "Norte de Santander": {
+        "name": "Norte de Santander",
+        "iso": "CO-NSA",
+        "place_type": "departamento",
+        "file": "data/colombia/co-nsa.csv"
+      },
+      "Putumayo": {
+        "name": "Putumayo",
+        "iso": "CO-PUT",
+        "place_type": "departamento",
+        "file": "data/colombia/co-put.csv"
+      },
+      "Quindío": {
+        "name": "Quindío",
+        "iso": "CO-QUI",
+        "place_type": "departamento",
+        "file": "data/colombia/co-qui.csv"
+      },
+      "Risaralda": {
+        "name": "Risaralda",
+        "iso": "CO-RIS",
+        "place_type": "departamento",
+        "file": "data/colombia/co-ris.csv"
+      },
+      "San Andrés y Providencia": {
+        "name": "San Andrés y Providencia",
+        "iso": "CO-SAP",
+        "place_type": "departamento",
+        "file": "data/colombia/co-sap.csv"
+      },
+      "Santander": {
+        "name": "Santander",
+        "iso": "CO-SAN",
+        "place_type": "departamento",
+        "file": "data/colombia/co-san.csv"
+      },
+      "Sucre": {
+        "name": "Sucre",
+        "iso": "CO-SUC",
+        "place_type": "departamento",
+        "file": "data/colombia/co-suc.csv"
+      },
+      "Tolima": {
+        "name": "Tolima",
+        "iso": "CO-TOL",
+        "place_type": "departamento",
+        "file": "data/colombia/co-tol.csv"
+      },
+      "Valle del Cauca": {
+        "name": "Valle del Cauca",
+        "iso": "CO-VAC",
+        "place_type": "departamento",
+        "file": "data/colombia/co-vac.csv"
+      },
+      "Vaupés": {
+        "name": "Vaupés",
+        "iso": "CO-VAU",
+        "place_type": "departamento",
+        "file": "data/colombia/co-vau.csv"
+      },
+      "Vichada": {
+        "name": "Vichada",
+        "iso": "CO-VID",
+        "place_type": "departamento",
+        "file": "data/colombia/co-vid.csv"
+      }
+    }
   },
   "Congo": {
     "name": "Congo",

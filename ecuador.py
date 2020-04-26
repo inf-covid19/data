@@ -15,7 +15,7 @@ def scrape_ecuador():
     tmp_dir = path.join(cwd, 'tmp')
     ensure_dirs(ecuador_dir, tmp_dir)
     
-    not_number_regexp = re.compile('\D')
+    not_number_regexp = re.compile(r'\D')
 
     today = str(datetime.date.today())
     page = requests.get(URL)
