@@ -267,6 +267,32 @@ def meta_argentina(countries={}):
     return countries
 
 
+def meta_ecuador(countries={}):
+    regions_file = glob.glob('data/ecuador/*.csv')
+    country = 'Ecuador'
+
+    regions = {}
+
+    for region_file in regions_file:
+        region_df = pd.read_csv(region_file)
+
+        unique_region = region_df[[
+            'province', 'city', 'place_type', 'iso']].drop_duplicates()
+
+        for _, row in unique_region.iterrows():
+            regions[row['province']] = {
+                'name': row['province'],
+                'iso': row['iso'],
+                'place_type': row['place_type'],
+                'file': region_file,
+            }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
+
+    return countries
+
+
 if __name__ == "__main__":
     meta_json = {}
     meta_gatherer = [
@@ -279,6 +305,7 @@ if __name__ == "__main__":
         meta_chile,
         meta_bolivia,
         meta_argentina,
+        meta_ecuador,
     ]
 
     for fn in meta_gatherer:
