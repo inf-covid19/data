@@ -34,7 +34,7 @@ jobs:
           git add --all
           for data in $(ls -d data/*/); do test -z "$(git diff-index HEAD | grep $data | grep -v README)" && git restore --staged -- $data; done
           git status
-          git diff-index --quiet HEAD || git commit -m "Scheduled updates ($(date +'%F %T %Z'))"
+          git commit -m "Scheduled updates ($(date +'%F %T %Z'))" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
