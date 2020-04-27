@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-24,RN,,state,781,40,36,True,3506853,24,22.27068,0.0512
+2020-04-25,RN,,state,825,44,37,True,3506853,24,23.52537,0.0533
+2020-04-24,RN,,state,781,40,36,False,3506853,24,22.27068,0.0512
 2020-04-23,RN,,state,754,38,35,False,3506853,24,21.50076,0.0504
 2020-04-22,RN,,state,708,34,34,False,3506853,24,20.18904,0.0480
 2020-04-21,RN,,state,646,29,33,False,3506853,24,18.42107,0.0449
@@ -349,7 +350,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,RN,Ielmo Marinho,city,1,0,3,False,13766,2404606,7.26427,
 2020-04-20,RN,Ielmo Marinho,city,1,0,2,False,13766,2404606,7.26427,
 2020-04-19,RN,Ielmo Marinho,city,1,0,1,False,13766,2404606,7.26427,
-2020-04-24,RN,Importados/Indefinidos,city,8,1,24,True,,,,0.1250
+2020-04-25,RN,Importados/Indefinidos,city,0,0,25,True,,,,
+2020-04-24,RN,Importados/Indefinidos,city,8,1,24,False,,,,0.1250
 2020-04-23,RN,Importados/Indefinidos,city,8,1,23,False,,,,0.1250
 2020-04-22,RN,Importados/Indefinidos,city,5,0,22,False,,,,
 2020-04-21,RN,Importados/Indefinidos,city,5,0,21,False,,,,
