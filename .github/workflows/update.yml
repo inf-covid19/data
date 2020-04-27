@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add --all
-          for data in $(ls -d data/*/); do test -z "$(git diff-index HEAD | grep $data | grep -v README)" && echo "git restore --staged -- $data"; done
+          for data in $(ls -d data/*/); do test -z "$(git diff-index HEAD | grep $data | grep -v README)" && git restore --staged -- $data; done
           git status
           git diff-index --quiet HEAD || git commit -a -m "Scheduled updates ($(date +'%F %T %Z'))"
 
