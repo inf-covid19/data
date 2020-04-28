@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-26,RO,,state,364,10,35,True,1777225,11,20.48137,0.0275
+2020-04-27,RO,,state,393,10,36,True,1777225,11,22.11313,0.0254
+2020-04-26,RO,,state,364,10,35,False,1777225,11,20.48137,0.0275
 2020-04-25,RO,,state,328,7,34,False,1777225,11,18.45574,0.0213
 2020-04-24,RO,,state,290,6,33,False,1777225,11,16.31757,0.0207
 2020-04-23,RO,,state,250,5,32,False,1777225,11,14.06687,0.0200
@@ -34,7 +35,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RO,,state,3,0,3,False,1777225,11,0.16880,
 2020-03-21,RO,,state,3,0,2,False,1777225,11,0.16880,
 2020-03-20,RO,,state,1,0,1,False,1777225,11,0.05627,
-2020-04-26,RO,Alto Paraíso,city,1,0,8,True,21428,1100403,4.66679,
+2020-04-27,RO,Alto Paraíso,city,1,0,9,True,21428,1100403,4.66679,
+2020-04-26,RO,Alto Paraíso,city,1,0,8,False,21428,1100403,4.66679,
 2020-04-25,RO,Alto Paraíso,city,1,0,7,False,21428,1100403,4.66679,
 2020-04-24,RO,Alto Paraíso,city,1,0,6,False,21428,1100403,4.66679,
 2020-04-23,RO,Alto Paraíso,city,1,0,5,False,21428,1100403,4.66679,
@@ -42,7 +44,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,RO,Alto Paraíso,city,1,0,3,False,21428,1100403,4.66679,
 2020-04-19,RO,Alto Paraíso,city,1,0,2,False,21428,1100403,4.66679,
 2020-04-18,RO,Alto Paraíso,city,1,0,1,False,21428,1100403,4.66679,
-2020-04-26,RO,Ariquemes,city,60,0,15,True,107863,1100023,55.62612,
+2020-04-27,RO,Ariquemes,city,62,0,16,True,107863,1100023,57.48032,
+2020-04-26,RO,Ariquemes,city,60,0,15,False,107863,1100023,55.62612,
 2020-04-25,RO,Ariquemes,city,49,0,14,False,107863,1100023,45.42800,
 2020-04-24,RO,Ariquemes,city,48,0,13,False,107863,1100023,44.50089,
 2020-04-23,RO,Ariquemes,city,47,0,12,False,107863,1100023,43.57379,
@@ -57,7 +60,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-12,RO,Ariquemes,city,7,0,3,False,107863,1100023,6.48971,
 2020-04-11,RO,Ariquemes,city,2,0,2,False,107863,1100023,1.85420,
 2020-04-10,RO,Ariquemes,city,2,0,1,False,107863,1100023,1.85420,
-2020-04-26,RO,Buritis,city,1,0,10,True,39654,1100452,2.52181,
+2020-04-27,RO,Buritis,city,1,0,11,True,39654,1100452,2.52181,
+2020-04-26,RO,Buritis,city,1,0,10,False,39654,1100452,2.52181,
 2020-04-25,RO,Buritis,city,1,0,9,False,39654,1100452,2.52181,
 2020-04-24,RO,Buritis,city,1,0,8,False,39654,1100452,2.52181,
 2020-04-23,RO,Buritis,city,1,0,7,False,39654,1100452,2.52181,
@@ -67,11 +71,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RO,Buritis,city,1,0,3,False,39654,1100452,2.52181,
 2020-04-17,RO,Buritis,city,1,0,2,False,39654,1100452,2.52181,
 2020-04-16,RO,Buritis,city,1,0,1,False,39654,1100452,2.52181,
-2020-04-26,RO,Candeias do Jamari,city,1,0,1,True,26693,1100809,3.74630,
-2020-04-26,RO,Importados/Indefinidos,city,0,1,3,True,,,,
+2020-04-27,RO,Candeias do Jamari,city,1,0,2,True,26693,1100809,3.74630,
+2020-04-26,RO,Candeias do Jamari,city,1,0,1,False,26693,1100809,3.74630,
+2020-04-27,RO,Importados/Indefinidos,city,0,1,4,True,,,,
+2020-04-26,RO,Importados/Indefinidos,city,0,1,3,False,,,,
 2020-04-25,RO,Importados/Indefinidos,city,0,1,2,False,,,,
 2020-04-24,RO,Importados/Indefinidos,city,0,1,1,False,,,,
-2020-04-26,RO,Jaru,city,1,0,26,True,51775,1100114,1.93143,
+2020-04-27,RO,Itapuã do Oeste,city,1,0,1,True,10458,1101104,9.56206,
+2020-04-27,RO,Jaru,city,1,0,27,True,51775,1100114,1.93143,
+2020-04-26,RO,Jaru,city,1,0,26,False,51775,1100114,1.93143,
 2020-04-25,RO,Jaru,city,1,0,25,False,51775,1100114,1.93143,
 2020-04-24,RO,Jaru,city,1,0,24,False,51775,1100114,1.93143,
 2020-04-23,RO,Jaru,city,1,0,23,False,51775,1100114,1.93143,
@@ -97,7 +105,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RO,Jaru,city,1,0,3,False,51775,1100114,1.93143,
 2020-03-31,RO,Jaru,city,1,0,2,False,51775,1100114,1.93143,
 2020-03-30,RO,Jaru,city,1,0,1,False,51775,1100114,1.93143,
-2020-04-26,RO,Ji-Paraná,city,26,2,35,True,128969,1100122,20.15988,0.0769
+2020-04-27,RO,Ji-Paraná,city,27,2,36,True,128969,1100122,20.93526,0.0741
+2020-04-26,RO,Ji-Paraná,city,26,2,35,False,128969,1100122,20.15988,0.0769
 2020-04-25,RO,Ji-Paraná,city,25,2,34,False,128969,1100122,19.38450,0.0800
 2020-04-24,RO,Ji-Paraná,city,20,2,33,False,128969,1100122,15.50760,0.1000
 2020-04-23,RO,Ji-Paraná,city,8,2,32,False,128969,1100122,6.20304,0.2500
@@ -132,7 +141,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RO,Ji-Paraná,city,1,0,3,False,128969,1100122,0.77538,
 2020-03-21,RO,Ji-Paraná,city,1,0,2,False,128969,1100122,0.77538,
 2020-03-20,RO,Ji-Paraná,city,1,0,1,False,128969,1100122,0.77538,
-2020-04-26,RO,Ouro Preto do Oeste,city,7,0,17,True,36035,1100155,19.42556,
+2020-04-27,RO,Ouro Preto do Oeste,city,7,0,18,True,36035,1100155,19.42556,
+2020-04-26,RO,Ouro Preto do Oeste,city,7,0,17,False,36035,1100155,19.42556,
 2020-04-25,RO,Ouro Preto do Oeste,city,7,0,16,False,36035,1100155,19.42556,
 2020-04-24,RO,Ouro Preto do Oeste,city,7,0,15,False,36035,1100155,19.42556,
 2020-04-23,RO,Ouro Preto do Oeste,city,7,0,14,False,36035,1100155,19.42556,
@@ -149,12 +159,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,RO,Ouro Preto do Oeste,city,1,0,3,False,36035,1100155,2.77508,
 2020-04-09,RO,Ouro Preto do Oeste,city,1,0,2,False,36035,1100155,2.77508,
 2020-04-08,RO,Ouro Preto do Oeste,city,1,0,1,False,36035,1100155,2.77508,
-2020-04-26,RO,Pimenta Bueno,city,1,0,5,True,36660,1100189,2.72777,
+2020-04-27,RO,Pimenta Bueno,city,1,0,6,True,36660,1100189,2.72777,
+2020-04-26,RO,Pimenta Bueno,city,1,0,5,False,36660,1100189,2.72777,
 2020-04-25,RO,Pimenta Bueno,city,0,0,4,False,36660,1100189,,
 2020-04-24,RO,Pimenta Bueno,city,0,0,3,False,36660,1100189,,
 2020-04-23,RO,Pimenta Bueno,city,0,0,2,False,36660,1100189,,
 2020-04-21,RO,Pimenta Bueno,city,1,0,1,False,36660,1100189,2.72777,
-2020-04-26,RO,Porto Velho,city,260,6,34,True,529544,1100205,49.09885,0.0231
+2020-04-27,RO,Porto Velho,city,285,6,35,True,529544,1100205,53.81989,0.0211
+2020-04-26,RO,Porto Velho,city,260,6,34,False,529544,1100205,49.09885,0.0231
 2020-04-25,RO,Porto Velho,city,239,4,33,False,529544,1100205,45.13317,0.0167
 2020-04-24,RO,Porto Velho,city,207,3,32,False,529544,1100205,39.09024,0.0145
 2020-04-23,RO,Porto Velho,city,180,3,31,False,529544,1100205,33.99151,0.0167
@@ -188,7 +200,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,RO,Porto Velho,city,4,0,3,False,529544,1100205,0.75537,
 2020-03-22,RO,Porto Velho,city,2,0,2,False,529544,1100205,0.37768,
 2020-03-21,RO,Porto Velho,city,2,0,1,False,529544,1100205,0.37768,
-2020-04-26,RO,Rolim de Moura,city,4,1,20,True,55058,1100288,7.26507,0.2500
+2020-04-27,RO,Rolim de Moura,city,4,1,21,True,55058,1100288,7.26507,0.2500
+2020-04-26,RO,Rolim de Moura,city,4,1,20,False,55058,1100288,7.26507,0.2500
 2020-04-25,RO,Rolim de Moura,city,3,0,19,False,55058,1100288,5.44880,
 2020-04-24,RO,Rolim de Moura,city,3,0,18,False,55058,1100288,5.44880,
 2020-04-23,RO,Rolim de Moura,city,3,0,17,False,55058,1100288,5.44880,
@@ -208,11 +221,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,RO,Rolim de Moura,city,1,0,3,False,55058,1100288,1.81627,
 2020-04-06,RO,Rolim de Moura,city,1,0,2,False,55058,1100288,1.81627,
 2020-04-05,RO,Rolim de Moura,city,1,0,1,False,55058,1100288,1.81627,
-2020-04-26,RO,Urupá,city,1,0,4,True,11467,1101708,8.72068,
+2020-04-27,RO,Urupá,city,1,0,5,True,11467,1101708,8.72068,
+2020-04-26,RO,Urupá,city,1,0,4,False,11467,1101708,8.72068,
 2020-04-25,RO,Urupá,city,1,0,3,False,11467,1101708,8.72068,
 2020-04-24,RO,Urupá,city,1,0,2,False,11467,1101708,8.72068,
 2020-04-23,RO,Urupá,city,1,0,1,False,11467,1101708,8.72068,
-2020-04-26,RO,Vilhena,city,1,0,20,True,99854,1100304,1.00146,
+2020-04-27,RO,Vilhena,city,1,0,21,True,99854,1100304,1.00146,
+2020-04-26,RO,Vilhena,city,1,0,20,False,99854,1100304,1.00146,
 2020-04-25,RO,Vilhena,city,1,0,19,False,99854,1100304,1.00146,
 2020-04-24,RO,Vilhena,city,1,0,18,False,99854,1100304,1.00146,
 2020-04-23,RO,Vilhena,city,1,0,17,False,99854,1100304,1.00146,
