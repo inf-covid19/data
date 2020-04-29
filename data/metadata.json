@@ -189,7 +189,7 @@
       "Sin definir": {
         "name": "Sin definir",
         "iso": "SINDEF",
-        "place_type": "provincia",
+        "place_type": "unknown",
         "file": "data/argentina/sindef.csv"
       },
       "Tierra del Fuego": {
@@ -11310,6 +11310,12 @@
         "iso": "EC-Z",
         "place_type": "province",
         "file": "data/ecuador/ec-z.csv"
+      },
+      "Área no determinada (Rapid Test)": {
+        "name": "Área no determinada (Rapid Test)",
+        "iso": NaN,
+        "place_type": "unknown",
+        "file": "data/ecuador/na.csv"
       }
     }
   },
@@ -14545,6 +14551,11 @@
         "parent": "Arkansas",
         "place_type": "county"
       },
+      "Arkansas:Montgomery": {
+        "name": "Montgomery",
+        "parent": "Arkansas",
+        "place_type": "county"
+      },
       "Arkansas:Nevada": {
         "name": "Nevada",
         "parent": "Arkansas",
@@ -14782,6 +14793,11 @@
       },
       "California:Marin": {
         "name": "Marin",
+        "parent": "California",
+        "place_type": "county"
+      },
+      "California:Mariposa": {
+        "name": "Mariposa",
         "parent": "California",
         "place_type": "county"
       },
@@ -18350,6 +18366,11 @@
         "parent": "Kansas",
         "place_type": "county"
       },
+      "Kansas:Nemaha": {
+        "name": "Nemaha",
+        "parent": "Kansas",
+        "place_type": "county"
+      },
       "Kansas:Neosho": {
         "name": "Neosho",
         "parent": "Kansas",
@@ -18890,6 +18911,11 @@
         "parent": "Kentucky",
         "place_type": "county"
       },
+      "Kentucky:Metcalfe": {
+        "name": "Metcalfe",
+        "parent": "Kentucky",
+        "place_type": "county"
+      },
       "Kentucky:Monroe": {
         "name": "Monroe",
         "parent": "Kentucky",
@@ -18927,6 +18953,11 @@
       },
       "Kentucky:Oldham": {
         "name": "Oldham",
+        "parent": "Kentucky",
+        "place_type": "county"
+      },
+      "Kentucky:Owen": {
+        "name": "Owen",
         "parent": "Kentucky",
         "place_type": "county"
       },
@@ -20457,6 +20488,11 @@
       },
       "Minnesota:Wabasha": {
         "name": "Wabasha",
+        "parent": "Minnesota",
+        "place_type": "county"
+      },
+      "Minnesota:Wadena": {
+        "name": "Wadena",
         "parent": "Minnesota",
         "place_type": "county"
       },
@@ -22785,6 +22821,11 @@
         "parent": "North Carolina",
         "place_type": "county"
       },
+      "North Carolina:Graham": {
+        "name": "Graham",
+        "parent": "North Carolina",
+        "place_type": "county"
+      },
       "North Carolina:Granville": {
         "name": "Granville",
         "parent": "North Carolina",
@@ -23695,6 +23736,11 @@
         "parent": "Ohio",
         "place_type": "county"
       },
+      "Ohio:Vinton": {
+        "name": "Vinton",
+        "parent": "Ohio",
+        "place_type": "county"
+      },
       "Ohio:Warren": {
         "name": "Warren",
         "parent": "Ohio",
@@ -24137,6 +24183,11 @@
       },
       "Oregon:Grant": {
         "name": "Grant",
+        "parent": "Oregon",
+        "place_type": "county"
+      },
+      "Oregon:Harney": {
+        "name": "Harney",
         "parent": "Oregon",
         "place_type": "county"
       },
@@ -24902,6 +24953,11 @@
       },
       "South Dakota:Brule": {
         "name": "Brule",
+        "parent": "South Dakota",
+        "place_type": "county"
+      },
+      "South Dakota:Buffalo": {
+        "name": "Buffalo",
         "parent": "South Dakota",
         "place_type": "county"
       },
@@ -26205,6 +26261,11 @@
         "parent": "Texas",
         "place_type": "county"
       },
+      "Texas:Lipscomb": {
+        "name": "Lipscomb",
+        "parent": "Texas",
+        "place_type": "county"
+      },
       "Texas:Live Oak": {
         "name": "Live Oak",
         "parent": "Texas",
@@ -26412,6 +26473,11 @@
       },
       "Texas:Rockwall": {
         "name": "Rockwall",
+        "parent": "Texas",
+        "place_type": "county"
+      },
+      "Texas:Runnels": {
+        "name": "Runnels",
         "parent": "Texas",
         "place_type": "county"
       },
@@ -27092,6 +27158,11 @@
       },
       "Virginia:Goochland": {
         "name": "Goochland",
+        "parent": "Virginia",
+        "place_type": "county"
+      },
+      "Virginia:Grayson": {
+        "name": "Grayson",
         "parent": "Virginia",
         "place_type": "county"
       },
