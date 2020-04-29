@@ -33,7 +33,7 @@ def scrape_argentina():
             region,
             '',
             '',
-            'provincia',
+            'unknown' if iso is 'SINDEF' else 'provincia',
             str(confirmed),
             str(deaths),
             str(recovered)

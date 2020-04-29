@@ -14,7 +14,7 @@ def scrape_ecuador():
     ecuador_dir = path.join(cwd, 'data', 'ecuador')
     tmp_dir = path.join(cwd, 'tmp')
     ensure_dirs(ecuador_dir, tmp_dir)
-    
+
     not_number_regexp = re.compile(r'\D')
 
     today = str(datetime.date.today())
@@ -45,9 +45,9 @@ def scrape_ecuador():
             iso,
             province,
             '',
-            'province',
-           not_number_regexp.sub('', cols[1]),
-           not_number_regexp.sub('', cols[2]),
+            'unknown' if iso is 'NA' else 'province',
+            not_number_regexp.sub('', cols[1]),
+            not_number_regexp.sub('', cols[2]),
         ])
 
         province_file = path.join(ecuador_dir, f'{iso.lower()}.csv')
@@ -109,4 +109,5 @@ PROVINCE_ISO = {
     'Sucumbíos': 'EC-U',
     'Tungurahua': 'EC-T',
     'Zamora Chinchipe': 'EC-Z',
+    'Área no determinada (Rapid Test)': 'NA'
 }
