@@ -33,7 +33,7 @@ def scrape_argentina():
             region,
             '',
             '',
-            'unknown' if iso is 'SINDEF' else 'provincia',
+            'unknown' if iso == 'UNK' else 'provincia',
             str(confirmed),
             str(deaths),
             str(recovered)
@@ -99,7 +99,7 @@ REGION_ISO = {
     "Santiago del Estero": "SE",
     "Tierra del Fuego": "TF",
     "Tucumán": "TU",
-    "Sin definir": "SINDEF"
+    "Sin definir": "UNK"
 }
 
 CODE_REGION = {

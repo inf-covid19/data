@@ -45,7 +45,7 @@ def scrape_ecuador():
             iso,
             province,
             '',
-            'unknown' if iso is 'NA' else 'province',
+            'unknown' if iso == 'UNK' else 'province',
             not_number_regexp.sub('', cols[1]),
             not_number_regexp.sub('', cols[2]),
         ])
@@ -109,5 +109,5 @@ PROVINCE_ISO = {
     'Sucumbíos': 'EC-U',
     'Tungurahua': 'EC-T',
     'Zamora Chinchipe': 'EC-Z',
-    'Área no determinada (Rapid Test)': 'NA'
+    'Área no determinada (Rapid Test)': 'UNK'
 }

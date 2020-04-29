@@ -1,6 +1,6 @@
 ## Ecuador
 
-> Last updated at Apr 29 2020 20:19:21 UTC.
+> Last updated at Apr 29 2020 21:23:05 UTC.
 
 
 | Province | Dataset |
@@ -29,5 +29,5 @@
 | Sucumbíos | [`ec-u.csv`](ec-u.csv) |
 | Tungurahua | [`ec-t.csv`](ec-t.csv) |
 | Zamora Chinchipe | [`ec-z.csv`](ec-z.csv) |
-| Área no determinada (Rapid Test) | [`na.csv`](na.csv) |
+| Área no determinada (Rapid Test) | [`unk.csv`](unk.csv) |
 
