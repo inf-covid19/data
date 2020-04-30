@@ -103,7 +103,7 @@ DEPARTAMENT_ISO = {
     'Guainía': 'CO-GUA',
     'Guaviare': 'CO-GUV',
     'Huila': 'CO-HUI',
-    'Guajira': 'CO-LAG',
+    'La Guajira': 'CO-LAG',
     'Magdalena': 'CO-MAG',
     'Meta': 'CO-MET',
     'Nariño': 'CO-NAR',

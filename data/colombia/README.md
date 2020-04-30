@@ -1,6 +1,6 @@
 ## Colombia
 
-> Last updated at Apr 30 2020 04:38:12 UTC.
+> Last updated at Apr 30 2020 21:35:34 UTC.
 
 
 | Departament | Dataset |
@@ -22,7 +22,7 @@
 | Guainía | [`co-gua.csv`](co-gua.csv) |
 | Guaviare | [`co-guv.csv`](co-guv.csv) |
 | Huila | [`co-hui.csv`](co-hui.csv) |
-| Guajira | [`co-lag.csv`](co-lag.csv) |
+| La Guajira | [`co-lag.csv`](co-lag.csv) |
 | Magdalena | [`co-mag.csv`](co-mag.csv) |
 | Meta | [`co-met.csv`](co-met.csv) |
 | Nariño | [`co-nar.csv`](co-nar.csv) |
