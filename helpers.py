@@ -52,6 +52,10 @@ def executor(fn, *args, **kwargs):
     start_time = time.time()
 
     r = None
+    if '__fallback' in kwargs:
+        r = kwargs['__fallback']
+        del kwargs['__fallback']
+
     try:
         r = fn(*args, **kwargs)
     except Exception:

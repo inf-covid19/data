@@ -390,7 +390,7 @@ if __name__ == "__main__":
     ]
 
     for fn in meta_gatherer:
-        meta_json = executor(fn, meta_json)
+        meta_json = executor(fn, meta_json, __fallback=meta_json)
 
     with open('data/metadata.json', 'w') as file:
         file.write(json.dumps(meta_json, indent=2, ensure_ascii=False))
