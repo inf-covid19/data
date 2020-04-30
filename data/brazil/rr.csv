@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-27,RR,,state,425,4,38,True,605761,14,70.15968,0.0094
+2020-04-29,RR,,state,426,4,39,True,605761,14,70.32477,0.0094
+2020-04-27,RR,,state,425,4,38,False,605761,14,70.15968,0.0094
 2020-04-26,RR,,state,407,4,37,False,605761,14,67.18821,0.0098
 2020-04-25,RR,,state,401,4,36,False,605761,14,66.19772,0.0100
 2020-04-24,RR,,state,345,3,35,False,605761,14,56.95315,0.0087
@@ -37,7 +38,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,RR,,state,2,0,3,False,605761,14,0.33016,
 2020-03-22,RR,,state,2,0,2,False,605761,14,0.33016,
 2020-03-21,RR,,state,2,0,1,False,605761,14,0.33016,
-2020-04-27,RR,Alto Alegre,city,4,1,21,True,15510,1400050,25.78981,0.2500
+2020-04-29,RR,Alto Alegre,city,4,1,22,True,15510,1400050,25.78981,0.2500
+2020-04-27,RR,Alto Alegre,city,4,1,21,False,15510,1400050,25.78981,0.2500
 2020-04-26,RR,Alto Alegre,city,2,1,20,False,15510,1400050,12.89491,0.5000
 2020-04-25,RR,Alto Alegre,city,2,1,19,False,15510,1400050,12.89491,0.5000
 2020-04-24,RR,Alto Alegre,city,2,1,18,False,15510,1400050,12.89491,0.5000
@@ -58,7 +60,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,RR,Alto Alegre,city,1,0,3,False,15510,1400050,6.44745,
 2020-04-08,RR,Alto Alegre,city,1,0,2,False,15510,1400050,6.44745,
 2020-04-07,RR,Alto Alegre,city,1,0,1,False,15510,1400050,6.44745,
-2020-04-27,RR,Boa Vista,city,383,3,38,True,399213,1400100,95.93876,0.0078
+2020-04-29,RR,Boa Vista,city,384,3,39,True,399213,1400100,96.18925,0.0078
+2020-04-27,RR,Boa Vista,city,383,3,38,False,399213,1400100,95.93876,0.0078
 2020-04-26,RR,Boa Vista,city,362,3,37,False,399213,1400100,90.67841,0.0083
 2020-04-25,RR,Boa Vista,city,356,3,36,False,399213,1400100,89.17545,0.0084
 2020-04-24,RR,Boa Vista,city,307,2,35,False,399213,1400100,76.90130,0.0065
@@ -96,7 +99,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,RR,Boa Vista,city,2,0,3,False,399213,1400100,0.50099,
 2020-03-22,RR,Boa Vista,city,2,0,2,False,399213,1400100,0.50099,
 2020-03-21,RR,Boa Vista,city,2,0,1,False,399213,1400100,0.50099,
-2020-04-27,RR,Bonfim,city,4,0,35,True,12409,1400159,32.23467,
+2020-04-29,RR,Bonfim,city,4,0,36,True,12409,1400159,32.23467,
+2020-04-27,RR,Bonfim,city,4,0,35,False,12409,1400159,32.23467,
 2020-04-26,RR,Bonfim,city,4,0,34,False,12409,1400159,32.23467,
 2020-04-25,RR,Bonfim,city,4,0,33,False,12409,1400159,32.23467,
 2020-04-24,RR,Bonfim,city,4,0,32,False,12409,1400159,32.23467,
@@ -131,7 +135,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,RR,Bonfim,city,1,0,3,False,12409,1400159,8.05867,
 2020-03-25,RR,Bonfim,city,1,0,2,False,12409,1400159,8.05867,
 2020-03-24,RR,Bonfim,city,1,0,1,False,12409,1400159,8.05867,
-2020-04-27,RR,Cantá,city,4,0,26,True,18335,1400175,21.81620,
+2020-04-29,RR,Cantá,city,4,0,27,True,18335,1400175,21.81620,
+2020-04-27,RR,Cantá,city,4,0,26,False,18335,1400175,21.81620,
 2020-04-26,RR,Cantá,city,4,0,25,False,18335,1400175,21.81620,
 2020-04-25,RR,Cantá,city,4,0,24,False,18335,1400175,21.81620,
 2020-04-24,RR,Cantá,city,4,0,23,False,18335,1400175,21.81620,
@@ -157,14 +162,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,RR,Cantá,city,3,0,3,False,18335,1400175,16.36215,
 2020-04-03,RR,Cantá,city,3,0,2,False,18335,1400175,16.36215,
 2020-04-02,RR,Cantá,city,3,0,1,False,18335,1400175,16.36215,
-2020-04-27,RR,Caroebe,city,2,0,7,True,10169,1400233,19.66762,
+2020-04-29,RR,Caroebe,city,2,0,8,True,10169,1400233,19.66762,
+2020-04-27,RR,Caroebe,city,2,0,7,False,10169,1400233,19.66762,
 2020-04-26,RR,Caroebe,city,3,0,6,False,10169,1400233,29.50143,
 2020-04-25,RR,Caroebe,city,3,0,5,False,10169,1400233,29.50143,
 2020-04-24,RR,Caroebe,city,1,0,4,False,10169,1400233,9.83381,
 2020-04-23,RR,Caroebe,city,1,0,3,False,10169,1400233,9.83381,
 2020-04-22,RR,Caroebe,city,1,0,2,False,10169,1400233,9.83381,
 2020-04-21,RR,Caroebe,city,1,0,1,False,10169,1400233,9.83381,
-2020-04-27,RR,Mucajaí,city,0,0,12,True,17853,1400308,,
+2020-04-29,RR,Mucajaí,city,0,0,13,True,17853,1400308,,
+2020-04-27,RR,Mucajaí,city,0,0,12,False,17853,1400308,,
 2020-04-26,RR,Mucajaí,city,2,0,11,False,17853,1400308,11.20260,
 2020-04-25,RR,Mucajaí,city,2,0,10,False,17853,1400308,11.20260,
 2020-04-24,RR,Mucajaí,city,1,0,9,False,17853,1400308,5.60130,
@@ -176,7 +183,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RR,Mucajaí,city,1,0,3,False,17853,1400308,5.60130,
 2020-04-17,RR,Mucajaí,city,1,0,2,False,17853,1400308,5.60130,
 2020-04-16,RR,Mucajaí,city,1,0,1,False,17853,1400308,5.60130,
-2020-04-27,RR,Pacaraima,city,15,0,17,True,17401,1400456,86.20194,
+2020-04-29,RR,Pacaraima,city,15,0,18,True,17401,1400456,86.20194,
+2020-04-27,RR,Pacaraima,city,15,0,17,False,17401,1400456,86.20194,
 2020-04-26,RR,Pacaraima,city,18,0,16,False,17401,1400456,103.44233,
 2020-04-25,RR,Pacaraima,city,18,0,15,False,17401,1400456,103.44233,
 2020-04-24,RR,Pacaraima,city,14,0,14,False,17401,1400456,80.45515,
@@ -193,7 +201,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,RR,Pacaraima,city,2,0,3,False,17401,1400456,11.49359,
 2020-04-12,RR,Pacaraima,city,2,0,2,False,17401,1400456,11.49359,
 2020-04-11,RR,Pacaraima,city,2,0,1,False,17401,1400456,11.49359,
-2020-04-27,RR,Rorainópolis,city,11,0,12,True,30163,1400472,36.46852,
+2020-04-29,RR,Rorainópolis,city,11,0,13,True,30163,1400472,36.46852,
+2020-04-27,RR,Rorainópolis,city,11,0,12,False,30163,1400472,36.46852,
 2020-04-26,RR,Rorainópolis,city,11,0,11,False,30163,1400472,36.46852,
 2020-04-25,RR,Rorainópolis,city,11,0,10,False,30163,1400472,36.46852,
 2020-04-24,RR,Rorainópolis,city,11,0,9,False,30163,1400472,36.46852,
@@ -205,7 +214,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RR,Rorainópolis,city,3,0,3,False,30163,1400472,9.94596,
 2020-04-17,RR,Rorainópolis,city,1,0,2,False,30163,1400472,3.31532,
 2020-04-16,RR,Rorainópolis,city,1,0,1,False,30163,1400472,3.31532,
-2020-04-27,RR,São Luiz,city,2,0,11,True,7986,1400605,25.04383,
+2020-04-29,RR,São Luiz,city,2,0,12,True,7986,1400605,25.04383,
+2020-04-27,RR,São Luiz,city,2,0,11,False,7986,1400605,25.04383,
 2020-04-26,RR,São Luiz,city,1,0,10,False,7986,1400605,12.52191,
 2020-04-25,RR,São Luiz,city,1,0,9,False,7986,1400605,12.52191,
 2020-04-24,RR,São Luiz,city,1,0,8,False,7986,1400605,12.52191,
