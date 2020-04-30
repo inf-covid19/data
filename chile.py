@@ -33,8 +33,8 @@ def scrape_chile():
             '',
             '',
             'region',
-            cols[2].replace('.', ''),
-            cols[4].replace('.', '')
+            cols[3].replace('.', ''),
+            cols[5].replace('.', '')
         ])
 
         region_file = path.join(chile_dir, f'{iso.lower()}.csv')
