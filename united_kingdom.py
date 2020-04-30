@@ -49,7 +49,7 @@ def scrape_united_kingdom():
         key = (row['region'], area_type, row['date'])
         if not key in deaths_df.index:
             return np.NaN
-        return deaths_df.loc[key]['Cumulative hospital deaths']
+        return deaths_df.loc[key]['Cumulative deaths']
 
     df['deaths'] = df.apply(fill_deaths, axis=1)
 
