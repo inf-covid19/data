@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-29,AC,,state,354,18,44,True,881935,12,40.13901,0.0508
+2020-04-30,AC,,state,404,19,45,True,881935,12,45.80836,0.0470
+2020-04-29,AC,,state,354,18,44,False,881935,12,40.13901,0.0508
 2020-04-28,AC,,state,317,16,43,False,881935,12,35.94369,0.0505
 2020-04-27,AC,,state,301,14,42,False,881935,12,34.12950,0.0465
 2020-04-26,AC,,state,279,11,41,False,881935,12,31.63498,0.0394
@@ -43,7 +44,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-19,AC,,state,4,0,3,False,881935,12,0.45355,
 2020-03-18,AC,,state,3,0,2,False,881935,12,0.34016,
 2020-03-17,AC,,state,3,0,1,False,881935,12,0.34016,
-2020-04-29,AC,Acrelândia,city,13,0,32,True,15256,1200013,85.21238,
+2020-04-30,AC,Acrelândia,city,13,0,33,True,15256,1200013,85.21238,
+2020-04-29,AC,Acrelândia,city,13,0,32,False,15256,1200013,85.21238,
 2020-04-28,AC,Acrelândia,city,13,0,31,False,15256,1200013,85.21238,
 2020-04-27,AC,Acrelândia,city,13,0,30,False,15256,1200013,85.21238,
 2020-04-26,AC,Acrelândia,city,12,0,29,False,15256,1200013,78.65758,
@@ -75,7 +77,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AC,Acrelândia,city,7,0,3,False,15256,1200013,45.88359,
 2020-03-30,AC,Acrelândia,city,6,0,2,False,15256,1200013,39.32879,
 2020-03-29,AC,Acrelândia,city,2,0,1,False,15256,1200013,13.10960,
-2020-04-29,AC,Bujari,city,2,0,22,True,10266,1200138,19.48178,
+2020-04-30,AC,Bujari,city,2,0,23,True,10266,1200138,19.48178,
+2020-04-29,AC,Bujari,city,2,0,22,False,10266,1200138,19.48178,
 2020-04-28,AC,Bujari,city,1,0,21,False,10266,1200138,9.74089,
 2020-04-27,AC,Bujari,city,1,0,20,False,10266,1200138,9.74089,
 2020-04-26,AC,Bujari,city,1,0,19,False,10266,1200138,9.74089,
@@ -97,7 +100,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,AC,Bujari,city,1,0,3,False,10266,1200138,9.74089,
 2020-04-09,AC,Bujari,city,1,0,2,False,10266,1200138,9.74089,
 2020-04-08,AC,Bujari,city,1,0,1,False,10266,1200138,9.74089,
-2020-04-29,AC,Cruzeiro do Sul,city,5,0,17,True,88376,1200203,5.65764,
+2020-04-30,AC,Cruzeiro do Sul,city,5,0,18,True,88376,1200203,5.65764,
+2020-04-29,AC,Cruzeiro do Sul,city,5,0,17,False,88376,1200203,5.65764,
 2020-04-28,AC,Cruzeiro do Sul,city,5,0,16,False,88376,1200203,5.65764,
 2020-04-27,AC,Cruzeiro do Sul,city,5,0,15,False,88376,1200203,5.65764,
 2020-04-26,AC,Cruzeiro do Sul,city,5,0,14,False,88376,1200203,5.65764,
@@ -114,8 +118,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,AC,Cruzeiro do Sul,city,2,0,3,False,88376,1200203,2.26306,
 2020-04-14,AC,Cruzeiro do Sul,city,2,0,2,False,88376,1200203,2.26306,
 2020-04-13,AC,Cruzeiro do Sul,city,2,0,1,False,88376,1200203,2.26306,
-2020-04-29,AC,Mâncio Lima,city,1,0,1,True,18977,1200336,5.26954,
-2020-04-29,AC,Plácido de Castro,city,25,1,24,True,19761,1200385,126.51182,0.0400
+2020-04-30,AC,Importados/Indefinidos,city,0,0,1,True,,,,
+2020-04-30,AC,Mâncio Lima,city,2,0,2,True,18977,1200336,10.53907,
+2020-04-29,AC,Mâncio Lima,city,1,0,1,False,18977,1200336,5.26954,
+2020-04-30,AC,Plácido de Castro,city,25,1,25,True,19761,1200385,126.51182,0.0400
+2020-04-29,AC,Plácido de Castro,city,25,1,24,False,19761,1200385,126.51182,0.0400
 2020-04-28,AC,Plácido de Castro,city,22,1,23,False,19761,1200385,111.33040,0.0455
 2020-04-27,AC,Plácido de Castro,city,22,1,22,False,19761,1200385,111.33040,0.0455
 2020-04-26,AC,Plácido de Castro,city,22,1,21,False,19761,1200385,111.33040,0.0455
@@ -139,7 +146,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,AC,Plácido de Castro,city,2,0,3,False,19761,1200385,10.12095,
 2020-04-07,AC,Plácido de Castro,city,1,0,2,False,19761,1200385,5.06047,
 2020-04-06,AC,Plácido de Castro,city,1,0,1,False,19761,1200385,5.06047,
-2020-04-29,AC,Porto Acre,city,2,0,32,True,18504,1200807,10.80847,
+2020-04-30,AC,Porto Acre,city,2,0,33,True,18504,1200807,10.80847,
+2020-04-29,AC,Porto Acre,city,2,0,32,False,18504,1200807,10.80847,
 2020-04-28,AC,Porto Acre,city,2,0,31,False,18504,1200807,10.80847,
 2020-04-27,AC,Porto Acre,city,2,0,30,False,18504,1200807,10.80847,
 2020-04-26,AC,Porto Acre,city,2,0,29,False,18504,1200807,10.80847,
@@ -171,7 +179,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AC,Porto Acre,city,1,0,3,False,18504,1200807,5.40424,
 2020-03-30,AC,Porto Acre,city,1,0,2,False,18504,1200807,5.40424,
 2020-03-29,AC,Porto Acre,city,1,0,1,False,18504,1200807,5.40424,
-2020-04-29,AC,Rio Branco,city,300,17,44,True,407319,1200401,73.65235,0.0567
+2020-04-30,AC,Rio Branco,city,344,18,45,True,407319,1200401,84.45469,0.0523
+2020-04-29,AC,Rio Branco,city,300,17,44,False,407319,1200401,73.65235,0.0567
 2020-04-28,AC,Rio Branco,city,272,15,43,False,407319,1200401,66.77813,0.0551
 2020-04-27,AC,Rio Branco,city,256,13,42,False,407319,1200401,62.85000,0.0508
 2020-04-26,AC,Rio Branco,city,235,10,41,False,407319,1200401,57.69434,0.0426
@@ -215,7 +224,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-19,AC,Rio Branco,city,4,0,3,False,407319,1200401,0.98203,
 2020-03-18,AC,Rio Branco,city,3,0,2,False,407319,1200401,0.73652,
 2020-03-17,AC,Rio Branco,city,3,0,1,False,407319,1200401,0.73652,
-2020-04-29,AC,Senador Guiomard,city,3,0,11,True,23024,1200450,13.02988,
+2020-04-30,AC,Senador Guiomard,city,3,0,12,True,23024,1200450,13.02988,
+2020-04-29,AC,Senador Guiomard,city,3,0,11,False,23024,1200450,13.02988,
 2020-04-28,AC,Senador Guiomard,city,2,0,10,False,23024,1200450,8.68659,
 2020-04-27,AC,Senador Guiomard,city,2,0,9,False,23024,1200450,8.68659,
 2020-04-26,AC,Senador Guiomard,city,2,0,8,False,23024,1200450,8.68659,
@@ -226,4 +236,5 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,AC,Senador Guiomard,city,2,0,3,False,23024,1200450,8.68659,
 2020-04-20,AC,Senador Guiomard,city,2,0,2,False,23024,1200450,8.68659,
 2020-04-19,AC,Senador Guiomard,city,2,0,1,False,23024,1200450,8.68659,
-2020-04-29,AC,Xapuri,city,3,0,1,True,19323,1200708,15.52554,
+2020-04-30,AC,Xapuri,city,8,0,2,True,19323,1200708,41.40144,
+2020-04-29,AC,Xapuri,city,3,0,1,False,19323,1200708,15.52554,
