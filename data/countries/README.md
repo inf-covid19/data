@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 30 2020 14:38:27 UTC.
+> Last updated at May 01 2020 08:38:21 UTC.
 
 
 | Country | Dataset |
@@ -190,6 +190,7 @@
 | Switzerland | [`switzerland.csv`](switzerland.csv) |
 | Syria | [`syria.csv`](syria.csv) |
 | Taiwan | [`taiwan.csv`](taiwan.csv) |
+| Tajikistan | [`tajikistan.csv`](tajikistan.csv) |
 | Thailand | [`thailand.csv`](thailand.csv) |
 | Timor Leste | [`timor_leste.csv`](timor_leste.csv) |
 | Togo | [`togo.csv`](togo.csv) |
