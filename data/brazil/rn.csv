@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-04-28,RN,,state,1086,54,40,True,3506853,24,30.96794,0.0497
+2020-04-29,RN,,state,1177,56,41,True,3506853,24,33.56286,0.0476
+2020-04-28,RN,,state,1086,54,40,False,3506853,24,30.96794,0.0497
 2020-04-27,RN,,state,857,48,39,False,3506853,24,24.43786,0.0560
 2020-04-26,RN,,state,832,45,38,False,3506853,24,23.72498,0.0541
 2020-04-25,RN,,state,825,44,37,False,3506853,24,23.52537,0.0533
@@ -39,7 +40,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-16,RN,,state,1,0,3,False,3506853,24,0.02852,
 2020-03-13,RN,,state,1,0,2,False,3506853,24,0.02852,
 2020-03-12,RN,,state,1,0,1,False,3506853,24,0.02852,
-2020-04-28,RN,Acari,city,1,0,16,True,11136,2400109,8.97989,
+2020-04-29,RN,Acari,city,2,0,17,True,11136,2400109,17.95977,
+2020-04-28,RN,Acari,city,1,0,16,False,11136,2400109,8.97989,
 2020-04-27,RN,Acari,city,1,0,15,False,11136,2400109,8.97989,
 2020-04-26,RN,Acari,city,1,0,14,False,11136,2400109,8.97989,
 2020-04-25,RN,Acari,city,1,0,13,False,11136,2400109,8.97989,
@@ -55,7 +57,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,RN,Acari,city,1,0,3,False,11136,2400109,8.97989,
 2020-04-14,RN,Acari,city,1,0,2,False,11136,2400109,8.97989,
 2020-04-13,RN,Acari,city,1,0,1,False,11136,2400109,8.97989,
-2020-04-28,RN,Alexandria,city,5,1,8,True,13577,2400505,36.82699,0.2000
+2020-04-29,RN,Alexandria,city,4,1,9,True,13577,2400505,29.46159,0.2500
+2020-04-28,RN,Alexandria,city,5,1,8,False,13577,2400505,36.82699,0.2000
 2020-04-27,RN,Alexandria,city,1,1,7,False,13577,2400505,7.36540,1.0000
 2020-04-26,RN,Alexandria,city,1,1,6,False,13577,2400505,7.36540,1.0000
 2020-04-25,RN,Alexandria,city,1,1,5,False,13577,2400505,7.36540,1.0000
@@ -63,7 +66,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-23,RN,Alexandria,city,1,1,3,False,13577,2400505,7.36540,1.0000
 2020-04-22,RN,Alexandria,city,1,0,2,False,13577,2400505,7.36540,
 2020-04-21,RN,Alexandria,city,1,0,1,False,13577,2400505,7.36540,
-2020-04-28,RN,Alto do Rodrigues,city,2,1,11,True,14529,2400703,13.76557,0.5000
+2020-04-29,RN,Alto do Rodrigues,city,2,1,12,True,14529,2400703,13.76557,0.5000
+2020-04-28,RN,Alto do Rodrigues,city,2,1,11,False,14529,2400703,13.76557,0.5000
 2020-04-27,RN,Alto do Rodrigues,city,2,0,10,False,14529,2400703,13.76557,
 2020-04-26,RN,Alto do Rodrigues,city,1,0,9,False,14529,2400703,6.88279,
 2020-04-25,RN,Alto do Rodrigues,city,1,0,8,False,14529,2400703,6.88279,
@@ -74,7 +78,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,RN,Alto do Rodrigues,city,1,0,3,False,14529,2400703,6.88279,
 2020-04-19,RN,Alto do Rodrigues,city,1,0,2,False,14529,2400703,6.88279,
 2020-04-18,RN,Alto do Rodrigues,city,1,0,1,False,14529,2400703,6.88279,
-2020-04-28,RN,Apodi,city,15,1,27,True,35845,2401008,41.84684,0.0667
+2020-04-29,RN,Apodi,city,15,1,28,True,35845,2401008,41.84684,0.0667
+2020-04-28,RN,Apodi,city,15,1,27,False,35845,2401008,41.84684,0.0667
 2020-04-27,RN,Apodi,city,11,1,26,False,35845,2401008,30.68768,0.0909
 2020-04-26,RN,Apodi,city,11,1,25,False,35845,2401008,30.68768,0.0909
 2020-04-25,RN,Apodi,city,8,1,24,False,35845,2401008,22.31831,0.1250
@@ -101,7 +106,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RN,Apodi,city,1,0,3,False,35845,2401008,2.78979,
 2020-03-31,RN,Apodi,city,1,0,2,False,35845,2401008,2.78979,
 2020-03-30,RN,Apodi,city,1,0,1,False,35845,2401008,2.78979,
-2020-04-28,RN,Areia Branca,city,10,0,22,True,27774,2401107,36.00490,
+2020-04-29,RN,Areia Branca,city,11,0,23,True,27774,2401107,39.60539,
+2020-04-28,RN,Areia Branca,city,10,0,22,False,27774,2401107,36.00490,
 2020-04-27,RN,Areia Branca,city,5,0,21,False,27774,2401107,18.00245,
 2020-04-26,RN,Areia Branca,city,5,0,20,False,27774,2401107,18.00245,
 2020-04-25,RN,Areia Branca,city,5,0,19,False,27774,2401107,18.00245,
@@ -123,11 +129,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,RN,Areia Branca,city,1,0,3,False,27774,2401107,3.60049,
 2020-04-07,RN,Areia Branca,city,1,0,2,False,27774,2401107,3.60049,
 2020-04-05,RN,Areia Branca,city,1,0,1,False,27774,2401107,3.60049,
-2020-04-28,RN,Arês,city,1,0,4,True,14306,2401206,6.99007,
+2020-04-29,RN,Arês,city,1,0,5,True,14306,2401206,6.99007,
+2020-04-28,RN,Arês,city,1,0,4,False,14306,2401206,6.99007,
 2020-04-27,RN,Arês,city,1,0,3,False,14306,2401206,6.99007,
 2020-04-26,RN,Arês,city,1,0,2,False,14306,2401206,6.99007,
 2020-04-25,RN,Arês,city,1,0,1,False,14306,2401206,6.99007,
-2020-04-28,RN,Açu,city,35,2,28,True,58017,2400208,60.32715,0.0571
+2020-04-29,RN,Açu,city,35,2,29,True,58017,2400208,60.32715,0.0571
+2020-04-28,RN,Açu,city,35,2,28,False,58017,2400208,60.32715,0.0571
 2020-04-27,RN,Açu,city,31,2,27,False,58017,2400208,53.43261,0.0645
 2020-04-26,RN,Açu,city,29,2,26,False,58017,2400208,49.98535,0.0690
 2020-04-25,RN,Açu,city,29,2,25,False,58017,2400208,49.98535,0.0690
@@ -155,7 +163,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,Açu,city,1,0,3,False,58017,2400208,1.72363,
 2020-03-30,RN,Açu,city,1,0,2,False,58017,2400208,1.72363,
 2020-03-28,RN,Açu,city,1,0,1,False,58017,2400208,1.72363,
-2020-04-28,RN,Baraúna,city,4,0,11,True,28374,2401453,14.09741,
+2020-04-29,RN,Baraúna,city,4,0,12,True,28374,2401453,14.09741,
+2020-04-28,RN,Baraúna,city,4,0,11,False,28374,2401453,14.09741,
 2020-04-27,RN,Baraúna,city,1,0,10,False,28374,2401453,3.52435,
 2020-04-26,RN,Baraúna,city,1,0,9,False,28374,2401453,3.52435,
 2020-04-25,RN,Baraúna,city,1,0,8,False,28374,2401453,3.52435,
@@ -166,7 +175,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,RN,Baraúna,city,0,0,3,False,28374,2401453,,
 2020-04-19,RN,Baraúna,city,0,0,2,False,28374,2401453,,
 2020-04-18,RN,Baraúna,city,1,0,1,False,28374,2401453,3.52435,
-2020-04-28,RN,Barcelona,city,1,0,13,True,3998,2401503,25.01251,
+2020-04-29,RN,Barcelona,city,1,0,14,True,3998,2401503,25.01251,
+2020-04-28,RN,Barcelona,city,1,0,13,False,3998,2401503,25.01251,
 2020-04-27,RN,Barcelona,city,1,0,12,False,3998,2401503,25.01251,
 2020-04-26,RN,Barcelona,city,1,0,11,False,3998,2401503,25.01251,
 2020-04-25,RN,Barcelona,city,1,0,10,False,3998,2401503,25.01251,
@@ -179,7 +189,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RN,Barcelona,city,1,0,3,False,3998,2401503,25.01251,
 2020-04-17,RN,Barcelona,city,1,0,2,False,3998,2401503,25.01251,
 2020-04-16,RN,Barcelona,city,1,0,1,False,3998,2401503,25.01251,
-2020-04-28,RN,Baía Formosa,city,1,0,23,True,9271,2401404,10.78632,
+2020-04-29,RN,Baía Formosa,city,1,0,24,True,9271,2401404,10.78632,
+2020-04-28,RN,Baía Formosa,city,1,0,23,False,9271,2401404,10.78632,
 2020-04-27,RN,Baía Formosa,city,1,0,22,False,9271,2401404,10.78632,
 2020-04-26,RN,Baía Formosa,city,1,0,21,False,9271,2401404,10.78632,
 2020-04-25,RN,Baía Formosa,city,1,0,20,False,9271,2401404,10.78632,
@@ -202,7 +213,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,RN,Baía Formosa,city,1,0,3,False,9271,2401404,10.78632,
 2020-04-05,RN,Baía Formosa,city,1,0,2,False,9271,2401404,10.78632,
 2020-04-03,RN,Baía Formosa,city,1,0,1,False,9271,2401404,10.78632,
-2020-04-28,RN,Bento Fernandes,city,2,0,11,True,5497,2401602,36.38348,
+2020-04-29,RN,Bento Fernandes,city,2,0,12,True,5497,2401602,36.38348,
+2020-04-28,RN,Bento Fernandes,city,2,0,11,False,5497,2401602,36.38348,
 2020-04-27,RN,Bento Fernandes,city,2,0,10,False,5497,2401602,36.38348,
 2020-04-26,RN,Bento Fernandes,city,2,0,9,False,5497,2401602,36.38348,
 2020-04-25,RN,Bento Fernandes,city,2,0,8,False,5497,2401602,36.38348,
@@ -213,7 +225,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,RN,Bento Fernandes,city,1,0,3,False,5497,2401602,18.19174,
 2020-04-19,RN,Bento Fernandes,city,1,0,2,False,5497,2401602,18.19174,
 2020-04-18,RN,Bento Fernandes,city,1,0,1,False,5497,2401602,18.19174,
-2020-04-28,RN,Caicó,city,1,0,28,True,67952,2402006,1.47163,
+2020-04-29,RN,Brejinho,city,1,0,1,True,12699,2401800,7.87464,
+2020-04-29,RN,Caicó,city,1,0,29,True,67952,2402006,1.47163,
+2020-04-28,RN,Caicó,city,1,0,28,False,67952,2402006,1.47163,
 2020-04-27,RN,Caicó,city,1,0,27,False,67952,2402006,1.47163,
 2020-04-26,RN,Caicó,city,1,0,26,False,67952,2402006,1.47163,
 2020-04-25,RN,Caicó,city,1,0,25,False,67952,2402006,1.47163,
@@ -241,14 +255,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,Caicó,city,1,0,3,False,67952,2402006,1.47163,
 2020-03-30,RN,Caicó,city,2,0,2,False,67952,2402006,2.94325,
 2020-03-28,RN,Caicó,city,1,0,1,False,67952,2402006,1.47163,
-2020-04-28,RN,Campo Redondo,city,2,0,7,True,11217,2402105,17.83008,
+2020-04-29,RN,Campo Redondo,city,1,0,8,True,11217,2402105,8.91504,
+2020-04-28,RN,Campo Redondo,city,2,0,7,False,11217,2402105,17.83008,
 2020-04-27,RN,Campo Redondo,city,1,0,6,False,11217,2402105,8.91504,
 2020-04-26,RN,Campo Redondo,city,1,0,5,False,11217,2402105,8.91504,
 2020-04-25,RN,Campo Redondo,city,1,0,4,False,11217,2402105,8.91504,
 2020-04-24,RN,Campo Redondo,city,1,0,3,False,11217,2402105,8.91504,
 2020-04-23,RN,Campo Redondo,city,1,0,2,False,11217,2402105,8.91504,
 2020-04-22,RN,Campo Redondo,city,1,0,1,False,11217,2402105,8.91504,
-2020-04-28,RN,Canguaretama,city,12,3,17,True,34276,2402204,35.00992,0.2500
+2020-04-29,RN,Canguaretama,city,14,3,18,True,34276,2402204,40.84491,0.2143
+2020-04-28,RN,Canguaretama,city,12,3,17,False,34276,2402204,35.00992,0.2500
 2020-04-27,RN,Canguaretama,city,11,3,16,False,34276,2402204,32.09243,0.2727
 2020-04-26,RN,Canguaretama,city,11,3,15,False,34276,2402204,32.09243,0.2727
 2020-04-25,RN,Canguaretama,city,11,3,14,False,34276,2402204,32.09243,0.2727
@@ -265,7 +281,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,RN,Canguaretama,city,4,0,3,False,34276,2402204,11.66997,
 2020-04-13,RN,Canguaretama,city,3,0,2,False,34276,2402204,8.75248,
 2020-04-12,RN,Canguaretama,city,3,0,1,False,34276,2402204,8.75248,
-2020-04-28,RN,Caraúbas,city,2,0,23,True,20493,2402303,9.75943,
+2020-04-29,RN,Caraúbas,city,2,0,24,True,20493,2402303,9.75943,
+2020-04-28,RN,Caraúbas,city,2,0,23,False,20493,2402303,9.75943,
 2020-04-27,RN,Caraúbas,city,1,0,22,False,20493,2402303,4.87972,
 2020-04-26,RN,Caraúbas,city,1,0,21,False,20493,2402303,4.87972,
 2020-04-25,RN,Caraúbas,city,1,0,20,False,20493,2402303,4.87972,
@@ -288,7 +305,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,RN,Caraúbas,city,1,0,3,False,20493,2402303,4.87972,
 2020-04-05,RN,Caraúbas,city,1,0,2,False,20493,2402303,4.87972,
 2020-04-03,RN,Caraúbas,city,1,0,1,False,20493,2402303,4.87972,
-2020-04-28,RN,Carnaubais,city,1,0,27,True,10759,2402501,9.29454,
+2020-04-29,RN,Carnaubais,city,1,0,28,True,10759,2402501,9.29454,
+2020-04-28,RN,Carnaubais,city,1,0,27,False,10759,2402501,9.29454,
 2020-04-27,RN,Carnaubais,city,1,0,26,False,10759,2402501,9.29454,
 2020-04-26,RN,Carnaubais,city,1,0,25,False,10759,2402501,9.29454,
 2020-04-25,RN,Carnaubais,city,1,0,24,False,10759,2402501,9.29454,
@@ -315,14 +333,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RN,Carnaubais,city,1,0,3,False,10759,2402501,9.29454,
 2020-03-31,RN,Carnaubais,city,1,0,2,False,10759,2402501,9.29454,
 2020-03-30,RN,Carnaubais,city,1,0,1,False,10759,2402501,9.29454,
-2020-04-28,RN,Carnaúba dos Dantas,city,1,1,7,True,8180,2402402,12.22494,1.0000
+2020-04-29,RN,Carnaúba dos Dantas,city,1,1,8,True,8180,2402402,12.22494,1.0000
+2020-04-28,RN,Carnaúba dos Dantas,city,1,1,7,False,8180,2402402,12.22494,1.0000
 2020-04-27,RN,Carnaúba dos Dantas,city,1,1,6,False,8180,2402402,12.22494,1.0000
 2020-04-26,RN,Carnaúba dos Dantas,city,1,1,5,False,8180,2402402,12.22494,1.0000
 2020-04-25,RN,Carnaúba dos Dantas,city,1,1,4,False,8180,2402402,12.22494,1.0000
 2020-04-24,RN,Carnaúba dos Dantas,city,1,1,3,False,8180,2402402,12.22494,1.0000
 2020-04-23,RN,Carnaúba dos Dantas,city,1,0,2,False,8180,2402402,12.22494,
 2020-04-22,RN,Carnaúba dos Dantas,city,1,0,1,False,8180,2402402,12.22494,
-2020-04-28,RN,Ceará-Mirim,city,11,2,25,True,73497,2402600,14.96660,0.1818
+2020-04-29,RN,Ceará-Mirim,city,12,2,26,True,73497,2402600,16.32720,0.1667
+2020-04-28,RN,Ceará-Mirim,city,11,2,25,False,73497,2402600,14.96660,0.1818
 2020-04-27,RN,Ceará-Mirim,city,11,2,24,False,73497,2402600,14.96660,0.1818
 2020-04-26,RN,Ceará-Mirim,city,10,1,23,False,73497,2402600,13.60600,0.1000
 2020-04-25,RN,Ceará-Mirim,city,10,1,22,False,73497,2402600,13.60600,0.1000
@@ -347,7 +367,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,RN,Ceará-Mirim,city,3,0,3,False,73497,2402600,4.08180,
 2020-04-02,RN,Ceará-Mirim,city,2,0,2,False,73497,2402600,2.72120,
 2020-04-01,RN,Ceará-Mirim,city,1,0,1,False,73497,2402600,1.36060,
-2020-04-28,RN,Cerro Corá,city,1,1,17,True,11179,2402709,8.94534,1.0000
+2020-04-29,RN,Cerro Corá,city,1,1,18,True,11179,2402709,8.94534,1.0000
+2020-04-28,RN,Cerro Corá,city,1,1,17,False,11179,2402709,8.94534,1.0000
 2020-04-27,RN,Cerro Corá,city,1,1,16,False,11179,2402709,8.94534,1.0000
 2020-04-26,RN,Cerro Corá,city,1,1,15,False,11179,2402709,8.94534,1.0000
 2020-04-25,RN,Cerro Corá,city,1,1,14,False,11179,2402709,8.94534,1.0000
@@ -364,7 +385,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,RN,Cerro Corá,city,1,1,3,False,11179,2402709,8.94534,1.0000
 2020-04-13,RN,Cerro Corá,city,1,1,2,False,11179,2402709,8.94534,1.0000
 2020-04-12,RN,Cerro Corá,city,1,1,1,False,11179,2402709,8.94534,1.0000
-2020-04-28,RN,Coronel João Pessoa,city,1,0,15,True,4912,2402907,20.35831,
+2020-04-29,RN,Coronel João Pessoa,city,1,0,16,True,4912,2402907,20.35831,
+2020-04-28,RN,Coronel João Pessoa,city,1,0,15,False,4912,2402907,20.35831,
 2020-04-27,RN,Coronel João Pessoa,city,1,0,14,False,4912,2402907,20.35831,
 2020-04-26,RN,Coronel João Pessoa,city,1,0,13,False,4912,2402907,20.35831,
 2020-04-25,RN,Coronel João Pessoa,city,1,0,12,False,4912,2402907,20.35831,
@@ -379,7 +401,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,RN,Coronel João Pessoa,city,1,0,3,False,4912,2402907,20.35831,
 2020-04-15,RN,Coronel João Pessoa,city,1,0,2,False,4912,2402907,20.35831,
 2020-04-14,RN,Coronel João Pessoa,city,1,0,1,False,4912,2402907,20.35831,
-2020-04-28,RN,Currais Novos,city,5,0,16,True,44786,2403103,11.16420,
+2020-04-29,RN,Currais Novos,city,8,0,17,True,44786,2403103,17.86272,
+2020-04-28,RN,Currais Novos,city,5,0,16,False,44786,2403103,11.16420,
 2020-04-27,RN,Currais Novos,city,2,0,15,False,44786,2403103,4.46568,
 2020-04-26,RN,Currais Novos,city,2,0,14,False,44786,2403103,4.46568,
 2020-04-25,RN,Currais Novos,city,2,0,13,False,44786,2403103,4.46568,
@@ -395,7 +418,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,RN,Currais Novos,city,1,0,3,False,44786,2403103,2.23284,
 2020-04-14,RN,Currais Novos,city,1,0,2,False,44786,2403103,2.23284,
 2020-04-13,RN,Currais Novos,city,1,0,1,False,44786,2403103,2.23284,
-2020-04-28,RN,Encanto,city,10,1,18,True,5638,2403301,177.36786,0.1000
+2020-04-29,RN,Encanto,city,10,1,19,True,5638,2403301,177.36786,0.1000
+2020-04-28,RN,Encanto,city,10,1,18,False,5638,2403301,177.36786,0.1000
 2020-04-27,RN,Encanto,city,4,1,17,False,5638,2403301,70.94714,0.2500
 2020-04-26,RN,Encanto,city,4,1,16,False,5638,2403301,70.94714,0.2500
 2020-04-25,RN,Encanto,city,4,1,15,False,5638,2403301,70.94714,0.2500
@@ -413,7 +437,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,RN,Encanto,city,1,0,3,False,5638,2403301,17.73679,
 2020-04-12,RN,Encanto,city,1,0,2,False,5638,2403301,17.73679,
 2020-04-11,RN,Encanto,city,1,0,1,False,5638,2403301,17.73679,
-2020-04-28,RN,Extremoz,city,12,0,23,True,28583,2403608,41.98300,
+2020-04-29,RN,Extremoz,city,15,0,24,True,28583,2403608,52.47875,
+2020-04-28,RN,Extremoz,city,12,0,23,False,28583,2403608,41.98300,
 2020-04-27,RN,Extremoz,city,11,0,22,False,28583,2403608,38.48441,
 2020-04-26,RN,Extremoz,city,10,0,21,False,28583,2403608,34.98583,
 2020-04-25,RN,Extremoz,city,9,0,20,False,28583,2403608,31.48725,
@@ -436,18 +461,21 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,RN,Extremoz,city,5,0,3,False,28583,2403608,17.49292,
 2020-04-05,RN,Extremoz,city,5,0,2,False,28583,2403608,17.49292,
 2020-04-03,RN,Extremoz,city,5,0,1,False,28583,2403608,17.49292,
-2020-04-28,RN,Fernando Pedroza,city,1,0,7,True,3054,2403756,32.74394,
+2020-04-29,RN,Fernando Pedroza,city,1,0,8,True,3054,2403756,32.74394,
+2020-04-28,RN,Fernando Pedroza,city,1,0,7,False,3054,2403756,32.74394,
 2020-04-27,RN,Fernando Pedroza,city,1,0,6,False,3054,2403756,32.74394,
 2020-04-26,RN,Fernando Pedroza,city,1,0,5,False,3054,2403756,32.74394,
 2020-04-25,RN,Fernando Pedroza,city,1,0,4,False,3054,2403756,32.74394,
 2020-04-24,RN,Fernando Pedroza,city,1,0,3,False,3054,2403756,32.74394,
 2020-04-23,RN,Fernando Pedroza,city,1,0,2,False,3054,2403756,32.74394,
 2020-04-22,RN,Fernando Pedroza,city,1,0,1,False,3054,2403756,32.74394,
-2020-04-28,RN,Guamaré,city,2,0,4,True,15659,2404507,12.77221,
+2020-04-29,RN,Guamaré,city,4,0,5,True,15659,2404507,25.54442,
+2020-04-28,RN,Guamaré,city,2,0,4,False,15659,2404507,12.77221,
 2020-04-27,RN,Guamaré,city,1,0,3,False,15659,2404507,6.38610,
 2020-04-26,RN,Guamaré,city,1,0,2,False,15659,2404507,6.38610,
 2020-04-25,RN,Guamaré,city,1,0,1,False,15659,2404507,6.38610,
-2020-04-28,RN,Ielmo Marinho,city,0,0,10,True,13766,2404606,,
+2020-04-29,RN,Ielmo Marinho,city,0,0,11,True,13766,2404606,,
+2020-04-28,RN,Ielmo Marinho,city,0,0,10,False,13766,2404606,,
 2020-04-27,RN,Ielmo Marinho,city,1,0,9,False,13766,2404606,7.26427,
 2020-04-26,RN,Ielmo Marinho,city,1,0,8,False,13766,2404606,7.26427,
 2020-04-25,RN,Ielmo Marinho,city,1,0,7,False,13766,2404606,7.26427,
@@ -457,7 +485,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,RN,Ielmo Marinho,city,1,0,3,False,13766,2404606,7.26427,
 2020-04-20,RN,Ielmo Marinho,city,1,0,2,False,13766,2404606,7.26427,
 2020-04-19,RN,Ielmo Marinho,city,1,0,1,False,13766,2404606,7.26427,
-2020-04-28,RN,Importados/Indefinidos,city,10,1,28,True,,,,0.1000
+2020-04-29,RN,Importados/Indefinidos,city,6,1,29,True,,,,0.1667
+2020-04-28,RN,Importados/Indefinidos,city,10,1,28,False,,,,0.1000
 2020-04-27,RN,Importados/Indefinidos,city,9,1,27,False,,,,0.1111
 2020-04-26,RN,Importados/Indefinidos,city,8,1,26,False,,,,0.1250
 2020-04-25,RN,Importados/Indefinidos,city,8,1,25,False,,,,0.1250
@@ -485,7 +514,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,Importados/Indefinidos,city,2,0,3,False,,,,
 2020-03-30,RN,Importados/Indefinidos,city,2,0,2,False,,,,
 2020-03-28,RN,Importados/Indefinidos,city,1,0,1,False,,,,
-2020-04-28,RN,Ipanguaçu,city,8,1,13,True,15491,2404705,51.64289,0.1250
+2020-04-29,RN,Ipanguaçu,city,8,1,14,True,15491,2404705,51.64289,0.1250
+2020-04-28,RN,Ipanguaçu,city,8,1,13,False,15491,2404705,51.64289,0.1250
 2020-04-27,RN,Ipanguaçu,city,4,1,12,False,15491,2404705,25.82144,0.2500
 2020-04-26,RN,Ipanguaçu,city,4,1,11,False,15491,2404705,25.82144,0.2500
 2020-04-25,RN,Ipanguaçu,city,4,1,10,False,15491,2404705,25.82144,0.2500
@@ -498,9 +528,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RN,Ipanguaçu,city,1,0,3,False,15491,2404705,6.45536,
 2020-04-17,RN,Ipanguaçu,city,1,0,2,False,15491,2404705,6.45536,
 2020-04-16,RN,Ipanguaçu,city,1,0,1,False,15491,2404705,6.45536,
-2020-04-28,RN,Itajá,city,1,0,2,True,7548,2404853,13.24854,
+2020-04-29,RN,Itajá,city,1,0,3,True,7548,2404853,13.24854,
+2020-04-28,RN,Itajá,city,1,0,2,False,7548,2404853,13.24854,
 2020-04-27,RN,Itajá,city,1,0,1,False,7548,2404853,13.24854,
-2020-04-28,RN,Januário Cicco,city,0,0,17,True,10181,2405306,,
+2020-04-29,RN,Januário Cicco,city,0,0,18,True,10181,2405306,,
+2020-04-28,RN,Januário Cicco,city,0,0,17,False,10181,2405306,,
 2020-04-27,RN,Januário Cicco,city,0,0,16,False,10181,2405306,,
 2020-04-26,RN,Januário Cicco,city,0,0,15,False,10181,2405306,,
 2020-04-25,RN,Januário Cicco,city,0,0,14,False,10181,2405306,,
@@ -517,7 +549,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,RN,Januário Cicco,city,1,0,3,False,10181,2405306,9.82222,
 2020-04-13,RN,Januário Cicco,city,1,0,2,False,10181,2405306,9.82222,
 2020-04-12,RN,Januário Cicco,city,1,0,1,False,10181,2405306,9.82222,
-2020-04-28,RN,Jaçanã,city,3,0,12,True,9133,2405009,32.84791,
+2020-04-29,RN,Jaçanã,city,3,0,13,True,9133,2405009,32.84791,
+2020-04-28,RN,Jaçanã,city,3,0,12,False,9133,2405009,32.84791,
 2020-04-27,RN,Jaçanã,city,3,0,11,False,9133,2405009,32.84791,
 2020-04-26,RN,Jaçanã,city,2,0,10,False,9133,2405009,21.89861,
 2020-04-25,RN,Jaçanã,city,2,0,9,False,9133,2405009,21.89861,
@@ -529,14 +562,17 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,RN,Jaçanã,city,1,0,3,False,9133,2405009,10.94930,
 2020-04-18,RN,Jaçanã,city,1,0,2,False,9133,2405009,10.94930,
 2020-04-17,RN,Jaçanã,city,1,0,1,False,9133,2405009,10.94930,
-2020-04-28,RN,João Câmara,city,2,0,6,True,34955,2405801,5.72164,
+2020-04-29,RN,João Câmara,city,2,0,7,True,34955,2405801,5.72164,
+2020-04-28,RN,João Câmara,city,2,0,6,False,34955,2405801,5.72164,
 2020-04-27,RN,João Câmara,city,2,0,5,False,34955,2405801,5.72164,
 2020-04-26,RN,João Câmara,city,1,0,4,False,34955,2405801,2.86082,
 2020-04-25,RN,João Câmara,city,1,0,3,False,34955,2405801,2.86082,
 2020-04-24,RN,João Câmara,city,1,0,2,False,34955,2405801,2.86082,
 2020-04-23,RN,João Câmara,city,1,0,1,False,34955,2405801,2.86082,
-2020-04-28,RN,Lagoa Salgada,city,1,0,1,True,8245,2406601,12.12856,
-2020-04-28,RN,Lagoa de Pedras,city,1,1,17,True,7544,2406304,13.25557,1.0000
+2020-04-29,RN,Lagoa Salgada,city,1,0,2,True,8245,2406601,12.12856,
+2020-04-28,RN,Lagoa Salgada,city,1,0,1,False,8245,2406601,12.12856,
+2020-04-29,RN,Lagoa de Pedras,city,1,1,18,True,7544,2406304,13.25557,1.0000
+2020-04-28,RN,Lagoa de Pedras,city,1,1,17,False,7544,2406304,13.25557,1.0000
 2020-04-27,RN,Lagoa de Pedras,city,1,1,16,False,7544,2406304,13.25557,1.0000
 2020-04-26,RN,Lagoa de Pedras,city,1,1,15,False,7544,2406304,13.25557,1.0000
 2020-04-25,RN,Lagoa de Pedras,city,1,1,14,False,7544,2406304,13.25557,1.0000
@@ -553,7 +589,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,RN,Lagoa de Pedras,city,1,1,3,False,7544,2406304,13.25557,1.0000
 2020-04-13,RN,Lagoa de Pedras,city,1,1,2,False,7544,2406304,13.25557,1.0000
 2020-04-12,RN,Lagoa de Pedras,city,1,1,1,False,7544,2406304,13.25557,1.0000
-2020-04-28,RN,Lajes Pintadas,city,2,0,10,True,4759,2406809,42.02564,
+2020-04-29,RN,Lajes Pintadas,city,2,0,11,True,4759,2406809,42.02564,
+2020-04-28,RN,Lajes Pintadas,city,2,0,10,False,4759,2406809,42.02564,
 2020-04-27,RN,Lajes Pintadas,city,2,0,9,False,4759,2406809,42.02564,
 2020-04-26,RN,Lajes Pintadas,city,2,0,8,False,4759,2406809,42.02564,
 2020-04-25,RN,Lajes Pintadas,city,2,0,7,False,4759,2406809,42.02564,
@@ -563,7 +600,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,RN,Lajes Pintadas,city,1,0,3,False,4759,2406809,21.01282,
 2020-04-20,RN,Lajes Pintadas,city,1,0,2,False,4759,2406809,21.01282,
 2020-04-19,RN,Lajes Pintadas,city,1,0,1,False,4759,2406809,21.01282,
-2020-04-28,RN,Luís Gomes,city,1,0,27,True,10116,2407005,9.88533,
+2020-04-29,RN,Luís Gomes,city,1,0,28,True,10116,2407005,9.88533,
+2020-04-28,RN,Luís Gomes,city,1,0,27,False,10116,2407005,9.88533,
 2020-04-27,RN,Luís Gomes,city,1,0,26,False,10116,2407005,9.88533,
 2020-04-26,RN,Luís Gomes,city,1,0,25,False,10116,2407005,9.88533,
 2020-04-25,RN,Luís Gomes,city,1,0,24,False,10116,2407005,9.88533,
@@ -590,7 +628,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RN,Luís Gomes,city,1,0,3,False,10116,2407005,9.88533,
 2020-03-31,RN,Luís Gomes,city,1,0,2,False,10116,2407005,9.88533,
 2020-03-30,RN,Luís Gomes,city,1,0,1,False,10116,2407005,9.88533,
-2020-04-28,RN,Macaíba,city,15,1,28,True,80792,2407104,18.56619,0.0667
+2020-04-29,RN,Macaíba,city,17,1,29,True,80792,2407104,21.04169,0.0588
+2020-04-28,RN,Macaíba,city,15,1,28,False,80792,2407104,18.56619,0.0667
 2020-04-27,RN,Macaíba,city,16,1,27,False,80792,2407104,19.80394,0.0625
 2020-04-26,RN,Macaíba,city,15,1,26,False,80792,2407104,18.56619,0.0667
 2020-04-25,RN,Macaíba,city,15,1,25,False,80792,2407104,18.56619,0.0667
@@ -618,12 +657,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,Macaíba,city,1,0,3,False,80792,2407104,1.23775,
 2020-03-30,RN,Macaíba,city,1,0,2,False,80792,2407104,1.23775,
 2020-03-28,RN,Macaíba,city,1,0,1,False,80792,2407104,1.23775,
-2020-04-28,RN,Montanhas,city,1,0,5,True,11251,2407708,8.88810,
+2020-04-29,RN,Montanhas,city,1,0,6,True,11251,2407708,8.88810,
+2020-04-28,RN,Montanhas,city,1,0,5,False,11251,2407708,8.88810,
 2020-04-27,RN,Montanhas,city,1,0,4,False,11251,2407708,8.88810,
 2020-04-26,RN,Montanhas,city,1,0,3,False,11251,2407708,8.88810,
 2020-04-25,RN,Montanhas,city,1,0,2,False,11251,2407708,8.88810,
 2020-04-24,RN,Montanhas,city,1,0,1,False,11251,2407708,8.88810,
-2020-04-28,RN,Monte Alegre,city,4,0,28,True,22451,2407807,17.81658,
+2020-04-29,RN,Monte Alegre,city,4,0,29,True,22451,2407807,17.81658,
+2020-04-28,RN,Monte Alegre,city,4,0,28,False,22451,2407807,17.81658,
 2020-04-27,RN,Monte Alegre,city,4,0,27,False,22451,2407807,17.81658,
 2020-04-26,RN,Monte Alegre,city,4,0,26,False,22451,2407807,17.81658,
 2020-04-25,RN,Monte Alegre,city,4,0,25,False,22451,2407807,17.81658,
@@ -651,7 +692,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,Monte Alegre,city,1,0,3,False,22451,2407807,4.45414,
 2020-03-30,RN,Monte Alegre,city,1,0,2,False,22451,2407807,4.45414,
 2020-03-28,RN,Monte Alegre,city,1,0,1,False,22451,2407807,4.45414,
-2020-04-28,RN,Mossoró,city,164,13,34,True,297378,2408003,55.14867,0.0793
+2020-04-29,RN,Mossoró,city,174,14,35,True,297378,2408003,58.51139,0.0805
+2020-04-28,RN,Mossoró,city,164,13,34,False,297378,2408003,55.14867,0.0793
 2020-04-27,RN,Mossoró,city,117,11,33,False,297378,2408003,39.34387,0.0940
 2020-04-26,RN,Mossoró,city,112,10,32,False,297378,2408003,37.66250,0.0893
 2020-04-25,RN,Mossoró,city,112,10,31,False,297378,2408003,37.66250,0.0893
@@ -685,7 +727,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,RN,Mossoró,city,1,0,3,False,297378,2408003,0.33627,
 2020-03-22,RN,Mossoró,city,1,0,2,False,297378,2408003,0.33627,
 2020-03-21,RN,Mossoró,city,1,0,1,False,297378,2408003,0.33627,
-2020-04-28,RN,Natal,city,519,12,39,True,884122,2408102,58.70231,0.0231
+2020-04-29,RN,Natal,city,567,12,40,True,884122,2408102,64.13142,0.0212
+2020-04-28,RN,Natal,city,519,12,39,False,884122,2408102,58.70231,0.0231
 2020-04-27,RN,Natal,city,402,11,38,False,884122,2408102,45.46884,0.0274
 2020-04-26,RN,Natal,city,396,10,37,False,884122,2408102,44.79020,0.0253
 2020-04-25,RN,Natal,city,397,9,36,False,884122,2408102,44.90331,0.0227
@@ -724,8 +767,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-16,RN,Natal,city,1,0,3,False,884122,2408102,0.11311,
 2020-03-13,RN,Natal,city,1,0,2,False,884122,2408102,0.11311,
 2020-03-12,RN,Natal,city,1,0,1,False,884122,2408102,0.11311,
-2020-04-28,RN,Nova Cruz,city,2,0,1,True,37343,2408300,5.35576,
-2020-04-28,RN,Nísia Floresta,city,5,1,16,True,27602,2408201,18.11463,0.2000
+2020-04-29,RN,Nova Cruz,city,2,0,2,True,37343,2408300,5.35576,
+2020-04-28,RN,Nova Cruz,city,2,0,1,False,37343,2408300,5.35576,
+2020-04-29,RN,Nísia Floresta,city,8,1,17,True,27602,2408201,28.98341,0.1250
+2020-04-28,RN,Nísia Floresta,city,5,1,16,False,27602,2408201,18.11463,0.2000
 2020-04-27,RN,Nísia Floresta,city,5,1,15,False,27602,2408201,18.11463,0.2000
 2020-04-26,RN,Nísia Floresta,city,5,1,14,False,27602,2408201,18.11463,0.2000
 2020-04-25,RN,Nísia Floresta,city,5,1,13,False,27602,2408201,18.11463,0.2000
@@ -741,11 +786,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,RN,Nísia Floresta,city,1,0,3,False,27602,2408201,3.62293,
 2020-04-14,RN,Nísia Floresta,city,1,0,2,False,27602,2408201,3.62293,
 2020-04-13,RN,Nísia Floresta,city,1,0,1,False,27602,2408201,3.62293,
-2020-04-28,RN,Ouro Branco,city,1,0,4,True,4812,2408508,20.78138,
+2020-04-29,RN,Ouro Branco,city,1,0,5,True,4812,2408508,20.78138,
+2020-04-28,RN,Ouro Branco,city,1,0,4,False,4812,2408508,20.78138,
 2020-04-27,RN,Ouro Branco,city,1,0,3,False,4812,2408508,20.78138,
 2020-04-26,RN,Ouro Branco,city,1,0,2,False,4812,2408508,20.78138,
 2020-04-25,RN,Ouro Branco,city,1,0,1,False,4812,2408508,20.78138,
-2020-04-28,RN,Parnamirim,city,107,3,35,True,261469,2403251,40.92263,0.0280
+2020-04-29,RN,Parnamirim,city,116,4,36,True,261469,2403251,44.36472,0.0345
+2020-04-28,RN,Parnamirim,city,107,3,35,False,261469,2403251,40.92263,0.0280
 2020-04-27,RN,Parnamirim,city,97,1,34,False,261469,2403251,37.09809,0.0103
 2020-04-26,RN,Parnamirim,city,94,1,33,False,261469,2403251,35.95072,0.0106
 2020-04-25,RN,Parnamirim,city,94,1,32,False,261469,2403251,35.95072,0.0106
@@ -780,7 +827,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RN,Parnamirim,city,3,0,3,False,261469,2403251,1.14736,
 2020-03-21,RN,Parnamirim,city,2,0,2,False,261469,2403251,0.76491,
 2020-03-20,RN,Parnamirim,city,1,0,1,False,261469,2403251,0.38245,
-2020-04-28,RN,Passa e Fica,city,1,0,28,True,13277,2409100,7.53182,
+2020-04-29,RN,Passa e Fica,city,1,0,29,True,13277,2409100,7.53182,
+2020-04-28,RN,Passa e Fica,city,1,0,28,False,13277,2409100,7.53182,
 2020-04-27,RN,Passa e Fica,city,1,0,27,False,13277,2409100,7.53182,
 2020-04-26,RN,Passa e Fica,city,1,0,26,False,13277,2409100,7.53182,
 2020-04-25,RN,Passa e Fica,city,1,0,25,False,13277,2409100,7.53182,
@@ -808,7 +856,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,Passa e Fica,city,1,0,3,False,13277,2409100,7.53182,
 2020-03-30,RN,Passa e Fica,city,1,0,2,False,13277,2409100,7.53182,
 2020-03-28,RN,Passa e Fica,city,1,0,1,False,13277,2409100,7.53182,
-2020-04-28,RN,Pau dos Ferros,city,5,0,16,True,30394,2409407,16.45062,
+2020-04-29,RN,Pau dos Ferros,city,7,0,17,True,30394,2409407,23.03086,
+2020-04-28,RN,Pau dos Ferros,city,5,0,16,False,30394,2409407,16.45062,
 2020-04-27,RN,Pau dos Ferros,city,3,0,15,False,30394,2409407,9.87037,
 2020-04-26,RN,Pau dos Ferros,city,3,0,14,False,30394,2409407,9.87037,
 2020-04-25,RN,Pau dos Ferros,city,3,0,13,False,30394,2409407,9.87037,
@@ -824,7 +873,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,RN,Pau dos Ferros,city,1,0,3,False,30394,2409407,3.29012,
 2020-04-14,RN,Pau dos Ferros,city,1,0,2,False,30394,2409407,3.29012,
 2020-04-13,RN,Pau dos Ferros,city,1,0,1,False,30394,2409407,3.29012,
-2020-04-28,RN,Poço Branco,city,1,0,12,True,15413,2410108,6.48803,
+2020-04-29,RN,Pendências,city,1,0,1,True,15129,2409902,6.60982,
+2020-04-29,RN,Poço Branco,city,1,0,13,True,15413,2410108,6.48803,
+2020-04-28,RN,Poço Branco,city,1,0,12,False,15413,2410108,6.48803,
 2020-04-27,RN,Poço Branco,city,1,0,11,False,15413,2410108,6.48803,
 2020-04-26,RN,Poço Branco,city,1,0,10,False,15413,2410108,6.48803,
 2020-04-25,RN,Poço Branco,city,1,0,9,False,15413,2410108,6.48803,
@@ -836,7 +887,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,RN,Poço Branco,city,1,0,3,False,15413,2410108,6.48803,
 2020-04-18,RN,Poço Branco,city,1,0,2,False,15413,2410108,6.48803,
 2020-04-17,RN,Poço Branco,city,1,0,1,False,15413,2410108,6.48803,
-2020-04-28,RN,Santa Cruz,city,10,0,18,True,39674,2411205,25.20542,
+2020-04-29,RN,Santa Cruz,city,11,0,19,True,39674,2411205,27.72597,
+2020-04-28,RN,Santa Cruz,city,10,0,18,False,39674,2411205,25.20542,
 2020-04-27,RN,Santa Cruz,city,8,0,17,False,39674,2411205,20.16434,
 2020-04-26,RN,Santa Cruz,city,8,0,16,False,39674,2411205,20.16434,
 2020-04-25,RN,Santa Cruz,city,4,0,15,False,39674,2411205,10.08217,
@@ -854,9 +906,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,RN,Santa Cruz,city,1,0,3,False,39674,2411205,2.52054,
 2020-04-12,RN,Santa Cruz,city,1,0,2,False,39674,2411205,2.52054,
 2020-04-11,RN,Santa Cruz,city,1,0,1,False,39674,2411205,2.52054,
-2020-04-28,RN,Santa Maria,city,1,0,2,True,5551,2409332,18.01477,
+2020-04-29,RN,Santa Maria,city,1,0,3,True,5551,2409332,18.01477,
+2020-04-28,RN,Santa Maria,city,1,0,2,False,5551,2409332,18.01477,
 2020-04-27,RN,Santa Maria,city,1,0,1,False,5551,2409332,18.01477,
-2020-04-28,RN,Santo Antônio,city,8,0,23,True,24136,2411502,33.14551,
+2020-04-29,RN,Santo Antônio,city,8,0,24,True,24136,2411502,33.14551,
+2020-04-28,RN,Santo Antônio,city,8,0,23,False,24136,2411502,33.14551,
 2020-04-27,RN,Santo Antônio,city,6,0,22,False,24136,2411502,24.85913,
 2020-04-26,RN,Santo Antônio,city,6,0,21,False,24136,2411502,24.85913,
 2020-04-25,RN,Santo Antônio,city,6,0,20,False,24136,2411502,24.85913,
@@ -879,14 +933,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,RN,Santo Antônio,city,1,0,3,False,24136,2411502,4.14319,
 2020-04-05,RN,Santo Antônio,city,1,0,2,False,24136,2411502,4.14319,
 2020-04-03,RN,Santo Antônio,city,1,0,1,False,24136,2411502,4.14319,
-2020-04-28,RN,Serra Negra do Norte,city,1,0,7,True,8078,2413409,12.37930,
+2020-04-29,RN,Serra Negra do Norte,city,1,0,8,True,8078,2413409,12.37930,
+2020-04-28,RN,Serra Negra do Norte,city,1,0,7,False,8078,2413409,12.37930,
 2020-04-27,RN,Serra Negra do Norte,city,1,0,6,False,8078,2413409,12.37930,
 2020-04-26,RN,Serra Negra do Norte,city,1,0,5,False,8078,2413409,12.37930,
 2020-04-25,RN,Serra Negra do Norte,city,1,0,4,False,8078,2413409,12.37930,
 2020-04-24,RN,Serra Negra do Norte,city,1,0,3,False,8078,2413409,12.37930,
 2020-04-23,RN,Serra Negra do Norte,city,1,0,2,False,8078,2413409,12.37930,
 2020-04-22,RN,Serra Negra do Norte,city,1,0,1,False,8078,2413409,12.37930,
-2020-04-28,RN,Serra de São Bento,city,1,0,13,True,5762,2413300,17.35509,
+2020-04-29,RN,Serra de São Bento,city,1,0,14,True,5762,2413300,17.35509,
+2020-04-28,RN,Serra de São Bento,city,1,0,13,False,5762,2413300,17.35509,
 2020-04-27,RN,Serra de São Bento,city,1,0,12,False,5762,2413300,17.35509,
 2020-04-26,RN,Serra de São Bento,city,1,0,11,False,5762,2413300,17.35509,
 2020-04-25,RN,Serra de São Bento,city,1,0,10,False,5762,2413300,17.35509,
@@ -899,8 +955,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RN,Serra de São Bento,city,1,0,3,False,5762,2413300,17.35509,
 2020-04-17,RN,Serra de São Bento,city,1,0,2,False,5762,2413300,17.35509,
 2020-04-16,RN,Serra de São Bento,city,1,0,1,False,5762,2413300,17.35509,
-2020-04-28,RN,Serra do Mel,city,1,0,1,True,11938,2413359,8.37661,
-2020-04-28,RN,São Gonçalo do Amarante,city,44,2,28,True,102400,2412005,42.96875,0.0455
+2020-04-29,RN,Serra do Mel,city,1,0,2,True,11938,2413359,8.37661,
+2020-04-28,RN,Serra do Mel,city,1,0,1,False,11938,2413359,8.37661,
+2020-04-29,RN,São Gonçalo do Amarante,city,47,2,29,True,102400,2412005,45.89844,0.0426
+2020-04-28,RN,São Gonçalo do Amarante,city,44,2,28,False,102400,2412005,42.96875,0.0455
 2020-04-27,RN,São Gonçalo do Amarante,city,42,2,27,False,102400,2412005,41.01562,0.0476
 2020-04-26,RN,São Gonçalo do Amarante,city,42,2,26,False,102400,2412005,41.01562,0.0476
 2020-04-25,RN,São Gonçalo do Amarante,city,42,2,25,False,102400,2412005,41.01562,0.0476
@@ -928,7 +986,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,São Gonçalo do Amarante,city,1,0,3,False,102400,2412005,0.97656,
 2020-03-30,RN,São Gonçalo do Amarante,city,2,0,2,False,102400,2412005,1.95312,
 2020-03-28,RN,São Gonçalo do Amarante,city,1,0,1,False,102400,2412005,0.97656,
-2020-04-28,RN,São José de Mipibu,city,9,1,28,True,43899,2412203,20.50161,0.1111
+2020-04-29,RN,São José de Mipibu,city,12,1,29,True,43899,2412203,27.33547,0.0833
+2020-04-28,RN,São José de Mipibu,city,9,1,28,False,43899,2412203,20.50161,0.1111
 2020-04-27,RN,São José de Mipibu,city,8,1,27,False,43899,2412203,18.22365,0.1250
 2020-04-26,RN,São José de Mipibu,city,8,1,26,False,43899,2412203,18.22365,0.1250
 2020-04-25,RN,São José de Mipibu,city,8,1,25,False,43899,2412203,18.22365,0.1250
@@ -956,7 +1015,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,São José de Mipibu,city,1,0,3,False,43899,2412203,2.27796,
 2020-03-30,RN,São José de Mipibu,city,1,0,2,False,43899,2412203,2.27796,
 2020-03-28,RN,São José de Mipibu,city,1,0,1,False,43899,2412203,2.27796,
-2020-04-28,RN,São Miguel,city,3,0,12,True,23519,2412500,12.75564,
+2020-04-29,RN,São Miguel,city,3,0,13,True,23519,2412500,12.75564,
+2020-04-28,RN,São Miguel,city,3,0,12,False,23519,2412500,12.75564,
 2020-04-27,RN,São Miguel,city,2,0,11,False,23519,2412500,8.50376,
 2020-04-26,RN,São Miguel,city,2,0,10,False,23519,2412500,8.50376,
 2020-04-25,RN,São Miguel,city,2,0,9,False,23519,2412500,8.50376,
@@ -968,7 +1028,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,RN,São Miguel,city,1,0,3,False,23519,2412500,4.25188,
 2020-04-18,RN,São Miguel,city,1,0,2,False,23519,2412500,4.25188,
 2020-04-17,RN,São Miguel,city,1,0,1,False,23519,2412500,4.25188,
-2020-04-28,RN,São Miguel do Gostoso,city,1,0,15,True,10282,2412559,9.72573,
+2020-04-29,RN,São Miguel do Gostoso,city,1,0,16,True,10282,2412559,9.72573,
+2020-04-28,RN,São Miguel do Gostoso,city,1,0,15,False,10282,2412559,9.72573,
 2020-04-27,RN,São Miguel do Gostoso,city,1,0,14,False,10282,2412559,9.72573,
 2020-04-26,RN,São Miguel do Gostoso,city,1,0,13,False,10282,2412559,9.72573,
 2020-04-25,RN,São Miguel do Gostoso,city,1,0,12,False,10282,2412559,9.72573,
@@ -983,8 +1044,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,RN,São Miguel do Gostoso,city,1,0,3,False,10282,2412559,9.72573,
 2020-04-15,RN,São Miguel do Gostoso,city,1,0,2,False,10282,2412559,9.72573,
 2020-04-14,RN,São Miguel do Gostoso,city,1,0,1,False,10282,2412559,9.72573,
-2020-04-28,RN,São Paulo do Potengi,city,1,0,1,True,17579,2412609,5.68861,
-2020-04-28,RN,São Pedro,city,1,0,22,True,5971,2412708,16.74761,
+2020-04-29,RN,São Paulo do Potengi,city,1,0,2,True,17579,2412609,5.68861,
+2020-04-28,RN,São Paulo do Potengi,city,1,0,1,False,17579,2412609,5.68861,
+2020-04-29,RN,São Pedro,city,1,0,23,True,5971,2412708,16.74761,
+2020-04-28,RN,São Pedro,city,1,0,22,False,5971,2412708,16.74761,
 2020-04-27,RN,São Pedro,city,1,0,21,False,5971,2412708,16.74761,
 2020-04-26,RN,São Pedro,city,1,0,20,False,5971,2412708,16.74761,
 2020-04-25,RN,São Pedro,city,1,0,19,False,5971,2412708,16.74761,
@@ -1006,7 +1069,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,RN,São Pedro,city,1,0,3,False,5971,2412708,16.74761,
 2020-04-07,RN,São Pedro,city,1,0,2,False,5971,2412708,16.74761,
 2020-04-05,RN,São Pedro,city,1,0,1,False,5971,2412708,16.74761,
-2020-04-28,RN,São Rafael,city,5,1,11,True,8202,2412807,60.96074,0.2000
+2020-04-29,RN,São Rafael,city,5,1,12,True,8202,2412807,60.96074,0.2000
+2020-04-28,RN,São Rafael,city,5,1,11,False,8202,2412807,60.96074,0.2000
 2020-04-27,RN,São Rafael,city,3,1,10,False,8202,2412807,36.57644,0.3333
 2020-04-26,RN,São Rafael,city,3,1,9,False,8202,2412807,36.57644,0.3333
 2020-04-25,RN,São Rafael,city,3,1,8,False,8202,2412807,36.57644,0.3333
@@ -1017,7 +1081,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,RN,São Rafael,city,1,1,3,False,8202,2412807,12.19215,1.0000
 2020-04-19,RN,São Rafael,city,1,1,2,False,8202,2412807,12.19215,1.0000
 2020-04-18,RN,São Rafael,city,1,1,1,False,8202,2412807,12.19215,1.0000
-2020-04-28,RN,Taipu,city,1,1,22,True,12279,2413904,8.14399,1.0000
+2020-04-29,RN,Taipu,city,1,1,23,True,12279,2413904,8.14399,1.0000
+2020-04-28,RN,Taipu,city,1,1,22,False,12279,2413904,8.14399,1.0000
 2020-04-27,RN,Taipu,city,1,1,21,False,12279,2413904,8.14399,1.0000
 2020-04-26,RN,Taipu,city,1,1,20,False,12279,2413904,8.14399,1.0000
 2020-04-25,RN,Taipu,city,1,1,19,False,12279,2413904,8.14399,1.0000
@@ -1039,7 +1104,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,RN,Taipu,city,1,1,3,False,12279,2413904,8.14399,1.0000
 2020-04-07,RN,Taipu,city,1,1,2,False,12279,2413904,8.14399,1.0000
 2020-04-05,RN,Taipu,city,1,1,1,False,12279,2413904,8.14399,1.0000
-2020-04-28,RN,Tenente Ananias,city,3,2,22,True,10786,2414100,27.81383,0.6667
+2020-04-29,RN,Tenente Ananias,city,4,2,23,True,10786,2414100,37.08511,0.5000
+2020-04-28,RN,Tenente Ananias,city,3,2,22,False,10786,2414100,27.81383,0.6667
 2020-04-27,RN,Tenente Ananias,city,2,2,21,False,10786,2414100,18.54256,1.0000
 2020-04-26,RN,Tenente Ananias,city,2,2,20,False,10786,2414100,18.54256,1.0000
 2020-04-25,RN,Tenente Ananias,city,2,2,19,False,10786,2414100,18.54256,1.0000
@@ -1061,7 +1127,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,RN,Tenente Ananias,city,1,1,3,False,10786,2414100,9.27128,1.0000
 2020-04-07,RN,Tenente Ananias,city,1,1,2,False,10786,2414100,9.27128,1.0000
 2020-04-05,RN,Tenente Ananias,city,1,1,1,False,10786,2414100,9.27128,1.0000
-2020-04-28,RN,Tibau,city,2,0,28,True,4106,2411056,48.70921,
+2020-04-29,RN,Tibau,city,2,0,29,True,4106,2411056,48.70921,
+2020-04-28,RN,Tibau,city,2,0,28,False,4106,2411056,48.70921,
 2020-04-27,RN,Tibau,city,2,0,27,False,4106,2411056,48.70921,
 2020-04-26,RN,Tibau,city,2,0,26,False,4106,2411056,48.70921,
 2020-04-25,RN,Tibau,city,2,0,25,False,4106,2411056,48.70921,
@@ -1089,7 +1156,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,RN,Tibau,city,1,0,3,False,4106,2411056,24.35460,
 2020-03-30,RN,Tibau,city,1,0,2,False,4106,2411056,24.35460,
 2020-03-28,RN,Tibau,city,1,0,1,False,4106,2411056,24.35460,
-2020-04-28,RN,Touros,city,1,1,12,True,33287,2414407,3.00418,1.0000
+2020-04-29,RN,Touros,city,1,1,13,True,33287,2414407,3.00418,1.0000
+2020-04-28,RN,Touros,city,1,1,12,False,33287,2414407,3.00418,1.0000
 2020-04-27,RN,Touros,city,1,1,11,False,33287,2414407,3.00418,1.0000
 2020-04-26,RN,Touros,city,1,1,10,False,33287,2414407,3.00418,1.0000
 2020-04-25,RN,Touros,city,1,1,9,False,33287,2414407,3.00418,1.0000
