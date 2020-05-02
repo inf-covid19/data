@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 01 2020 08:38:21 UTC.
+> Last updated at May 02 2020 08:38:29 UTC.
 
 
 | Country | Dataset |
@@ -49,6 +49,7 @@
 | Chile | [`chile.csv`](chile.csv) |
 | China | [`china.csv`](china.csv) |
 | Colombia | [`colombia.csv`](colombia.csv) |
+| Comoros | [`comoros.csv`](comoros.csv) |
 | Congo | [`congo.csv`](congo.csv) |
 | Costa Rica | [`costa_rica.csv`](costa_rica.csv) |
 | Cote dIvoire | [`cote_divoire.csv`](cote_divoire.csv) |
