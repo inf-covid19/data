@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-05-01,AP,,state,1121,37,43,True,845731,16,132.54806,0.0330
+2020-05-02,AP,,state,1187,40,44,True,845731,16,140.35196,0.0337
+2020-05-01,AP,,state,1121,37,43,False,845731,16,132.54806,0.0330
 2020-04-30,AP,,state,1080,34,42,False,845731,16,127.70018,0.0315
 2020-04-29,AP,,state,1016,31,41,False,845731,16,120.13276,0.0305
 2020-04-28,AP,,state,918,28,40,False,845731,16,108.54515,0.0305
@@ -42,16 +43,21 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,AP,,state,1,0,3,False,845731,16,0.11824,
 2020-03-21,AP,,state,1,0,2,False,845731,16,0.11824,
 2020-03-20,AP,,state,1,0,1,False,845731,16,0.11824,
-2020-05-01,AP,Amapá,city,2,0,6,True,9109,1600105,21.95631,
+2020-05-02,AP,Amapá,city,2,0,7,True,9109,1600105,21.95631,
+2020-05-01,AP,Amapá,city,2,0,6,False,9109,1600105,21.95631,
 2020-04-30,AP,Amapá,city,2,0,5,False,9109,1600105,21.95631,
 2020-04-29,AP,Amapá,city,2,0,4,False,9109,1600105,21.95631,
 2020-04-28,AP,Amapá,city,2,0,3,False,9109,1600105,21.95631,
 2020-04-27,AP,Amapá,city,2,0,2,False,9109,1600105,21.95631,
 2020-04-26,AP,Amapá,city,2,0,1,False,9109,1600105,21.95631,
-2020-05-01,AP,Calçoene,city,1,0,1,True,11117,1600204,8.99523,
-2020-05-01,AP,Importados/Indefinidos,city,0,0,2,True,,,,
+2020-05-02,AP,Calçoene,city,1,0,2,True,11117,1600204,8.99523,
+2020-05-01,AP,Calçoene,city,1,0,1,False,11117,1600204,8.99523,
+2020-05-02,AP,Ferreira Gomes,city,1,0,1,True,7780,1600238,12.85347,
+2020-05-02,AP,Importados/Indefinidos,city,0,0,3,True,,,,
+2020-05-01,AP,Importados/Indefinidos,city,0,0,2,False,,,,
 2020-04-30,AP,Importados/Indefinidos,city,0,0,1,False,,,,
-2020-05-01,AP,Itaubal,city,3,0,8,True,5503,1600253,54.51572,
+2020-05-02,AP,Itaubal,city,3,0,9,True,5503,1600253,54.51572,
+2020-05-01,AP,Itaubal,city,3,0,8,False,5503,1600253,54.51572,
 2020-04-30,AP,Itaubal,city,3,0,7,False,5503,1600253,54.51572,
 2020-04-29,AP,Itaubal,city,3,0,6,False,5503,1600253,54.51572,
 2020-04-28,AP,Itaubal,city,3,0,5,False,5503,1600253,54.51572,
@@ -59,7 +65,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,AP,Itaubal,city,1,0,3,False,5503,1600253,18.17191,
 2020-04-25,AP,Itaubal,city,1,0,2,False,5503,1600253,18.17191,
 2020-04-24,AP,Itaubal,city,1,0,1,False,5503,1600253,18.17191,
-2020-05-01,AP,Laranjal do Jari,city,52,4,17,True,50410,1600279,103.15414,0.0769
+2020-05-02,AP,Laranjal do Jari,city,63,5,18,True,50410,1600279,124.97520,0.0794
+2020-05-01,AP,Laranjal do Jari,city,52,4,17,False,50410,1600279,103.15414,0.0769
 2020-04-30,AP,Laranjal do Jari,city,52,3,16,False,50410,1600279,103.15414,0.0577
 2020-04-29,AP,Laranjal do Jari,city,38,2,15,False,50410,1600279,75.38187,0.0526
 2020-04-28,AP,Laranjal do Jari,city,32,2,14,False,50410,1600279,63.47947,0.0625
@@ -76,7 +83,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,AP,Laranjal do Jari,city,2,0,3,False,50410,1600279,3.96747,
 2020-04-16,AP,Laranjal do Jari,city,2,0,2,False,50410,1600279,3.96747,
 2020-04-15,AP,Laranjal do Jari,city,1,0,1,False,50410,1600279,1.98373,
-2020-05-01,AP,Macapá,city,857,27,43,True,503327,1600303,170.26704,0.0315
+2020-05-02,AP,Macapá,city,892,29,44,True,503327,1600303,177.22077,0.0325
+2020-05-01,AP,Macapá,city,857,27,43,False,503327,1600303,170.26704,0.0315
 2020-04-30,AP,Macapá,city,827,26,42,False,503327,1600303,164.30670,0.0314
 2020-04-29,AP,Macapá,city,789,24,41,False,503327,1600303,156.75694,0.0304
 2020-04-28,AP,Macapá,city,708,21,40,False,503327,1600303,140.66402,0.0297
@@ -119,7 +127,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,AP,Macapá,city,1,0,3,False,503327,1600303,0.19868,
 2020-03-21,AP,Macapá,city,1,0,2,False,503327,1600303,0.19868,
 2020-03-20,AP,Macapá,city,1,0,1,False,503327,1600303,0.19868,
-2020-05-01,AP,Mazagão,city,13,0,18,True,21632,1600402,60.09615,
+2020-05-02,AP,Mazagão,city,13,0,19,True,21632,1600402,60.09615,
+2020-05-01,AP,Mazagão,city,13,0,18,False,21632,1600402,60.09615,
 2020-04-30,AP,Mazagão,city,13,0,17,False,21632,1600402,60.09615,
 2020-04-29,AP,Mazagão,city,12,0,16,False,21632,1600402,55.47337,
 2020-04-28,AP,Mazagão,city,12,0,15,False,21632,1600402,55.47337,
@@ -137,7 +146,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,AP,Mazagão,city,2,0,3,False,21632,1600402,9.24556,
 2020-04-15,AP,Mazagão,city,1,0,2,False,21632,1600402,4.62278,
 2020-04-14,AP,Mazagão,city,1,0,1,False,21632,1600402,4.62278,
-2020-05-01,AP,Oiapoque,city,24,1,28,True,27270,1600501,88.00880,0.0417
+2020-05-02,AP,Oiapoque,city,24,1,29,True,27270,1600501,88.00880,0.0417
+2020-05-01,AP,Oiapoque,city,24,1,28,False,27270,1600501,88.00880,0.0417
 2020-04-30,AP,Oiapoque,city,23,1,27,False,27270,1600501,84.34177,0.0435
 2020-04-29,AP,Oiapoque,city,23,1,26,False,27270,1600501,84.34177,0.0435
 2020-04-28,AP,Oiapoque,city,21,1,25,False,27270,1600501,77.00770,0.0476
@@ -165,7 +175,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,AP,Oiapoque,city,1,0,3,False,27270,1600501,3.66703,
 2020-04-05,AP,Oiapoque,city,1,0,2,False,27270,1600501,3.66703,
 2020-04-04,AP,Oiapoque,city,1,0,1,False,27270,1600501,3.66703,
-2020-05-01,AP,Pedra Branca do Amapari,city,4,0,9,True,16502,1600154,24.23949,
+2020-05-02,AP,Pedra Branca do Amapari,city,8,0,10,True,16502,1600154,48.47897,
+2020-05-01,AP,Pedra Branca do Amapari,city,4,0,9,False,16502,1600154,24.23949,
 2020-04-30,AP,Pedra Branca do Amapari,city,4,0,8,False,16502,1600154,24.23949,
 2020-04-29,AP,Pedra Branca do Amapari,city,1,0,7,False,16502,1600154,6.05987,
 2020-04-28,AP,Pedra Branca do Amapari,city,1,0,6,False,16502,1600154,6.05987,
@@ -174,7 +185,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,AP,Pedra Branca do Amapari,city,1,0,3,False,16502,1600154,6.05987,
 2020-04-24,AP,Pedra Branca do Amapari,city,1,0,2,False,16502,1600154,6.05987,
 2020-04-23,AP,Pedra Branca do Amapari,city,1,0,1,False,16502,1600154,6.05987,
-2020-05-01,AP,Porto Grande,city,8,0,18,True,21971,1600535,36.41163,
+2020-05-02,AP,Porto Grande,city,8,0,19,True,21971,1600535,36.41163,
+2020-05-01,AP,Porto Grande,city,8,0,18,False,21971,1600535,36.41163,
 2020-04-30,AP,Porto Grande,city,8,0,17,False,21971,1600535,36.41163,
 2020-04-29,AP,Porto Grande,city,7,0,16,False,21971,1600535,31.86018,
 2020-04-28,AP,Porto Grande,city,7,0,15,False,21971,1600535,31.86018,
@@ -192,7 +204,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,AP,Porto Grande,city,1,0,3,False,21971,1600535,4.55145,
 2020-04-15,AP,Porto Grande,city,1,0,2,False,21971,1600535,4.55145,
 2020-04-14,AP,Porto Grande,city,1,0,1,False,21971,1600535,4.55145,
-2020-05-01,AP,Santana,city,138,5,27,True,121364,1600600,113.70752,0.0362
+2020-05-02,AP,Santana,city,151,5,28,True,121364,1600600,124.41910,0.0331
+2020-05-01,AP,Santana,city,138,5,27,False,121364,1600600,113.70752,0.0362
 2020-04-30,AP,Santana,city,129,4,26,False,121364,1600600,106.29182,0.0310
 2020-04-29,AP,Santana,city,125,4,25,False,121364,1600600,102.99595,0.0320
 2020-04-28,AP,Santana,city,117,4,24,False,121364,1600600,96.40421,0.0342
@@ -219,7 +232,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,AP,Santana,city,3,1,3,False,121364,1600600,2.47190,0.3333
 2020-04-06,AP,Santana,city,3,1,2,False,121364,1600600,2.47190,0.3333
 2020-04-05,AP,Santana,city,2,0,1,False,121364,1600600,1.64794,
-2020-05-01,AP,Serra do Navio,city,7,0,10,True,5397,1600055,129.70169,
+2020-05-02,AP,Serra do Navio,city,9,0,11,True,5397,1600055,166.75931,
+2020-05-01,AP,Serra do Navio,city,7,0,10,False,5397,1600055,129.70169,
 2020-04-30,AP,Serra do Navio,city,7,0,9,False,5397,1600055,129.70169,
 2020-04-29,AP,Serra do Navio,city,6,0,8,False,5397,1600055,111.17287,
 2020-04-28,AP,Serra do Navio,city,5,0,7,False,5397,1600055,92.64406,
@@ -229,13 +243,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-24,AP,Serra do Navio,city,2,0,3,False,5397,1600055,37.05762,
 2020-04-23,AP,Serra do Navio,city,2,0,2,False,5397,1600055,37.05762,
 2020-04-22,AP,Serra do Navio,city,2,0,1,False,5397,1600055,37.05762,
-2020-05-01,AP,Tartarugalzinho,city,7,0,6,True,17315,1600709,40.42738,
+2020-05-02,AP,Tartarugalzinho,city,7,0,7,True,17315,1600709,40.42738,
+2020-05-01,AP,Tartarugalzinho,city,7,0,6,False,17315,1600709,40.42738,
 2020-04-30,AP,Tartarugalzinho,city,7,0,5,False,17315,1600709,40.42738,
 2020-04-29,AP,Tartarugalzinho,city,7,0,4,False,17315,1600709,40.42738,
 2020-04-28,AP,Tartarugalzinho,city,7,0,3,False,17315,1600709,40.42738,
 2020-04-27,AP,Tartarugalzinho,city,7,0,2,False,17315,1600709,40.42738,
 2020-04-26,AP,Tartarugalzinho,city,7,0,1,False,17315,1600709,40.42738,
-2020-05-01,AP,Vitória do Jari,city,5,0,18,True,15931,1600808,31.38535,
+2020-05-02,AP,Vitória do Jari,city,5,0,19,True,15931,1600808,31.38535,
+2020-05-01,AP,Vitória do Jari,city,5,0,18,False,15931,1600808,31.38535,
 2020-04-30,AP,Vitória do Jari,city,5,0,17,False,15931,1600808,31.38535,
 2020-04-29,AP,Vitória do Jari,city,3,0,16,False,15931,1600808,18.83121,
 2020-04-28,AP,Vitória do Jari,city,3,0,15,False,15931,1600808,18.83121,
