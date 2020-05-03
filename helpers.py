@@ -24,6 +24,9 @@ def ensure_dirs(*dirs):
 
 
 def ensure_consistency(updated_files, identifier):
+    if len(updated_files) == 0:
+        raise ValueError('updated files is empty')
+
     for update_file in updated_files:
         tmp_file = backup_file(update_file)
 
