@@ -20,7 +20,7 @@ def scrape_chile():
     
     updated_files = []
     header = 'date,region,region_iso,province,city,place_type,cases,deaths\n'
-    for tr in soup.table.tbody.find_all('tr')[3:-1]:
+    for tr in soup.table.tbody.find_all('tr')[2:-1]:
         cols = [td.get_text() for td in tr.find_all('td')]
         
         region = cols[0]
@@ -33,7 +33,7 @@ def scrape_chile():
             '',
             '',
             'region',
-            cols[3].replace('.', ''),
+            cols[1].replace('.', ''),
             cols[5].replace('.', '')
         ])
 
