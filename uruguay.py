@@ -34,7 +34,7 @@ def scrape_uruguay():
 
     for tr in per_departament_table.tbody.find_all('tr'):
         cols = [td.get_text().strip() for td in tr.find_all('td')]
-        if len(cols) != 4:
+        if len(cols) != 5:
             continue
 
         departament = cols[0]
