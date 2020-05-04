@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-05-02,AL,,state,1371,58,53,True,3337357,27,41.08041,0.0423
+2020-05-03,AL,,state,1441,64,54,True,3337357,27,43.17788,0.0444
+2020-05-02,AL,,state,1371,58,53,False,3337357,27,41.08041,0.0423
 2020-05-01,AL,,state,1226,53,52,False,3337357,27,36.73566,0.0432
 2020-04-30,AL,,state,1045,47,51,False,3337357,27,31.31220,0.0450
 2020-04-29,AL,,state,957,41,50,False,3337357,27,28.67539,0.0428
@@ -52,7 +53,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-10,AL,,state,1,0,3,False,3337357,27,0.02996,0.0000
 2020-03-09,AL,,state,1,0,2,False,3337357,27,0.02996,0.0000
 2020-03-08,AL,,state,1,0,1,False,3337357,27,0.02996,0.0000
-2020-05-02,AL,Anadia,city,1,1,10,True,17545,2700201,5.69963,1.0000
+2020-05-03,AL,Anadia,city,1,1,11,True,17545,2700201,5.69963,1.0000
+2020-05-02,AL,Anadia,city,1,1,10,False,17545,2700201,5.69963,1.0000
 2020-05-01,AL,Anadia,city,1,1,9,False,17545,2700201,5.69963,1.0000
 2020-04-30,AL,Anadia,city,1,1,8,False,17545,2700201,5.69963,1.0000
 2020-04-29,AL,Anadia,city,1,1,7,False,17545,2700201,5.69963,1.0000
@@ -62,7 +64,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,AL,Anadia,city,1,1,3,False,17545,2700201,5.69963,1.0000
 2020-04-24,AL,Anadia,city,1,1,2,False,17545,2700201,5.69963,1.0000
 2020-04-23,AL,Anadia,city,1,1,1,False,17545,2700201,5.69963,1.0000
-2020-05-02,AL,Arapiraca,city,23,0,15,True,231747,2700300,9.92462,0.0000
+2020-05-03,AL,Arapiraca,city,24,1,16,True,231747,2700300,10.35612,0.0417
+2020-05-02,AL,Arapiraca,city,23,0,15,False,231747,2700300,9.92462,0.0000
 2020-05-01,AL,Arapiraca,city,21,0,14,False,231747,2700300,9.06161,0.0000
 2020-04-30,AL,Arapiraca,city,18,0,13,False,231747,2700300,7.76709,0.0000
 2020-04-29,AL,Arapiraca,city,13,0,12,False,231747,2700300,5.60957,0.0000
@@ -77,14 +80,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,AL,Arapiraca,city,1,0,3,False,231747,2700300,0.43151,0.0000
 2020-04-19,AL,Arapiraca,city,1,0,2,False,231747,2700300,0.43151,0.0000
 2020-04-18,AL,Arapiraca,city,1,0,1,False,231747,2700300,0.43151,0.0000
-2020-05-02,AL,Atalaia,city,1,0,7,True,47185,2700409,2.11932,0.0000
+2020-05-03,AL,Atalaia,city,1,0,8,True,47185,2700409,2.11932,0.0000
+2020-05-02,AL,Atalaia,city,1,0,7,False,47185,2700409,2.11932,0.0000
 2020-05-01,AL,Atalaia,city,1,0,6,False,47185,2700409,2.11932,0.0000
 2020-04-30,AL,Atalaia,city,1,0,5,False,47185,2700409,2.11932,0.0000
 2020-04-29,AL,Atalaia,city,1,0,4,False,47185,2700409,2.11932,0.0000
 2020-04-28,AL,Atalaia,city,1,0,3,False,47185,2700409,2.11932,0.0000
 2020-04-27,AL,Atalaia,city,1,0,2,False,47185,2700409,2.11932,0.0000
 2020-04-26,AL,Atalaia,city,1,0,1,False,47185,2700409,2.11932,0.0000
-2020-05-02,AL,Barra de Santo Antônio,city,1,0,10,True,15932,2700508,6.27668,0.0000
+2020-05-03,AL,Barra de Santo Antônio,city,1,0,11,True,15932,2700508,6.27668,0.0000
+2020-05-02,AL,Barra de Santo Antônio,city,1,0,10,False,15932,2700508,6.27668,0.0000
 2020-05-01,AL,Barra de Santo Antônio,city,1,0,9,False,15932,2700508,6.27668,0.0000
 2020-04-30,AL,Barra de Santo Antônio,city,1,0,8,False,15932,2700508,6.27668,0.0000
 2020-04-29,AL,Barra de Santo Antônio,city,1,0,7,False,15932,2700508,6.27668,0.0000
@@ -94,15 +99,18 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,AL,Barra de Santo Antônio,city,1,0,3,False,15932,2700508,6.27668,0.0000
 2020-04-24,AL,Barra de Santo Antônio,city,1,0,2,False,15932,2700508,6.27668,0.0000
 2020-04-23,AL,Barra de Santo Antônio,city,1,0,1,False,15932,2700508,6.27668,0.0000
-2020-05-02,AL,Barra de São Miguel,city,4,0,4,True,8322,2700607,48.06537,0.0000
+2020-05-03,AL,Barra de São Miguel,city,5,0,5,True,8322,2700607,60.08171,0.0000
+2020-05-02,AL,Barra de São Miguel,city,4,0,4,False,8322,2700607,48.06537,0.0000
 2020-05-01,AL,Barra de São Miguel,city,4,0,3,False,8322,2700607,48.06537,0.0000
 2020-04-30,AL,Barra de São Miguel,city,4,0,2,False,8322,2700607,48.06537,0.0000
 2020-04-29,AL,Barra de São Miguel,city,3,0,1,False,8322,2700607,36.04903,0.0000
-2020-05-02,AL,Batalha,city,2,0,4,True,18232,2700706,10.96972,0.0000
+2020-05-03,AL,Batalha,city,2,0,5,True,18232,2700706,10.96972,0.0000
+2020-05-02,AL,Batalha,city,2,0,4,False,18232,2700706,10.96972,0.0000
 2020-05-01,AL,Batalha,city,2,0,3,False,18232,2700706,10.96972,0.0000
 2020-04-30,AL,Batalha,city,2,0,2,False,18232,2700706,10.96972,0.0000
 2020-04-29,AL,Batalha,city,1,0,1,False,18232,2700706,5.48486,0.0000
-2020-05-02,AL,Boca da Mata,city,1,0,18,True,27281,2701001,3.66555,0.0000
+2020-05-03,AL,Boca da Mata,city,1,0,19,True,27281,2701001,3.66555,0.0000
+2020-05-02,AL,Boca da Mata,city,1,0,18,False,27281,2701001,3.66555,0.0000
 2020-05-01,AL,Boca da Mata,city,1,0,17,False,27281,2701001,3.66555,0.0000
 2020-04-30,AL,Boca da Mata,city,1,0,16,False,27281,2701001,3.66555,0.0000
 2020-04-29,AL,Boca da Mata,city,1,0,15,False,27281,2701001,3.66555,0.0000
@@ -120,13 +128,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,AL,Boca da Mata,city,1,0,3,False,27281,2701001,3.66555,0.0000
 2020-04-16,AL,Boca da Mata,city,1,0,2,False,27281,2701001,3.66555,0.0000
 2020-04-15,AL,Boca da Mata,city,1,0,1,False,27281,2701001,3.66555,0.0000
-2020-05-02,AL,Branquinha,city,1,0,4,True,10494,2701100,9.52925,0.0000
+2020-05-03,AL,Branquinha,city,1,0,5,True,10494,2701100,9.52925,0.0000
+2020-05-02,AL,Branquinha,city,1,0,4,False,10494,2701100,9.52925,0.0000
 2020-05-01,AL,Branquinha,city,1,0,3,False,10494,2701100,9.52925,0.0000
 2020-04-30,AL,Branquinha,city,1,0,2,False,10494,2701100,9.52925,0.0000
 2020-04-29,AL,Branquinha,city,1,0,1,False,10494,2701100,9.52925,0.0000
-2020-05-02,AL,Campo Alegre,city,2,0,2,True,57063,2701407,3.50490,0.0000
+2020-05-03,AL,Campo Alegre,city,3,1,3,True,57063,2701407,5.25735,0.3333
+2020-05-02,AL,Campo Alegre,city,2,0,2,False,57063,2701407,3.50490,0.0000
 2020-05-01,AL,Campo Alegre,city,1,0,1,False,57063,2701407,1.75245,0.0000
-2020-05-02,AL,Capela,city,2,0,12,True,17053,2701704,11.72814,0.0000
+2020-05-03,AL,Capela,city,2,0,13,True,17053,2701704,11.72814,0.0000
+2020-05-02,AL,Capela,city,2,0,12,False,17053,2701704,11.72814,0.0000
 2020-05-01,AL,Capela,city,2,0,11,False,17053,2701704,11.72814,0.0000
 2020-04-30,AL,Capela,city,1,0,10,False,17053,2701704,5.86407,0.0000
 2020-04-29,AL,Capela,city,1,0,9,False,17053,2701704,5.86407,0.0000
@@ -138,14 +149,18 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-23,AL,Capela,city,1,0,3,False,17053,2701704,5.86407,0.0000
 2020-04-22,AL,Capela,city,1,0,2,False,17053,2701704,5.86407,0.0000
 2020-04-21,AL,Capela,city,1,0,1,False,17053,2701704,5.86407,0.0000
-2020-05-02,AL,Colônia Leopoldina,city,1,0,2,True,21698,2702108,4.60872,0.0000
+2020-05-03,AL,Colônia Leopoldina,city,1,0,3,True,21698,2702108,4.60872,0.0000
+2020-05-02,AL,Colônia Leopoldina,city,1,0,2,False,21698,2702108,4.60872,0.0000
 2020-05-01,AL,Colônia Leopoldina,city,1,0,1,False,21698,2702108,4.60872,0.0000
-2020-05-02,AL,Coqueiro Seco,city,1,0,1,True,5845,2702207,17.10864,0.0000
-2020-05-02,AL,Coruripe,city,3,0,4,True,56933,2702306,5.26935,0.0000
+2020-05-03,AL,Coqueiro Seco,city,1,0,2,True,5845,2702207,17.10864,0.0000
+2020-05-02,AL,Coqueiro Seco,city,1,0,1,False,5845,2702207,17.10864,0.0000
+2020-05-03,AL,Coruripe,city,3,0,5,True,56933,2702306,5.26935,0.0000
+2020-05-02,AL,Coruripe,city,3,0,4,False,56933,2702306,5.26935,0.0000
 2020-05-01,AL,Coruripe,city,2,0,3,False,56933,2702306,3.51290,0.0000
 2020-04-30,AL,Coruripe,city,2,0,2,False,56933,2702306,3.51290,0.0000
 2020-04-29,AL,Coruripe,city,2,0,1,False,56933,2702306,3.51290,0.0000
-2020-05-02,AL,Delmiro Gouveia,city,1,1,9,True,52016,2702405,1.92249,1.0000
+2020-05-03,AL,Delmiro Gouveia,city,1,1,10,True,52016,2702405,1.92249,1.0000
+2020-05-02,AL,Delmiro Gouveia,city,1,1,9,False,52016,2702405,1.92249,1.0000
 2020-05-01,AL,Delmiro Gouveia,city,1,0,8,False,52016,2702405,1.92249,0.0000
 2020-04-30,AL,Delmiro Gouveia,city,1,0,7,False,52016,2702405,1.92249,0.0000
 2020-04-29,AL,Delmiro Gouveia,city,1,0,6,False,52016,2702405,1.92249,0.0000
@@ -154,7 +169,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,AL,Delmiro Gouveia,city,1,0,3,False,52016,2702405,1.92249,0.0000
 2020-04-25,AL,Delmiro Gouveia,city,1,0,2,False,52016,2702405,1.92249,0.0000
 2020-04-24,AL,Delmiro Gouveia,city,1,0,1,False,52016,2702405,1.92249,0.0000
-2020-05-02,AL,Ibateguara,city,1,1,14,True,15616,2703007,6.40369,1.0000
+2020-05-03,AL,Ibateguara,city,1,1,15,True,15616,2703007,6.40369,1.0000
+2020-05-02,AL,Ibateguara,city,1,1,14,False,15616,2703007,6.40369,1.0000
 2020-05-01,AL,Ibateguara,city,1,1,13,False,15616,2703007,6.40369,1.0000
 2020-04-30,AL,Ibateguara,city,1,1,12,False,15616,2703007,6.40369,1.0000
 2020-04-29,AL,Ibateguara,city,1,1,11,False,15616,2703007,6.40369,1.0000
@@ -168,7 +184,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,AL,Ibateguara,city,1,1,3,False,15616,2703007,6.40369,1.0000
 2020-04-20,AL,Ibateguara,city,1,1,2,False,15616,2703007,6.40369,1.0000
 2020-04-19,AL,Ibateguara,city,1,1,1,False,15616,2703007,6.40369,1.0000
-2020-05-02,AL,Importados/Indefinidos,city,11,2,35,True,,,,0.1818
+2020-05-03,AL,Importados/Indefinidos,city,11,2,36,True,,,,0.1818
+2020-05-02,AL,Importados/Indefinidos,city,11,2,35,False,,,,0.1818
 2020-05-01,AL,Importados/Indefinidos,city,11,2,34,False,,,,0.1818
 2020-04-30,AL,Importados/Indefinidos,city,11,2,33,False,,,,0.1818
 2020-04-29,AL,Importados/Indefinidos,city,11,2,32,False,,,,0.1818
@@ -203,19 +220,25 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AL,Importados/Indefinidos,city,4,0,3,False,,,,0.0000
 2020-03-30,AL,Importados/Indefinidos,city,4,0,2,False,,,,0.0000
 2020-03-29,AL,Importados/Indefinidos,city,4,0,1,False,,,,0.0000
-2020-05-02,AL,Jaramataia,city,1,0,1,True,5770,2703700,17.33102,0.0000
-2020-05-02,AL,Jequiá da Praia,city,1,0,1,True,11580,2703759,8.63558,0.0000
-2020-05-02,AL,Joaquim Gomes,city,3,0,2,True,23993,2703809,12.50365,0.0000
+2020-05-03,AL,Jaramataia,city,1,0,2,True,5770,2703700,17.33102,0.0000
+2020-05-02,AL,Jaramataia,city,1,0,1,False,5770,2703700,17.33102,0.0000
+2020-05-03,AL,Jequiá da Praia,city,1,0,2,True,11580,2703759,8.63558,0.0000
+2020-05-02,AL,Jequiá da Praia,city,1,0,1,False,11580,2703759,8.63558,0.0000
+2020-05-03,AL,Joaquim Gomes,city,3,0,3,True,23993,2703809,12.50365,0.0000
+2020-05-02,AL,Joaquim Gomes,city,3,0,2,False,23993,2703809,12.50365,0.0000
 2020-05-01,AL,Joaquim Gomes,city,1,0,1,False,23993,2703809,4.16788,0.0000
-2020-05-02,AL,Junqueiro,city,6,0,4,True,24727,2704005,24.26497,0.0000
+2020-05-03,AL,Junqueiro,city,6,0,5,True,24727,2704005,24.26497,0.0000
+2020-05-02,AL,Junqueiro,city,6,0,4,False,24727,2704005,24.26497,0.0000
 2020-05-01,AL,Junqueiro,city,6,0,3,False,24727,2704005,24.26497,0.0000
 2020-04-30,AL,Junqueiro,city,2,0,2,False,24727,2704005,8.08832,0.0000
 2020-04-29,AL,Junqueiro,city,1,0,1,False,24727,2704005,4.04416,0.0000
-2020-05-02,AL,Lagoa da Canoa,city,1,1,4,True,17852,2704104,5.60161,1.0000
+2020-05-03,AL,Lagoa da Canoa,city,1,1,5,True,17852,2704104,5.60161,1.0000
+2020-05-02,AL,Lagoa da Canoa,city,1,1,4,False,17852,2704104,5.60161,1.0000
 2020-05-01,AL,Lagoa da Canoa,city,1,1,3,False,17852,2704104,5.60161,1.0000
 2020-04-30,AL,Lagoa da Canoa,city,1,1,2,False,17852,2704104,5.60161,1.0000
 2020-04-29,AL,Lagoa da Canoa,city,1,1,1,False,17852,2704104,5.60161,1.0000
-2020-05-02,AL,Limoeiro de Anadia,city,1,1,10,True,28635,2704203,3.49223,1.0000
+2020-05-03,AL,Limoeiro de Anadia,city,1,1,11,True,28635,2704203,3.49223,1.0000
+2020-05-02,AL,Limoeiro de Anadia,city,1,1,10,False,28635,2704203,3.49223,1.0000
 2020-05-01,AL,Limoeiro de Anadia,city,1,1,9,False,28635,2704203,3.49223,1.0000
 2020-04-30,AL,Limoeiro de Anadia,city,1,1,8,False,28635,2704203,3.49223,1.0000
 2020-04-29,AL,Limoeiro de Anadia,city,1,1,7,False,28635,2704203,3.49223,1.0000
@@ -225,7 +248,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,AL,Limoeiro de Anadia,city,1,1,3,False,28635,2704203,3.49223,1.0000
 2020-04-24,AL,Limoeiro de Anadia,city,1,1,2,False,28635,2704203,3.49223,1.0000
 2020-04-23,AL,Limoeiro de Anadia,city,1,0,1,False,28635,2704203,3.49223,0.0000
-2020-05-02,AL,Maceió,city,1124,41,53,True,1018948,2704302,110.30985,0.0365
+2020-05-03,AL,Maceió,city,1179,43,54,True,1018948,2704302,115.70757,0.0365
+2020-05-02,AL,Maceió,city,1124,41,53,False,1018948,2704302,110.30985,0.0365
 2020-05-01,AL,Maceió,city,1008,38,52,False,1018948,2704302,98.92556,0.0377
 2020-04-30,AL,Maceió,city,853,32,51,False,1018948,2704302,83.71379,0.0375
 2020-04-29,AL,Maceió,city,791,26,50,False,1018948,2704302,77.62908,0.0329
@@ -278,7 +302,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-10,AL,Maceió,city,1,0,3,False,1018948,2704302,0.09814,0.0000
 2020-03-09,AL,Maceió,city,1,0,2,False,1018948,2704302,0.09814,0.0000
 2020-03-08,AL,Maceió,city,1,0,1,False,1018948,2704302,0.09814,0.0000
-2020-05-02,AL,Maragogi,city,5,1,9,True,32704,2704500,15.28865,0.2000
+2020-05-03,AL,Maragogi,city,9,1,10,True,32704,2704500,27.51957,0.1111
+2020-05-02,AL,Maragogi,city,5,1,9,False,32704,2704500,15.28865,0.2000
 2020-05-01,AL,Maragogi,city,5,1,8,False,32704,2704500,15.28865,0.2000
 2020-04-30,AL,Maragogi,city,5,1,7,False,32704,2704500,15.28865,0.2000
 2020-04-29,AL,Maragogi,city,5,1,6,False,32704,2704500,15.28865,0.2000
@@ -287,7 +312,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,AL,Maragogi,city,2,0,3,False,32704,2704500,6.11546,0.0000
 2020-04-25,AL,Maragogi,city,1,0,2,False,32704,2704500,3.05773,0.0000
 2020-04-24,AL,Maragogi,city,1,0,1,False,32704,2704500,3.05773,0.0000
-2020-05-02,AL,Marechal Deodoro,city,36,2,30,True,51901,2704708,69.36283,0.0556
+2020-05-03,AL,Marechal Deodoro,city,36,2,31,True,51901,2704708,69.36283,0.0556
+2020-05-02,AL,Marechal Deodoro,city,36,2,30,False,51901,2704708,69.36283,0.0556
 2020-05-01,AL,Marechal Deodoro,city,33,2,29,False,51901,2704708,63.58259,0.0606
 2020-04-30,AL,Marechal Deodoro,city,30,2,28,False,51901,2704708,57.80235,0.0667
 2020-04-29,AL,Marechal Deodoro,city,24,2,27,False,51901,2704708,46.24188,0.0833
@@ -317,7 +343,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,AL,Marechal Deodoro,city,2,0,3,False,51901,2704708,3.85349,0.0000
 2020-04-04,AL,Marechal Deodoro,city,1,0,2,False,51901,2704708,1.92675,0.0000
 2020-04-03,AL,Marechal Deodoro,city,1,0,1,False,51901,2704708,1.92675,0.0000
-2020-05-02,AL,Maribondo,city,2,1,12,True,13264,2704807,15.07841,0.5000
+2020-05-03,AL,Maribondo,city,2,1,13,True,13264,2704807,15.07841,0.5000
+2020-05-02,AL,Maribondo,city,2,1,12,False,13264,2704807,15.07841,0.5000
 2020-05-01,AL,Maribondo,city,2,1,11,False,13264,2704807,15.07841,0.5000
 2020-04-30,AL,Maribondo,city,2,1,10,False,13264,2704807,15.07841,0.5000
 2020-04-29,AL,Maribondo,city,2,1,9,False,13264,2704807,15.07841,0.5000
@@ -329,14 +356,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-23,AL,Maribondo,city,1,0,3,False,13264,2704807,7.53920,0.0000
 2020-04-22,AL,Maribondo,city,1,0,2,False,13264,2704807,7.53920,0.0000
 2020-04-21,AL,Maribondo,city,1,0,1,False,13264,2704807,7.53920,0.0000
-2020-05-02,AL,Matriz de Camaragibe,city,1,1,7,True,24642,2705101,4.05811,1.0000
+2020-05-03,AL,Matriz de Camaragibe,city,1,1,8,True,24642,2705101,4.05811,1.0000
+2020-05-02,AL,Matriz de Camaragibe,city,1,1,7,False,24642,2705101,4.05811,1.0000
 2020-05-01,AL,Matriz de Camaragibe,city,1,1,6,False,24642,2705101,4.05811,1.0000
 2020-04-30,AL,Matriz de Camaragibe,city,1,1,5,False,24642,2705101,4.05811,1.0000
 2020-04-29,AL,Matriz de Camaragibe,city,1,1,4,False,24642,2705101,4.05811,1.0000
 2020-04-28,AL,Matriz de Camaragibe,city,1,1,3,False,24642,2705101,4.05811,1.0000
 2020-04-27,AL,Matriz de Camaragibe,city,1,1,2,False,24642,2705101,4.05811,1.0000
 2020-04-26,AL,Matriz de Camaragibe,city,1,1,1,False,24642,2705101,4.05811,1.0000
-2020-05-02,AL,Murici,city,23,1,14,True,28236,2705507,81.45630,0.0435
+2020-05-03,AL,Murici,city,25,1,15,True,28236,2705507,88.53945,0.0400
+2020-05-02,AL,Murici,city,23,1,14,False,28236,2705507,81.45630,0.0435
 2020-05-01,AL,Murici,city,20,1,13,False,28236,2705507,70.83156,0.0500
 2020-04-30,AL,Murici,city,20,1,12,False,28236,2705507,70.83156,0.0500
 2020-04-29,AL,Murici,city,18,1,11,False,28236,2705507,63.74841,0.0556
@@ -350,10 +379,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,AL,Murici,city,1,0,3,False,28236,2705507,3.54158,0.0000
 2020-04-20,AL,Murici,city,2,0,2,False,28236,2705507,7.08316,0.0000
 2020-04-19,AL,Murici,city,1,0,1,False,28236,2705507,3.54158,0.0000
-2020-05-02,AL,Novo Lino,city,1,0,3,True,12690,2705606,7.88022,0.0000
+2020-05-03,AL,Novo Lino,city,1,0,4,True,12690,2705606,7.88022,0.0000
+2020-05-02,AL,Novo Lino,city,1,0,3,False,12690,2705606,7.88022,0.0000
 2020-05-01,AL,Novo Lino,city,1,0,2,False,12690,2705606,7.88022,0.0000
 2020-04-30,AL,Novo Lino,city,1,0,1,False,12690,2705606,7.88022,0.0000
-2020-05-02,AL,Olho d'Água das Flores,city,1,0,8,True,21688,2705705,4.61084,0.0000
+2020-05-03,AL,Olho d'Água das Flores,city,1,0,9,True,21688,2705705,4.61084,0.0000
+2020-05-02,AL,Olho d'Água das Flores,city,1,0,8,False,21688,2705705,4.61084,0.0000
 2020-05-01,AL,Olho d'Água das Flores,city,1,0,7,False,21688,2705705,4.61084,0.0000
 2020-04-30,AL,Olho d'Água das Flores,city,1,0,6,False,21688,2705705,4.61084,0.0000
 2020-04-29,AL,Olho d'Água das Flores,city,1,0,5,False,21688,2705705,4.61084,0.0000
@@ -361,12 +392,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,AL,Olho d'Água das Flores,city,1,0,3,False,21688,2705705,4.61084,0.0000
 2020-04-26,AL,Olho d'Água das Flores,city,1,0,2,False,21688,2705705,4.61084,0.0000
 2020-04-25,AL,Olho d'Água das Flores,city,1,0,1,False,21688,2705705,4.61084,0.0000
-2020-05-02,AL,Palestina,city,1,0,5,True,5011,2706208,19.95610,0.0000
+2020-05-03,AL,Palestina,city,1,0,6,True,5011,2706208,19.95610,0.0000
+2020-05-02,AL,Palestina,city,1,0,5,False,5011,2706208,19.95610,0.0000
 2020-05-01,AL,Palestina,city,1,0,4,False,5011,2706208,19.95610,0.0000
 2020-04-30,AL,Palestina,city,1,0,3,False,5011,2706208,19.95610,0.0000
 2020-04-29,AL,Palestina,city,1,0,2,False,5011,2706208,19.95610,0.0000
 2020-04-28,AL,Palestina,city,1,0,1,False,5011,2706208,19.95610,0.0000
-2020-05-02,AL,Palmeira dos Índios,city,14,0,27,True,73218,2706307,19.12098,0.0000
+2020-05-03,AL,Palmeira dos Índios,city,16,0,28,True,73218,2706307,21.85255,0.0000
+2020-05-02,AL,Palmeira dos Índios,city,14,0,27,False,73218,2706307,19.12098,0.0000
 2020-05-01,AL,Palmeira dos Índios,city,12,0,26,False,73218,2706307,16.38941,0.0000
 2020-04-30,AL,Palmeira dos Índios,city,11,0,25,False,73218,2706307,15.02363,0.0000
 2020-04-29,AL,Palmeira dos Índios,city,7,0,24,False,73218,2706307,9.56049,0.0000
@@ -393,7 +426,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,AL,Palmeira dos Índios,city,1,0,3,False,73218,2706307,1.36578,0.0000
 2020-04-07,AL,Palmeira dos Índios,city,1,0,2,False,73218,2706307,1.36578,0.0000
 2020-04-06,AL,Palmeira dos Índios,city,1,0,1,False,73218,2706307,1.36578,0.0000
-2020-05-02,AL,Paripueira,city,1,1,10,True,13176,2706448,7.58956,1.0000
+2020-05-03,AL,Paripueira,city,2,2,11,True,13176,2706448,15.17911,1.0000
+2020-05-02,AL,Paripueira,city,1,1,10,False,13176,2706448,7.58956,1.0000
 2020-05-01,AL,Paripueira,city,1,1,9,False,13176,2706448,7.58956,1.0000
 2020-04-30,AL,Paripueira,city,1,1,8,False,13176,2706448,7.58956,1.0000
 2020-04-29,AL,Paripueira,city,1,1,7,False,13176,2706448,7.58956,1.0000
@@ -403,16 +437,19 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,AL,Paripueira,city,1,1,3,False,13176,2706448,7.58956,1.0000
 2020-04-24,AL,Paripueira,city,1,1,2,False,13176,2706448,7.58956,1.0000
 2020-04-23,AL,Paripueira,city,1,1,1,False,13176,2706448,7.58956,1.0000
-2020-05-02,AL,Paulo Jacinto,city,1,0,4,True,7564,2706604,13.22052,0.0000
+2020-05-03,AL,Paulo Jacinto,city,1,1,5,True,7564,2706604,13.22052,1.0000
+2020-05-02,AL,Paulo Jacinto,city,1,0,4,False,7564,2706604,13.22052,0.0000
 2020-05-01,AL,Paulo Jacinto,city,1,0,3,False,7564,2706604,13.22052,0.0000
 2020-04-30,AL,Paulo Jacinto,city,1,0,2,False,7564,2706604,13.22052,0.0000
 2020-04-29,AL,Paulo Jacinto,city,1,0,1,False,7564,2706604,13.22052,0.0000
-2020-05-02,AL,Penedo,city,1,0,5,True,63683,2706703,1.57028,0.0000
+2020-05-03,AL,Penedo,city,1,0,6,True,63683,2706703,1.57028,0.0000
+2020-05-02,AL,Penedo,city,1,0,5,False,63683,2706703,1.57028,0.0000
 2020-05-01,AL,Penedo,city,1,0,4,False,63683,2706703,1.57028,0.0000
 2020-04-30,AL,Penedo,city,1,0,3,False,63683,2706703,1.57028,0.0000
 2020-04-29,AL,Penedo,city,1,0,2,False,63683,2706703,1.57028,0.0000
 2020-04-28,AL,Penedo,city,1,0,1,False,63683,2706703,1.57028,0.0000
-2020-05-02,AL,Piaçabuçu,city,4,0,9,True,17827,2706802,22.43788,0.0000
+2020-05-03,AL,Piaçabuçu,city,4,0,10,True,17827,2706802,22.43788,0.0000
+2020-05-02,AL,Piaçabuçu,city,4,0,9,False,17827,2706802,22.43788,0.0000
 2020-05-01,AL,Piaçabuçu,city,2,0,8,False,17827,2706802,11.21894,0.0000
 2020-04-30,AL,Piaçabuçu,city,2,0,7,False,17827,2706802,11.21894,0.0000
 2020-04-29,AL,Piaçabuçu,city,2,0,6,False,17827,2706802,11.21894,0.0000
@@ -421,7 +458,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,AL,Piaçabuçu,city,2,0,3,False,17827,2706802,11.21894,0.0000
 2020-04-25,AL,Piaçabuçu,city,2,0,2,False,17827,2706802,11.21894,0.0000
 2020-04-24,AL,Piaçabuçu,city,2,0,1,False,17827,2706802,11.21894,0.0000
-2020-05-02,AL,Pilar,city,5,0,13,True,35111,2706901,14.24055,0.0000
+2020-05-03,AL,Pilar,city,5,0,14,True,35111,2706901,14.24055,0.0000
+2020-05-02,AL,Pilar,city,5,0,13,False,35111,2706901,14.24055,0.0000
 2020-05-01,AL,Pilar,city,5,0,12,False,35111,2706901,14.24055,0.0000
 2020-04-30,AL,Pilar,city,4,0,11,False,35111,2706901,11.39244,0.0000
 2020-04-29,AL,Pilar,city,4,0,10,False,35111,2706901,11.39244,0.0000
@@ -434,7 +472,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-22,AL,Pilar,city,3,0,3,False,35111,2706901,8.54433,0.0000
 2020-04-21,AL,Pilar,city,2,0,2,False,35111,2706901,5.69622,0.0000
 2020-04-20,AL,Pilar,city,1,0,1,False,35111,2706901,2.84811,0.0000
-2020-05-02,AL,Porto Calvo,city,2,0,8,True,27165,2707305,7.36241,0.0000
+2020-05-03,AL,Porto Calvo,city,2,0,9,True,27165,2707305,7.36241,0.0000
+2020-05-02,AL,Porto Calvo,city,2,0,8,False,27165,2707305,7.36241,0.0000
 2020-05-01,AL,Porto Calvo,city,2,0,7,False,27165,2707305,7.36241,0.0000
 2020-04-30,AL,Porto Calvo,city,2,0,6,False,27165,2707305,7.36241,0.0000
 2020-04-29,AL,Porto Calvo,city,2,0,5,False,27165,2707305,7.36241,0.0000
@@ -442,7 +481,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,AL,Porto Calvo,city,2,0,3,False,27165,2707305,7.36241,0.0000
 2020-04-26,AL,Porto Calvo,city,1,0,2,False,27165,2707305,3.68121,0.0000
 2020-04-25,AL,Porto Calvo,city,1,0,1,False,27165,2707305,3.68121,0.0000
-2020-05-02,AL,Porto Real do Colégio,city,1,0,39,True,20066,2707503,4.98355,0.0000
+2020-05-03,AL,Porto Real do Colégio,city,1,0,40,True,20066,2707503,4.98355,0.0000
+2020-05-02,AL,Porto Real do Colégio,city,1,0,39,False,20066,2707503,4.98355,0.0000
 2020-05-01,AL,Porto Real do Colégio,city,1,0,38,False,20066,2707503,4.98355,0.0000
 2020-04-30,AL,Porto Real do Colégio,city,1,0,37,False,20066,2707503,4.98355,0.0000
 2020-04-29,AL,Porto Real do Colégio,city,1,0,36,False,20066,2707503,4.98355,0.0000
@@ -481,7 +521,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,AL,Porto Real do Colégio,city,1,0,3,False,20066,2707503,4.98355,0.0000
 2020-03-26,AL,Porto Real do Colégio,city,1,0,2,False,20066,2707503,4.98355,0.0000
 2020-03-25,AL,Porto Real do Colégio,city,1,0,1,False,20066,2707503,4.98355,0.0000
-2020-05-02,AL,Rio Largo,city,30,0,18,True,75120,2707701,39.93610,0.0000
+2020-05-03,AL,Rio Largo,city,31,0,19,True,75120,2707701,41.26731,0.0000
+2020-05-02,AL,Rio Largo,city,30,0,18,False,75120,2707701,39.93610,0.0000
 2020-05-01,AL,Rio Largo,city,27,0,17,False,75120,2707701,35.94249,0.0000
 2020-04-30,AL,Rio Largo,city,24,0,16,False,75120,2707701,31.94888,0.0000
 2020-04-29,AL,Rio Largo,city,26,0,15,False,75120,2707701,34.61129,0.0000
@@ -499,7 +540,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,AL,Rio Largo,city,4,0,3,False,75120,2707701,5.32481,0.0000
 2020-04-16,AL,Rio Largo,city,3,0,2,False,75120,2707701,3.99361,0.0000
 2020-04-15,AL,Rio Largo,city,2,0,1,False,75120,2707701,2.66241,0.0000
-2020-05-02,AL,Santa Luzia do Norte,city,5,0,9,True,7296,2707909,68.53070,0.0000
+2020-05-03,AL,Santa Luzia do Norte,city,5,0,10,True,7296,2707909,68.53070,0.0000
+2020-05-02,AL,Santa Luzia do Norte,city,5,0,9,False,7296,2707909,68.53070,0.0000
 2020-05-01,AL,Santa Luzia do Norte,city,5,0,8,False,7296,2707909,68.53070,0.0000
 2020-04-30,AL,Santa Luzia do Norte,city,5,0,7,False,7296,2707909,68.53070,0.0000
 2020-04-29,AL,Santa Luzia do Norte,city,4,0,6,False,7296,2707909,54.82456,0.0000
@@ -508,9 +550,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,AL,Santa Luzia do Norte,city,1,0,3,False,7296,2707909,13.70614,0.0000
 2020-04-25,AL,Santa Luzia do Norte,city,1,0,2,False,7296,2707909,13.70614,0.0000
 2020-04-24,AL,Santa Luzia do Norte,city,1,0,1,False,7296,2707909,13.70614,0.0000
-2020-05-02,AL,Santana do Ipanema,city,1,0,2,True,47654,2708006,2.09846,0.0000
+2020-05-03,AL,Santana do Ipanema,city,1,0,3,True,47654,2708006,2.09846,0.0000
+2020-05-02,AL,Santana do Ipanema,city,1,0,2,False,47654,2708006,2.09846,0.0000
 2020-05-01,AL,Santana do Ipanema,city,1,0,1,False,47654,2708006,2.09846,0.0000
-2020-05-02,AL,Satuba,city,17,0,19,True,13828,2708907,122.93896,0.0000
+2020-05-03,AL,Satuba,city,19,0,20,True,13828,2708907,137.40237,0.0000
+2020-05-02,AL,Satuba,city,17,0,19,False,13828,2708907,122.93896,0.0000
 2020-05-01,AL,Satuba,city,17,0,18,False,13828,2708907,122.93896,0.0000
 2020-04-30,AL,Satuba,city,12,0,17,False,13828,2708907,86.78045,0.0000
 2020-04-29,AL,Satuba,city,10,0,16,False,13828,2708907,72.31704,0.0000
@@ -529,7 +573,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,AL,Satuba,city,1,0,3,False,13828,2708907,7.23170,0.0000
 2020-04-15,AL,Satuba,city,1,0,2,False,13828,2708907,7.23170,0.0000
 2020-04-14,AL,Satuba,city,1,0,1,False,13828,2708907,7.23170,0.0000
-2020-05-02,AL,São Miguel dos Campos,city,5,0,9,True,61251,2708600,8.16313,0.0000
+2020-05-03,AL,São Miguel dos Campos,city,5,0,10,True,61251,2708600,8.16313,0.0000
+2020-05-02,AL,São Miguel dos Campos,city,5,0,9,False,61251,2708600,8.16313,0.0000
 2020-05-01,AL,São Miguel dos Campos,city,5,0,8,False,61251,2708600,8.16313,0.0000
 2020-04-30,AL,São Miguel dos Campos,city,5,0,7,False,61251,2708600,8.16313,0.0000
 2020-04-29,AL,São Miguel dos Campos,city,5,0,6,False,61251,2708600,8.16313,0.0000
@@ -538,7 +583,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,AL,São Miguel dos Campos,city,1,0,3,False,61251,2708600,1.63263,0.0000
 2020-04-25,AL,São Miguel dos Campos,city,1,0,2,False,61251,2708600,1.63263,0.0000
 2020-04-24,AL,São Miguel dos Campos,city,1,0,1,False,61251,2708600,1.63263,0.0000
-2020-05-02,AL,São Miguel dos Milagres,city,2,1,15,True,7951,2708709,25.15407,0.5000
+2020-05-03,AL,São Miguel dos Milagres,city,2,1,16,True,7951,2708709,25.15407,0.5000
+2020-05-02,AL,São Miguel dos Milagres,city,2,1,15,False,7951,2708709,25.15407,0.5000
 2020-05-01,AL,São Miguel dos Milagres,city,2,1,14,False,7951,2708709,25.15407,0.5000
 2020-04-30,AL,São Miguel dos Milagres,city,2,1,13,False,7951,2708709,25.15407,0.5000
 2020-04-29,AL,São Miguel dos Milagres,city,2,1,12,False,7951,2708709,25.15407,0.5000
@@ -553,7 +599,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,AL,São Miguel dos Milagres,city,1,1,3,False,7951,2708709,12.57703,1.0000
 2020-04-19,AL,São Miguel dos Milagres,city,1,1,2,False,7951,2708709,12.57703,1.0000
 2020-04-18,AL,São Miguel dos Milagres,city,1,1,1,False,7951,2708709,12.57703,1.0000
-2020-05-02,AL,São Sebastião,city,4,0,8,True,34152,2708808,11.71234,0.0000
+2020-05-03,AL,São Sebastião,city,4,0,9,True,34152,2708808,11.71234,0.0000
+2020-05-02,AL,São Sebastião,city,4,0,8,False,34152,2708808,11.71234,0.0000
 2020-05-01,AL,São Sebastião,city,4,0,7,False,34152,2708808,11.71234,0.0000
 2020-04-30,AL,São Sebastião,city,3,0,6,False,34152,2708808,8.78426,0.0000
 2020-04-29,AL,São Sebastião,city,1,0,5,False,34152,2708808,2.92809,0.0000
@@ -561,11 +608,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,AL,São Sebastião,city,1,0,3,False,34152,2708808,2.92809,0.0000
 2020-04-26,AL,São Sebastião,city,1,0,2,False,34152,2708808,2.92809,0.0000
 2020-04-25,AL,São Sebastião,city,1,0,1,False,34152,2708808,2.92809,0.0000
-2020-05-02,AL,Taquarana,city,3,0,3,True,19980,2709103,15.01502,0.0000
+2020-05-03,AL,Taquarana,city,3,0,4,True,19980,2709103,15.01502,0.0000
+2020-05-02,AL,Taquarana,city,3,0,3,False,19980,2709103,15.01502,0.0000
 2020-05-01,AL,Taquarana,city,2,0,2,False,19980,2709103,10.01001,0.0000
 2020-04-30,AL,Taquarana,city,2,0,1,False,19980,2709103,10.01001,0.0000
-2020-05-02,AL,Teotônio Vilela,city,1,0,1,True,44169,2709152,2.26403,0.0000
-2020-05-02,AL,União dos Palmares,city,10,1,17,True,65611,2709301,15.24135,0.1000
+2020-05-03,AL,Teotônio Vilela,city,1,0,2,True,44169,2709152,2.26403,0.0000
+2020-05-02,AL,Teotônio Vilela,city,1,0,1,False,44169,2709152,2.26403,0.0000
+2020-05-03,AL,União dos Palmares,city,10,1,18,True,65611,2709301,15.24135,0.1000
+2020-05-02,AL,União dos Palmares,city,10,1,17,False,65611,2709301,15.24135,0.1000
 2020-05-01,AL,União dos Palmares,city,5,0,16,False,65611,2709301,7.62067,0.0000
 2020-04-30,AL,União dos Palmares,city,5,0,15,False,65611,2709301,7.62067,0.0000
 2020-04-29,AL,União dos Palmares,city,5,0,14,False,65611,2709301,7.62067,0.0000
@@ -582,7 +632,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,AL,União dos Palmares,city,1,0,3,False,65611,2709301,1.52413,0.0000
 2020-04-17,AL,União dos Palmares,city,1,0,2,False,65611,2709301,1.52413,0.0000
 2020-04-16,AL,União dos Palmares,city,1,0,1,False,65611,2709301,1.52413,0.0000
-2020-05-02,AL,Viçosa,city,1,1,15,True,25733,2709400,3.88606,1.0000
+2020-05-03,AL,Viçosa,city,1,1,16,True,25733,2709400,3.88606,1.0000
+2020-05-02,AL,Viçosa,city,1,1,15,False,25733,2709400,3.88606,1.0000
 2020-05-01,AL,Viçosa,city,1,1,14,False,25733,2709400,3.88606,1.0000
 2020-04-30,AL,Viçosa,city,1,1,13,False,25733,2709400,3.88606,1.0000
 2020-04-29,AL,Viçosa,city,1,1,12,False,25733,2709400,3.88606,1.0000
