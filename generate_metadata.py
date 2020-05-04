@@ -60,7 +60,8 @@ def meta_brazil(countries={}):
                 regions[region_key] = {
                     'name': row['city'],
                     'parent': row['state'],
-                    'place_type': row['place_type']
+                    'place_type': row['place_type'],
+                    'file': region_file,
                 }
 
     regions = dict(sorted(regions.items(), key=lambda item: item[0]))
@@ -147,6 +148,7 @@ def meta_united_kingdom(countries={}):
                     'name': row['region'],
                     'parent': row['country'],
                     'place_type': row['place_type'],
+                    'file': region_file,
                 }
 
     regions = dict(sorted(regions.items(), key=lambda item: item[0]))
@@ -180,7 +182,8 @@ def meta_united_states_of_america(countries={}):
                 regions[region_key] = {
                     'name': row['county'],
                     'parent': row['state'],
-                    'place_type': row['place_type']
+                    'place_type': row['place_type'],
+                    'file': region_file,
                 }
 
     regions = dict(sorted(regions.items(), key=lambda item: item[0]))
