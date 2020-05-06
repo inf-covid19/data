@@ -23,7 +23,8 @@ def meta_countries(countries={}):
             'file': country_file,
             'geoId': head.geoId,
             'countryTerritoryCode': head.countryterritoryCode,
-            'regions': {}
+            'regions': {},
+            'parent': head.continentExp,
         }
 
     countries = dict(sorted(countries.items(), key=lambda item: item[0]))
