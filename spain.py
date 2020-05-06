@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from os import getcwd, path
 import datetime
 from helpers import ensure_dirs
@@ -39,6 +40,15 @@ def scrape_spain():
         'Fallecidos': 'deaths',
         'Recuperados': 'recovered'
     })
+
+    def fill_cases(row):
+        cases = row['cases']
+        if np.isnan(cases):
+            return row['PCR+'] + row['TestAc+']
+        return cases
+
+    df['cases'] = df.apply(fill_cases, axis=1)
+
     df = df.sort_values(by=['iso', 'date'], ascending=[True, False])
     df['region'] = df.apply(lambda r: CCAA_ISO[r['iso']], axis=1)
     df['city'] = ''
@@ -50,13 +60,14 @@ def scrape_spain():
         region_file = path.join(spain_dir, f'es-{iso.lower()}.csv')
         current_df = df[is_current_iso]
         current_df.to_csv(region_file, index=False, float_format='%.f')
-    
+
     with open(path.join(spain_dir, 'README.md'), 'w') as readme_f:
         readme_f.write(get_readme_contents())
 
 
 def get_readme_contents():
-    toc = [f'| {name} | [`es-{iso.lower()}.csv`](es-{iso.lower()}.csv) |' for iso, name in CCAA_ISO.items()]
+    toc = [f'| {name} | [`es-{iso.lower()}.csv`](es-{iso.lower()}.csv) |' for iso,
+           name in CCAA_ISO.items()]
     toc_contents = '\n'.join(toc)
 
     return f"""## Spain

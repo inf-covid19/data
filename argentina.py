@@ -15,14 +15,15 @@ def scrape_argentina():
     ensure_dirs(argentina_dir, tmp_dir)
 
     page = requests.get(URL).json()
-    
+
     updated_files = []
     header = 'date,region_iso,region,province,city,place_type,cases,deaths,recovered\n'
     for dep in page:
         if dep['provincia-key'] == 'totales':
             continue
         region = CODE_REGION[dep['provincia-key']]
-        day = str(datetime.datetime.strptime(dep['ultima-actualizacion'], '%d/%m/%Y'))[:10]
+        day = str(datetime.datetime.strptime(
+            dep['ultima-actualizacion'], '%d/%m/%Y'))[:10]
         iso = REGION_ISO[region]
         confirmed = get(dep, 'Afectados', '0')
         deaths = get(dep, 'Muertos', '0')
@@ -46,10 +47,10 @@ def scrape_argentina():
             if is_empty:
                 f.write(header)
             f.write(f'{line}\n')
-        
+
         if not is_empty:
             updated_files.append(region_file)
-    
+
     ensure_consistency(updated_files, lambda row: row[:5])
 
     with open(path.join(getcwd(), 'data', 'argentina', 'README.md'), 'w') as readme_f:
@@ -57,7 +58,8 @@ def scrape_argentina():
 
 
 def get_readme_contents():
-    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name, iso in REGION_ISO.items()]
+    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name,
+           iso in REGION_ISO.items()]
     toc_contents = '\n'.join(toc)
 
     return f"""## Argentina
@@ -70,7 +72,6 @@ def get_readme_contents():
 {toc_contents}
 
 """
-
 
 
 
@@ -129,4 +130,3 @@ CODE_REGION = {
     "tucuman": "Tucumán",
     "sin-definir": "Sin definir"
 }
-
