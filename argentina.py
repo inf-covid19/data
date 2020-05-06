@@ -5,7 +5,7 @@ from os import getcwd, path, rename
 import datetime
 from helpers import ensure_dirs, ensure_consistency, get
 
-URL = 'https://olcreativa.lanacion.com.ar/dev/get_url/api.php?key2=1VNRiUbnk53NdSplwmqjQppdWeTtOYLZgez12XyyiPIM'
+URL = 'https://especialess3.lanacion.com.ar/coronavirus_admin/jsons/totales_provincias_full.json'
 
 
 def scrape_argentina():

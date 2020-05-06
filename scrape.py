@@ -1,5 +1,7 @@
 import time
 import traceback
+import argparse
+
 
 from helpers import executor
 
@@ -19,6 +21,11 @@ from uruguay import scrape_uruguay
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Scrape COVID-19 cases and deaths.')
+    parser.add_argument('-r', '--region', nargs="+", help="regions to scrape")
+
+    args = parser.parse_args()
+
     scraper = [
         scrape_countries,
         scrape_brazil,
@@ -34,6 +41,10 @@ if __name__ == "__main__":
         scrape_peru,
         scrape_uruguay,
     ]
+
+    if args.region is not None:
+        scraper = [fn for fn in scraper if len(
+            [r for r in args.region if r in fn.__name__]) > 0]
 
     for fn in scraper:
         executor(fn)
