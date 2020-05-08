@@ -6,7 +6,7 @@ from helpers import ensure_dirs
 from urllib import request
 
 
-COUNTIES_DATASET = 'https://covid19.isciii.es/resources/serie_historica_acumulados.csv'
+COUNTIES_DATASET = 'https://cnecovid.isciii.es/covid19/resources/agregados.csv'
 
 
 def scrape_spain():
@@ -15,22 +15,10 @@ def scrape_spain():
     tmp_dir = path.join(cwd, 'tmp')
     ensure_dirs(spain_dir, tmp_dir)
 
-    raw_file = path.join(tmp_dir, 'spain.raw.csv')
-    csv_file = path.join(tmp_dir, 'spain.csv')
-    request.urlretrieve(COUNTIES_DATASET, raw_file)
-    with open(raw_file, 'rt', encoding='iso-8859-1') as raw_f:
-        with open(csv_file, 'w') as csv_f:
-            is_header = True
-            for line in raw_f:
-                values = [v.strip() for v in line.split(",")]
-                if is_header or len(values[0]) == 2:
-                    csv_f.write(','.join(values) + '\n')
-                is_header = False
-
     headers = ['date', 'region', 'city',
                'place_type', 'iso', 'cases', 'deaths', 'hospitalized', 'critical', 'recovered']
 
-    df = pd.read_csv(csv_file, parse_dates=[1], dayfirst=True)
+    df = pd.read_csv(COUNTIES_DATASET, parse_dates=[1], dayfirst=True, encoding='iso-8859-1')
     df = df.rename(columns={
         'CCAA': 'iso',
         'FECHA': 'date',
@@ -40,6 +28,8 @@ def scrape_spain():
         'Fallecidos': 'deaths',
         'Recuperados': 'recovered'
     })
+
+    df = df[df['iso'].str.len() == 2]
 
     def fill_cases(row):
         cases = row['cases']
