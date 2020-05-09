@@ -34,11 +34,16 @@ def scrape_colombia():
 
     for tr in per_departament_table.tbody.find_all('tr'):
         cols = [td.get_text().strip() for td in tr.find_all('td')]
-        if len(cols) != 4:
+
+        if len(cols) == 0:
             continue
 
         departament = cols[0]
         iso = DEPARTAMENT_ISO[departament]
+
+        cases = cols[1]
+        deaths = cols[3]
+        recovered = cols[6]
 
         line = ','.join([
             today,
@@ -46,9 +51,9 @@ def scrape_colombia():
             departament,
             '',
             'departamento',
-            not_number_regexp.sub('', cols[1]),
-            not_number_regexp.sub('', cols[2]),
-            not_number_regexp.sub('', cols[3]),
+            cases,
+            deaths,
+            recovered,
         ])
 
         departament_file = path.join(colombia_dir, f'{iso.lower()}.csv')

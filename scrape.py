@@ -21,7 +21,8 @@ from uruguay import scrape_uruguay
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Scrape COVID-19 cases and deaths.')
+    parser = argparse.ArgumentParser(
+        description='Scrape COVID-19 cases and deaths.')
     parser.add_argument('-r', '--region', nargs="+", help="regions to scrape")
 
     args = parser.parse_args()
