@@ -1,5 +1,7 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-05-07,RR,,state,1020,14,45,True,605761,14,168.38324,0.0137
+2020-05-09,RR,,state,1202,18,47,True,605761,14,198.42809,0.0150
+2020-05-08,RR,,state,1124,16,46,False,605761,14,185.55173,0.0142
+2020-05-07,RR,,state,1020,14,45,False,605761,14,168.38324,0.0137
 2020-05-06,RR,,state,932,13,44,False,605761,14,153.85606,0.0139
 2020-05-05,RR,,state,869,11,43,False,605761,14,143.45592,0.0127
 2020-05-04,RR,,state,578,11,42,False,605761,14,95.41717,0.0190
@@ -44,7 +46,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,RR,,state,2,0,3,False,605761,14,0.33016,0.0000
 2020-03-22,RR,,state,2,0,2,False,605761,14,0.33016,0.0000
 2020-03-21,RR,,state,2,0,1,False,605761,14,0.33016,0.0000
-2020-05-07,RR,Alto Alegre,city,11,1,28,True,15510,1400050,70.92199,0.0909
+2020-05-09,RR,Alto Alegre,city,12,1,30,True,15510,1400050,77.36944,0.0833
+2020-05-08,RR,Alto Alegre,city,11,1,29,False,15510,1400050,70.92199,0.0909
+2020-05-07,RR,Alto Alegre,city,11,1,28,False,15510,1400050,70.92199,0.0909
 2020-05-06,RR,Alto Alegre,city,8,1,27,False,15510,1400050,51.57963,0.1250
 2020-05-05,RR,Alto Alegre,city,8,1,26,False,15510,1400050,51.57963,0.1250
 2020-05-04,RR,Alto Alegre,city,5,1,25,False,15510,1400050,32.23727,0.2000
@@ -72,10 +76,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,RR,Alto Alegre,city,1,0,3,False,15510,1400050,6.44745,0.0000
 2020-04-08,RR,Alto Alegre,city,1,0,2,False,15510,1400050,6.44745,0.0000
 2020-04-07,RR,Alto Alegre,city,1,0,1,False,15510,1400050,6.44745,0.0000
-2020-05-07,RR,Amajari,city,6,0,3,True,12796,1400027,46.88965,0.0000
+2020-05-09,RR,Amajari,city,5,0,5,True,12796,1400027,39.07471,0.0000
+2020-05-08,RR,Amajari,city,5,0,4,False,12796,1400027,39.07471,0.0000
+2020-05-07,RR,Amajari,city,6,0,3,False,12796,1400027,46.88965,0.0000
 2020-05-06,RR,Amajari,city,4,0,2,False,12796,1400027,31.25977,0.0000
 2020-05-05,RR,Amajari,city,2,0,1,False,12796,1400027,15.62988,0.0000
-2020-05-07,RR,Boa Vista,city,840,13,45,True,399213,1400100,210.41399,0.0155
+2020-05-09,RR,Boa Vista,city,970,17,47,True,399213,1400100,242.97806,0.0175
+2020-05-08,RR,Boa Vista,city,917,15,46,False,399213,1400100,229.70194,0.0164
+2020-05-07,RR,Boa Vista,city,840,13,45,False,399213,1400100,210.41399,0.0155
 2020-05-06,RR,Boa Vista,city,771,12,44,False,399213,1400100,193.12998,0.0156
 2020-05-05,RR,Boa Vista,city,714,10,43,False,399213,1400100,178.85189,0.0140
 2020-05-04,RR,Boa Vista,city,513,10,42,False,399213,1400100,128.50283,0.0195
@@ -120,7 +128,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,RR,Boa Vista,city,2,0,3,False,399213,1400100,0.50099,0.0000
 2020-03-22,RR,Boa Vista,city,2,0,2,False,399213,1400100,0.50099,0.0000
 2020-03-21,RR,Boa Vista,city,2,0,1,False,399213,1400100,0.50099,0.0000
-2020-05-07,RR,Bonfim,city,12,0,42,True,12409,1400159,96.70401,0.0000
+2020-05-09,RR,Bonfim,city,17,0,44,True,12409,1400159,136.99734,0.0000
+2020-05-08,RR,Bonfim,city,17,0,43,False,12409,1400159,136.99734,0.0000
+2020-05-07,RR,Bonfim,city,12,0,42,False,12409,1400159,96.70401,0.0000
 2020-05-06,RR,Bonfim,city,11,0,41,False,12409,1400159,88.64534,0.0000
 2020-05-05,RR,Bonfim,city,11,0,40,False,12409,1400159,88.64534,0.0000
 2020-05-04,RR,Bonfim,city,5,0,39,False,12409,1400159,40.29334,0.0000
@@ -162,7 +172,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,RR,Bonfim,city,1,0,3,False,12409,1400159,8.05867,0.0000
 2020-03-25,RR,Bonfim,city,1,0,2,False,12409,1400159,8.05867,0.0000
 2020-03-24,RR,Bonfim,city,1,0,1,False,12409,1400159,8.05867,0.0000
-2020-05-07,RR,Cantá,city,9,0,33,True,18335,1400175,49.08645,0.0000
+2020-05-09,RR,Cantá,city,18,0,35,True,18335,1400175,98.17289,0.0000
+2020-05-08,RR,Cantá,city,14,0,34,False,18335,1400175,76.35669,0.0000
+2020-05-07,RR,Cantá,city,9,0,33,False,18335,1400175,49.08645,0.0000
 2020-05-06,RR,Cantá,city,8,0,32,False,18335,1400175,43.63240,0.0000
 2020-05-05,RR,Cantá,city,8,0,31,False,18335,1400175,43.63240,0.0000
 2020-05-04,RR,Cantá,city,7,0,30,False,18335,1400175,38.17835,0.0000
@@ -195,13 +207,17 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,RR,Cantá,city,3,0,3,False,18335,1400175,16.36215,0.0000
 2020-04-03,RR,Cantá,city,3,0,2,False,18335,1400175,16.36215,0.0000
 2020-04-02,RR,Cantá,city,3,0,1,False,18335,1400175,16.36215,0.0000
-2020-05-07,RR,Caracaraí,city,5,0,6,True,21926,1400209,22.80398,0.0000
+2020-05-09,RR,Caracaraí,city,6,0,8,True,21926,1400209,27.36477,0.0000
+2020-05-08,RR,Caracaraí,city,5,0,7,False,21926,1400209,22.80398,0.0000
+2020-05-07,RR,Caracaraí,city,5,0,6,False,21926,1400209,22.80398,0.0000
 2020-05-06,RR,Caracaraí,city,5,0,5,False,21926,1400209,22.80398,0.0000
 2020-05-05,RR,Caracaraí,city,5,0,4,False,21926,1400209,22.80398,0.0000
 2020-05-04,RR,Caracaraí,city,2,0,3,False,21926,1400209,9.12159,0.0000
 2020-05-03,RR,Caracaraí,city,1,0,2,False,21926,1400209,4.56080,0.0000
 2020-04-30,RR,Caracaraí,city,1,0,1,False,21926,1400209,4.56080,0.0000
-2020-05-07,RR,Caroebe,city,11,0,14,True,10169,1400233,108.17189,0.0000
+2020-05-09,RR,Caroebe,city,16,0,16,True,10169,1400233,157.34094,0.0000
+2020-05-08,RR,Caroebe,city,15,0,15,False,10169,1400233,147.50713,0.0000
+2020-05-07,RR,Caroebe,city,11,0,14,False,10169,1400233,108.17189,0.0000
 2020-05-06,RR,Caroebe,city,11,0,13,False,10169,1400233,108.17189,0.0000
 2020-05-05,RR,Caroebe,city,11,0,12,False,10169,1400233,108.17189,0.0000
 2020-05-04,RR,Caroebe,city,6,0,11,False,10169,1400233,59.00285,0.0000
@@ -215,16 +231,22 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-23,RR,Caroebe,city,1,0,3,False,10169,1400233,9.83381,0.0000
 2020-04-22,RR,Caroebe,city,1,0,2,False,10169,1400233,9.83381,0.0000
 2020-04-21,RR,Caroebe,city,1,0,1,False,10169,1400233,9.83381,0.0000
-2020-05-07,RR,Importados/Indefinidos,city,11,0,6,True,,,,0.0000
+2020-05-09,RR,Importados/Indefinidos,city,16,0,8,True,,,,0.0000
+2020-05-08,RR,Importados/Indefinidos,city,11,0,7,False,,,,0.0000
+2020-05-07,RR,Importados/Indefinidos,city,11,0,6,False,,,,0.0000
 2020-05-06,RR,Importados/Indefinidos,city,11,0,5,False,,,,0.0000
 2020-05-05,RR,Importados/Indefinidos,city,11,0,4,False,,,,0.0000
 2020-05-04,RR,Importados/Indefinidos,city,0,0,3,False,,,,0.0000
 2020-05-03,RR,Importados/Indefinidos,city,0,0,2,False,,,,0.0000
 2020-04-30,RR,Importados/Indefinidos,city,0,0,1,False,,,,0.0000
-2020-05-07,RR,Iracema,city,0,0,3,True,11950,1400282,,0.0000
+2020-05-09,RR,Iracema,city,0,0,5,True,11950,1400282,,0.0000
+2020-05-08,RR,Iracema,city,0,0,4,False,11950,1400282,,0.0000
+2020-05-07,RR,Iracema,city,0,0,3,False,11950,1400282,,0.0000
 2020-05-06,RR,Iracema,city,0,0,2,False,11950,1400282,,0.0000
 2020-05-05,RR,Iracema,city,0,0,1,False,11950,1400282,,0.0000
-2020-05-07,RR,Mucajaí,city,13,0,19,True,17853,1400308,72.81689,0.0000
+2020-05-09,RR,Mucajaí,city,13,0,21,True,17853,1400308,72.81689,0.0000
+2020-05-08,RR,Mucajaí,city,13,0,20,False,17853,1400308,72.81689,0.0000
+2020-05-07,RR,Mucajaí,city,13,0,19,False,17853,1400308,72.81689,0.0000
 2020-05-06,RR,Mucajaí,city,11,0,18,False,17853,1400308,61.61429,0.0000
 2020-05-05,RR,Mucajaí,city,11,0,17,False,17853,1400308,61.61429,0.0000
 2020-05-04,RR,Mucajaí,city,1,0,16,False,17853,1400308,5.60130,0.0000
@@ -243,10 +265,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RR,Mucajaí,city,1,0,3,False,17853,1400308,5.60130,0.0000
 2020-04-17,RR,Mucajaí,city,1,0,2,False,17853,1400308,5.60130,0.0000
 2020-04-16,RR,Mucajaí,city,1,0,1,False,17853,1400308,5.60130,0.0000
-2020-05-07,RR,Normandia,city,3,0,3,True,11290,1400407,26.57219,0.0000
+2020-05-09,RR,Normandia,city,3,0,5,True,11290,1400407,26.57219,0.0000
+2020-05-08,RR,Normandia,city,3,0,4,False,11290,1400407,26.57219,0.0000
+2020-05-07,RR,Normandia,city,3,0,3,False,11290,1400407,26.57219,0.0000
 2020-05-06,RR,Normandia,city,2,0,2,False,11290,1400407,17.71479,0.0000
 2020-05-05,RR,Normandia,city,2,0,1,False,11290,1400407,17.71479,0.0000
-2020-05-07,RR,Pacaraima,city,47,0,24,True,17401,1400456,270.09942,0.0000
+2020-05-09,RR,Pacaraima,city,55,0,26,True,17401,1400456,316.07379,0.0000
+2020-05-08,RR,Pacaraima,city,49,0,25,False,17401,1400456,281.59301,0.0000
+2020-05-07,RR,Pacaraima,city,47,0,24,False,17401,1400456,270.09942,0.0000
 2020-05-06,RR,Pacaraima,city,47,0,23,False,17401,1400456,270.09942,0.0000
 2020-05-05,RR,Pacaraima,city,44,0,22,False,17401,1400456,252.85903,0.0000
 2020-05-04,RR,Pacaraima,city,18,0,21,False,17401,1400456,103.44233,0.0000
@@ -270,7 +296,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,RR,Pacaraima,city,2,0,3,False,17401,1400456,11.49359,0.0000
 2020-04-12,RR,Pacaraima,city,2,0,2,False,17401,1400456,11.49359,0.0000
 2020-04-11,RR,Pacaraima,city,2,0,1,False,17401,1400456,11.49359,0.0000
-2020-05-07,RR,Rorainópolis,city,43,0,19,True,30163,1400472,142.55876,0.0000
+2020-05-09,RR,Rorainópolis,city,50,0,21,True,30163,1400472,165.76600,0.0000
+2020-05-08,RR,Rorainópolis,city,43,0,20,False,30163,1400472,142.55876,0.0000
+2020-05-07,RR,Rorainópolis,city,43,0,19,False,30163,1400472,142.55876,0.0000
 2020-05-06,RR,Rorainópolis,city,34,0,18,False,30163,1400472,112.72088,0.0000
 2020-05-05,RR,Rorainópolis,city,33,0,17,False,30163,1400472,109.40556,0.0000
 2020-05-04,RR,Rorainópolis,city,19,0,16,False,30163,1400472,62.99108,0.0000
@@ -289,10 +317,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RR,Rorainópolis,city,3,0,3,False,30163,1400472,9.94596,0.0000
 2020-04-17,RR,Rorainópolis,city,1,0,2,False,30163,1400472,3.31532,0.0000
 2020-04-16,RR,Rorainópolis,city,1,0,1,False,30163,1400472,3.31532,0.0000
-2020-05-07,RR,São João da Baliza,city,4,0,3,True,8201,1400506,48.77454,0.0000
+2020-05-09,RR,São João da Baliza,city,4,0,5,True,8201,1400506,48.77454,0.0000
+2020-05-08,RR,São João da Baliza,city,4,0,4,False,8201,1400506,48.77454,0.0000
+2020-05-07,RR,São João da Baliza,city,4,0,3,False,8201,1400506,48.77454,0.0000
 2020-05-06,RR,São João da Baliza,city,4,0,2,False,8201,1400506,48.77454,0.0000
 2020-05-05,RR,São João da Baliza,city,4,0,1,False,8201,1400506,48.77454,0.0000
-2020-05-07,RR,São Luiz,city,5,0,18,True,7986,1400605,62.60957,0.0000
+2020-05-09,RR,São Luiz,city,16,0,20,True,7986,1400605,200.35061,0.0000
+2020-05-08,RR,São Luiz,city,16,0,19,False,7986,1400605,200.35061,0.0000
+2020-05-07,RR,São Luiz,city,5,0,18,False,7986,1400605,62.60957,0.0000
 2020-05-06,RR,São Luiz,city,5,0,17,False,7986,1400605,62.60957,0.0000
 2020-05-05,RR,São Luiz,city,5,0,16,False,7986,1400605,62.60957,0.0000
 2020-05-04,RR,São Luiz,city,2,0,15,False,7986,1400605,25.04383,0.0000
@@ -310,6 +342,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,RR,São Luiz,city,1,0,3,False,7986,1400605,12.52191,0.0000
 2020-04-18,RR,São Luiz,city,1,0,2,False,7986,1400605,12.52191,0.0000
 2020-04-17,RR,São Luiz,city,1,0,1,False,7986,1400605,12.52191,0.0000
-2020-05-07,RR,Uiramutã,city,0,0,3,True,10559,1400704,,0.0000
+2020-05-09,RR,Uiramutã,city,1,0,5,True,10559,1400704,9.47059,0.0000
+2020-05-08,RR,Uiramutã,city,1,0,4,False,10559,1400704,9.47059,0.0000
+2020-05-07,RR,Uiramutã,city,0,0,3,False,10559,1400704,,0.0000
 2020-05-06,RR,Uiramutã,city,0,0,2,False,10559,1400704,,0.0000
 2020-05-05,RR,Uiramutã,city,0,0,1,False,10559,1400704,,0.0000
