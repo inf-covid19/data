@@ -1,6 +1,6 @@
 ## Bolivia
 
-> Last updated at May 12 2020 17:35:16 UTC.
+> Last updated at May 13 2020 00:38:58 UTC.
 
 
 | Region | Dataset |
