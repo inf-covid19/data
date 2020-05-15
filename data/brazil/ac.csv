@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-05-13,AC,,state,1694,52,58,True,881935,12,192.07765,0.0307
+2020-05-14,AC,,state,1740,55,59,True,881935,12,197.29345,0.0316
+2020-05-13,AC,,state,1694,52,58,False,881935,12,192.07765,0.0307
 2020-05-12,AC,,state,1590,51,57,False,881935,12,180.28540,0.0321
 2020-05-11,AC,,state,1460,44,56,False,881935,12,165.54508,0.0301
 2020-05-10,AC,,state,1447,41,55,False,881935,12,164.07105,0.0283
@@ -57,7 +58,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-19,AC,,state,4,0,3,False,881935,12,0.45355,0.0000
 2020-03-18,AC,,state,3,0,2,False,881935,12,0.34016,0.0000
 2020-03-17,AC,,state,3,0,1,False,881935,12,0.34016,0.0000
-2020-05-13,AC,Acrelândia,city,39,1,46,True,15256,1200013,255.63713,0.0256
+2020-05-14,AC,Acrelândia,city,47,1,47,True,15256,1200013,308.07551,0.0213
+2020-05-13,AC,Acrelândia,city,39,1,46,False,15256,1200013,255.63713,0.0256
 2020-05-12,AC,Acrelândia,city,31,1,45,False,15256,1200013,203.19874,0.0323
 2020-05-11,AC,Acrelândia,city,30,1,44,False,15256,1200013,196.64394,0.0333
 2020-05-10,AC,Acrelândia,city,30,1,43,False,15256,1200013,196.64394,0.0333
@@ -103,7 +105,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AC,Acrelândia,city,7,0,3,False,15256,1200013,45.88359,0.0000
 2020-03-30,AC,Acrelândia,city,6,0,2,False,15256,1200013,39.32879,0.0000
 2020-03-29,AC,Acrelândia,city,2,0,1,False,15256,1200013,13.10960,0.0000
-2020-05-13,AC,Assis Brasil,city,1,0,13,True,7417,1200054,13.48254,0.0000
+2020-05-14,AC,Assis Brasil,city,1,0,14,True,7417,1200054,13.48254,0.0000
+2020-05-13,AC,Assis Brasil,city,1,0,13,False,7417,1200054,13.48254,0.0000
 2020-05-12,AC,Assis Brasil,city,1,0,12,False,7417,1200054,13.48254,0.0000
 2020-05-11,AC,Assis Brasil,city,1,0,11,False,7417,1200054,13.48254,0.0000
 2020-05-10,AC,Assis Brasil,city,1,0,10,False,7417,1200054,13.48254,0.0000
@@ -116,12 +119,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-03,AC,Assis Brasil,city,1,0,3,False,7417,1200054,13.48254,0.0000
 2020-05-02,AC,Assis Brasil,city,1,0,2,False,7417,1200054,13.48254,0.0000
 2020-05-01,AC,Assis Brasil,city,1,0,1,False,7417,1200054,13.48254,0.0000
-2020-05-13,AC,Brasiléia,city,3,0,5,True,26278,1200104,11.41639,0.0000
+2020-05-14,AC,Brasiléia,city,3,0,6,True,26278,1200104,11.41639,0.0000
+2020-05-13,AC,Brasiléia,city,3,0,5,False,26278,1200104,11.41639,0.0000
 2020-05-12,AC,Brasiléia,city,3,0,4,False,26278,1200104,11.41639,0.0000
 2020-05-11,AC,Brasiléia,city,1,0,3,False,26278,1200104,3.80546,0.0000
 2020-05-10,AC,Brasiléia,city,1,0,2,False,26278,1200104,3.80546,0.0000
 2020-05-09,AC,Brasiléia,city,1,0,1,False,26278,1200104,3.80546,0.0000
-2020-05-13,AC,Bujari,city,16,0,36,True,10266,1200138,155.85428,0.0000
+2020-05-14,AC,Bujari,city,16,0,37,True,10266,1200138,155.85428,0.0000
+2020-05-13,AC,Bujari,city,16,0,36,False,10266,1200138,155.85428,0.0000
 2020-05-12,AC,Bujari,city,8,0,35,False,10266,1200138,77.92714,0.0000
 2020-05-11,AC,Bujari,city,4,0,34,False,10266,1200138,38.96357,0.0000
 2020-05-10,AC,Bujari,city,4,0,33,False,10266,1200138,38.96357,0.0000
@@ -157,13 +162,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,AC,Bujari,city,1,0,3,False,10266,1200138,9.74089,0.0000
 2020-04-09,AC,Bujari,city,1,0,2,False,10266,1200138,9.74089,0.0000
 2020-04-08,AC,Bujari,city,1,0,1,False,10266,1200138,9.74089,0.0000
-2020-05-13,AC,Capixaba,city,1,0,6,True,11733,1200179,8.52297,0.0000
+2020-05-14,AC,Capixaba,city,1,0,7,True,11733,1200179,8.52297,0.0000
+2020-05-13,AC,Capixaba,city,1,0,6,False,11733,1200179,8.52297,0.0000
 2020-05-12,AC,Capixaba,city,1,0,5,False,11733,1200179,8.52297,0.0000
 2020-05-11,AC,Capixaba,city,1,0,4,False,11733,1200179,8.52297,0.0000
 2020-05-10,AC,Capixaba,city,1,0,3,False,11733,1200179,8.52297,0.0000
 2020-05-09,AC,Capixaba,city,1,0,2,False,11733,1200179,8.52297,0.0000
 2020-05-08,AC,Capixaba,city,1,0,1,False,11733,1200179,8.52297,0.0000
-2020-05-13,AC,Cruzeiro do Sul,city,125,1,31,True,88376,1200203,141.44112,0.0080
+2020-05-14,AC,Cruzeiro do Sul,city,144,1,32,True,88376,1200203,162.94016,0.0069
+2020-05-13,AC,Cruzeiro do Sul,city,125,1,31,False,88376,1200203,141.44112,0.0080
 2020-05-12,AC,Cruzeiro do Sul,city,85,0,30,False,88376,1200203,96.17996,0.0000
 2020-05-11,AC,Cruzeiro do Sul,city,81,0,29,False,88376,1200203,91.65384,0.0000
 2020-05-10,AC,Cruzeiro do Sul,city,75,0,28,False,88376,1200203,84.86467,0.0000
@@ -194,14 +201,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,AC,Cruzeiro do Sul,city,2,0,3,False,88376,1200203,2.26306,0.0000
 2020-04-14,AC,Cruzeiro do Sul,city,2,0,2,False,88376,1200203,2.26306,0.0000
 2020-04-13,AC,Cruzeiro do Sul,city,2,0,1,False,88376,1200203,2.26306,0.0000
-2020-05-13,AC,Epitaciolândia,city,2,0,7,True,18411,1200252,10.86307,0.0000
+2020-05-14,AC,Epitaciolândia,city,3,0,8,True,18411,1200252,16.29461,0.0000
+2020-05-13,AC,Epitaciolândia,city,2,0,7,False,18411,1200252,10.86307,0.0000
 2020-05-12,AC,Epitaciolândia,city,2,0,6,False,18411,1200252,10.86307,0.0000
 2020-05-11,AC,Epitaciolândia,city,2,0,5,False,18411,1200252,10.86307,0.0000
 2020-05-10,AC,Epitaciolândia,city,2,0,4,False,18411,1200252,10.86307,0.0000
 2020-05-09,AC,Epitaciolândia,city,2,0,3,False,18411,1200252,10.86307,0.0000
 2020-05-08,AC,Epitaciolândia,city,2,0,2,False,18411,1200252,10.86307,0.0000
 2020-05-07,AC,Epitaciolândia,city,2,0,1,False,18411,1200252,10.86307,0.0000
-2020-05-13,AC,Feijó,city,1,0,12,True,34780,1200302,2.87522,0.0000
+2020-05-14,AC,Feijó,city,1,0,13,True,34780,1200302,2.87522,0.0000
+2020-05-13,AC,Feijó,city,1,0,12,False,34780,1200302,2.87522,0.0000
 2020-05-12,AC,Feijó,city,1,0,11,False,34780,1200302,2.87522,0.0000
 2020-05-11,AC,Feijó,city,1,0,10,False,34780,1200302,2.87522,0.0000
 2020-05-10,AC,Feijó,city,1,0,9,False,34780,1200302,2.87522,0.0000
@@ -213,7 +222,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,AC,Feijó,city,1,0,3,False,34780,1200302,2.87522,0.0000
 2020-05-03,AC,Feijó,city,1,0,2,False,34780,1200302,2.87522,0.0000
 2020-05-02,AC,Feijó,city,1,0,1,False,34780,1200302,2.87522,0.0000
-2020-05-13,AC,Importados/Indefinidos,city,0,0,14,True,,,,0.0000
+2020-05-14,AC,Importados/Indefinidos,city,0,0,15,True,,,,0.0000
+2020-05-13,AC,Importados/Indefinidos,city,0,0,14,False,,,,0.0000
 2020-05-12,AC,Importados/Indefinidos,city,0,0,13,False,,,,0.0000
 2020-05-11,AC,Importados/Indefinidos,city,0,0,12,False,,,,0.0000
 2020-05-10,AC,Importados/Indefinidos,city,0,0,11,False,,,,0.0000
@@ -227,10 +237,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,AC,Importados/Indefinidos,city,0,0,3,False,,,,0.0000
 2020-05-01,AC,Importados/Indefinidos,city,0,0,2,False,,,,0.0000
 2020-04-30,AC,Importados/Indefinidos,city,0,0,1,False,,,,0.0000
-2020-05-13,AC,Manoel Urbano,city,0,0,1,True,9459,1200344,,0.0000
-2020-05-13,AC,Marechal Thaumaturgo,city,3,0,2,True,18867,1200351,15.90078,0.0000
+2020-05-14,AC,Manoel Urbano,city,0,0,2,True,9459,1200344,,0.0000
+2020-05-13,AC,Manoel Urbano,city,0,0,1,False,9459,1200344,,0.0000
+2020-05-14,AC,Marechal Thaumaturgo,city,8,0,3,True,18867,1200351,42.40208,0.0000
+2020-05-13,AC,Marechal Thaumaturgo,city,3,0,2,False,18867,1200351,15.90078,0.0000
 2020-05-12,AC,Marechal Thaumaturgo,city,3,0,1,False,18867,1200351,15.90078,0.0000
-2020-05-13,AC,Mâncio Lima,city,3,0,15,True,18977,1200336,15.80861,0.0000
+2020-05-14,AC,Mâncio Lima,city,3,0,16,True,18977,1200336,15.80861,0.0000
+2020-05-13,AC,Mâncio Lima,city,3,0,15,False,18977,1200336,15.80861,0.0000
 2020-05-12,AC,Mâncio Lima,city,3,0,14,False,18977,1200336,15.80861,0.0000
 2020-05-11,AC,Mâncio Lima,city,3,0,13,False,18977,1200336,15.80861,0.0000
 2020-05-10,AC,Mâncio Lima,city,3,0,12,False,18977,1200336,15.80861,0.0000
@@ -245,7 +258,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-01,AC,Mâncio Lima,city,2,0,3,False,18977,1200336,10.53907,0.0000
 2020-04-30,AC,Mâncio Lima,city,2,0,2,False,18977,1200336,10.53907,0.0000
 2020-04-29,AC,Mâncio Lima,city,1,0,1,False,18977,1200336,5.26954,0.0000
-2020-05-13,AC,Plácido de Castro,city,83,3,38,True,19761,1200385,420.01923,0.0361
+2020-05-14,AC,Plácido de Castro,city,89,3,39,True,19761,1200385,450.38207,0.0337
+2020-05-13,AC,Plácido de Castro,city,83,3,38,False,19761,1200385,420.01923,0.0361
 2020-05-12,AC,Plácido de Castro,city,82,3,37,False,19761,1200385,414.95876,0.0366
 2020-05-11,AC,Plácido de Castro,city,68,3,36,False,19761,1200385,344.11214,0.0441
 2020-05-10,AC,Plácido de Castro,city,68,3,35,False,19761,1200385,344.11214,0.0441
@@ -283,7 +297,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,AC,Plácido de Castro,city,2,0,3,False,19761,1200385,10.12095,0.0000
 2020-04-07,AC,Plácido de Castro,city,1,0,2,False,19761,1200385,5.06047,0.0000
 2020-04-06,AC,Plácido de Castro,city,1,0,1,False,19761,1200385,5.06047,0.0000
-2020-05-13,AC,Porto Acre,city,11,0,46,True,18504,1200807,59.44661,0.0000
+2020-05-14,AC,Porto Acre,city,11,0,47,True,18504,1200807,59.44661,0.0000
+2020-05-13,AC,Porto Acre,city,11,0,46,False,18504,1200807,59.44661,0.0000
 2020-05-12,AC,Porto Acre,city,11,0,45,False,18504,1200807,59.44661,0.0000
 2020-05-11,AC,Porto Acre,city,8,0,44,False,18504,1200807,43.23390,0.0000
 2020-05-10,AC,Porto Acre,city,8,0,43,False,18504,1200807,43.23390,0.0000
@@ -329,8 +344,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,AC,Porto Acre,city,1,0,3,False,18504,1200807,5.40424,0.0000
 2020-03-30,AC,Porto Acre,city,1,0,2,False,18504,1200807,5.40424,0.0000
 2020-03-29,AC,Porto Acre,city,1,0,1,False,18504,1200807,5.40424,0.0000
-2020-05-13,AC,Porto Walter,city,0,0,1,True,11982,1200393,,0.0000
-2020-05-13,AC,Rio Branco,city,1307,46,58,True,407319,1200401,320.87872,0.0352
+2020-05-14,AC,Porto Walter,city,0,0,2,True,11982,1200393,,0.0000
+2020-05-13,AC,Porto Walter,city,0,0,1,False,11982,1200393,,0.0000
+2020-05-14,AC,Rio Branco,city,1311,49,59,True,407319,1200401,321.86075,0.0374
+2020-05-13,AC,Rio Branco,city,1307,46,58,False,407319,1200401,320.87872,0.0352
 2020-05-12,AC,Rio Branco,city,1263,46,57,False,407319,1200401,310.07638,0.0364
 2020-05-11,AC,Rio Branco,city,1192,39,56,False,407319,1200401,292.64532,0.0327
 2020-05-10,AC,Rio Branco,city,1192,36,55,False,407319,1200401,292.64532,0.0302
@@ -388,15 +405,18 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-19,AC,Rio Branco,city,4,0,3,False,407319,1200401,0.98203,0.0000
 2020-03-18,AC,Rio Branco,city,3,0,2,False,407319,1200401,0.73652,0.0000
 2020-03-17,AC,Rio Branco,city,3,0,1,False,407319,1200401,0.73652,0.0000
-2020-05-13,AC,Rodrigues Alves,city,5,0,2,True,18930,1200427,26.41310,0.0000
+2020-05-14,AC,Rodrigues Alves,city,4,0,3,True,18930,1200427,21.13048,0.0000
+2020-05-13,AC,Rodrigues Alves,city,5,0,2,False,18930,1200427,26.41310,0.0000
 2020-05-12,AC,Rodrigues Alves,city,4,0,1,False,18930,1200427,21.13048,0.0000
-2020-05-13,AC,Santa Rosa do Purus,city,1,0,6,True,6540,1200435,15.29052,0.0000
+2020-05-14,AC,Santa Rosa do Purus,city,2,0,7,True,6540,1200435,30.58104,0.0000
+2020-05-13,AC,Santa Rosa do Purus,city,1,0,6,False,6540,1200435,15.29052,0.0000
 2020-05-12,AC,Santa Rosa do Purus,city,1,0,5,False,6540,1200435,15.29052,0.0000
 2020-05-11,AC,Santa Rosa do Purus,city,1,0,4,False,6540,1200435,15.29052,0.0000
 2020-05-10,AC,Santa Rosa do Purus,city,1,0,3,False,6540,1200435,15.29052,0.0000
 2020-05-09,AC,Santa Rosa do Purus,city,1,0,2,False,6540,1200435,15.29052,0.0000
 2020-05-08,AC,Santa Rosa do Purus,city,1,0,1,False,6540,1200435,15.29052,0.0000
-2020-05-13,AC,Sena Madureira,city,17,0,10,True,45848,1200500,37.07904,0.0000
+2020-05-14,AC,Sena Madureira,city,19,0,11,True,45848,1200500,41.44128,0.0000
+2020-05-13,AC,Sena Madureira,city,17,0,10,False,45848,1200500,37.07904,0.0000
 2020-05-12,AC,Sena Madureira,city,17,0,9,False,45848,1200500,37.07904,0.0000
 2020-05-11,AC,Sena Madureira,city,11,0,8,False,45848,1200500,23.99232,0.0000
 2020-05-10,AC,Sena Madureira,city,5,0,7,False,45848,1200500,10.90560,0.0000
@@ -406,7 +426,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,AC,Sena Madureira,city,2,0,3,False,45848,1200500,4.36224,0.0000
 2020-05-05,AC,Sena Madureira,city,2,0,2,False,45848,1200500,4.36224,0.0000
 2020-05-04,AC,Sena Madureira,city,2,0,1,False,45848,1200500,4.36224,0.0000
-2020-05-13,AC,Senador Guiomard,city,41,0,25,True,23024,1200450,178.07505,0.0000
+2020-05-14,AC,Senador Guiomard,city,42,0,26,True,23024,1200450,182.41835,0.0000
+2020-05-13,AC,Senador Guiomard,city,41,0,25,False,23024,1200450,178.07505,0.0000
 2020-05-12,AC,Senador Guiomard,city,41,0,24,False,23024,1200450,178.07505,0.0000
 2020-05-11,AC,Senador Guiomard,city,29,0,23,False,23024,1200450,125.95552,0.0000
 2020-05-10,AC,Senador Guiomard,city,28,0,22,False,23024,1200450,121.61223,0.0000
@@ -431,7 +452,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,AC,Senador Guiomard,city,2,0,3,False,23024,1200450,8.68659,0.0000
 2020-04-20,AC,Senador Guiomard,city,2,0,2,False,23024,1200450,8.68659,0.0000
 2020-04-19,AC,Senador Guiomard,city,2,0,1,False,23024,1200450,8.68659,0.0000
-2020-05-13,AC,Tarauacá,city,22,1,12,True,42567,1200609,51.68323,0.0455
+2020-05-14,AC,Tarauacá,city,22,1,13,True,42567,1200609,51.68323,0.0455
+2020-05-13,AC,Tarauacá,city,22,1,12,False,42567,1200609,51.68323,0.0455
 2020-05-12,AC,Tarauacá,city,21,1,11,False,42567,1200609,49.33399,0.0476
 2020-05-11,AC,Tarauacá,city,16,1,10,False,42567,1200609,37.58780,0.0625
 2020-05-10,AC,Tarauacá,city,16,1,9,False,42567,1200609,37.58780,0.0625
@@ -443,7 +465,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,AC,Tarauacá,city,2,0,3,False,42567,1200609,4.69848,0.0000
 2020-05-03,AC,Tarauacá,city,2,0,2,False,42567,1200609,4.69848,0.0000
 2020-05-02,AC,Tarauacá,city,1,0,1,False,42567,1200609,2.34924,0.0000
-2020-05-13,AC,Xapuri,city,13,0,15,True,19323,1200708,67.27734,0.0000
+2020-05-14,AC,Xapuri,city,13,0,16,True,19323,1200708,67.27734,0.0000
+2020-05-13,AC,Xapuri,city,13,0,15,False,19323,1200708,67.27734,0.0000
 2020-05-12,AC,Xapuri,city,12,0,14,False,19323,1200708,62.10216,0.0000
 2020-05-11,AC,Xapuri,city,11,0,13,False,19323,1200708,56.92698,0.0000
 2020-05-10,AC,Xapuri,city,11,0,12,False,19323,1200708,56.92698,0.0000
