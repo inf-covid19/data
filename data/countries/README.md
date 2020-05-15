@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 14 2020 12:38:05 UTC.
+> Last updated at May 15 2020 10:38:13 UTC.
 
 
 | Country | Dataset |
@@ -117,6 +117,7 @@
 | Laos | [`laos.csv`](laos.csv) |
 | Latvia | [`latvia.csv`](latvia.csv) |
 | Lebanon | [`lebanon.csv`](lebanon.csv) |
+| Lesotho | [`lesotho.csv`](lesotho.csv) |
 | Liberia | [`liberia.csv`](liberia.csv) |
 | Libya | [`libya.csv`](libya.csv) |
 | Liechtenstein | [`liechtenstein.csv`](liechtenstein.csv) |
