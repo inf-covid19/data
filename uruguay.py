@@ -26,7 +26,7 @@ def scrape_uruguay():
 
     for table in tables:
         headers = [th.get_text().strip() for th in table.find_all('th')]
-        if len(headers) > 0 and 'Departmento' == headers[0]:
+        if len(headers) > 0 and 'Departamento' == headers[0]:
             per_departament_table = table
 
     updated_files = []
