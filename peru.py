@@ -34,7 +34,7 @@ def scrape_peru():
 
     for tr in per_departament_table.tbody.find_all('tr'):
         cols = [td.get_text().strip() for td in tr.find_all('td')]
-        if len(cols) != 6:
+        if len(cols) != 7:
             continue
 
         departament = cols[0]
