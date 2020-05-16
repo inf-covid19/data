@@ -1,6 +1,11 @@
 name: Scheduled Update
 
 on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'data/**'
   schedule:
     - cron: "35 */2 * * *"
 
