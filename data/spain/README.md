@@ -1,6 +1,6 @@
 ## Spain
 
-> Last updated at May 17 2020 10:38:23 UTC.
+> Last updated at May 18 2020 18:38:14 UTC.
 
 
 | Autonomous Community | Dataset |
