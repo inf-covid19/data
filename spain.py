@@ -16,9 +16,9 @@ def scrape_spain():
     ensure_dirs(spain_dir, tmp_dir)
 
     headers = ['date', 'region', 'city',
-               'place_type', 'iso', 'cases', 'deaths', 'hospitalized', 'critical', 'recovered']
+               'place_type', 'iso', 'cases', 'deaths', 'hospitalized', 'critical']
 
-    df = pd.read_csv(COUNTIES_DATASET, parse_dates=[1], dayfirst=True, encoding='iso-8859-1')
+    df = pd.read_csv(COUNTIES_DATASET, parse_dates=[1], dayfirst=True, encoding='iso-8859-1', error_bad_lines=False)
     df = df.rename(columns={
         'CCAA': 'iso',
         'FECHA': 'date',
@@ -26,7 +26,6 @@ def scrape_spain():
         'Hospitalizados': 'hospitalized',
         'UCI': 'critical',
         'Fallecidos': 'deaths',
-        'Recuperados': 'recovered'
     })
 
     df = df[df['iso'].str.len() == 2]
