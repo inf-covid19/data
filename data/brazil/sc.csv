@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-05-29,SC,,state,8530,134,79,True,7164788,42,119.05446,0.0157
+2020-05-30,SC,,state,8780,136,80,True,7164788,42,122.54375,0.0155
+2020-05-29,SC,,state,8530,134,79,False,7164788,42,119.05446,0.0157
 2020-05-28,SC,,state,8000,131,78,False,7164788,42,111.65718,0.0164
 2020-05-27,SC,,state,7372,126,77,False,7164788,42,102.89209,0.0171
 2020-05-26,SC,,state,7016,121,76,False,7164788,42,97.92334,0.0172
@@ -78,8 +79,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-14,SC,,state,5,0,3,False,7164788,42,0.06979,0.0000
 2020-03-13,SC,,state,3,0,2,False,7164788,42,0.04187,0.0000
 2020-03-12,SC,,state,2,0,1,False,7164788,42,0.02791,0.0000
-2020-05-29,SC,Abdon Batista,city,1,0,1,True,2563,4200051,39.01678,0.0000
-2020-05-29,SC,Abelardo Luz,city,3,0,19,True,17904,4200101,16.75603,0.0000
+2020-05-30,SC,Abdon Batista,city,1,0,2,True,2563,4200051,39.01678,0.0000
+2020-05-29,SC,Abdon Batista,city,1,0,1,False,2563,4200051,39.01678,0.0000
+2020-05-30,SC,Abelardo Luz,city,4,0,20,True,17904,4200101,22.34138,0.0000
+2020-05-29,SC,Abelardo Luz,city,3,0,19,False,17904,4200101,16.75603,0.0000
 2020-05-28,SC,Abelardo Luz,city,3,0,18,False,17904,4200101,16.75603,0.0000
 2020-05-27,SC,Abelardo Luz,city,3,0,17,False,17904,4200101,16.75603,0.0000
 2020-05-26,SC,Abelardo Luz,city,2,0,16,False,17904,4200101,11.17069,0.0000
@@ -98,11 +101,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,SC,Abelardo Luz,city,2,0,3,False,17904,4200101,11.17069,0.0000
 2020-05-12,SC,Abelardo Luz,city,1,0,2,False,17904,4200101,5.58534,0.0000
 2020-05-11,SC,Abelardo Luz,city,1,0,1,False,17904,4200101,5.58534,0.0000
-2020-05-29,SC,Agrolândia,city,5,0,4,True,10864,4200200,46.02356,0.0000
+2020-05-30,SC,Agrolândia,city,6,0,5,True,10864,4200200,55.22828,0.0000
+2020-05-29,SC,Agrolândia,city,5,0,4,False,10864,4200200,46.02356,0.0000
 2020-05-28,SC,Agrolândia,city,4,0,3,False,10864,4200200,36.81885,0.0000
 2020-05-27,SC,Agrolândia,city,2,0,2,False,10864,4200200,18.40943,0.0000
 2020-05-26,SC,Agrolândia,city,1,0,1,False,10864,4200200,9.20471,0.0000
-2020-05-29,SC,Agronômica,city,10,1,12,True,5448,4200309,183.55360,0.1000
+2020-05-30,SC,Agronômica,city,10,1,13,True,5448,4200309,183.55360,0.1000
+2020-05-29,SC,Agronômica,city,10,1,12,False,5448,4200309,183.55360,0.1000
 2020-05-28,SC,Agronômica,city,10,1,11,False,5448,4200309,183.55360,0.1000
 2020-05-27,SC,Agronômica,city,8,1,10,False,5448,4200309,146.84288,0.1250
 2020-05-26,SC,Agronômica,city,8,1,9,False,5448,4200309,146.84288,0.1250
@@ -114,11 +119,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,SC,Agronômica,city,3,1,3,False,5448,4200309,55.06608,0.3333
 2020-05-19,SC,Agronômica,city,1,1,2,False,5448,4200309,18.35536,1.0000
 2020-05-18,SC,Agronômica,city,1,1,1,False,5448,4200309,18.35536,1.0000
-2020-05-29,SC,Alfredo Wagner,city,0,0,4,True,10036,4200705,,0.0000
+2020-05-30,SC,Alfredo Wagner,city,0,0,5,True,10036,4200705,,0.0000
+2020-05-29,SC,Alfredo Wagner,city,0,0,4,False,10036,4200705,,0.0000
 2020-05-28,SC,Alfredo Wagner,city,0,0,3,False,10036,4200705,,0.0000
 2020-05-27,SC,Alfredo Wagner,city,0,0,2,False,10036,4200705,,0.0000
 2020-05-26,SC,Alfredo Wagner,city,2,0,1,False,10036,4200705,19.92826,0.0000
-2020-05-29,SC,Alto Bela Vista,city,4,0,28,True,1937,4200754,206.50490,0.0000
+2020-05-30,SC,Alto Bela Vista,city,4,0,29,True,1937,4200754,206.50490,0.0000
+2020-05-29,SC,Alto Bela Vista,city,4,0,28,False,1937,4200754,206.50490,0.0000
 2020-05-28,SC,Alto Bela Vista,city,4,0,27,False,1937,4200754,206.50490,0.0000
 2020-05-27,SC,Alto Bela Vista,city,4,0,26,False,1937,4200754,206.50490,0.0000
 2020-05-26,SC,Alto Bela Vista,city,4,0,25,False,1937,4200754,206.50490,0.0000
@@ -146,7 +153,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,SC,Alto Bela Vista,city,2,0,3,False,1937,4200754,103.25245,0.0000
 2020-05-03,SC,Alto Bela Vista,city,2,0,2,False,1937,4200754,103.25245,0.0000
 2020-05-02,SC,Alto Bela Vista,city,2,0,1,False,1937,4200754,103.25245,0.0000
-2020-05-29,SC,Anchieta,city,7,0,16,True,5638,4200804,124.15750,0.0000
+2020-05-30,SC,Anchieta,city,7,0,17,True,5638,4200804,124.15750,0.0000
+2020-05-29,SC,Anchieta,city,7,0,16,False,5638,4200804,124.15750,0.0000
 2020-05-28,SC,Anchieta,city,6,0,15,False,5638,4200804,106.42072,0.0000
 2020-05-27,SC,Anchieta,city,6,0,14,False,5638,4200804,106.42072,0.0000
 2020-05-26,SC,Anchieta,city,6,0,13,False,5638,4200804,106.42072,0.0000
@@ -162,7 +170,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,SC,Anchieta,city,3,0,3,False,5638,4200804,53.21036,0.0000
 2020-05-15,SC,Anchieta,city,3,0,2,False,5638,4200804,53.21036,0.0000
 2020-05-14,SC,Anchieta,city,3,0,1,False,5638,4200804,53.21036,0.0000
-2020-05-29,SC,Anita Garibaldi,city,2,0,53,True,7133,4201000,28.03869,0.0000
+2020-05-30,SC,Anita Garibaldi,city,2,0,54,True,7133,4201000,28.03869,0.0000
+2020-05-29,SC,Anita Garibaldi,city,2,0,53,False,7133,4201000,28.03869,0.0000
 2020-05-28,SC,Anita Garibaldi,city,2,0,52,False,7133,4201000,28.03869,0.0000
 2020-05-27,SC,Anita Garibaldi,city,1,0,51,False,7133,4201000,14.01935,0.0000
 2020-05-26,SC,Anita Garibaldi,city,1,0,50,False,7133,4201000,14.01935,0.0000
@@ -215,7 +224,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,SC,Anita Garibaldi,city,1,0,3,False,7133,4201000,14.01935,0.0000
 2020-04-08,SC,Anita Garibaldi,city,1,0,2,False,7133,4201000,14.01935,0.0000
 2020-04-07,SC,Anita Garibaldi,city,1,0,1,False,7133,4201000,14.01935,0.0000
-2020-05-29,SC,Antônio Carlos,city,20,4,64,True,8513,4201208,234.93481,0.2000
+2020-05-30,SC,Antônio Carlos,city,21,4,65,True,8513,4201208,246.68155,0.1905
+2020-05-29,SC,Antônio Carlos,city,20,4,64,False,8513,4201208,234.93481,0.2000
 2020-05-28,SC,Antônio Carlos,city,17,4,63,False,8513,4201208,199.69458,0.2353
 2020-05-27,SC,Antônio Carlos,city,17,4,62,False,8513,4201208,199.69458,0.2353
 2020-05-26,SC,Antônio Carlos,city,16,4,61,False,8513,4201208,187.94784,0.2500
@@ -279,7 +289,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,SC,Antônio Carlos,city,1,0,3,False,8513,4201208,11.74674,0.0000
 2020-03-28,SC,Antônio Carlos,city,1,0,2,False,8513,4201208,11.74674,0.0000
 2020-03-27,SC,Antônio Carlos,city,1,0,1,False,8513,4201208,11.74674,0.0000
-2020-05-29,SC,Arabutã,city,26,0,44,True,4267,4201273,609.32740,0.0000
+2020-05-30,SC,Arabutã,city,26,0,45,True,4267,4201273,609.32740,0.0000
+2020-05-29,SC,Arabutã,city,26,0,44,False,4267,4201273,609.32740,0.0000
 2020-05-28,SC,Arabutã,city,20,0,43,False,4267,4201273,468.71338,0.0000
 2020-05-27,SC,Arabutã,city,21,0,42,False,4267,4201273,492.14905,0.0000
 2020-05-26,SC,Arabutã,city,19,0,41,False,4267,4201273,445.27771,0.0000
@@ -323,7 +334,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,SC,Arabutã,city,3,0,3,False,4267,4201273,70.30701,0.0000
 2020-04-17,SC,Arabutã,city,3,0,2,False,4267,4201273,70.30701,0.0000
 2020-04-16,SC,Arabutã,city,3,0,1,False,4267,4201273,70.30701,0.0000
-2020-05-29,SC,Araquari,city,26,0,32,True,38129,4201307,68.18957,0.0000
+2020-05-30,SC,Araquari,city,28,0,33,True,38129,4201307,73.43492,0.0000
+2020-05-29,SC,Araquari,city,26,0,32,False,38129,4201307,68.18957,0.0000
 2020-05-28,SC,Araquari,city,26,0,31,False,38129,4201307,68.18957,0.0000
 2020-05-27,SC,Araquari,city,23,0,30,False,38129,4201307,60.32154,0.0000
 2020-05-26,SC,Araquari,city,22,0,29,False,38129,4201307,57.69886,0.0000
@@ -355,7 +367,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Araquari,city,2,0,3,False,38129,4201307,5.24535,0.0000
 2020-04-29,SC,Araquari,city,1,0,2,False,38129,4201307,2.62268,0.0000
 2020-04-28,SC,Araquari,city,1,0,1,False,38129,4201307,2.62268,0.0000
-2020-05-29,SC,Araranguá,city,66,2,57,True,68228,4201406,96.73448,0.0303
+2020-05-30,SC,Araranguá,city,66,2,58,True,68228,4201406,96.73448,0.0303
+2020-05-29,SC,Araranguá,city,66,2,57,False,68228,4201406,96.73448,0.0303
 2020-05-28,SC,Araranguá,city,62,2,56,False,68228,4201406,90.87178,0.0323
 2020-05-27,SC,Araranguá,city,59,2,55,False,68228,4201406,86.47476,0.0339
 2020-05-26,SC,Araranguá,city,56,2,54,False,68228,4201406,82.07774,0.0357
@@ -412,7 +425,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,SC,Araranguá,city,3,0,3,False,68228,4201406,4.39702,0.0000
 2020-04-04,SC,Araranguá,city,2,0,2,False,68228,4201406,2.93135,0.0000
 2020-04-03,SC,Araranguá,city,1,0,1,False,68228,4201406,1.46567,0.0000
-2020-05-29,SC,Armazém,city,26,0,44,True,8674,4201505,299.74637,0.0000
+2020-05-30,SC,Armazém,city,26,0,45,True,8674,4201505,299.74637,0.0000
+2020-05-29,SC,Armazém,city,26,0,44,False,8674,4201505,299.74637,0.0000
 2020-05-28,SC,Armazém,city,26,0,43,False,8674,4201505,299.74637,0.0000
 2020-05-27,SC,Armazém,city,26,0,42,False,8674,4201505,299.74637,0.0000
 2020-05-26,SC,Armazém,city,24,0,41,False,8674,4201505,276.68896,0.0000
@@ -456,7 +470,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,SC,Armazém,city,1,0,3,False,8674,4201505,11.52871,0.0000
 2020-04-17,SC,Armazém,city,1,0,2,False,8674,4201505,11.52871,0.0000
 2020-04-16,SC,Armazém,city,1,0,1,False,8674,4201505,11.52871,0.0000
-2020-05-29,SC,Arvoredo,city,10,1,26,True,2240,4201653,446.42857,0.1000
+2020-05-30,SC,Arvoredo,city,11,1,27,True,2240,4201653,491.07143,0.0909
+2020-05-29,SC,Arvoredo,city,10,1,26,False,2240,4201653,446.42857,0.1000
 2020-05-28,SC,Arvoredo,city,8,1,25,False,2240,4201653,357.14286,0.1250
 2020-05-27,SC,Arvoredo,city,8,1,24,False,2240,4201653,357.14286,0.1250
 2020-05-26,SC,Arvoredo,city,8,1,23,False,2240,4201653,357.14286,0.1250
@@ -482,9 +497,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,SC,Arvoredo,city,2,0,3,False,2240,4201653,89.28571,0.0000
 2020-05-05,SC,Arvoredo,city,2,0,2,False,2240,4201653,89.28571,0.0000
 2020-05-04,SC,Arvoredo,city,1,0,1,False,2240,4201653,44.64286,0.0000
-2020-05-29,SC,Ascurra,city,1,0,2,True,7934,4201703,12.60398,0.0000
+2020-05-30,SC,Ascurra,city,1,0,3,True,7934,4201703,12.60398,0.0000
+2020-05-29,SC,Ascurra,city,1,0,2,False,7934,4201703,12.60398,0.0000
 2020-05-28,SC,Ascurra,city,1,0,1,False,7934,4201703,12.60398,0.0000
-2020-05-29,SC,Atalanta,city,3,0,13,True,3210,4201802,93.45794,0.0000
+2020-05-30,SC,Atalanta,city,3,0,14,True,3210,4201802,93.45794,0.0000
+2020-05-29,SC,Atalanta,city,3,0,13,False,3210,4201802,93.45794,0.0000
 2020-05-28,SC,Atalanta,city,3,0,12,False,3210,4201802,93.45794,0.0000
 2020-05-27,SC,Atalanta,city,3,0,11,False,3210,4201802,93.45794,0.0000
 2020-05-26,SC,Atalanta,city,3,0,10,False,3210,4201802,93.45794,0.0000
@@ -497,7 +514,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,SC,Atalanta,city,1,0,3,False,3210,4201802,31.15265,0.0000
 2020-05-18,SC,Atalanta,city,1,0,2,False,3210,4201802,31.15265,0.0000
 2020-05-17,SC,Atalanta,city,1,0,1,False,3210,4201802,31.15265,0.0000
-2020-05-29,SC,Aurora,city,4,0,51,True,5679,4201901,70.43494,0.0000
+2020-05-30,SC,Aurora,city,4,0,52,True,5679,4201901,70.43494,0.0000
+2020-05-29,SC,Aurora,city,4,0,51,False,5679,4201901,70.43494,0.0000
 2020-05-28,SC,Aurora,city,4,0,50,False,5679,4201901,70.43494,0.0000
 2020-05-27,SC,Aurora,city,4,0,49,False,5679,4201901,70.43494,0.0000
 2020-05-26,SC,Aurora,city,4,0,48,False,5679,4201901,70.43494,0.0000
@@ -548,7 +566,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Aurora,city,1,0,3,False,5679,4201901,17.60873,0.0000
 2020-04-10,SC,Aurora,city,1,0,2,False,5679,4201901,17.60873,0.0000
 2020-04-09,SC,Aurora,city,1,0,1,False,5679,4201901,17.60873,0.0000
-2020-05-29,SC,Balneário Arroio do Silva,city,25,1,66,True,13071,4201950,191.26310,0.0400
+2020-05-30,SC,Balneário Arroio do Silva,city,25,1,67,True,13071,4201950,191.26310,0.0400
+2020-05-29,SC,Balneário Arroio do Silva,city,25,1,66,False,13071,4201950,191.26310,0.0400
 2020-05-28,SC,Balneário Arroio do Silva,city,21,1,65,False,13071,4201950,160.66101,0.0476
 2020-05-27,SC,Balneário Arroio do Silva,city,19,1,64,False,13071,4201950,145.35996,0.0526
 2020-05-26,SC,Balneário Arroio do Silva,city,19,1,63,False,13071,4201950,145.35996,0.0526
@@ -614,7 +633,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SC,Balneário Arroio do Silva,city,1,0,3,False,13071,4201950,7.65052,0.0000
 2020-03-26,SC,Balneário Arroio do Silva,city,1,0,2,False,13071,4201950,7.65052,0.0000
 2020-03-25,SC,Balneário Arroio do Silva,city,1,0,1,False,13071,4201950,7.65052,0.0000
-2020-05-29,SC,Balneário Barra do Sul,city,10,0,36,True,10795,4202057,92.63548,0.0000
+2020-05-30,SC,Balneário Barra do Sul,city,11,0,37,True,10795,4202057,101.89903,0.0000
+2020-05-29,SC,Balneário Barra do Sul,city,10,0,36,False,10795,4202057,92.63548,0.0000
 2020-05-28,SC,Balneário Barra do Sul,city,10,0,35,False,10795,4202057,92.63548,0.0000
 2020-05-27,SC,Balneário Barra do Sul,city,10,0,34,False,10795,4202057,92.63548,0.0000
 2020-05-26,SC,Balneário Barra do Sul,city,9,0,33,False,10795,4202057,83.37193,0.0000
@@ -650,7 +670,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,SC,Balneário Barra do Sul,city,2,0,3,False,10795,4202057,18.52710,0.0000
 2020-04-25,SC,Balneário Barra do Sul,city,1,0,2,False,10795,4202057,9.26355,0.0000
 2020-04-24,SC,Balneário Barra do Sul,city,1,0,1,False,10795,4202057,9.26355,0.0000
-2020-05-29,SC,Balneário Camboriú,city,362,2,73,True,142295,4202008,254.40107,0.0055
+2020-05-30,SC,Balneário Camboriú,city,389,2,74,True,142295,4202008,273.37573,0.0051
+2020-05-29,SC,Balneário Camboriú,city,362,2,73,False,142295,4202008,254.40107,0.0055
 2020-05-28,SC,Balneário Camboriú,city,347,2,72,False,142295,4202008,243.85959,0.0058
 2020-05-27,SC,Balneário Camboriú,city,328,2,71,False,142295,4202008,230.50705,0.0061
 2020-05-26,SC,Balneário Camboriú,city,284,2,70,False,142295,4202008,199.58537,0.0070
@@ -723,7 +744,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,SC,Balneário Camboriú,city,4,0,3,False,142295,4202008,2.81106,0.0000
 2020-03-19,SC,Balneário Camboriú,city,4,0,2,False,142295,4202008,2.81106,0.0000
 2020-03-18,SC,Balneário Camboriú,city,2,0,1,False,142295,4202008,1.40553,0.0000
-2020-05-29,SC,Balneário Gaivota,city,8,1,56,True,10979,4202073,72.86638,0.1250
+2020-05-30,SC,Balneário Gaivota,city,8,1,57,True,10979,4202073,72.86638,0.1250
+2020-05-29,SC,Balneário Gaivota,city,8,1,56,False,10979,4202073,72.86638,0.1250
 2020-05-28,SC,Balneário Gaivota,city,8,1,55,False,10979,4202073,72.86638,0.1250
 2020-05-27,SC,Balneário Gaivota,city,8,1,54,False,10979,4202073,72.86638,0.1250
 2020-05-26,SC,Balneário Gaivota,city,8,1,53,False,10979,4202073,72.86638,0.1250
@@ -779,7 +801,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,SC,Balneário Gaivota,city,1,1,3,False,10979,4202073,9.10830,1.0000
 2020-04-05,SC,Balneário Gaivota,city,1,1,2,False,10979,4202073,9.10830,1.0000
 2020-04-04,SC,Balneário Gaivota,city,1,1,1,False,10979,4202073,9.10830,1.0000
-2020-05-29,SC,Balneário Piçarras,city,29,0,51,True,23147,4212809,125.28621,0.0000
+2020-05-30,SC,Balneário Piçarras,city,31,0,52,True,23147,4212809,133.92664,0.0000
+2020-05-29,SC,Balneário Piçarras,city,29,0,51,False,23147,4212809,125.28621,0.0000
 2020-05-28,SC,Balneário Piçarras,city,27,0,50,False,23147,4212809,116.64579,0.0000
 2020-05-27,SC,Balneário Piçarras,city,28,0,49,False,23147,4212809,120.96600,0.0000
 2020-05-26,SC,Balneário Piçarras,city,26,0,48,False,23147,4212809,112.32557,0.0000
@@ -830,7 +853,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Balneário Piçarras,city,1,0,3,False,23147,4212809,4.32021,0.0000
 2020-04-10,SC,Balneário Piçarras,city,1,0,2,False,23147,4212809,4.32021,0.0000
 2020-04-09,SC,Balneário Piçarras,city,1,0,1,False,23147,4212809,4.32021,0.0000
-2020-05-29,SC,Balneário Rincão,city,4,0,25,True,12760,4220000,31.34796,0.0000
+2020-05-30,SC,Balneário Rincão,city,5,0,26,True,12760,4220000,39.18495,0.0000
+2020-05-29,SC,Balneário Rincão,city,4,0,25,False,12760,4220000,31.34796,0.0000
 2020-05-28,SC,Balneário Rincão,city,2,0,24,False,12760,4220000,15.67398,0.0000
 2020-05-27,SC,Balneário Rincão,city,2,0,23,False,12760,4220000,15.67398,0.0000
 2020-05-26,SC,Balneário Rincão,city,2,0,22,False,12760,4220000,15.67398,0.0000
@@ -855,7 +879,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Balneário Rincão,city,2,0,3,False,12760,4220000,15.67398,0.0000
 2020-05-06,SC,Balneário Rincão,city,2,0,2,False,12760,4220000,15.67398,0.0000
 2020-05-05,SC,Balneário Rincão,city,2,0,1,False,12760,4220000,15.67398,0.0000
-2020-05-29,SC,Barra Velha,city,18,0,51,True,29168,4202107,61.71146,0.0000
+2020-05-30,SC,Barra Velha,city,18,0,52,True,29168,4202107,61.71146,0.0000
+2020-05-29,SC,Barra Velha,city,18,0,51,False,29168,4202107,61.71146,0.0000
 2020-05-28,SC,Barra Velha,city,16,0,50,False,29168,4202107,54.85464,0.0000
 2020-05-27,SC,Barra Velha,city,14,0,49,False,29168,4202107,47.99781,0.0000
 2020-05-26,SC,Barra Velha,city,12,0,48,False,29168,4202107,41.14098,0.0000
@@ -906,7 +931,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Barra Velha,city,1,0,3,False,29168,4202107,3.42841,0.0000
 2020-04-10,SC,Barra Velha,city,1,0,2,False,29168,4202107,3.42841,0.0000
 2020-04-09,SC,Barra Velha,city,1,0,1,False,29168,4202107,3.42841,0.0000
-2020-05-29,SC,Benedito Novo,city,5,0,28,True,11652,4202206,42.91109,0.0000
+2020-05-30,SC,Benedito Novo,city,5,0,29,True,11652,4202206,42.91109,0.0000
+2020-05-29,SC,Benedito Novo,city,5,0,28,False,11652,4202206,42.91109,0.0000
 2020-05-28,SC,Benedito Novo,city,5,0,27,False,11652,4202206,42.91109,0.0000
 2020-05-27,SC,Benedito Novo,city,4,0,26,False,11652,4202206,34.32887,0.0000
 2020-05-26,SC,Benedito Novo,city,4,0,25,False,11652,4202206,34.32887,0.0000
@@ -934,7 +960,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,SC,Benedito Novo,city,2,0,3,False,11652,4202206,17.16444,0.0000
 2020-05-03,SC,Benedito Novo,city,2,0,2,False,11652,4202206,17.16444,0.0000
 2020-05-02,SC,Benedito Novo,city,2,0,1,False,11652,4202206,17.16444,0.0000
-2020-05-29,SC,Biguaçu,city,18,0,58,True,68481,4202305,26.28466,0.0000
+2020-05-30,SC,Biguaçu,city,19,0,59,True,68481,4202305,27.74492,0.0000
+2020-05-29,SC,Biguaçu,city,18,0,58,False,68481,4202305,26.28466,0.0000
 2020-05-28,SC,Biguaçu,city,19,0,57,False,68481,4202305,27.74492,0.0000
 2020-05-27,SC,Biguaçu,city,18,0,56,False,68481,4202305,26.28466,0.0000
 2020-05-26,SC,Biguaçu,city,18,0,55,False,68481,4202305,26.28466,0.0000
@@ -992,7 +1019,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SC,Biguaçu,city,1,0,3,False,68481,4202305,1.46026,0.0000
 2020-04-03,SC,Biguaçu,city,1,0,2,False,68481,4202305,1.46026,0.0000
 2020-04-02,SC,Biguaçu,city,1,0,1,False,68481,4202305,1.46026,0.0000
-2020-05-29,SC,Blumenau,city,607,4,69,True,357199,4202404,169.93329,0.0066
+2020-05-30,SC,Blumenau,city,614,4,70,True,357199,4202404,171.89298,0.0065
+2020-05-29,SC,Blumenau,city,607,4,69,False,357199,4202404,169.93329,0.0066
 2020-05-28,SC,Blumenau,city,572,4,68,False,357199,4202404,160.13483,0.0070
 2020-05-27,SC,Blumenau,city,498,3,67,False,357199,4202404,139.41808,0.0060
 2020-05-26,SC,Blumenau,city,497,3,66,False,357199,4202404,139.13813,0.0060
@@ -1061,7 +1089,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,SC,Blumenau,city,7,0,3,False,357199,4202404,1.95969,0.0000
 2020-03-23,SC,Blumenau,city,7,0,2,False,357199,4202404,1.95969,0.0000
 2020-03-22,SC,Blumenau,city,6,0,1,False,357199,4202404,1.67974,0.0000
-2020-05-29,SC,Bombinhas,city,10,0,25,True,19769,4202453,50.58425,0.0000
+2020-05-30,SC,Bombinhas,city,10,0,26,True,19769,4202453,50.58425,0.0000
+2020-05-29,SC,Bombinhas,city,10,0,25,False,19769,4202453,50.58425,0.0000
 2020-05-28,SC,Bombinhas,city,10,0,24,False,19769,4202453,50.58425,0.0000
 2020-05-27,SC,Bombinhas,city,7,0,23,False,19769,4202453,35.40897,0.0000
 2020-05-26,SC,Bombinhas,city,2,0,22,False,19769,4202453,10.11685,0.0000
@@ -1086,7 +1115,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Bombinhas,city,1,0,3,False,19769,4202453,5.05842,0.0000
 2020-05-06,SC,Bombinhas,city,1,0,2,False,19769,4202453,5.05842,0.0000
 2020-05-05,SC,Bombinhas,city,1,0,1,False,19769,4202453,5.05842,0.0000
-2020-05-29,SC,Botuverá,city,5,0,54,True,5246,4202701,95.31071,0.0000
+2020-05-30,SC,Botuverá,city,5,0,55,True,5246,4202701,95.31071,0.0000
+2020-05-29,SC,Botuverá,city,5,0,54,False,5246,4202701,95.31071,0.0000
 2020-05-28,SC,Botuverá,city,5,0,53,False,5246,4202701,95.31071,0.0000
 2020-05-27,SC,Botuverá,city,5,0,52,False,5246,4202701,95.31071,0.0000
 2020-05-26,SC,Botuverá,city,5,0,51,False,5246,4202701,95.31071,0.0000
@@ -1140,7 +1170,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,SC,Botuverá,city,1,0,3,False,5246,4202701,19.06214,0.0000
 2020-04-07,SC,Botuverá,city,1,0,2,False,5246,4202701,19.06214,0.0000
 2020-04-06,SC,Botuverá,city,1,0,1,False,5246,4202701,19.06214,0.0000
-2020-05-29,SC,Braço do Norte,city,110,2,76,True,33450,4202800,328.84903,0.0182
+2020-05-30,SC,Braço do Norte,city,109,2,77,True,33450,4202800,325.85949,0.0183
+2020-05-29,SC,Braço do Norte,city,110,2,76,False,33450,4202800,328.84903,0.0182
 2020-05-28,SC,Braço do Norte,city,109,2,75,False,33450,4202800,325.85949,0.0183
 2020-05-27,SC,Braço do Norte,city,108,2,74,False,33450,4202800,322.86996,0.0185
 2020-05-26,SC,Braço do Norte,city,105,2,73,False,33450,4202800,313.90135,0.0190
@@ -1216,7 +1247,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-17,SC,Braço do Norte,city,1,0,3,False,33450,4202800,2.98954,0.0000
 2020-03-16,SC,Braço do Norte,city,1,0,2,False,33450,4202800,2.98954,0.0000
 2020-03-15,SC,Braço do Norte,city,1,0,1,False,33450,4202800,2.98954,0.0000
-2020-05-29,SC,Brusque,city,121,0,63,True,134723,4202909,89.81391,0.0000
+2020-05-30,SC,Brusque,city,121,0,64,True,134723,4202909,89.81391,0.0000
+2020-05-29,SC,Brusque,city,121,0,63,False,134723,4202909,89.81391,0.0000
 2020-05-28,SC,Brusque,city,118,0,62,False,134723,4202909,87.58712,0.0000
 2020-05-27,SC,Brusque,city,114,0,61,False,134723,4202909,84.61807,0.0000
 2020-05-26,SC,Brusque,city,114,0,60,False,134723,4202909,84.61807,0.0000
@@ -1279,10 +1311,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,SC,Brusque,city,2,0,3,False,134723,4202909,1.48453,0.0000
 2020-03-29,SC,Brusque,city,2,0,2,False,134723,4202909,1.48453,0.0000
 2020-03-28,SC,Brusque,city,2,0,1,False,134723,4202909,1.48453,0.0000
-2020-05-29,SC,Caibi,city,6,0,3,True,6148,4203105,97.59271,0.0000
+2020-05-30,SC,Caibi,city,6,0,4,True,6148,4203105,97.59271,0.0000
+2020-05-29,SC,Caibi,city,6,0,3,False,6148,4203105,97.59271,0.0000
 2020-05-28,SC,Caibi,city,6,0,2,False,6148,4203105,97.59271,0.0000
 2020-05-27,SC,Caibi,city,1,0,1,False,6148,4203105,16.26545,0.0000
-2020-05-29,SC,Camboriú,city,131,5,66,True,82989,4203204,157.85225,0.0382
+2020-05-30,SC,Camboriú,city,134,5,67,True,82989,4203204,161.46718,0.0373
+2020-05-29,SC,Camboriú,city,131,5,66,False,82989,4203204,157.85225,0.0382
 2020-05-28,SC,Camboriú,city,126,5,65,False,82989,4203204,151.82735,0.0397
 2020-05-27,SC,Camboriú,city,120,5,64,False,82989,4203204,144.59748,0.0417
 2020-05-26,SC,Camboriú,city,110,5,63,False,82989,4203204,132.54769,0.0455
@@ -1348,7 +1382,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SC,Camboriú,city,4,0,3,False,82989,4203204,4.81992,0.0000
 2020-03-26,SC,Camboriú,city,4,0,2,False,82989,4203204,4.81992,0.0000
 2020-03-25,SC,Camboriú,city,2,0,1,False,82989,4203204,2.40996,0.0000
-2020-05-29,SC,Campo Alegre,city,0,0,25,True,11978,4203303,,0.0000
+2020-05-30,SC,Campo Alegre,city,0,0,26,True,11978,4203303,,0.0000
+2020-05-29,SC,Campo Alegre,city,0,0,25,False,11978,4203303,,0.0000
 2020-05-28,SC,Campo Alegre,city,0,0,24,False,11978,4203303,,0.0000
 2020-05-27,SC,Campo Alegre,city,0,0,23,False,11978,4203303,,0.0000
 2020-05-26,SC,Campo Alegre,city,0,0,22,False,11978,4203303,,0.0000
@@ -1373,7 +1408,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Campo Alegre,city,0,0,3,False,11978,4203303,,0.0000
 2020-05-06,SC,Campo Alegre,city,0,0,2,False,11978,4203303,,0.0000
 2020-05-05,SC,Campo Alegre,city,1,0,1,False,11978,4203303,8.34864,0.0000
-2020-05-29,SC,Campo Erê,city,1,0,25,True,8526,4203501,11.72883,0.0000
+2020-05-30,SC,Campo Erê,city,2,0,26,True,8526,4203501,23.45766,0.0000
+2020-05-29,SC,Campo Erê,city,1,0,25,False,8526,4203501,11.72883,0.0000
 2020-05-28,SC,Campo Erê,city,1,0,24,False,8526,4203501,11.72883,0.0000
 2020-05-27,SC,Campo Erê,city,1,0,23,False,8526,4203501,11.72883,0.0000
 2020-05-26,SC,Campo Erê,city,1,0,22,False,8526,4203501,11.72883,0.0000
@@ -1398,7 +1434,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Campo Erê,city,1,0,3,False,8526,4203501,11.72883,0.0000
 2020-05-06,SC,Campo Erê,city,1,0,2,False,8526,4203501,11.72883,0.0000
 2020-05-05,SC,Campo Erê,city,1,0,1,False,8526,4203501,11.72883,0.0000
-2020-05-29,SC,Campos Novos,city,3,0,12,True,36244,4203600,8.27723,0.0000
+2020-05-30,SC,Campos Novos,city,3,0,13,True,36244,4203600,8.27723,0.0000
+2020-05-29,SC,Campos Novos,city,3,0,12,False,36244,4203600,8.27723,0.0000
 2020-05-28,SC,Campos Novos,city,2,0,11,False,36244,4203600,5.51815,0.0000
 2020-05-27,SC,Campos Novos,city,2,0,10,False,36244,4203600,5.51815,0.0000
 2020-05-26,SC,Campos Novos,city,2,0,9,False,36244,4203600,5.51815,0.0000
@@ -1410,7 +1447,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,SC,Campos Novos,city,1,0,3,False,36244,4203600,2.75908,0.0000
 2020-05-19,SC,Campos Novos,city,1,0,2,False,36244,4203600,2.75908,0.0000
 2020-05-18,SC,Campos Novos,city,1,0,1,False,36244,4203600,2.75908,0.0000
-2020-05-29,SC,Canelinha,city,3,0,66,True,12240,4203709,24.50980,0.0000
+2020-05-30,SC,Canelinha,city,3,0,67,True,12240,4203709,24.50980,0.0000
+2020-05-29,SC,Canelinha,city,3,0,66,False,12240,4203709,24.50980,0.0000
 2020-05-28,SC,Canelinha,city,2,0,65,False,12240,4203709,16.33987,0.0000
 2020-05-27,SC,Canelinha,city,2,0,64,False,12240,4203709,16.33987,0.0000
 2020-05-26,SC,Canelinha,city,2,0,63,False,12240,4203709,16.33987,0.0000
@@ -1476,7 +1514,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SC,Canelinha,city,1,0,3,False,12240,4203709,8.16993,0.0000
 2020-03-26,SC,Canelinha,city,1,0,2,False,12240,4203709,8.16993,0.0000
 2020-03-25,SC,Canelinha,city,1,0,1,False,12240,4203709,8.16993,0.0000
-2020-05-29,SC,Canoinhas,city,28,0,24,True,54401,4203808,51.46964,0.0000
+2020-05-30,SC,Canoinhas,city,31,0,25,True,54401,4203808,56.98425,0.0000
+2020-05-29,SC,Canoinhas,city,28,0,24,False,54401,4203808,51.46964,0.0000
 2020-05-28,SC,Canoinhas,city,18,0,23,False,54401,4203808,33.08763,0.0000
 2020-05-27,SC,Canoinhas,city,15,0,22,False,54401,4203808,27.57302,0.0000
 2020-05-26,SC,Canoinhas,city,14,0,21,False,54401,4203808,25.73482,0.0000
@@ -1500,14 +1539,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,SC,Canoinhas,city,1,0,3,False,54401,4203808,1.83820,0.0000
 2020-05-07,SC,Canoinhas,city,1,0,2,False,54401,4203808,1.83820,0.0000
 2020-05-06,SC,Canoinhas,city,1,0,1,False,54401,4203808,1.83820,0.0000
-2020-05-29,SC,Capinzal,city,2,0,7,True,22848,4203907,8.75350,0.0000
+2020-05-30,SC,Capinzal,city,2,0,8,True,22848,4203907,8.75350,0.0000
+2020-05-29,SC,Capinzal,city,2,0,7,False,22848,4203907,8.75350,0.0000
 2020-05-28,SC,Capinzal,city,2,0,6,False,22848,4203907,8.75350,0.0000
 2020-05-27,SC,Capinzal,city,2,0,5,False,22848,4203907,8.75350,0.0000
 2020-05-26,SC,Capinzal,city,2,0,4,False,22848,4203907,8.75350,0.0000
 2020-05-25,SC,Capinzal,city,2,0,3,False,22848,4203907,8.75350,0.0000
 2020-05-24,SC,Capinzal,city,1,0,2,False,22848,4203907,4.37675,0.0000
 2020-05-23,SC,Capinzal,city,1,0,1,False,22848,4203907,4.37675,0.0000
-2020-05-29,SC,Capivari de Baixo,city,24,0,47,True,24871,4203956,96.49793,0.0000
+2020-05-30,SC,Capivari de Baixo,city,24,0,48,True,24871,4203956,96.49793,0.0000
+2020-05-29,SC,Capivari de Baixo,city,24,0,47,False,24871,4203956,96.49793,0.0000
 2020-05-28,SC,Capivari de Baixo,city,21,0,46,False,24871,4203956,84.43569,0.0000
 2020-05-27,SC,Capivari de Baixo,city,20,0,45,False,24871,4203956,80.41494,0.0000
 2020-05-26,SC,Capivari de Baixo,city,18,0,44,False,24871,4203956,72.37345,0.0000
@@ -1554,7 +1595,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,SC,Capivari de Baixo,city,1,0,3,False,24871,4203956,4.02075,0.0000
 2020-04-14,SC,Capivari de Baixo,city,1,0,2,False,24871,4203956,4.02075,0.0000
 2020-04-13,SC,Capivari de Baixo,city,1,0,1,False,24871,4203956,4.02075,0.0000
-2020-05-29,SC,Catanduvas,city,13,0,42,True,10861,4204004,119.69432,0.0000
+2020-05-30,SC,Catanduvas,city,14,0,43,True,10861,4204004,128.90157,0.0000
+2020-05-29,SC,Catanduvas,city,13,0,42,False,10861,4204004,119.69432,0.0000
 2020-05-28,SC,Catanduvas,city,13,0,41,False,10861,4204004,119.69432,0.0000
 2020-05-27,SC,Catanduvas,city,12,0,40,False,10861,4204004,110.48706,0.0000
 2020-05-26,SC,Catanduvas,city,11,0,39,False,10861,4204004,101.27981,0.0000
@@ -1596,7 +1638,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,SC,Catanduvas,city,2,0,3,False,10861,4204004,18.41451,0.0000
 2020-04-19,SC,Catanduvas,city,2,0,2,False,10861,4204004,18.41451,0.0000
 2020-04-18,SC,Catanduvas,city,1,0,1,False,10861,4204004,9.20726,0.0000
-2020-05-29,SC,Caxambu do Sul,city,27,1,27,True,3642,4204103,741.35091,0.0370
+2020-05-30,SC,Caxambu do Sul,city,28,1,28,True,3642,4204103,768.80835,0.0357
+2020-05-29,SC,Caxambu do Sul,city,27,1,27,False,3642,4204103,741.35091,0.0370
 2020-05-28,SC,Caxambu do Sul,city,25,1,26,False,3642,4204103,686.43602,0.0400
 2020-05-27,SC,Caxambu do Sul,city,23,1,25,False,3642,4204103,631.52114,0.0435
 2020-05-26,SC,Caxambu do Sul,city,19,1,24,False,3642,4204103,521.69138,0.0526
@@ -1623,7 +1666,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,SC,Caxambu do Sul,city,2,0,3,False,3642,4204103,54.91488,0.0000
 2020-05-04,SC,Caxambu do Sul,city,2,0,2,False,3642,4204103,54.91488,0.0000
 2020-05-03,SC,Caxambu do Sul,city,2,0,1,False,3642,4204103,54.91488,0.0000
-2020-05-29,SC,Caçador,city,20,1,51,True,78595,4203006,25.44691,0.0500
+2020-05-30,SC,Caçador,city,20,1,52,True,78595,4203006,25.44691,0.0500
+2020-05-29,SC,Caçador,city,20,1,51,False,78595,4203006,25.44691,0.0500
 2020-05-28,SC,Caçador,city,20,1,50,False,78595,4203006,25.44691,0.0500
 2020-05-27,SC,Caçador,city,20,1,49,False,78595,4203006,25.44691,0.0500
 2020-05-26,SC,Caçador,city,20,1,48,False,78595,4203006,25.44691,0.0500
@@ -1674,7 +1718,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Caçador,city,2,0,3,False,78595,4203006,2.54469,0.0000
 2020-04-10,SC,Caçador,city,2,0,2,False,78595,4203006,2.54469,0.0000
 2020-04-09,SC,Caçador,city,1,0,1,False,78595,4203006,1.27235,0.0000
-2020-05-29,SC,Chapecó,city,877,4,71,True,220367,4204202,397.97247,0.0046
+2020-05-30,SC,Chapecó,city,905,4,72,True,220367,4204202,410.67855,0.0044
+2020-05-29,SC,Chapecó,city,877,4,71,False,220367,4204202,397.97247,0.0046
 2020-05-28,SC,Chapecó,city,862,4,70,False,220367,4204202,391.16565,0.0046
 2020-05-27,SC,Chapecó,city,831,4,69,False,220367,4204202,377.09820,0.0048
 2020-05-26,SC,Chapecó,city,805,4,68,False,220367,4204202,365.29970,0.0050
@@ -1745,7 +1790,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,SC,Chapecó,city,2,0,3,False,220367,4204202,0.90758,0.0000
 2020-03-21,SC,Chapecó,city,2,0,2,False,220367,4204202,0.90758,0.0000
 2020-03-20,SC,Chapecó,city,1,0,1,False,220367,4204202,0.45379,0.0000
-2020-05-29,SC,Cocal do Sul,city,16,1,51,True,16684,4204251,95.90026,0.0625
+2020-05-30,SC,Cocal do Sul,city,18,1,52,True,16684,4204251,107.88780,0.0556
+2020-05-29,SC,Cocal do Sul,city,16,1,51,False,16684,4204251,95.90026,0.0625
 2020-05-28,SC,Cocal do Sul,city,16,1,50,False,16684,4204251,95.90026,0.0625
 2020-05-27,SC,Cocal do Sul,city,16,1,49,False,16684,4204251,95.90026,0.0625
 2020-05-26,SC,Cocal do Sul,city,16,1,48,False,16684,4204251,95.90026,0.0625
@@ -1796,7 +1842,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Cocal do Sul,city,1,0,3,False,16684,4204251,5.99377,0.0000
 2020-04-10,SC,Cocal do Sul,city,1,0,2,False,16684,4204251,5.99377,0.0000
 2020-04-09,SC,Cocal do Sul,city,1,0,1,False,16684,4204251,5.99377,0.0000
-2020-05-29,SC,Concórdia,city,839,7,44,True,74641,4204301,1124.04711,0.0083
+2020-05-30,SC,Concórdia,city,862,8,45,True,74641,4204301,1154.86127,0.0093
+2020-05-29,SC,Concórdia,city,839,7,44,False,74641,4204301,1124.04711,0.0083
 2020-05-28,SC,Concórdia,city,715,7,43,False,74641,4204301,957.91857,0.0098
 2020-05-27,SC,Concórdia,city,563,7,42,False,74641,4204301,754.27714,0.0124
 2020-05-26,SC,Concórdia,city,509,7,41,False,74641,4204301,681.93084,0.0138
@@ -1840,7 +1887,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,SC,Concórdia,city,1,0,3,False,74641,4204301,1.33975,0.0000
 2020-04-17,SC,Concórdia,city,1,0,2,False,74641,4204301,1.33975,0.0000
 2020-04-16,SC,Concórdia,city,1,0,1,False,74641,4204301,1.33975,0.0000
-2020-05-29,SC,Cordilheira Alta,city,3,0,16,True,4453,4204350,67.37031,0.0000
+2020-05-30,SC,Cordilheira Alta,city,3,0,17,True,4453,4204350,67.37031,0.0000
+2020-05-29,SC,Cordilheira Alta,city,3,0,16,False,4453,4204350,67.37031,0.0000
 2020-05-28,SC,Cordilheira Alta,city,3,0,15,False,4453,4204350,67.37031,0.0000
 2020-05-27,SC,Cordilheira Alta,city,3,0,14,False,4453,4204350,67.37031,0.0000
 2020-05-26,SC,Cordilheira Alta,city,2,0,13,False,4453,4204350,44.91354,0.0000
@@ -1856,7 +1904,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,SC,Cordilheira Alta,city,1,0,3,False,4453,4204350,22.45677,0.0000
 2020-05-15,SC,Cordilheira Alta,city,1,0,2,False,4453,4204350,22.45677,0.0000
 2020-05-14,SC,Cordilheira Alta,city,1,0,1,False,4453,4204350,22.45677,0.0000
-2020-05-29,SC,Coronel Freitas,city,3,0,22,True,9981,4204400,30.05711,0.0000
+2020-05-30,SC,Coronel Freitas,city,3,0,23,True,9981,4204400,30.05711,0.0000
+2020-05-29,SC,Coronel Freitas,city,3,0,22,False,9981,4204400,30.05711,0.0000
 2020-05-28,SC,Coronel Freitas,city,3,0,21,False,9981,4204400,30.05711,0.0000
 2020-05-27,SC,Coronel Freitas,city,3,0,20,False,9981,4204400,30.05711,0.0000
 2020-05-26,SC,Coronel Freitas,city,3,0,19,False,9981,4204400,30.05711,0.0000
@@ -1878,14 +1927,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,SC,Coronel Freitas,city,1,0,3,False,9981,4204400,10.01904,0.0000
 2020-05-09,SC,Coronel Freitas,city,1,0,2,False,9981,4204400,10.01904,0.0000
 2020-05-08,SC,Coronel Freitas,city,1,0,1,False,9981,4204400,10.01904,0.0000
-2020-05-29,SC,Corupá,city,4,0,7,True,15909,4204509,25.14300,0.0000
+2020-05-30,SC,Corupá,city,5,0,8,True,15909,4204509,31.42875,0.0000
+2020-05-29,SC,Corupá,city,4,0,7,False,15909,4204509,25.14300,0.0000
 2020-05-28,SC,Corupá,city,4,0,6,False,15909,4204509,25.14300,0.0000
 2020-05-27,SC,Corupá,city,1,0,5,False,15909,4204509,6.28575,0.0000
 2020-05-26,SC,Corupá,city,1,0,4,False,15909,4204509,6.28575,0.0000
 2020-05-25,SC,Corupá,city,1,0,3,False,15909,4204509,6.28575,0.0000
 2020-05-24,SC,Corupá,city,1,0,2,False,15909,4204509,6.28575,0.0000
 2020-05-23,SC,Corupá,city,1,0,1,False,15909,4204509,6.28575,0.0000
-2020-05-29,SC,Criciúma,city,373,9,71,True,215186,4204608,173.33841,0.0241
+2020-05-30,SC,Criciúma,city,378,9,72,True,215186,4204608,175.66199,0.0238
+2020-05-29,SC,Criciúma,city,373,9,71,False,215186,4204608,173.33841,0.0241
 2020-05-28,SC,Criciúma,city,367,8,70,False,215186,4204608,170.55013,0.0218
 2020-05-27,SC,Criciúma,city,359,8,69,False,215186,4204608,166.83241,0.0223
 2020-05-26,SC,Criciúma,city,343,7,68,False,215186,4204608,159.39699,0.0204
@@ -1956,7 +2007,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,SC,Criciúma,city,7,0,3,False,215186,4204608,3.25300,0.0000
 2020-03-21,SC,Criciúma,city,6,0,2,False,215186,4204608,2.78829,0.0000
 2020-03-20,SC,Criciúma,city,3,0,1,False,215186,4204608,1.39414,0.0000
-2020-05-29,SC,Cunha Porã,city,16,0,25,True,11086,4204707,144.32618,0.0000
+2020-05-30,SC,Cunha Porã,city,16,0,26,True,11086,4204707,144.32618,0.0000
+2020-05-29,SC,Cunha Porã,city,16,0,25,False,11086,4204707,144.32618,0.0000
 2020-05-28,SC,Cunha Porã,city,16,0,24,False,11086,4204707,144.32618,0.0000
 2020-05-27,SC,Cunha Porã,city,13,0,23,False,11086,4204707,117.26502,0.0000
 2020-05-26,SC,Cunha Porã,city,10,0,22,False,11086,4204707,90.20386,0.0000
@@ -1981,21 +2033,26 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Cunha Porã,city,1,0,3,False,11086,4204707,9.02039,0.0000
 2020-05-06,SC,Cunha Porã,city,1,0,2,False,11086,4204707,9.02039,0.0000
 2020-05-05,SC,Cunha Porã,city,1,0,1,False,11086,4204707,9.02039,0.0000
-2020-05-29,SC,Curitibanos,city,1,0,4,True,39745,4204806,2.51604,0.0000
+2020-05-30,SC,Curitibanos,city,2,0,5,True,39745,4204806,5.03208,0.0000
+2020-05-29,SC,Curitibanos,city,1,0,4,False,39745,4204806,2.51604,0.0000
 2020-05-28,SC,Curitibanos,city,1,0,3,False,39745,4204806,2.51604,0.0000
 2020-05-27,SC,Curitibanos,city,1,0,2,False,39745,4204806,2.51604,0.0000
 2020-05-26,SC,Curitibanos,city,1,0,1,False,39745,4204806,2.51604,0.0000
-2020-05-29,SC,Descanso,city,2,0,2,True,8250,4204905,24.24242,0.0000
+2020-05-30,SC,Descanso,city,2,0,3,True,8250,4204905,24.24242,0.0000
+2020-05-29,SC,Descanso,city,2,0,2,False,8250,4204905,24.24242,0.0000
 2020-05-28,SC,Descanso,city,1,0,1,False,8250,4204905,12.12121,0.0000
-2020-05-29,SC,Dionísio Cerqueira,city,1,1,7,True,15498,4205001,6.45245,1.0000
+2020-05-30,SC,Dionísio Cerqueira,city,1,1,8,True,15498,4205001,6.45245,1.0000
+2020-05-29,SC,Dionísio Cerqueira,city,1,1,7,False,15498,4205001,6.45245,1.0000
 2020-05-28,SC,Dionísio Cerqueira,city,1,1,6,False,15498,4205001,6.45245,1.0000
 2020-05-27,SC,Dionísio Cerqueira,city,1,1,5,False,15498,4205001,6.45245,1.0000
 2020-05-26,SC,Dionísio Cerqueira,city,1,1,4,False,15498,4205001,6.45245,1.0000
 2020-05-25,SC,Dionísio Cerqueira,city,1,1,3,False,15498,4205001,6.45245,1.0000
 2020-05-24,SC,Dionísio Cerqueira,city,1,1,2,False,15498,4205001,6.45245,1.0000
 2020-05-23,SC,Dionísio Cerqueira,city,1,1,1,False,15498,4205001,6.45245,1.0000
-2020-05-29,SC,Doutor Pedrinho,city,12,0,1,True,4064,4205159,295.27559,0.0000
-2020-05-29,SC,Entre Rios,city,68,1,16,True,3203,4205175,2123.00968,0.0147
+2020-05-30,SC,Doutor Pedrinho,city,0,0,2,True,4064,4205159,,0.0000
+2020-05-29,SC,Doutor Pedrinho,city,12,0,1,False,4064,4205159,295.27559,0.0000
+2020-05-30,SC,Entre Rios,city,79,1,17,True,3203,4205175,2466.43771,0.0127
+2020-05-29,SC,Entre Rios,city,68,1,16,False,3203,4205175,2123.00968,0.0147
 2020-05-28,SC,Entre Rios,city,63,0,15,False,3203,4205175,1966.90603,0.0000
 2020-05-27,SC,Entre Rios,city,57,0,14,False,3203,4205175,1779.58164,0.0000
 2020-05-26,SC,Entre Rios,city,40,0,13,False,3203,4205175,1248.82922,0.0000
@@ -2011,7 +2068,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,SC,Entre Rios,city,1,0,3,False,3203,4205175,31.22073,0.0000
 2020-05-15,SC,Entre Rios,city,1,0,2,False,3203,4205175,31.22073,0.0000
 2020-05-14,SC,Entre Rios,city,1,0,1,False,3203,4205175,31.22073,0.0000
-2020-05-29,SC,Faxinal dos Guedes,city,20,0,33,True,10667,4205308,187.49414,0.0000
+2020-05-30,SC,Faxinal dos Guedes,city,20,0,34,True,10667,4205308,187.49414,0.0000
+2020-05-29,SC,Faxinal dos Guedes,city,20,0,33,False,10667,4205308,187.49414,0.0000
 2020-05-28,SC,Faxinal dos Guedes,city,20,0,32,False,10667,4205308,187.49414,0.0000
 2020-05-27,SC,Faxinal dos Guedes,city,18,0,31,False,10667,4205308,168.74473,0.0000
 2020-05-26,SC,Faxinal dos Guedes,city,17,0,30,False,10667,4205308,159.37002,0.0000
@@ -2044,7 +2102,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-29,SC,Faxinal dos Guedes,city,1,0,3,False,10667,4205308,9.37471,0.0000
 2020-04-28,SC,Faxinal dos Guedes,city,1,0,2,False,10667,4205308,9.37471,0.0000
 2020-04-27,SC,Faxinal dos Guedes,city,1,0,1,False,10667,4205308,9.37471,0.0000
-2020-05-29,SC,Florianópolis,city,644,7,79,True,500973,4205407,128.54984,0.0109
+2020-05-30,SC,Florianópolis,city,657,7,80,True,500973,4205407,131.14479,0.0107
+2020-05-29,SC,Florianópolis,city,644,7,79,False,500973,4205407,128.54984,0.0109
 2020-05-28,SC,Florianópolis,city,641,7,78,False,500973,4205407,127.95101,0.0109
 2020-05-27,SC,Florianópolis,city,628,7,77,False,500973,4205407,125.35606,0.0111
 2020-05-26,SC,Florianópolis,city,622,7,76,False,500973,4205407,124.15839,0.0113
@@ -2123,7 +2182,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-14,SC,Florianópolis,city,2,0,3,False,500973,4205407,0.39922,0.0000
 2020-03-13,SC,Florianópolis,city,2,0,2,False,500973,4205407,0.39922,0.0000
 2020-03-12,SC,Florianópolis,city,2,0,1,False,500973,4205407,0.39922,0.0000
-2020-05-29,SC,Forquilhinha,city,24,0,52,True,26793,4205456,89.57564,0.0000
+2020-05-30,SC,Forquilhinha,city,26,0,53,True,26793,4205456,97.04027,0.0000
+2020-05-29,SC,Forquilhinha,city,24,0,52,False,26793,4205456,89.57564,0.0000
 2020-05-28,SC,Forquilhinha,city,23,0,51,False,26793,4205456,85.84332,0.0000
 2020-05-27,SC,Forquilhinha,city,21,0,50,False,26793,4205456,78.37868,0.0000
 2020-05-26,SC,Forquilhinha,city,21,0,49,False,26793,4205456,78.37868,0.0000
@@ -2175,7 +2235,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,SC,Forquilhinha,city,1,0,3,False,26793,4205456,3.73232,0.0000
 2020-04-09,SC,Forquilhinha,city,1,0,2,False,26793,4205456,3.73232,0.0000
 2020-04-08,SC,Forquilhinha,city,1,0,1,False,26793,4205456,3.73232,0.0000
-2020-05-29,SC,Fraiburgo,city,15,0,32,True,36443,4205506,41.16017,0.0000
+2020-05-30,SC,Fraiburgo,city,15,0,33,True,36443,4205506,41.16017,0.0000
+2020-05-29,SC,Fraiburgo,city,15,0,32,False,36443,4205506,41.16017,0.0000
 2020-05-28,SC,Fraiburgo,city,14,0,31,False,36443,4205506,38.41616,0.0000
 2020-05-27,SC,Fraiburgo,city,13,0,30,False,36443,4205506,35.67215,0.0000
 2020-05-26,SC,Fraiburgo,city,13,0,29,False,36443,4205506,35.67215,0.0000
@@ -2207,7 +2268,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Fraiburgo,city,2,0,3,False,36443,4205506,5.48802,0.0000
 2020-04-29,SC,Fraiburgo,city,1,0,2,False,36443,4205506,2.74401,0.0000
 2020-04-28,SC,Fraiburgo,city,1,0,1,False,36443,4205506,2.74401,0.0000
-2020-05-29,SC,Garopaba,city,5,0,51,True,23078,4205704,21.66566,0.0000
+2020-05-30,SC,Garopaba,city,6,0,52,True,23078,4205704,25.99879,0.0000
+2020-05-29,SC,Garopaba,city,5,0,51,False,23078,4205704,21.66566,0.0000
 2020-05-28,SC,Garopaba,city,5,0,50,False,23078,4205704,21.66566,0.0000
 2020-05-27,SC,Garopaba,city,2,0,49,False,23078,4205704,8.66626,0.0000
 2020-05-26,SC,Garopaba,city,2,0,48,False,23078,4205704,8.66626,0.0000
@@ -2258,7 +2320,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Garopaba,city,1,0,3,False,23078,4205704,4.33313,0.0000
 2020-04-10,SC,Garopaba,city,1,0,2,False,23078,4205704,4.33313,0.0000
 2020-04-09,SC,Garopaba,city,1,0,1,False,23078,4205704,4.33313,0.0000
-2020-05-29,SC,Garuva,city,6,1,30,True,18145,4205803,33.06696,0.1667
+2020-05-30,SC,Garuva,city,8,1,31,True,18145,4205803,44.08928,0.1250
+2020-05-29,SC,Garuva,city,6,1,30,False,18145,4205803,33.06696,0.1667
 2020-05-28,SC,Garuva,city,5,1,29,False,18145,4205803,27.55580,0.2000
 2020-05-27,SC,Garuva,city,5,1,28,False,18145,4205803,27.55580,0.2000
 2020-05-26,SC,Garuva,city,5,1,27,False,18145,4205803,27.55580,0.2000
@@ -2288,7 +2351,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,SC,Garuva,city,1,0,3,False,18145,4205803,5.51116,0.0000
 2020-05-01,SC,Garuva,city,1,0,2,False,18145,4205803,5.51116,0.0000
 2020-04-30,SC,Garuva,city,1,0,1,False,18145,4205803,5.51116,0.0000
-2020-05-29,SC,Gaspar,city,43,1,68,True,69639,4205902,61.74701,0.0233
+2020-05-30,SC,Gaspar,city,42,1,69,True,69639,4205902,60.31103,0.0238
+2020-05-29,SC,Gaspar,city,43,1,68,False,69639,4205902,61.74701,0.0233
 2020-05-28,SC,Gaspar,city,39,1,67,False,69639,4205902,56.00310,0.0256
 2020-05-27,SC,Gaspar,city,40,1,66,False,69639,4205902,57.43908,0.0250
 2020-05-26,SC,Gaspar,city,37,1,65,False,69639,4205902,53.13115,0.0270
@@ -2356,7 +2420,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,SC,Gaspar,city,1,0,3,False,69639,4205902,1.43598,0.0000
 2020-03-24,SC,Gaspar,city,1,0,2,False,69639,4205902,1.43598,0.0000
 2020-03-23,SC,Gaspar,city,1,0,1,False,69639,4205902,1.43598,0.0000
-2020-05-29,SC,Governador Celso Ramos,city,27,0,57,True,14471,4206009,186.58006,0.0000
+2020-05-30,SC,Governador Celso Ramos,city,28,0,58,True,14471,4206009,193.49043,0.0000
+2020-05-29,SC,Governador Celso Ramos,city,27,0,57,False,14471,4206009,186.58006,0.0000
 2020-05-28,SC,Governador Celso Ramos,city,26,0,56,False,14471,4206009,179.66968,0.0000
 2020-05-27,SC,Governador Celso Ramos,city,26,0,55,False,14471,4206009,179.66968,0.0000
 2020-05-26,SC,Governador Celso Ramos,city,25,0,54,False,14471,4206009,172.75931,0.0000
@@ -2413,7 +2478,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,SC,Governador Celso Ramos,city,2,0,3,False,14471,4206009,13.82074,0.0000
 2020-04-04,SC,Governador Celso Ramos,city,1,0,2,False,14471,4206009,6.91037,0.0000
 2020-04-03,SC,Governador Celso Ramos,city,1,0,1,False,14471,4206009,6.91037,0.0000
-2020-05-29,SC,Gravatal,city,25,1,70,True,11501,4206207,217.37240,0.0400
+2020-05-30,SC,Gravatal,city,25,1,71,True,11501,4206207,217.37240,0.0400
+2020-05-29,SC,Gravatal,city,25,1,70,False,11501,4206207,217.37240,0.0400
 2020-05-28,SC,Gravatal,city,25,1,69,False,11501,4206207,217.37240,0.0400
 2020-05-27,SC,Gravatal,city,25,1,68,False,11501,4206207,217.37240,0.0400
 2020-05-26,SC,Gravatal,city,25,1,67,False,11501,4206207,217.37240,0.0400
@@ -2483,7 +2549,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,SC,Gravatal,city,2,0,3,False,11501,4206207,17.38979,0.0000
 2020-03-22,SC,Gravatal,city,1,0,2,False,11501,4206207,8.69490,0.0000
 2020-03-21,SC,Gravatal,city,1,0,1,False,11501,4206207,8.69490,0.0000
-2020-05-29,SC,Grão Pará,city,3,0,26,True,6569,4206108,45.66905,0.0000
+2020-05-30,SC,Grão Pará,city,3,0,27,True,6569,4206108,45.66905,0.0000
+2020-05-29,SC,Grão Pará,city,3,0,26,False,6569,4206108,45.66905,0.0000
 2020-05-28,SC,Grão Pará,city,3,0,25,False,6569,4206108,45.66905,0.0000
 2020-05-27,SC,Grão Pará,city,3,0,24,False,6569,4206108,45.66905,0.0000
 2020-05-26,SC,Grão Pará,city,3,0,23,False,6569,4206108,45.66905,0.0000
@@ -2509,7 +2576,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,SC,Grão Pará,city,1,0,3,False,6569,4206108,15.22302,0.0000
 2020-05-05,SC,Grão Pará,city,1,0,2,False,6569,4206108,15.22302,0.0000
 2020-05-04,SC,Grão Pará,city,1,0,1,False,6569,4206108,15.22302,0.0000
-2020-05-29,SC,Guabiruba,city,4,1,52,True,23832,4206306,16.78416,0.2500
+2020-05-30,SC,Guabiruba,city,4,1,53,True,23832,4206306,16.78416,0.2500
+2020-05-29,SC,Guabiruba,city,4,1,52,False,23832,4206306,16.78416,0.2500
 2020-05-28,SC,Guabiruba,city,4,1,51,False,23832,4206306,16.78416,0.2500
 2020-05-27,SC,Guabiruba,city,4,1,50,False,23832,4206306,16.78416,0.2500
 2020-05-26,SC,Guabiruba,city,4,1,49,False,23832,4206306,16.78416,0.2500
@@ -2561,7 +2629,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,SC,Guabiruba,city,1,0,3,False,23832,4206306,4.19604,0.0000
 2020-04-09,SC,Guabiruba,city,1,0,2,False,23832,4206306,4.19604,0.0000
 2020-04-08,SC,Guabiruba,city,1,0,1,False,23832,4206306,4.19604,0.0000
-2020-05-29,SC,Guaramirim,city,37,0,51,True,44819,4206504,82.55427,0.0000
+2020-05-30,SC,Guaraciaba,city,1,0,1,True,10090,4206405,9.91080,0.0000
+2020-05-30,SC,Guaramirim,city,38,0,52,True,44819,4206504,84.78547,0.0000
+2020-05-29,SC,Guaramirim,city,37,0,51,False,44819,4206504,82.55427,0.0000
 2020-05-28,SC,Guaramirim,city,34,0,50,False,44819,4206504,75.86068,0.0000
 2020-05-27,SC,Guaramirim,city,34,0,49,False,44819,4206504,75.86068,0.0000
 2020-05-26,SC,Guaramirim,city,34,0,48,False,44819,4206504,75.86068,0.0000
@@ -2612,7 +2682,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Guaramirim,city,1,0,3,False,44819,4206504,2.23120,0.0000
 2020-04-10,SC,Guaramirim,city,1,0,2,False,44819,4206504,2.23120,0.0000
 2020-04-09,SC,Guaramirim,city,1,0,1,False,44819,4206504,2.23120,0.0000
-2020-05-29,SC,Guatambú,city,31,0,25,True,4704,4206652,659.01361,0.0000
+2020-05-30,SC,Guatambú,city,30,0,26,True,4704,4206652,637.75510,0.0000
+2020-05-29,SC,Guatambú,city,31,0,25,False,4704,4206652,659.01361,0.0000
 2020-05-28,SC,Guatambú,city,29,0,24,False,4704,4206652,616.49660,0.0000
 2020-05-27,SC,Guatambú,city,26,0,23,False,4704,4206652,552.72109,0.0000
 2020-05-26,SC,Guatambú,city,25,0,22,False,4704,4206652,531.46259,0.0000
@@ -2637,7 +2708,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Guatambú,city,4,0,3,False,4704,4206652,85.03401,0.0000
 2020-05-06,SC,Guatambú,city,1,0,2,False,4704,4206652,21.25850,0.0000
 2020-05-05,SC,Guatambú,city,1,0,1,False,4704,4206652,21.25850,0.0000
-2020-05-29,SC,Herval d'Oeste,city,7,0,42,True,22606,4206702,30.96523,0.0000
+2020-05-30,SC,Herval d'Oeste,city,7,0,43,True,22606,4206702,30.96523,0.0000
+2020-05-29,SC,Herval d'Oeste,city,7,0,42,False,22606,4206702,30.96523,0.0000
 2020-05-28,SC,Herval d'Oeste,city,6,0,41,False,22606,4206702,26.54163,0.0000
 2020-05-27,SC,Herval d'Oeste,city,7,0,40,False,22606,4206702,30.96523,0.0000
 2020-05-26,SC,Herval d'Oeste,city,7,0,39,False,22606,4206702,30.96523,0.0000
@@ -2679,7 +2751,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,SC,Herval d'Oeste,city,2,0,3,False,22606,4206702,8.84721,0.0000
 2020-04-19,SC,Herval d'Oeste,city,1,0,2,False,22606,4206702,4.42360,0.0000
 2020-04-18,SC,Herval d'Oeste,city,1,0,1,False,22606,4206702,4.42360,0.0000
-2020-05-29,SC,Ibicaré,city,2,0,30,True,3202,4206801,62.46096,0.0000
+2020-05-30,SC,Ibicaré,city,2,0,31,True,3202,4206801,62.46096,0.0000
+2020-05-29,SC,Ibicaré,city,2,0,30,False,3202,4206801,62.46096,0.0000
 2020-05-28,SC,Ibicaré,city,2,0,29,False,3202,4206801,62.46096,0.0000
 2020-05-27,SC,Ibicaré,city,2,0,28,False,3202,4206801,62.46096,0.0000
 2020-05-26,SC,Ibicaré,city,1,0,27,False,3202,4206801,31.23048,0.0000
@@ -2709,7 +2782,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,SC,Ibicaré,city,1,0,3,False,3202,4206801,31.23048,0.0000
 2020-05-01,SC,Ibicaré,city,1,0,2,False,3202,4206801,31.23048,0.0000
 2020-04-30,SC,Ibicaré,city,1,0,1,False,3202,4206801,31.23048,0.0000
-2020-05-29,SC,Ibirama,city,4,0,33,True,18950,4206900,21.10818,0.0000
+2020-05-30,SC,Ibirama,city,5,0,34,True,18950,4206900,26.38522,0.0000
+2020-05-29,SC,Ibirama,city,4,0,33,False,18950,4206900,21.10818,0.0000
 2020-05-28,SC,Ibirama,city,4,0,32,False,18950,4206900,21.10818,0.0000
 2020-05-27,SC,Ibirama,city,2,0,31,False,18950,4206900,10.55409,0.0000
 2020-05-26,SC,Ibirama,city,2,0,30,False,18950,4206900,10.55409,0.0000
@@ -2742,7 +2816,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-29,SC,Ibirama,city,0,0,3,False,18950,4206900,,0.0000
 2020-04-28,SC,Ibirama,city,0,0,2,False,18950,4206900,,0.0000
 2020-04-27,SC,Ibirama,city,1,0,1,False,18950,4206900,5.27704,0.0000
-2020-05-29,SC,Ilhota,city,13,0,43,True,14184,4207106,91.65257,0.0000
+2020-05-30,SC,Ilhota,city,14,0,44,True,14184,4207106,98.70276,0.0000
+2020-05-29,SC,Ilhota,city,13,0,43,False,14184,4207106,91.65257,0.0000
 2020-05-28,SC,Ilhota,city,13,0,42,False,14184,4207106,91.65257,0.0000
 2020-05-27,SC,Ilhota,city,13,0,41,False,14184,4207106,91.65257,0.0000
 2020-05-26,SC,Ilhota,city,10,0,40,False,14184,4207106,70.50197,0.0000
@@ -2785,7 +2860,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,SC,Ilhota,city,1,0,3,False,14184,4207106,7.05020,0.0000
 2020-04-18,SC,Ilhota,city,1,0,2,False,14184,4207106,7.05020,0.0000
 2020-04-17,SC,Ilhota,city,1,0,1,False,14184,4207106,7.05020,0.0000
-2020-05-29,SC,Imbituba,city,41,0,71,True,44853,4207304,91.40972,0.0000
+2020-05-30,SC,Imbituba,city,41,0,72,True,44853,4207304,91.40972,0.0000
+2020-05-29,SC,Imbituba,city,41,0,71,False,44853,4207304,91.40972,0.0000
 2020-05-28,SC,Imbituba,city,41,0,70,False,44853,4207304,91.40972,0.0000
 2020-05-27,SC,Imbituba,city,37,0,69,False,44853,4207304,82.49170,0.0000
 2020-05-26,SC,Imbituba,city,33,0,68,False,44853,4207304,73.57367,0.0000
@@ -2856,7 +2932,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,SC,Imbituba,city,2,0,3,False,44853,4207304,4.45901,0.0000
 2020-03-21,SC,Imbituba,city,2,0,2,False,44853,4207304,4.45901,0.0000
 2020-03-20,SC,Imbituba,city,2,0,1,False,44853,4207304,4.45901,0.0000
-2020-05-29,SC,Imbuia,city,1,0,11,True,6197,4207403,16.13684,0.0000
+2020-05-30,SC,Imbuia,city,1,0,12,True,6197,4207403,16.13684,0.0000
+2020-05-29,SC,Imbuia,city,1,0,11,False,6197,4207403,16.13684,0.0000
 2020-05-28,SC,Imbuia,city,1,0,10,False,6197,4207403,16.13684,0.0000
 2020-05-27,SC,Imbuia,city,1,0,9,False,6197,4207403,16.13684,0.0000
 2020-05-26,SC,Imbuia,city,1,0,8,False,6197,4207403,16.13684,0.0000
@@ -2867,7 +2944,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,SC,Imbuia,city,1,0,3,False,6197,4207403,16.13684,0.0000
 2020-05-20,SC,Imbuia,city,1,0,2,False,6197,4207403,16.13684,0.0000
 2020-05-19,SC,Imbuia,city,1,0,1,False,6197,4207403,16.13684,0.0000
-2020-05-29,SC,Importados/Indefinidos,city,49,0,66,True,,,,0.0000
+2020-05-30,SC,Importados/Indefinidos,city,47,0,67,True,,,,0.0000
+2020-05-29,SC,Importados/Indefinidos,city,49,0,66,False,,,,0.0000
 2020-05-28,SC,Importados/Indefinidos,city,41,0,65,False,,,,0.0000
 2020-05-27,SC,Importados/Indefinidos,city,42,0,64,False,,,,0.0000
 2020-05-26,SC,Importados/Indefinidos,city,42,0,63,False,,,,0.0000
@@ -2933,7 +3011,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SC,Importados/Indefinidos,city,8,0,3,False,,,,0.0000
 2020-03-26,SC,Importados/Indefinidos,city,8,0,2,False,,,,0.0000
 2020-03-25,SC,Importados/Indefinidos,city,8,0,1,False,,,,0.0000
-2020-05-29,SC,Indaial,city,51,2,62,True,69425,4207502,73.46057,0.0392
+2020-05-30,SC,Indaial,city,51,2,63,True,69425,4207502,73.46057,0.0392
+2020-05-29,SC,Indaial,city,51,2,62,False,69425,4207502,73.46057,0.0392
 2020-05-28,SC,Indaial,city,51,2,61,False,69425,4207502,73.46057,0.0392
 2020-05-27,SC,Indaial,city,52,2,60,False,69425,4207502,74.90097,0.0385
 2020-05-26,SC,Indaial,city,49,2,59,False,69425,4207502,70.57976,0.0408
@@ -2995,7 +3074,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-31,SC,Indaial,city,1,0,3,False,69425,4207502,1.44040,0.0000
 2020-03-30,SC,Indaial,city,1,0,2,False,69425,4207502,1.44040,0.0000
 2020-03-29,SC,Indaial,city,1,0,1,False,69425,4207502,1.44040,0.0000
-2020-05-29,SC,Ipira,city,6,0,25,True,4446,4207601,134.95277,0.0000
+2020-05-30,SC,Ipira,city,6,0,26,True,4446,4207601,134.95277,0.0000
+2020-05-29,SC,Ipira,city,6,0,25,False,4446,4207601,134.95277,0.0000
 2020-05-28,SC,Ipira,city,6,0,24,False,4446,4207601,134.95277,0.0000
 2020-05-27,SC,Ipira,city,5,0,23,False,4446,4207601,112.46064,0.0000
 2020-05-26,SC,Ipira,city,5,0,22,False,4446,4207601,112.46064,0.0000
@@ -3020,7 +3100,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Ipira,city,2,0,3,False,4446,4207601,44.98426,0.0000
 2020-05-06,SC,Ipira,city,2,0,2,False,4446,4207601,44.98426,0.0000
 2020-05-05,SC,Ipira,city,2,0,1,False,4446,4207601,44.98426,0.0000
-2020-05-29,SC,Ipuaçu,city,30,0,13,True,7514,4207684,399.25472,0.0000
+2020-05-30,SC,Ipuaçu,city,31,0,14,True,7514,4207684,412.56322,0.0000
+2020-05-29,SC,Ipuaçu,city,30,0,13,False,7514,4207684,399.25472,0.0000
 2020-05-28,SC,Ipuaçu,city,26,0,12,False,7514,4207684,346.02076,0.0000
 2020-05-27,SC,Ipuaçu,city,16,0,11,False,7514,4207684,212.93585,0.0000
 2020-05-26,SC,Ipuaçu,city,14,0,10,False,7514,4207684,186.31887,0.0000
@@ -3033,7 +3114,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,SC,Ipuaçu,city,3,0,3,False,7514,4207684,39.92547,0.0000
 2020-05-18,SC,Ipuaçu,city,2,0,2,False,7514,4207684,26.61698,0.0000
 2020-05-17,SC,Ipuaçu,city,1,0,1,False,7514,4207684,13.30849,0.0000
-2020-05-29,SC,Ipumirim,city,52,0,47,True,7593,4207700,684.84130,0.0000
+2020-05-30,SC,Ipumirim,city,53,0,48,True,7593,4207700,698.01133,0.0000
+2020-05-29,SC,Ipumirim,city,52,0,47,False,7593,4207700,684.84130,0.0000
 2020-05-28,SC,Ipumirim,city,51,0,46,False,7593,4207700,671.67128,0.0000
 2020-05-27,SC,Ipumirim,city,51,0,45,False,7593,4207700,671.67128,0.0000
 2020-05-26,SC,Ipumirim,city,49,0,44,False,7593,4207700,645.33123,0.0000
@@ -3080,7 +3162,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,SC,Ipumirim,city,2,0,3,False,7593,4207700,26.34005,0.0000
 2020-04-14,SC,Ipumirim,city,2,0,2,False,7593,4207700,26.34005,0.0000
 2020-04-13,SC,Ipumirim,city,2,0,1,False,7593,4207700,26.34005,0.0000
-2020-05-29,SC,Irani,city,54,0,40,True,10419,4207809,518.28390,0.0000
+2020-05-30,SC,Irani,city,55,0,41,True,10419,4207809,527.88175,0.0000
+2020-05-29,SC,Irani,city,54,0,40,False,10419,4207809,518.28390,0.0000
 2020-05-28,SC,Irani,city,54,0,39,False,10419,4207809,518.28390,0.0000
 2020-05-27,SC,Irani,city,53,0,38,False,10419,4207809,508.68605,0.0000
 2020-05-26,SC,Irani,city,55,0,37,False,10419,4207809,527.88175,0.0000
@@ -3120,7 +3203,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-22,SC,Irani,city,3,0,3,False,10419,4207809,28.79355,0.0000
 2020-04-21,SC,Irani,city,2,0,2,False,10419,4207809,19.19570,0.0000
 2020-04-20,SC,Irani,city,2,0,1,False,10419,4207809,19.19570,0.0000
-2020-05-29,SC,Irati,city,2,1,57,True,1930,4207858,103.62694,0.5000
+2020-05-30,SC,Irati,city,2,1,58,True,1930,4207858,103.62694,0.5000
+2020-05-29,SC,Irati,city,2,1,57,False,1930,4207858,103.62694,0.5000
 2020-05-28,SC,Irati,city,2,1,56,False,1930,4207858,103.62694,0.5000
 2020-05-27,SC,Irati,city,2,1,55,False,1930,4207858,103.62694,0.5000
 2020-05-26,SC,Irati,city,2,1,54,False,1930,4207858,103.62694,0.5000
@@ -3177,7 +3261,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,SC,Irati,city,1,0,3,False,1930,4207858,51.81347,0.0000
 2020-04-04,SC,Irati,city,1,0,2,False,1930,4207858,51.81347,0.0000
 2020-04-03,SC,Irati,city,1,0,1,False,1930,4207858,51.81347,0.0000
-2020-05-29,SC,Itaiópolis,city,3,1,43,True,21669,4208104,13.84466,0.3333
+2020-05-30,SC,Itaiópolis,city,3,1,44,True,21669,4208104,13.84466,0.3333
+2020-05-29,SC,Itaiópolis,city,3,1,43,False,21669,4208104,13.84466,0.3333
 2020-05-28,SC,Itaiópolis,city,3,1,42,False,21669,4208104,13.84466,0.3333
 2020-05-27,SC,Itaiópolis,city,3,1,41,False,21669,4208104,13.84466,0.3333
 2020-05-26,SC,Itaiópolis,city,3,1,40,False,21669,4208104,13.84466,0.3333
@@ -3220,7 +3305,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,SC,Itaiópolis,city,1,0,3,False,21669,4208104,4.61489,0.0000
 2020-04-18,SC,Itaiópolis,city,1,0,2,False,21669,4208104,4.61489,0.0000
 2020-04-17,SC,Itaiópolis,city,1,0,1,False,21669,4208104,4.61489,0.0000
-2020-05-29,SC,Itajaí,city,385,7,70,True,219536,4208203,175.36987,0.0182
+2020-05-30,SC,Itajaí,city,417,7,71,True,219536,4208203,189.94607,0.0168
+2020-05-29,SC,Itajaí,city,385,7,70,False,219536,4208203,175.36987,0.0182
 2020-05-28,SC,Itajaí,city,363,7,69,False,219536,4208203,165.34874,0.0193
 2020-05-27,SC,Itajaí,city,301,6,68,False,219536,4208203,137.10735,0.0199
 2020-05-26,SC,Itajaí,city,294,6,67,False,219536,4208203,133.91881,0.0204
@@ -3290,7 +3376,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,SC,Itajaí,city,7,0,3,False,219536,4208203,3.18854,0.0000
 2020-03-22,SC,Itajaí,city,7,0,2,False,219536,4208203,3.18854,0.0000
 2020-03-21,SC,Itajaí,city,6,0,1,False,219536,4208203,2.73304,0.0000
-2020-05-29,SC,Itapema,city,59,1,65,True,65312,4208302,90.33562,0.0169
+2020-05-30,SC,Itapema,city,58,1,66,True,65312,4208302,88.80451,0.0172
+2020-05-29,SC,Itapema,city,59,1,65,False,65312,4208302,90.33562,0.0169
 2020-05-28,SC,Itapema,city,57,1,64,False,65312,4208302,87.27340,0.0175
 2020-05-27,SC,Itapema,city,58,1,63,False,65312,4208302,88.80451,0.0172
 2020-05-26,SC,Itapema,city,56,1,62,False,65312,4208302,85.74228,0.0179
@@ -3355,7 +3442,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-28,SC,Itapema,city,1,0,3,False,65312,4208302,1.53111,0.0000
 2020-03-27,SC,Itapema,city,1,0,2,False,65312,4208302,1.53111,0.0000
 2020-03-26,SC,Itapema,city,1,0,1,False,65312,4208302,1.53111,0.0000
-2020-05-29,SC,Itapiranga,city,5,0,56,True,16872,4208401,29.63490,0.0000
+2020-05-30,SC,Itapiranga,city,5,0,57,True,16872,4208401,29.63490,0.0000
+2020-05-29,SC,Itapiranga,city,5,0,56,False,16872,4208401,29.63490,0.0000
 2020-05-28,SC,Itapiranga,city,5,0,55,False,16872,4208401,29.63490,0.0000
 2020-05-27,SC,Itapiranga,city,5,0,54,False,16872,4208401,29.63490,0.0000
 2020-05-26,SC,Itapiranga,city,5,0,53,False,16872,4208401,29.63490,0.0000
@@ -3411,7 +3499,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,SC,Itapiranga,city,1,0,3,False,16872,4208401,5.92698,0.0000
 2020-04-05,SC,Itapiranga,city,1,0,2,False,16872,4208401,5.92698,0.0000
 2020-04-04,SC,Itapiranga,city,1,0,1,False,16872,4208401,5.92698,0.0000
-2020-05-29,SC,Itapoá,city,2,0,8,True,20576,4208450,9.72006,0.0000
+2020-05-30,SC,Itapoá,city,2,0,9,True,20576,4208450,9.72006,0.0000
+2020-05-29,SC,Itapoá,city,2,0,8,False,20576,4208450,9.72006,0.0000
 2020-05-28,SC,Itapoá,city,0,0,7,False,20576,4208450,,0.0000
 2020-05-27,SC,Itapoá,city,0,0,6,False,20576,4208450,,0.0000
 2020-05-26,SC,Itapoá,city,0,0,5,False,20576,4208450,,0.0000
@@ -3419,7 +3508,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,SC,Itapoá,city,0,0,3,False,20576,4208450,,0.0000
 2020-05-23,SC,Itapoá,city,0,0,2,False,20576,4208450,,0.0000
 2020-05-22,SC,Itapoá,city,1,0,1,False,20576,4208450,4.86003,0.0000
-2020-05-29,SC,Ituporanga,city,10,1,48,True,25086,4208500,39.86287,0.1000
+2020-05-30,SC,Ituporanga,city,10,1,49,True,25086,4208500,39.86287,0.1000
+2020-05-29,SC,Ituporanga,city,10,1,48,False,25086,4208500,39.86287,0.1000
 2020-05-28,SC,Ituporanga,city,10,1,47,False,25086,4208500,39.86287,0.1000
 2020-05-27,SC,Ituporanga,city,9,1,46,False,25086,4208500,35.87658,0.1111
 2020-05-26,SC,Ituporanga,city,8,1,45,False,25086,4208500,31.89030,0.1250
@@ -3467,7 +3557,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,SC,Ituporanga,city,0,0,3,False,25086,4208500,,0.0000
 2020-04-13,SC,Ituporanga,city,0,0,2,False,25086,4208500,,0.0000
 2020-04-12,SC,Ituporanga,city,1,0,1,False,25086,4208500,3.98629,0.0000
-2020-05-29,SC,Itá,city,29,0,34,True,6169,4208005,470.09240,0.0000
+2020-05-30,SC,Itá,city,29,0,35,True,6169,4208005,470.09240,0.0000
+2020-05-29,SC,Itá,city,29,0,34,False,6169,4208005,470.09240,0.0000
 2020-05-28,SC,Itá,city,29,0,33,False,6169,4208005,470.09240,0.0000
 2020-05-27,SC,Itá,city,25,0,32,False,6169,4208005,405.25207,0.0000
 2020-05-26,SC,Itá,city,24,0,31,False,6169,4208005,389.04198,0.0000
@@ -3501,7 +3592,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,SC,Itá,city,2,0,3,False,6169,4208005,32.42017,0.0000
 2020-04-27,SC,Itá,city,1,0,2,False,6169,4208005,16.21008,0.0000
 2020-04-26,SC,Itá,city,1,0,1,False,6169,4208005,16.21008,0.0000
-2020-05-29,SC,Içara,city,18,0,68,True,56421,4207007,31.90301,0.0000
+2020-05-30,SC,Içara,city,20,0,69,True,56421,4207007,35.44779,0.0000
+2020-05-29,SC,Içara,city,18,0,68,False,56421,4207007,31.90301,0.0000
 2020-05-28,SC,Içara,city,18,0,67,False,56421,4207007,31.90301,0.0000
 2020-05-27,SC,Içara,city,17,0,66,False,56421,4207007,30.13063,0.0000
 2020-05-26,SC,Içara,city,18,0,65,False,56421,4207007,31.90301,0.0000
@@ -3569,7 +3661,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,SC,Içara,city,1,0,3,False,56421,4207007,1.77239,0.0000
 2020-03-24,SC,Içara,city,1,0,2,False,56421,4207007,1.77239,0.0000
 2020-03-23,SC,Içara,city,1,0,1,False,56421,4207007,1.77239,0.0000
-2020-05-29,SC,Jaborá,city,13,0,37,True,3936,4208609,330.28455,0.0000
+2020-05-30,SC,Jaborá,city,13,0,38,True,3936,4208609,330.28455,0.0000
+2020-05-29,SC,Jaborá,city,13,0,37,False,3936,4208609,330.28455,0.0000
 2020-05-28,SC,Jaborá,city,13,0,36,False,3936,4208609,330.28455,0.0000
 2020-05-27,SC,Jaborá,city,13,0,35,False,3936,4208609,330.28455,0.0000
 2020-05-26,SC,Jaborá,city,13,0,34,False,3936,4208609,330.28455,0.0000
@@ -3606,7 +3699,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,SC,Jaborá,city,3,0,3,False,3936,4208609,76.21951,0.0000
 2020-04-24,SC,Jaborá,city,1,0,2,False,3936,4208609,25.40650,0.0000
 2020-04-23,SC,Jaborá,city,1,0,1,False,3936,4208609,25.40650,0.0000
-2020-05-29,SC,Jacinto Machado,city,5,0,18,True,10416,4208708,48.00307,0.0000
+2020-05-30,SC,Jacinto Machado,city,5,0,19,True,10416,4208708,48.00307,0.0000
+2020-05-29,SC,Jacinto Machado,city,5,0,18,False,10416,4208708,48.00307,0.0000
 2020-05-28,SC,Jacinto Machado,city,4,0,17,False,10416,4208708,38.40246,0.0000
 2020-05-27,SC,Jacinto Machado,city,3,0,16,False,10416,4208708,28.80184,0.0000
 2020-05-26,SC,Jacinto Machado,city,3,0,15,False,10416,4208708,28.80184,0.0000
@@ -3624,7 +3718,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,SC,Jacinto Machado,city,1,0,3,False,10416,4208708,9.60061,0.0000
 2020-05-13,SC,Jacinto Machado,city,1,0,2,False,10416,4208708,9.60061,0.0000
 2020-05-12,SC,Jacinto Machado,city,1,0,1,False,10416,4208708,9.60061,0.0000
-2020-05-29,SC,Jaguaruna,city,9,0,70,True,20024,4208807,44.94606,0.0000
+2020-05-30,SC,Jaguaruna,city,8,0,71,True,20024,4208807,39.95206,0.0000
+2020-05-29,SC,Jaguaruna,city,9,0,70,False,20024,4208807,44.94606,0.0000
 2020-05-28,SC,Jaguaruna,city,9,0,69,False,20024,4208807,44.94606,0.0000
 2020-05-27,SC,Jaguaruna,city,8,0,68,False,20024,4208807,39.95206,0.0000
 2020-05-26,SC,Jaguaruna,city,8,0,67,False,20024,4208807,39.95206,0.0000
@@ -3694,7 +3789,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,SC,Jaguaruna,city,1,0,3,False,20024,4208807,4.99401,0.0000
 2020-03-22,SC,Jaguaruna,city,1,0,2,False,20024,4208807,4.99401,0.0000
 2020-03-21,SC,Jaguaruna,city,1,0,1,False,20024,4208807,4.99401,0.0000
-2020-05-29,SC,Jaraguá do Sul,city,100,2,71,True,177697,4208906,56.27557,0.0200
+2020-05-30,SC,Jaraguá do Sul,city,105,2,72,True,177697,4208906,59.08935,0.0190
+2020-05-29,SC,Jaraguá do Sul,city,100,2,71,False,177697,4208906,56.27557,0.0200
 2020-05-28,SC,Jaraguá do Sul,city,95,2,70,False,177697,4208906,53.46179,0.0211
 2020-05-27,SC,Jaraguá do Sul,city,89,2,69,False,177697,4208906,50.08526,0.0225
 2020-05-26,SC,Jaraguá do Sul,city,85,2,68,False,177697,4208906,47.83423,0.0235
@@ -3765,7 +3861,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,SC,Jaraguá do Sul,city,1,0,3,False,177697,4208906,0.56276,0.0000
 2020-03-21,SC,Jaraguá do Sul,city,1,0,2,False,177697,4208906,0.56276,0.0000
 2020-03-20,SC,Jaraguá do Sul,city,1,0,1,False,177697,4208906,0.56276,0.0000
-2020-05-29,SC,Joaçaba,city,21,0,58,True,30118,4209003,69.72575,0.0000
+2020-05-30,SC,Joaçaba,city,21,0,59,True,30118,4209003,69.72575,0.0000
+2020-05-29,SC,Joaçaba,city,21,0,58,False,30118,4209003,69.72575,0.0000
 2020-05-28,SC,Joaçaba,city,21,0,57,False,30118,4209003,69.72575,0.0000
 2020-05-27,SC,Joaçaba,city,19,0,56,False,30118,4209003,63.08520,0.0000
 2020-05-26,SC,Joaçaba,city,19,0,55,False,30118,4209003,63.08520,0.0000
@@ -3823,7 +3920,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SC,Joaçaba,city,1,0,3,False,30118,4209003,3.32027,0.0000
 2020-04-03,SC,Joaçaba,city,1,0,2,False,30118,4209003,3.32027,0.0000
 2020-04-02,SC,Joaçaba,city,1,0,1,False,30118,4209003,3.32027,0.0000
-2020-05-29,SC,Joinville,city,403,21,78,True,590466,4209102,68.25118,0.0521
+2020-05-30,SC,Joinville,city,414,22,79,True,590466,4209102,70.11411,0.0531
+2020-05-29,SC,Joinville,city,403,21,78,False,590466,4209102,68.25118,0.0521
 2020-05-28,SC,Joinville,city,386,21,77,False,590466,4209102,65.37210,0.0544
 2020-05-27,SC,Joinville,city,380,20,76,False,590466,4209102,64.35595,0.0526
 2020-05-26,SC,Joinville,city,376,17,75,False,590466,4209102,63.67852,0.0452
@@ -3901,16 +3999,19 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-15,SC,Joinville,city,1,0,3,False,590466,4209102,0.16936,0.0000
 2020-03-14,SC,Joinville,city,1,0,2,False,590466,4209102,0.16936,0.0000
 2020-03-13,SC,Joinville,city,1,0,1,False,590466,4209102,0.16936,0.0000
-2020-05-29,SC,José Boiteux,city,1,0,2,True,4997,4209151,20.01201,0.0000
+2020-05-30,SC,José Boiteux,city,1,0,3,True,4997,4209151,20.01201,0.0000
+2020-05-29,SC,José Boiteux,city,1,0,2,False,4997,4209151,20.01201,0.0000
 2020-05-28,SC,José Boiteux,city,1,0,1,False,4997,4209151,20.01201,0.0000
-2020-05-29,SC,Jupiá,city,3,0,7,True,2101,4209177,142.78915,0.0000
+2020-05-30,SC,Jupiá,city,3,0,8,True,2101,4209177,142.78915,0.0000
+2020-05-29,SC,Jupiá,city,3,0,7,False,2101,4209177,142.78915,0.0000
 2020-05-28,SC,Jupiá,city,3,0,6,False,2101,4209177,142.78915,0.0000
 2020-05-27,SC,Jupiá,city,3,0,5,False,2101,4209177,142.78915,0.0000
 2020-05-26,SC,Jupiá,city,2,0,4,False,2101,4209177,95.19277,0.0000
 2020-05-25,SC,Jupiá,city,2,0,3,False,2101,4209177,95.19277,0.0000
 2020-05-24,SC,Jupiá,city,1,0,2,False,2101,4209177,47.59638,0.0000
 2020-05-23,SC,Jupiá,city,1,0,1,False,2101,4209177,47.59638,0.0000
-2020-05-29,SC,Lages,city,63,0,69,True,157544,4209300,39.98883,0.0000
+2020-05-30,SC,Lages,city,65,0,70,True,157544,4209300,41.25832,0.0000
+2020-05-29,SC,Lages,city,63,0,69,False,157544,4209300,39.98883,0.0000
 2020-05-28,SC,Lages,city,57,0,68,False,157544,4209300,36.18037,0.0000
 2020-05-27,SC,Lages,city,57,0,67,False,157544,4209300,36.18037,0.0000
 2020-05-26,SC,Lages,city,53,0,66,False,157544,4209300,33.64140,0.0000
@@ -3979,7 +4080,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,SC,Lages,city,1,0,3,False,157544,4209300,0.63474,0.0000
 2020-03-23,SC,Lages,city,1,0,2,False,157544,4209300,0.63474,0.0000
 2020-03-22,SC,Lages,city,1,0,1,False,157544,4209300,0.63474,0.0000
-2020-05-29,SC,Laguna,city,16,1,67,True,45814,4209409,34.92382,0.0625
+2020-05-30,SC,Laguna,city,16,1,68,True,45814,4209409,34.92382,0.0625
+2020-05-29,SC,Laguna,city,16,1,67,False,45814,4209409,34.92382,0.0625
 2020-05-28,SC,Laguna,city,16,1,66,False,45814,4209409,34.92382,0.0625
 2020-05-27,SC,Laguna,city,14,1,65,False,45814,4209409,30.55834,0.0714
 2020-05-26,SC,Laguna,city,14,1,64,False,45814,4209409,30.55834,0.0714
@@ -4046,14 +4148,17 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,SC,Laguna,city,0,0,3,False,45814,4209409,,0.0000
 2020-03-25,SC,Laguna,city,1,0,2,False,45814,4209409,2.18274,0.0000
 2020-03-24,SC,Laguna,city,1,0,1,False,45814,4209409,2.18274,0.0000
-2020-05-29,SC,Lajeado Grande,city,2,0,5,True,1427,4209458,140.15417,0.0000
+2020-05-30,SC,Lajeado Grande,city,3,0,6,True,1427,4209458,210.23125,0.0000
+2020-05-29,SC,Lajeado Grande,city,2,0,5,False,1427,4209458,140.15417,0.0000
 2020-05-28,SC,Lajeado Grande,city,2,0,4,False,1427,4209458,140.15417,0.0000
 2020-05-27,SC,Lajeado Grande,city,2,0,3,False,1427,4209458,140.15417,0.0000
 2020-05-26,SC,Lajeado Grande,city,2,0,2,False,1427,4209458,140.15417,0.0000
 2020-05-25,SC,Lajeado Grande,city,1,0,1,False,1427,4209458,70.07708,0.0000
-2020-05-29,SC,Laurentino,city,1,0,2,True,6970,4209508,14.34720,0.0000
+2020-05-30,SC,Laurentino,city,1,0,3,True,6970,4209508,14.34720,0.0000
+2020-05-29,SC,Laurentino,city,1,0,2,False,6970,4209508,14.34720,0.0000
 2020-05-28,SC,Laurentino,city,1,0,1,False,6970,4209508,14.34720,0.0000
-2020-05-29,SC,Lauro Muller,city,1,0,30,True,15244,4209607,6.55996,0.0000
+2020-05-30,SC,Lauro Muller,city,1,0,31,True,15244,4209607,6.55996,0.0000
+2020-05-29,SC,Lauro Muller,city,1,0,30,False,15244,4209607,6.55996,0.0000
 2020-05-28,SC,Lauro Muller,city,1,0,29,False,15244,4209607,6.55996,0.0000
 2020-05-27,SC,Lauro Muller,city,1,0,28,False,15244,4209607,6.55996,0.0000
 2020-05-26,SC,Lauro Muller,city,1,0,27,False,15244,4209607,6.55996,0.0000
@@ -4083,7 +4188,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,SC,Lauro Muller,city,0,0,3,False,15244,4209607,,0.0000
 2020-05-01,SC,Lauro Muller,city,0,0,2,False,15244,4209607,,0.0000
 2020-04-30,SC,Lauro Muller,city,1,0,1,False,15244,4209607,6.55996,0.0000
-2020-05-29,SC,Lindóia do Sul,city,56,0,44,True,4563,4209854,1227.26277,0.0000
+2020-05-30,SC,Lindóia do Sul,city,56,0,45,True,4563,4209854,1227.26277,0.0000
+2020-05-29,SC,Lindóia do Sul,city,56,0,44,False,4563,4209854,1227.26277,0.0000
 2020-05-28,SC,Lindóia do Sul,city,56,0,43,False,4563,4209854,1227.26277,0.0000
 2020-05-27,SC,Lindóia do Sul,city,56,0,42,False,4563,4209854,1227.26277,0.0000
 2020-05-26,SC,Lindóia do Sul,city,55,0,41,False,4563,4209854,1205.34736,0.0000
@@ -4127,11 +4233,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,SC,Lindóia do Sul,city,2,0,3,False,4563,4209854,43.83081,0.0000
 2020-04-17,SC,Lindóia do Sul,city,2,0,2,False,4563,4209854,43.83081,0.0000
 2020-04-16,SC,Lindóia do Sul,city,2,0,1,False,4563,4209854,43.83081,0.0000
-2020-05-29,SC,Lontras,city,2,0,4,True,12130,4209904,16.48805,0.0000
+2020-05-30,SC,Lontras,city,2,0,5,True,12130,4209904,16.48805,0.0000
+2020-05-29,SC,Lontras,city,2,0,4,False,12130,4209904,16.48805,0.0000
 2020-05-28,SC,Lontras,city,2,0,3,False,12130,4209904,16.48805,0.0000
 2020-05-27,SC,Lontras,city,2,0,2,False,12130,4209904,16.48805,0.0000
 2020-05-26,SC,Lontras,city,1,0,1,False,12130,4209904,8.24402,0.0000
-2020-05-29,SC,Luiz Alves,city,2,0,20,True,12859,4210001,15.55331,0.0000
+2020-05-30,SC,Luiz Alves,city,2,0,21,True,12859,4210001,15.55331,0.0000
+2020-05-29,SC,Luiz Alves,city,2,0,20,False,12859,4210001,15.55331,0.0000
 2020-05-28,SC,Luiz Alves,city,2,0,19,False,12859,4210001,15.55331,0.0000
 2020-05-27,SC,Luiz Alves,city,2,0,18,False,12859,4210001,15.55331,0.0000
 2020-05-26,SC,Luiz Alves,city,2,0,17,False,12859,4210001,15.55331,0.0000
@@ -4151,7 +4259,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-12,SC,Luiz Alves,city,1,0,3,False,12859,4210001,7.77665,0.0000
 2020-05-11,SC,Luiz Alves,city,1,0,2,False,12859,4210001,7.77665,0.0000
 2020-05-10,SC,Luiz Alves,city,1,0,1,False,12859,4210001,7.77665,0.0000
-2020-05-29,SC,Luzerna,city,2,0,15,True,5685,4210035,35.18030,0.0000
+2020-05-30,SC,Luzerna,city,2,0,16,True,5685,4210035,35.18030,0.0000
+2020-05-29,SC,Luzerna,city,2,0,15,False,5685,4210035,35.18030,0.0000
 2020-05-28,SC,Luzerna,city,2,0,14,False,5685,4210035,35.18030,0.0000
 2020-05-27,SC,Luzerna,city,2,0,13,False,5685,4210035,35.18030,0.0000
 2020-05-26,SC,Luzerna,city,2,0,12,False,5685,4210035,35.18030,0.0000
@@ -4166,7 +4275,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,SC,Luzerna,city,1,0,3,False,5685,4210035,17.59015,0.0000
 2020-05-16,SC,Luzerna,city,1,0,2,False,5685,4210035,17.59015,0.0000
 2020-05-15,SC,Luzerna,city,1,0,1,False,5685,4210035,17.59015,0.0000
-2020-05-29,SC,Mafra,city,6,0,57,True,56292,4210100,10.65871,0.0000
+2020-05-30,SC,Mafra,city,7,0,58,True,56292,4210100,12.43516,0.0000
+2020-05-29,SC,Mafra,city,6,0,57,False,56292,4210100,10.65871,0.0000
 2020-05-28,SC,Mafra,city,5,0,56,False,56292,4210100,8.88226,0.0000
 2020-05-27,SC,Mafra,city,5,0,55,False,56292,4210100,8.88226,0.0000
 2020-05-26,SC,Mafra,city,6,0,54,False,56292,4210100,10.65871,0.0000
@@ -4223,7 +4333,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,SC,Mafra,city,1,0,3,False,56292,4210100,1.77645,0.0000
 2020-04-04,SC,Mafra,city,1,0,2,False,56292,4210100,1.77645,0.0000
 2020-04-03,SC,Mafra,city,1,0,1,False,56292,4210100,1.77645,0.0000
-2020-05-29,SC,Maracajá,city,12,0,32,True,7293,4210407,164.54134,0.0000
+2020-05-30,SC,Maracajá,city,12,0,33,True,7293,4210407,164.54134,0.0000
+2020-05-29,SC,Maracajá,city,12,0,32,False,7293,4210407,164.54134,0.0000
 2020-05-28,SC,Maracajá,city,12,0,31,False,7293,4210407,164.54134,0.0000
 2020-05-27,SC,Maracajá,city,12,0,30,False,7293,4210407,164.54134,0.0000
 2020-05-26,SC,Maracajá,city,12,0,29,False,7293,4210407,164.54134,0.0000
@@ -4255,7 +4366,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Maracajá,city,1,0,3,False,7293,4210407,13.71178,0.0000
 2020-04-29,SC,Maracajá,city,1,0,2,False,7293,4210407,13.71178,0.0000
 2020-04-28,SC,Maracajá,city,1,0,1,False,7293,4210407,13.71178,0.0000
-2020-05-29,SC,Maravilha,city,19,0,19,True,25762,4210506,73.75204,0.0000
+2020-05-30,SC,Maravilha,city,21,0,20,True,25762,4210506,81.51541,0.0000
+2020-05-29,SC,Maravilha,city,19,0,19,False,25762,4210506,73.75204,0.0000
 2020-05-28,SC,Maravilha,city,17,0,18,False,25762,4210506,65.98867,0.0000
 2020-05-27,SC,Maravilha,city,16,0,17,False,25762,4210506,62.10698,0.0000
 2020-05-26,SC,Maravilha,city,17,0,16,False,25762,4210506,65.98867,0.0000
@@ -4274,14 +4386,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,SC,Maravilha,city,1,0,3,False,25762,4210506,3.88169,0.0000
 2020-05-12,SC,Maravilha,city,1,0,2,False,25762,4210506,3.88169,0.0000
 2020-05-11,SC,Maravilha,city,1,0,1,False,25762,4210506,3.88169,0.0000
-2020-05-29,SC,Marema,city,2,0,7,True,1797,4210555,111.29661,0.0000
+2020-05-30,SC,Marema,city,2,0,8,True,1797,4210555,111.29661,0.0000
+2020-05-29,SC,Marema,city,2,0,7,False,1797,4210555,111.29661,0.0000
 2020-05-28,SC,Marema,city,1,0,6,False,1797,4210555,55.64830,0.0000
 2020-05-27,SC,Marema,city,1,0,5,False,1797,4210555,55.64830,0.0000
 2020-05-26,SC,Marema,city,1,0,4,False,1797,4210555,55.64830,0.0000
 2020-05-25,SC,Marema,city,1,0,3,False,1797,4210555,55.64830,0.0000
 2020-05-24,SC,Marema,city,1,0,2,False,1797,4210555,55.64830,0.0000
 2020-05-23,SC,Marema,city,1,0,1,False,1797,4210555,55.64830,0.0000
-2020-05-29,SC,Massaranduba,city,1,1,51,True,16916,4210605,5.91156,1.0000
+2020-05-30,SC,Massaranduba,city,1,1,52,True,16916,4210605,5.91156,1.0000
+2020-05-29,SC,Massaranduba,city,1,1,51,False,16916,4210605,5.91156,1.0000
 2020-05-28,SC,Massaranduba,city,1,1,50,False,16916,4210605,5.91156,1.0000
 2020-05-27,SC,Massaranduba,city,1,1,49,False,16916,4210605,5.91156,1.0000
 2020-05-26,SC,Massaranduba,city,1,1,48,False,16916,4210605,5.91156,1.0000
@@ -4332,7 +4446,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Massaranduba,city,1,1,3,False,16916,4210605,5.91156,1.0000
 2020-04-10,SC,Massaranduba,city,1,1,2,False,16916,4210605,5.91156,1.0000
 2020-04-09,SC,Massaranduba,city,1,1,1,False,16916,4210605,5.91156,1.0000
-2020-05-29,SC,Meleiro,city,16,0,43,True,7015,4210803,228.08268,0.0000
+2020-05-30,SC,Meleiro,city,16,0,44,True,7015,4210803,228.08268,0.0000
+2020-05-29,SC,Meleiro,city,16,0,43,False,7015,4210803,228.08268,0.0000
 2020-05-28,SC,Meleiro,city,15,0,42,False,7015,4210803,213.82751,0.0000
 2020-05-27,SC,Meleiro,city,13,0,41,False,7015,4210803,185.31718,0.0000
 2020-05-26,SC,Meleiro,city,13,0,40,False,7015,4210803,185.31718,0.0000
@@ -4375,7 +4490,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,SC,Meleiro,city,1,0,3,False,7015,4210803,14.25517,0.0000
 2020-04-18,SC,Meleiro,city,1,0,2,False,7015,4210803,14.25517,0.0000
 2020-04-17,SC,Meleiro,city,1,0,1,False,7015,4210803,14.25517,0.0000
-2020-05-29,SC,Mondaí,city,0,0,17,True,11742,4211009,,0.0000
+2020-05-30,SC,Mondaí,city,1,0,18,True,11742,4211009,8.51644,0.0000
+2020-05-29,SC,Mondaí,city,0,0,17,False,11742,4211009,,0.0000
 2020-05-28,SC,Mondaí,city,0,0,16,False,11742,4211009,,0.0000
 2020-05-27,SC,Mondaí,city,0,0,15,False,11742,4211009,,0.0000
 2020-05-26,SC,Mondaí,city,0,0,14,False,11742,4211009,,0.0000
@@ -4392,14 +4508,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,SC,Mondaí,city,0,0,3,False,11742,4211009,,0.0000
 2020-05-14,SC,Mondaí,city,1,0,2,False,11742,4211009,8.51644,0.0000
 2020-05-13,SC,Mondaí,city,1,0,1,False,11742,4211009,8.51644,0.0000
-2020-05-29,SC,Monte Carlo,city,2,0,7,True,9866,4211058,20.27164,0.0000
+2020-05-30,SC,Monte Carlo,city,2,0,8,True,9866,4211058,20.27164,0.0000
+2020-05-29,SC,Monte Carlo,city,2,0,7,False,9866,4211058,20.27164,0.0000
 2020-05-28,SC,Monte Carlo,city,2,0,6,False,9866,4211058,20.27164,0.0000
 2020-05-27,SC,Monte Carlo,city,1,0,5,False,9866,4211058,10.13582,0.0000
 2020-05-26,SC,Monte Carlo,city,1,0,4,False,9866,4211058,10.13582,0.0000
 2020-05-25,SC,Monte Carlo,city,1,0,3,False,9866,4211058,10.13582,0.0000
 2020-05-24,SC,Monte Carlo,city,1,0,2,False,9866,4211058,10.13582,0.0000
 2020-05-23,SC,Monte Carlo,city,1,0,1,False,9866,4211058,10.13582,0.0000
-2020-05-29,SC,Monte Castelo,city,1,0,9,True,8275,4211108,12.08459,0.0000
+2020-05-30,SC,Monte Castelo,city,1,0,10,True,8275,4211108,12.08459,0.0000
+2020-05-29,SC,Monte Castelo,city,1,0,9,False,8275,4211108,12.08459,0.0000
 2020-05-28,SC,Monte Castelo,city,1,0,8,False,8275,4211108,12.08459,0.0000
 2020-05-27,SC,Monte Castelo,city,1,0,7,False,8275,4211108,12.08459,0.0000
 2020-05-26,SC,Monte Castelo,city,1,0,6,False,8275,4211108,12.08459,0.0000
@@ -4408,7 +4526,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,SC,Monte Castelo,city,1,0,3,False,8275,4211108,12.08459,0.0000
 2020-05-22,SC,Monte Castelo,city,1,0,2,False,8275,4211108,12.08459,0.0000
 2020-05-21,SC,Monte Castelo,city,1,0,1,False,8275,4211108,12.08459,0.0000
-2020-05-29,SC,Morro Grande,city,2,0,17,True,2893,4211256,69.13239,0.0000
+2020-05-30,SC,Morro Grande,city,2,0,18,True,2893,4211256,69.13239,0.0000
+2020-05-29,SC,Morro Grande,city,2,0,17,False,2893,4211256,69.13239,0.0000
 2020-05-28,SC,Morro Grande,city,2,0,16,False,2893,4211256,69.13239,0.0000
 2020-05-27,SC,Morro Grande,city,1,0,15,False,2893,4211256,34.56619,0.0000
 2020-05-26,SC,Morro Grande,city,1,0,14,False,2893,4211256,34.56619,0.0000
@@ -4425,7 +4544,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,SC,Morro Grande,city,1,0,3,False,2893,4211256,34.56619,0.0000
 2020-05-14,SC,Morro Grande,city,1,0,2,False,2893,4211256,34.56619,0.0000
 2020-05-13,SC,Morro Grande,city,1,0,1,False,2893,4211256,34.56619,0.0000
-2020-05-29,SC,Morro da Fumaça,city,11,0,57,True,17796,4211207,61.81164,0.0000
+2020-05-30,SC,Morro da Fumaça,city,11,0,58,True,17796,4211207,61.81164,0.0000
+2020-05-29,SC,Morro da Fumaça,city,11,0,57,False,17796,4211207,61.81164,0.0000
 2020-05-28,SC,Morro da Fumaça,city,9,0,56,False,17796,4211207,50.57316,0.0000
 2020-05-27,SC,Morro da Fumaça,city,8,0,55,False,17796,4211207,44.95392,0.0000
 2020-05-26,SC,Morro da Fumaça,city,7,0,54,False,17796,4211207,39.33468,0.0000
@@ -4482,7 +4602,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,SC,Morro da Fumaça,city,1,0,3,False,17796,4211207,5.61924,0.0000
 2020-04-04,SC,Morro da Fumaça,city,1,0,2,False,17796,4211207,5.61924,0.0000
 2020-04-03,SC,Morro da Fumaça,city,1,0,1,False,17796,4211207,5.61924,0.0000
-2020-05-29,SC,Navegantes,city,239,6,71,True,81475,4211306,293.34152,0.0251
+2020-05-30,SC,Navegantes,city,247,6,72,True,81475,4211306,303.16048,0.0243
+2020-05-29,SC,Navegantes,city,239,6,71,False,81475,4211306,293.34152,0.0251
 2020-05-28,SC,Navegantes,city,239,6,70,False,81475,4211306,293.34152,0.0251
 2020-05-27,SC,Navegantes,city,226,6,69,False,81475,4211306,277.38570,0.0265
 2020-05-26,SC,Navegantes,city,221,5,68,False,81475,4211306,271.24885,0.0226
@@ -4553,7 +4674,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,SC,Navegantes,city,1,0,3,False,81475,4211306,1.22737,0.0000
 2020-03-21,SC,Navegantes,city,1,0,2,False,81475,4211306,1.22737,0.0000
 2020-03-20,SC,Navegantes,city,1,0,1,False,81475,4211306,1.22737,0.0000
-2020-05-29,SC,Nova Erechim,city,15,0,28,True,5019,4211405,298.86432,0.0000
+2020-05-30,SC,Nova Erechim,city,15,0,29,True,5019,4211405,298.86432,0.0000
+2020-05-29,SC,Nova Erechim,city,15,0,28,False,5019,4211405,298.86432,0.0000
 2020-05-28,SC,Nova Erechim,city,15,0,27,False,5019,4211405,298.86432,0.0000
 2020-05-27,SC,Nova Erechim,city,14,0,26,False,5019,4211405,278.94003,0.0000
 2020-05-26,SC,Nova Erechim,city,14,0,25,False,5019,4211405,278.94003,0.0000
@@ -4581,7 +4703,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,SC,Nova Erechim,city,2,0,3,False,5019,4211405,39.84858,0.0000
 2020-05-03,SC,Nova Erechim,city,1,0,2,False,5019,4211405,19.92429,0.0000
 2020-05-02,SC,Nova Erechim,city,1,0,1,False,5019,4211405,19.92429,0.0000
-2020-05-29,SC,Nova Itaberaba,city,1,0,11,True,4331,4211454,23.08936,0.0000
+2020-05-30,SC,Nova Itaberaba,city,1,0,12,True,4331,4211454,23.08936,0.0000
+2020-05-29,SC,Nova Itaberaba,city,1,0,11,False,4331,4211454,23.08936,0.0000
 2020-05-28,SC,Nova Itaberaba,city,1,0,10,False,4331,4211454,23.08936,0.0000
 2020-05-27,SC,Nova Itaberaba,city,1,0,9,False,4331,4211454,23.08936,0.0000
 2020-05-26,SC,Nova Itaberaba,city,1,0,8,False,4331,4211454,23.08936,0.0000
@@ -4592,7 +4715,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,SC,Nova Itaberaba,city,1,0,3,False,4331,4211454,23.08936,0.0000
 2020-05-20,SC,Nova Itaberaba,city,1,0,2,False,4331,4211454,23.08936,0.0000
 2020-05-19,SC,Nova Itaberaba,city,1,0,1,False,4331,4211454,23.08936,0.0000
-2020-05-29,SC,Nova Trento,city,4,0,50,True,14549,4211504,27.49330,0.0000
+2020-05-30,SC,Nova Trento,city,5,0,51,True,14549,4211504,34.36662,0.0000
+2020-05-29,SC,Nova Trento,city,4,0,50,False,14549,4211504,27.49330,0.0000
 2020-05-28,SC,Nova Trento,city,4,0,49,False,14549,4211504,27.49330,0.0000
 2020-05-27,SC,Nova Trento,city,4,0,48,False,14549,4211504,27.49330,0.0000
 2020-05-26,SC,Nova Trento,city,4,0,47,False,14549,4211504,27.49330,0.0000
@@ -4642,7 +4766,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-12,SC,Nova Trento,city,1,0,3,False,14549,4211504,6.87332,0.0000
 2020-04-11,SC,Nova Trento,city,1,0,2,False,14549,4211504,6.87332,0.0000
 2020-04-10,SC,Nova Trento,city,1,0,1,False,14549,4211504,6.87332,0.0000
-2020-05-29,SC,Nova Veneza,city,37,0,44,True,15166,4211603,243.96677,0.0000
+2020-05-30,SC,Nova Veneza,city,41,0,45,True,15166,4211603,270.34155,0.0000
+2020-05-29,SC,Nova Veneza,city,37,0,44,False,15166,4211603,243.96677,0.0000
 2020-05-28,SC,Nova Veneza,city,33,0,43,False,15166,4211603,217.59198,0.0000
 2020-05-27,SC,Nova Veneza,city,27,0,42,False,15166,4211603,178.02980,0.0000
 2020-05-26,SC,Nova Veneza,city,26,0,41,False,15166,4211603,171.43611,0.0000
@@ -4686,7 +4811,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,SC,Nova Veneza,city,2,0,3,False,15166,4211603,13.18739,0.0000
 2020-04-17,SC,Nova Veneza,city,2,0,2,False,15166,4211603,13.18739,0.0000
 2020-04-16,SC,Nova Veneza,city,2,0,1,False,15166,4211603,13.18739,0.0000
-2020-05-29,SC,Orleans,city,21,0,51,True,22912,4211702,91.65503,0.0000
+2020-05-30,SC,Orleans,city,21,0,52,True,22912,4211702,91.65503,0.0000
+2020-05-29,SC,Orleans,city,21,0,51,False,22912,4211702,91.65503,0.0000
 2020-05-28,SC,Orleans,city,21,0,50,False,22912,4211702,91.65503,0.0000
 2020-05-27,SC,Orleans,city,21,0,49,False,22912,4211702,91.65503,0.0000
 2020-05-26,SC,Orleans,city,21,0,48,False,22912,4211702,91.65503,0.0000
@@ -4737,8 +4863,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Orleans,city,1,0,3,False,22912,4211702,4.36453,0.0000
 2020-04-10,SC,Orleans,city,1,0,2,False,22912,4211702,4.36453,0.0000
 2020-04-09,SC,Orleans,city,1,0,1,False,22912,4211702,4.36453,0.0000
-2020-05-29,SC,Otacílio Costa,city,2,0,1,True,18744,4211751,10.67008,0.0000
-2020-05-29,SC,Ouro,city,2,0,28,True,7295,4211801,27.41604,0.0000
+2020-05-30,SC,Otacílio Costa,city,2,0,2,True,18744,4211751,10.67008,0.0000
+2020-05-29,SC,Otacílio Costa,city,2,0,1,False,18744,4211751,10.67008,0.0000
+2020-05-30,SC,Ouro,city,2,0,29,True,7295,4211801,27.41604,0.0000
+2020-05-29,SC,Ouro,city,2,0,28,False,7295,4211801,27.41604,0.0000
 2020-05-28,SC,Ouro,city,2,0,27,False,7295,4211801,27.41604,0.0000
 2020-05-27,SC,Ouro,city,2,0,26,False,7295,4211801,27.41604,0.0000
 2020-05-26,SC,Ouro,city,2,0,25,False,7295,4211801,27.41604,0.0000
@@ -4766,7 +4894,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,SC,Ouro,city,1,0,3,False,7295,4211801,13.70802,0.0000
 2020-05-03,SC,Ouro,city,1,0,2,False,7295,4211801,13.70802,0.0000
 2020-05-02,SC,Ouro,city,1,0,1,False,7295,4211801,13.70802,0.0000
-2020-05-29,SC,Paial,city,12,0,27,True,1505,4211876,797.34219,0.0000
+2020-05-30,SC,Paial,city,12,0,28,True,1505,4211876,797.34219,0.0000
+2020-05-29,SC,Paial,city,12,0,27,False,1505,4211876,797.34219,0.0000
 2020-05-28,SC,Paial,city,12,0,26,False,1505,4211876,797.34219,0.0000
 2020-05-27,SC,Paial,city,11,0,25,False,1505,4211876,730.89701,0.0000
 2020-05-26,SC,Paial,city,10,0,24,False,1505,4211876,664.45183,0.0000
@@ -4793,7 +4922,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,SC,Paial,city,2,0,3,False,1505,4211876,132.89037,0.0000
 2020-05-04,SC,Paial,city,1,0,2,False,1505,4211876,66.44518,0.0000
 2020-05-03,SC,Paial,city,1,0,1,False,1505,4211876,66.44518,0.0000
-2020-05-29,SC,Palhoça,city,126,1,57,True,171797,4211900,73.34238,0.0079
+2020-05-30,SC,Palhoça,city,121,1,58,True,171797,4211900,70.43196,0.0083
+2020-05-29,SC,Palhoça,city,126,1,57,False,171797,4211900,73.34238,0.0079
 2020-05-28,SC,Palhoça,city,116,1,56,False,171797,4211900,67.52155,0.0086
 2020-05-27,SC,Palhoça,city,104,1,55,False,171797,4211900,60.53656,0.0096
 2020-05-26,SC,Palhoça,city,104,1,54,False,171797,4211900,60.53656,0.0096
@@ -4850,7 +4980,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,SC,Palhoça,city,3,0,3,False,171797,4211900,1.74625,0.0000
 2020-04-04,SC,Palhoça,city,3,0,2,False,171797,4211900,1.74625,0.0000
 2020-04-03,SC,Palhoça,city,1,0,1,False,171797,4211900,0.58208,0.0000
-2020-05-29,SC,Palma Sola,city,2,0,41,True,7423,4212007,26.94328,0.0000
+2020-05-30,SC,Palma Sola,city,3,0,42,True,7423,4212007,40.41493,0.0000
+2020-05-29,SC,Palma Sola,city,2,0,41,False,7423,4212007,26.94328,0.0000
 2020-05-28,SC,Palma Sola,city,1,0,40,False,7423,4212007,13.47164,0.0000
 2020-05-27,SC,Palma Sola,city,1,0,39,False,7423,4212007,13.47164,0.0000
 2020-05-26,SC,Palma Sola,city,1,0,38,False,7423,4212007,13.47164,0.0000
@@ -4891,7 +5022,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,SC,Palma Sola,city,1,0,3,False,7423,4212007,13.47164,0.0000
 2020-04-20,SC,Palma Sola,city,1,0,2,False,7423,4212007,13.47164,0.0000
 2020-04-19,SC,Palma Sola,city,1,0,1,False,7423,4212007,13.47164,0.0000
-2020-05-29,SC,Palmeira,city,1,0,8,True,2627,4212056,38.06624,0.0000
+2020-05-30,SC,Palmeira,city,1,0,9,True,2627,4212056,38.06624,0.0000
+2020-05-29,SC,Palmeira,city,1,0,8,False,2627,4212056,38.06624,0.0000
 2020-05-28,SC,Palmeira,city,1,0,7,False,2627,4212056,38.06624,0.0000
 2020-05-27,SC,Palmeira,city,1,0,6,False,2627,4212056,38.06624,0.0000
 2020-05-26,SC,Palmeira,city,1,0,5,False,2627,4212056,38.06624,0.0000
@@ -4899,7 +5031,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,SC,Palmeira,city,1,0,3,False,2627,4212056,38.06624,0.0000
 2020-05-23,SC,Palmeira,city,1,0,2,False,2627,4212056,38.06624,0.0000
 2020-05-22,SC,Palmeira,city,1,0,1,False,2627,4212056,38.06624,0.0000
-2020-05-29,SC,Palmitos,city,46,1,32,True,16169,4212106,284.49502,0.0217
+2020-05-30,SC,Palmitos,city,47,1,33,True,16169,4212106,290.67970,0.0213
+2020-05-29,SC,Palmitos,city,46,1,32,False,16169,4212106,284.49502,0.0217
 2020-05-28,SC,Palmitos,city,38,1,31,False,16169,4212106,235.01763,0.0263
 2020-05-27,SC,Palmitos,city,26,0,30,False,16169,4212106,160.80153,0.0000
 2020-05-26,SC,Palmitos,city,24,0,29,False,16169,4212106,148.43219,0.0000
@@ -4931,7 +5064,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Palmitos,city,1,0,3,False,16169,4212106,6.18467,0.0000
 2020-04-29,SC,Palmitos,city,1,0,2,False,16169,4212106,6.18467,0.0000
 2020-04-28,SC,Palmitos,city,1,0,1,False,16169,4212106,6.18467,0.0000
-2020-05-29,SC,Papanduva,city,14,3,63,True,19320,4212205,72.46377,0.2143
+2020-05-30,SC,Papanduva,city,14,3,64,True,19320,4212205,72.46377,0.2143
+2020-05-29,SC,Papanduva,city,14,3,63,False,19320,4212205,72.46377,0.2143
 2020-05-28,SC,Papanduva,city,14,3,62,False,19320,4212205,72.46377,0.2143
 2020-05-27,SC,Papanduva,city,16,3,61,False,19320,4212205,82.81573,0.1875
 2020-05-26,SC,Papanduva,city,16,3,60,False,19320,4212205,82.81573,0.1875
@@ -4994,7 +5128,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,SC,Papanduva,city,2,0,3,False,19320,4212205,10.35197,0.0000
 2020-03-29,SC,Papanduva,city,2,0,2,False,19320,4212205,10.35197,0.0000
 2020-03-28,SC,Papanduva,city,2,0,1,False,19320,4212205,10.35197,0.0000
-2020-05-29,SC,Passo de Torres,city,11,0,26,True,8823,4212254,124.67415,0.0000
+2020-05-30,SC,Passo de Torres,city,12,0,27,True,8823,4212254,136.00816,0.0000
+2020-05-29,SC,Passo de Torres,city,11,0,26,False,8823,4212254,124.67415,0.0000
 2020-05-28,SC,Passo de Torres,city,9,0,25,False,8823,4212254,102.00612,0.0000
 2020-05-27,SC,Passo de Torres,city,2,0,24,False,8823,4212254,22.66803,0.0000
 2020-05-26,SC,Passo de Torres,city,2,0,23,False,8823,4212254,22.66803,0.0000
@@ -5020,7 +5155,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,SC,Passo de Torres,city,1,0,3,False,8823,4212254,11.33401,0.0000
 2020-05-05,SC,Passo de Torres,city,1,0,2,False,8823,4212254,11.33401,0.0000
 2020-05-04,SC,Passo de Torres,city,1,0,1,False,8823,4212254,11.33401,0.0000
-2020-05-29,SC,Paulo Lopes,city,2,0,58,True,7494,4212304,26.68802,0.0000
+2020-05-30,SC,Passos Maia,city,1,0,1,True,4147,4212270,24.11382,0.0000
+2020-05-30,SC,Paulo Lopes,city,1,0,59,True,7494,4212304,13.34401,0.0000
+2020-05-29,SC,Paulo Lopes,city,2,0,58,False,7494,4212304,26.68802,0.0000
 2020-05-28,SC,Paulo Lopes,city,2,0,57,False,7494,4212304,26.68802,0.0000
 2020-05-27,SC,Paulo Lopes,city,2,0,56,False,7494,4212304,26.68802,0.0000
 2020-05-26,SC,Paulo Lopes,city,2,0,55,False,7494,4212304,26.68802,0.0000
@@ -5078,7 +5215,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,SC,Paulo Lopes,city,1,0,3,False,7494,4212304,13.34401,0.0000
 2020-04-03,SC,Paulo Lopes,city,1,0,2,False,7494,4212304,13.34401,0.0000
 2020-04-02,SC,Paulo Lopes,city,1,0,1,False,7494,4212304,13.34401,0.0000
-2020-05-29,SC,Pedras Grandes,city,2,1,56,True,3976,4212403,50.30181,0.5000
+2020-05-30,SC,Pedras Grandes,city,2,1,57,True,3976,4212403,50.30181,0.5000
+2020-05-29,SC,Pedras Grandes,city,2,1,56,False,3976,4212403,50.30181,0.5000
 2020-05-28,SC,Pedras Grandes,city,2,1,55,False,3976,4212403,50.30181,0.5000
 2020-05-27,SC,Pedras Grandes,city,2,1,54,False,3976,4212403,50.30181,0.5000
 2020-05-26,SC,Pedras Grandes,city,2,1,53,False,3976,4212403,50.30181,0.5000
@@ -5134,7 +5272,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,SC,Pedras Grandes,city,1,1,3,False,3976,4212403,25.15091,1.0000
 2020-04-05,SC,Pedras Grandes,city,1,1,2,False,3976,4212403,25.15091,1.0000
 2020-04-04,SC,Pedras Grandes,city,1,1,1,False,3976,4212403,25.15091,1.0000
-2020-05-29,SC,Penha,city,62,2,43,True,32531,4212502,190.58744,0.0323
+2020-05-30,SC,Penha,city,62,2,44,True,32531,4212502,190.58744,0.0323
+2020-05-29,SC,Penha,city,62,2,43,False,32531,4212502,190.58744,0.0323
 2020-05-28,SC,Penha,city,61,2,42,False,32531,4212502,187.51345,0.0328
 2020-05-27,SC,Penha,city,56,2,41,False,32531,4212502,172.14349,0.0357
 2020-05-26,SC,Penha,city,54,2,40,False,32531,4212502,165.99551,0.0370
@@ -5177,7 +5316,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,SC,Penha,city,2,1,3,False,32531,4212502,6.14798,0.5000
 2020-04-18,SC,Penha,city,1,1,2,False,32531,4212502,3.07399,1.0000
 2020-04-17,SC,Penha,city,1,1,1,False,32531,4212502,3.07399,1.0000
-2020-05-29,SC,Peritiba,city,14,0,35,True,2787,4212601,502.33226,0.0000
+2020-05-30,SC,Peritiba,city,14,0,36,True,2787,4212601,502.33226,0.0000
+2020-05-29,SC,Peritiba,city,14,0,35,False,2787,4212601,502.33226,0.0000
 2020-05-28,SC,Peritiba,city,14,0,34,False,2787,4212601,502.33226,0.0000
 2020-05-27,SC,Peritiba,city,14,0,33,False,2787,4212601,502.33226,0.0000
 2020-05-26,SC,Peritiba,city,14,0,32,False,2787,4212601,502.33226,0.0000
@@ -5212,7 +5352,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,SC,Peritiba,city,1,0,3,False,2787,4212601,35.88088,0.0000
 2020-04-26,SC,Peritiba,city,1,0,2,False,2787,4212601,35.88088,0.0000
 2020-04-25,SC,Peritiba,city,1,0,1,False,2787,4212601,35.88088,0.0000
-2020-05-29,SC,Pescaria Brava,city,1,0,61,True,10091,4212650,9.90982,0.0000
+2020-05-30,SC,Pescaria Brava,city,1,0,62,True,10091,4212650,9.90982,0.0000
+2020-05-29,SC,Pescaria Brava,city,1,0,61,False,10091,4212650,9.90982,0.0000
 2020-05-28,SC,Pescaria Brava,city,1,0,60,False,10091,4212650,9.90982,0.0000
 2020-05-27,SC,Pescaria Brava,city,1,0,59,False,10091,4212650,9.90982,0.0000
 2020-05-26,SC,Pescaria Brava,city,1,0,58,False,10091,4212650,9.90982,0.0000
@@ -5273,7 +5414,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,SC,Pescaria Brava,city,1,0,3,False,10091,4212650,9.90982,0.0000
 2020-03-31,SC,Pescaria Brava,city,1,0,2,False,10091,4212650,9.90982,0.0000
 2020-03-30,SC,Pescaria Brava,city,1,0,1,False,10091,4212650,9.90982,0.0000
-2020-05-29,SC,Petrolândia,city,1,0,12,True,5937,4212700,16.84352,0.0000
+2020-05-30,SC,Petrolândia,city,1,0,13,True,5937,4212700,16.84352,0.0000
+2020-05-29,SC,Petrolândia,city,1,0,12,False,5937,4212700,16.84352,0.0000
 2020-05-28,SC,Petrolândia,city,1,0,11,False,5937,4212700,16.84352,0.0000
 2020-05-27,SC,Petrolândia,city,1,0,10,False,5937,4212700,16.84352,0.0000
 2020-05-26,SC,Petrolândia,city,1,0,9,False,5937,4212700,16.84352,0.0000
@@ -5285,7 +5427,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,SC,Petrolândia,city,1,0,3,False,5937,4212700,16.84352,0.0000
 2020-05-19,SC,Petrolândia,city,1,0,2,False,5937,4212700,16.84352,0.0000
 2020-05-18,SC,Petrolândia,city,1,0,1,False,5937,4212700,16.84352,0.0000
-2020-05-29,SC,Pinhalzinho,city,11,0,26,True,20313,4212908,54.15251,0.0000
+2020-05-30,SC,Pinhalzinho,city,12,0,27,True,20313,4212908,59.07547,0.0000
+2020-05-29,SC,Pinhalzinho,city,11,0,26,False,20313,4212908,54.15251,0.0000
 2020-05-28,SC,Pinhalzinho,city,10,0,25,False,20313,4212908,49.22956,0.0000
 2020-05-27,SC,Pinhalzinho,city,9,0,24,False,20313,4212908,44.30660,0.0000
 2020-05-26,SC,Pinhalzinho,city,8,0,23,False,20313,4212908,39.38365,0.0000
@@ -5311,9 +5454,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,SC,Pinhalzinho,city,3,0,3,False,20313,4212908,14.76887,0.0000
 2020-05-05,SC,Pinhalzinho,city,3,0,2,False,20313,4212908,14.76887,0.0000
 2020-05-04,SC,Pinhalzinho,city,1,0,1,False,20313,4212908,4.92296,0.0000
-2020-05-29,SC,Pinheiro Preto,city,1,0,2,True,3555,4213005,28.12940,0.0000
+2020-05-30,SC,Pinheiro Preto,city,1,0,3,True,3555,4213005,28.12940,0.0000
+2020-05-29,SC,Pinheiro Preto,city,1,0,2,False,3555,4213005,28.12940,0.0000
 2020-05-28,SC,Pinheiro Preto,city,1,0,1,False,3555,4213005,28.12940,0.0000
-2020-05-29,SC,Piratuba,city,8,0,28,True,3854,4213104,207.57654,0.0000
+2020-05-30,SC,Piratuba,city,8,0,29,True,3854,4213104,207.57654,0.0000
+2020-05-29,SC,Piratuba,city,8,0,28,False,3854,4213104,207.57654,0.0000
 2020-05-28,SC,Piratuba,city,9,0,27,False,3854,4213104,233.52361,0.0000
 2020-05-27,SC,Piratuba,city,9,0,26,False,3854,4213104,233.52361,0.0000
 2020-05-26,SC,Piratuba,city,9,0,25,False,3854,4213104,233.52361,0.0000
@@ -5341,7 +5486,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,SC,Piratuba,city,5,0,3,False,3854,4213104,129.73534,0.0000
 2020-05-03,SC,Piratuba,city,1,0,2,False,3854,4213104,25.94707,0.0000
 2020-05-02,SC,Piratuba,city,1,0,1,False,3854,4213104,25.94707,0.0000
-2020-05-29,SC,Planalto Alegre,city,12,0,27,True,2870,4213153,418.11847,0.0000
+2020-05-30,SC,Planalto Alegre,city,12,0,28,True,2870,4213153,418.11847,0.0000
+2020-05-29,SC,Planalto Alegre,city,12,0,27,False,2870,4213153,418.11847,0.0000
 2020-05-28,SC,Planalto Alegre,city,11,0,26,False,2870,4213153,383.27526,0.0000
 2020-05-27,SC,Planalto Alegre,city,12,0,25,False,2870,4213153,418.11847,0.0000
 2020-05-26,SC,Planalto Alegre,city,12,0,24,False,2870,4213153,418.11847,0.0000
@@ -5368,7 +5514,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,SC,Planalto Alegre,city,1,0,3,False,2870,4213153,34.84321,0.0000
 2020-05-04,SC,Planalto Alegre,city,0,0,2,False,2870,4213153,,0.0000
 2020-05-03,SC,Planalto Alegre,city,1,0,1,False,2870,4213153,34.84321,0.0000
-2020-05-29,SC,Pomerode,city,21,0,71,True,33447,4213203,62.78590,0.0000
+2020-05-30,SC,Pomerode,city,21,0,72,True,33447,4213203,62.78590,0.0000
+2020-05-29,SC,Pomerode,city,21,0,71,False,33447,4213203,62.78590,0.0000
 2020-05-28,SC,Pomerode,city,21,0,70,False,33447,4213203,62.78590,0.0000
 2020-05-27,SC,Pomerode,city,21,0,69,False,33447,4213203,62.78590,0.0000
 2020-05-26,SC,Pomerode,city,21,0,68,False,33447,4213203,62.78590,0.0000
@@ -5439,7 +5586,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,SC,Pomerode,city,1,0,3,False,33447,4213203,2.98980,0.0000
 2020-03-21,SC,Pomerode,city,1,0,2,False,33447,4213203,2.98980,0.0000
 2020-03-20,SC,Pomerode,city,1,0,1,False,33447,4213203,2.98980,0.0000
-2020-05-29,SC,Ponte Serrada,city,25,1,34,True,11593,4213401,215.64737,0.0400
+2020-05-30,SC,Ponte Serrada,city,25,1,35,True,11593,4213401,215.64737,0.0400
+2020-05-29,SC,Ponte Serrada,city,25,1,34,False,11593,4213401,215.64737,0.0400
 2020-05-28,SC,Ponte Serrada,city,25,1,33,False,11593,4213401,215.64737,0.0400
 2020-05-27,SC,Ponte Serrada,city,25,1,32,False,11593,4213401,215.64737,0.0400
 2020-05-26,SC,Ponte Serrada,city,25,1,31,False,11593,4213401,215.64737,0.0400
@@ -5473,7 +5621,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,SC,Ponte Serrada,city,4,0,3,False,11593,4213401,34.50358,0.0000
 2020-04-27,SC,Ponte Serrada,city,3,0,2,False,11593,4213401,25.87768,0.0000
 2020-04-26,SC,Ponte Serrada,city,1,0,1,False,11593,4213401,8.62589,0.0000
-2020-05-29,SC,Porto Belo,city,21,1,68,True,21388,4213500,98.18590,0.0476
+2020-05-30,SC,Porto Belo,city,23,1,69,True,21388,4213500,107.53694,0.0435
+2020-05-29,SC,Porto Belo,city,21,1,68,False,21388,4213500,98.18590,0.0476
 2020-05-28,SC,Porto Belo,city,10,1,67,False,21388,4213500,46.75519,0.1000
 2020-05-27,SC,Porto Belo,city,10,1,66,False,21388,4213500,46.75519,0.1000
 2020-05-26,SC,Porto Belo,city,9,1,65,False,21388,4213500,42.07967,0.1111
@@ -5541,7 +5690,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,SC,Porto Belo,city,2,0,3,False,21388,4213500,9.35104,0.0000
 2020-03-24,SC,Porto Belo,city,2,0,2,False,21388,4213500,9.35104,0.0000
 2020-03-23,SC,Porto Belo,city,2,0,1,False,21388,4213500,9.35104,0.0000
-2020-05-29,SC,Porto União,city,5,0,26,True,35398,4213609,14.12509,0.0000
+2020-05-30,SC,Porto União,city,5,0,27,True,35398,4213609,14.12509,0.0000
+2020-05-29,SC,Porto União,city,5,0,26,False,35398,4213609,14.12509,0.0000
 2020-05-28,SC,Porto União,city,5,0,25,False,35398,4213609,14.12509,0.0000
 2020-05-27,SC,Porto União,city,5,0,24,False,35398,4213609,14.12509,0.0000
 2020-05-26,SC,Porto União,city,5,0,23,False,35398,4213609,14.12509,0.0000
@@ -5567,7 +5717,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,SC,Porto União,city,4,0,3,False,35398,4213609,11.30007,0.0000
 2020-05-05,SC,Porto União,city,4,0,2,False,35398,4213609,11.30007,0.0000
 2020-05-04,SC,Porto União,city,4,0,1,False,35398,4213609,11.30007,0.0000
-2020-05-29,SC,Pouso Redondo,city,3,1,44,True,17453,4213708,17.18902,0.3333
+2020-05-30,SC,Pouso Redondo,city,4,1,45,True,17453,4213708,22.91870,0.2500
+2020-05-29,SC,Pouso Redondo,city,3,1,44,False,17453,4213708,17.18902,0.3333
 2020-05-28,SC,Pouso Redondo,city,3,1,43,False,17453,4213708,17.18902,0.3333
 2020-05-27,SC,Pouso Redondo,city,3,1,42,False,17453,4213708,17.18902,0.3333
 2020-05-26,SC,Pouso Redondo,city,3,1,41,False,17453,4213708,17.18902,0.3333
@@ -5611,7 +5762,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,SC,Pouso Redondo,city,1,0,3,False,17453,4213708,5.72967,0.0000
 2020-04-17,SC,Pouso Redondo,city,1,0,2,False,17453,4213708,5.72967,0.0000
 2020-04-16,SC,Pouso Redondo,city,1,0,1,False,17453,4213708,5.72967,0.0000
-2020-05-29,SC,Praia Grande,city,2,0,20,True,7319,4213807,27.32614,0.0000
+2020-05-30,SC,Praia Grande,city,2,0,21,True,7319,4213807,27.32614,0.0000
+2020-05-29,SC,Praia Grande,city,2,0,20,False,7319,4213807,27.32614,0.0000
 2020-05-28,SC,Praia Grande,city,1,0,19,False,7319,4213807,13.66307,0.0000
 2020-05-27,SC,Praia Grande,city,1,0,18,False,7319,4213807,13.66307,0.0000
 2020-05-26,SC,Praia Grande,city,1,0,17,False,7319,4213807,13.66307,0.0000
@@ -5631,7 +5783,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-12,SC,Praia Grande,city,1,0,3,False,7319,4213807,13.66307,0.0000
 2020-05-11,SC,Praia Grande,city,1,0,2,False,7319,4213807,13.66307,0.0000
 2020-05-10,SC,Praia Grande,city,1,0,1,False,7319,4213807,13.66307,0.0000
-2020-05-29,SC,Presidente Castello Branco,city,8,0,35,True,1568,4213906,510.20408,0.0000
+2020-05-30,SC,Presidente Castello Branco,city,8,0,36,True,1568,4213906,510.20408,0.0000
+2020-05-29,SC,Presidente Castello Branco,city,8,0,35,False,1568,4213906,510.20408,0.0000
 2020-05-28,SC,Presidente Castello Branco,city,8,0,34,False,1568,4213906,510.20408,0.0000
 2020-05-27,SC,Presidente Castello Branco,city,8,0,33,False,1568,4213906,510.20408,0.0000
 2020-05-26,SC,Presidente Castello Branco,city,8,0,32,False,1568,4213906,510.20408,0.0000
@@ -5666,9 +5819,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,SC,Presidente Castello Branco,city,4,0,3,False,1568,4213906,255.10204,0.0000
 2020-04-26,SC,Presidente Castello Branco,city,2,0,2,False,1568,4213906,127.55102,0.0000
 2020-04-25,SC,Presidente Castello Branco,city,2,0,1,False,1568,4213906,127.55102,0.0000
-2020-05-29,SC,Presidente Getúlio,city,1,0,2,True,17471,4214003,5.72377,0.0000
+2020-05-30,SC,Presidente Getúlio,city,1,0,3,True,17471,4214003,5.72377,0.0000
+2020-05-29,SC,Presidente Getúlio,city,1,0,2,False,17471,4214003,5.72377,0.0000
 2020-05-28,SC,Presidente Getúlio,city,1,0,1,False,17471,4214003,5.72377,0.0000
-2020-05-29,SC,Quilombo,city,8,0,12,True,9887,4214201,80.91433,0.0000
+2020-05-30,SC,Quilombo,city,8,0,13,True,9887,4214201,80.91433,0.0000
+2020-05-29,SC,Quilombo,city,8,0,12,False,9887,4214201,80.91433,0.0000
 2020-05-28,SC,Quilombo,city,8,0,11,False,9887,4214201,80.91433,0.0000
 2020-05-27,SC,Quilombo,city,8,0,10,False,9887,4214201,80.91433,0.0000
 2020-05-26,SC,Quilombo,city,8,0,9,False,9887,4214201,80.91433,0.0000
@@ -5680,7 +5835,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,SC,Quilombo,city,2,0,3,False,9887,4214201,20.22858,0.0000
 2020-05-19,SC,Quilombo,city,2,0,2,False,9887,4214201,20.22858,0.0000
 2020-05-18,SC,Quilombo,city,2,0,1,False,9887,4214201,20.22858,0.0000
-2020-05-29,SC,Rancho Queimado,city,2,0,77,True,2878,4214300,69.49270,0.0000
+2020-05-30,SC,Rancho Queimado,city,1,0,78,True,2878,4214300,34.74635,0.0000
+2020-05-29,SC,Rancho Queimado,city,2,0,77,False,2878,4214300,69.49270,0.0000
 2020-05-28,SC,Rancho Queimado,city,2,0,76,False,2878,4214300,69.49270,0.0000
 2020-05-27,SC,Rancho Queimado,city,2,0,75,False,2878,4214300,69.49270,0.0000
 2020-05-26,SC,Rancho Queimado,city,2,0,74,False,2878,4214300,69.49270,0.0000
@@ -5757,7 +5913,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-16,SC,Rancho Queimado,city,2,0,3,False,2878,4214300,69.49270,0.0000
 2020-03-15,SC,Rancho Queimado,city,2,0,2,False,2878,4214300,69.49270,0.0000
 2020-03-14,SC,Rancho Queimado,city,2,0,1,False,2878,4214300,69.49270,0.0000
-2020-05-29,SC,Rio Fortuna,city,1,0,28,True,4611,4214904,21.68727,0.0000
+2020-05-30,SC,Rio Fortuna,city,1,0,29,True,4611,4214904,21.68727,0.0000
+2020-05-29,SC,Rio Fortuna,city,1,0,28,False,4611,4214904,21.68727,0.0000
 2020-05-28,SC,Rio Fortuna,city,1,0,27,False,4611,4214904,21.68727,0.0000
 2020-05-27,SC,Rio Fortuna,city,1,0,26,False,4611,4214904,21.68727,0.0000
 2020-05-26,SC,Rio Fortuna,city,0,0,25,False,4611,4214904,,0.0000
@@ -5785,7 +5942,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,SC,Rio Fortuna,city,1,0,3,False,4611,4214904,21.68727,0.0000
 2020-05-03,SC,Rio Fortuna,city,1,0,2,False,4611,4214904,21.68727,0.0000
 2020-05-02,SC,Rio Fortuna,city,1,0,1,False,4611,4214904,21.68727,0.0000
-2020-05-29,SC,Rio Negrinho,city,11,0,51,True,42302,4215000,26.00350,0.0000
+2020-05-30,SC,Rio Negrinho,city,11,0,52,True,42302,4215000,26.00350,0.0000
+2020-05-29,SC,Rio Negrinho,city,11,0,51,False,42302,4215000,26.00350,0.0000
 2020-05-28,SC,Rio Negrinho,city,8,0,50,False,42302,4215000,18.91164,0.0000
 2020-05-27,SC,Rio Negrinho,city,8,0,49,False,42302,4215000,18.91164,0.0000
 2020-05-26,SC,Rio Negrinho,city,8,0,48,False,42302,4215000,18.91164,0.0000
@@ -5836,7 +5994,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Rio Negrinho,city,1,0,3,False,42302,4215000,2.36395,0.0000
 2020-04-10,SC,Rio Negrinho,city,1,0,2,False,42302,4215000,2.36395,0.0000
 2020-04-09,SC,Rio Negrinho,city,1,0,1,False,42302,4215000,2.36395,0.0000
-2020-05-29,SC,Rio Rufino,city,1,0,51,True,2483,4215059,40.27386,0.0000
+2020-05-30,SC,Rio Rufino,city,1,0,52,True,2483,4215059,40.27386,0.0000
+2020-05-29,SC,Rio Rufino,city,1,0,51,False,2483,4215059,40.27386,0.0000
 2020-05-28,SC,Rio Rufino,city,1,0,50,False,2483,4215059,40.27386,0.0000
 2020-05-27,SC,Rio Rufino,city,1,0,49,False,2483,4215059,40.27386,0.0000
 2020-05-26,SC,Rio Rufino,city,1,0,48,False,2483,4215059,40.27386,0.0000
@@ -5887,7 +6046,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Rio Rufino,city,1,0,3,False,2483,4215059,40.27386,0.0000
 2020-04-10,SC,Rio Rufino,city,1,0,2,False,2483,4215059,40.27386,0.0000
 2020-04-09,SC,Rio Rufino,city,1,0,1,False,2483,4215059,40.27386,0.0000
-2020-05-29,SC,Rio do Oeste,city,2,0,20,True,7489,4214607,26.70584,0.0000
+2020-05-30,SC,Rio do Oeste,city,2,0,21,True,7489,4214607,26.70584,0.0000
+2020-05-29,SC,Rio do Oeste,city,2,0,20,False,7489,4214607,26.70584,0.0000
 2020-05-28,SC,Rio do Oeste,city,2,0,19,False,7489,4214607,26.70584,0.0000
 2020-05-27,SC,Rio do Oeste,city,2,0,18,False,7489,4214607,26.70584,0.0000
 2020-05-26,SC,Rio do Oeste,city,2,0,17,False,7489,4214607,26.70584,0.0000
@@ -5907,7 +6067,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-12,SC,Rio do Oeste,city,1,0,3,False,7489,4214607,13.35292,0.0000
 2020-05-11,SC,Rio do Oeste,city,1,0,2,False,7489,4214607,13.35292,0.0000
 2020-05-10,SC,Rio do Oeste,city,1,0,1,False,7489,4214607,13.35292,0.0000
-2020-05-29,SC,Rio do Sul,city,53,0,47,True,71061,4214805,74.58381,0.0000
+2020-05-30,SC,Rio do Sul,city,54,0,48,True,71061,4214805,75.99105,0.0000
+2020-05-29,SC,Rio do Sul,city,53,0,47,False,71061,4214805,74.58381,0.0000
 2020-05-28,SC,Rio do Sul,city,52,0,46,False,71061,4214805,73.17657,0.0000
 2020-05-27,SC,Rio do Sul,city,48,0,45,False,71061,4214805,67.54760,0.0000
 2020-05-26,SC,Rio do Sul,city,48,0,44,False,71061,4214805,67.54760,0.0000
@@ -5954,13 +6115,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,SC,Rio do Sul,city,1,0,3,False,71061,4214805,1.40724,0.0000
 2020-04-14,SC,Rio do Sul,city,1,0,2,False,71061,4214805,1.40724,0.0000
 2020-04-13,SC,Rio do Sul,city,1,0,1,False,71061,4214805,1.40724,0.0000
-2020-05-29,SC,Riqueza,city,2,0,6,True,4598,4215075,43.49717,0.0000
+2020-05-30,SC,Riqueza,city,2,0,7,True,4598,4215075,43.49717,0.0000
+2020-05-29,SC,Riqueza,city,2,0,6,False,4598,4215075,43.49717,0.0000
 2020-05-28,SC,Riqueza,city,2,0,5,False,4598,4215075,43.49717,0.0000
 2020-05-27,SC,Riqueza,city,1,0,4,False,4598,4215075,21.74859,0.0000
 2020-05-26,SC,Riqueza,city,1,0,3,False,4598,4215075,21.74859,0.0000
 2020-05-25,SC,Riqueza,city,1,0,2,False,4598,4215075,21.74859,0.0000
 2020-05-24,SC,Riqueza,city,1,0,1,False,4598,4215075,21.74859,0.0000
-2020-05-29,SC,Rodeio,city,3,1,25,True,11551,4215109,25.97178,0.3333
+2020-05-30,SC,Rodeio,city,3,1,26,True,11551,4215109,25.97178,0.3333
+2020-05-29,SC,Rodeio,city,3,1,25,False,11551,4215109,25.97178,0.3333
 2020-05-28,SC,Rodeio,city,3,1,24,False,11551,4215109,25.97178,0.3333
 2020-05-27,SC,Rodeio,city,4,1,23,False,11551,4215109,34.62904,0.2500
 2020-05-26,SC,Rodeio,city,4,1,22,False,11551,4215109,34.62904,0.2500
@@ -5985,7 +6148,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Rodeio,city,1,0,3,False,11551,4215109,8.65726,0.0000
 2020-05-06,SC,Rodeio,city,1,0,2,False,11551,4215109,8.65726,0.0000
 2020-05-05,SC,Rodeio,city,1,0,1,False,11551,4215109,8.65726,0.0000
-2020-05-29,SC,Salete,city,7,1,37,True,7642,4215307,91.59906,0.1429
+2020-05-30,SC,Salete,city,7,1,38,True,7642,4215307,91.59906,0.1429
+2020-05-29,SC,Salete,city,7,1,37,False,7642,4215307,91.59906,0.1429
 2020-05-28,SC,Salete,city,7,1,36,False,7642,4215307,91.59906,0.1429
 2020-05-27,SC,Salete,city,7,1,35,False,7642,4215307,91.59906,0.1429
 2020-05-26,SC,Salete,city,7,1,34,False,7642,4215307,91.59906,0.1429
@@ -6022,12 +6186,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,SC,Salete,city,2,0,3,False,7642,4215307,26.17116,0.0000
 2020-04-24,SC,Salete,city,2,0,2,False,7642,4215307,26.17116,0.0000
 2020-04-23,SC,Salete,city,2,0,1,False,7642,4215307,26.17116,0.0000
-2020-05-29,SC,Salto Veloso,city,1,0,5,True,4718,4215406,21.19542,0.0000
+2020-05-30,SC,Salto Veloso,city,1,0,6,True,4718,4215406,21.19542,0.0000
+2020-05-29,SC,Salto Veloso,city,1,0,5,False,4718,4215406,21.19542,0.0000
 2020-05-28,SC,Salto Veloso,city,1,0,4,False,4718,4215406,21.19542,0.0000
 2020-05-27,SC,Salto Veloso,city,1,0,3,False,4718,4215406,21.19542,0.0000
 2020-05-26,SC,Salto Veloso,city,1,0,2,False,4718,4215406,21.19542,0.0000
 2020-05-25,SC,Salto Veloso,city,1,0,1,False,4718,4215406,21.19542,0.0000
-2020-05-29,SC,Sangão,city,16,0,53,True,12678,4215455,126.20287,0.0000
+2020-05-30,SC,Sangão,city,16,0,54,True,12678,4215455,126.20287,0.0000
+2020-05-29,SC,Sangão,city,16,0,53,False,12678,4215455,126.20287,0.0000
 2020-05-28,SC,Sangão,city,16,0,52,False,12678,4215455,126.20287,0.0000
 2020-05-27,SC,Sangão,city,16,0,51,False,12678,4215455,126.20287,0.0000
 2020-05-26,SC,Sangão,city,16,0,50,False,12678,4215455,126.20287,0.0000
@@ -6080,7 +6246,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,SC,Sangão,city,1,0,3,False,12678,4215455,7.88768,0.0000
 2020-04-08,SC,Sangão,city,1,0,2,False,12678,4215455,7.88768,0.0000
 2020-04-07,SC,Sangão,city,1,0,1,False,12678,4215455,7.88768,0.0000
-2020-05-29,SC,Santa Cecília,city,2,0,49,True,16830,4215505,11.88354,0.0000
+2020-05-30,SC,Santa Cecília,city,2,0,50,True,16830,4215505,11.88354,0.0000
+2020-05-29,SC,Santa Cecília,city,2,0,49,False,16830,4215505,11.88354,0.0000
 2020-05-28,SC,Santa Cecília,city,2,0,48,False,16830,4215505,11.88354,0.0000
 2020-05-27,SC,Santa Cecília,city,3,0,47,False,16830,4215505,17.82531,0.0000
 2020-05-26,SC,Santa Cecília,city,4,0,46,False,16830,4215505,23.76708,0.0000
@@ -6129,7 +6296,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,SC,Santa Cecília,city,1,0,3,False,16830,4215505,5.94177,0.0000
 2020-04-12,SC,Santa Cecília,city,1,0,2,False,16830,4215505,5.94177,0.0000
 2020-04-11,SC,Santa Cecília,city,1,0,1,False,16830,4215505,5.94177,0.0000
-2020-05-29,SC,Santa Helena,city,1,0,32,True,2223,4215554,44.98426,0.0000
+2020-05-30,SC,Santa Helena,city,1,0,33,True,2223,4215554,44.98426,0.0000
+2020-05-29,SC,Santa Helena,city,1,0,32,False,2223,4215554,44.98426,0.0000
 2020-05-28,SC,Santa Helena,city,1,0,31,False,2223,4215554,44.98426,0.0000
 2020-05-27,SC,Santa Helena,city,1,0,30,False,2223,4215554,44.98426,0.0000
 2020-05-26,SC,Santa Helena,city,1,0,29,False,2223,4215554,44.98426,0.0000
@@ -6161,7 +6329,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Santa Helena,city,1,0,3,False,2223,4215554,44.98426,0.0000
 2020-04-29,SC,Santa Helena,city,1,0,2,False,2223,4215554,44.98426,0.0000
 2020-04-28,SC,Santa Helena,city,1,0,1,False,2223,4215554,44.98426,0.0000
-2020-05-29,SC,Santa Rosa de Lima,city,0,0,53,True,2142,4215604,,0.0000
+2020-05-30,SC,Santa Rosa de Lima,city,0,0,54,True,2142,4215604,,0.0000
+2020-05-29,SC,Santa Rosa de Lima,city,0,0,53,False,2142,4215604,,0.0000
 2020-05-28,SC,Santa Rosa de Lima,city,0,0,52,False,2142,4215604,,0.0000
 2020-05-27,SC,Santa Rosa de Lima,city,0,0,51,False,2142,4215604,,0.0000
 2020-05-26,SC,Santa Rosa de Lima,city,0,0,50,False,2142,4215604,,0.0000
@@ -6214,7 +6383,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,SC,Santa Rosa de Lima,city,2,0,3,False,2142,4215604,93.37068,0.0000
 2020-04-08,SC,Santa Rosa de Lima,city,1,0,2,False,2142,4215604,46.68534,0.0000
 2020-04-07,SC,Santa Rosa de Lima,city,1,0,1,False,2142,4215604,46.68534,0.0000
-2020-05-29,SC,Santa Rosa do Sul,city,12,0,45,True,8358,4215653,143.57502,0.0000
+2020-05-30,SC,Santa Rosa do Sul,city,27,0,46,True,8358,4215653,323.04379,0.0000
+2020-05-29,SC,Santa Rosa do Sul,city,12,0,45,False,8358,4215653,143.57502,0.0000
 2020-05-28,SC,Santa Rosa do Sul,city,9,0,44,False,8358,4215653,107.68126,0.0000
 2020-05-27,SC,Santa Rosa do Sul,city,9,0,43,False,8358,4215653,107.68126,0.0000
 2020-05-26,SC,Santa Rosa do Sul,city,8,0,42,False,8358,4215653,95.71668,0.0000
@@ -6259,9 +6429,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,SC,Santa Rosa do Sul,city,1,0,3,False,8358,4215653,11.96458,0.0000
 2020-04-16,SC,Santa Rosa do Sul,city,1,0,2,False,8358,4215653,11.96458,0.0000
 2020-04-15,SC,Santa Rosa do Sul,city,1,0,1,False,8358,4215653,11.96458,0.0000
-2020-05-29,SC,Santiago do Sul,city,1,0,2,True,1260,4215695,79.36508,0.0000
+2020-05-30,SC,Santa Terezinha,city,1,0,1,True,8787,4215679,11.38045,0.0000
+2020-05-30,SC,Santiago do Sul,city,1,0,3,True,1260,4215695,79.36508,0.0000
+2020-05-29,SC,Santiago do Sul,city,1,0,2,False,1260,4215695,79.36508,0.0000
 2020-05-28,SC,Santiago do Sul,city,1,0,1,False,1260,4215695,79.36508,0.0000
-2020-05-29,SC,Santo Amaro da Imperatriz,city,6,0,54,True,23245,4215703,25.81200,0.0000
+2020-05-30,SC,Santo Amaro da Imperatriz,city,5,0,55,True,23245,4215703,21.51000,0.0000
+2020-05-29,SC,Santo Amaro da Imperatriz,city,6,0,54,False,23245,4215703,25.81200,0.0000
 2020-05-28,SC,Santo Amaro da Imperatriz,city,6,0,53,False,23245,4215703,25.81200,0.0000
 2020-05-27,SC,Santo Amaro da Imperatriz,city,6,0,52,False,23245,4215703,25.81200,0.0000
 2020-05-26,SC,Santo Amaro da Imperatriz,city,5,0,51,False,23245,4215703,21.51000,0.0000
@@ -6315,7 +6488,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,SC,Santo Amaro da Imperatriz,city,1,0,3,False,23245,4215703,4.30200,0.0000
 2020-04-07,SC,Santo Amaro da Imperatriz,city,1,0,2,False,23245,4215703,4.30200,0.0000
 2020-04-06,SC,Santo Amaro da Imperatriz,city,1,0,1,False,23245,4215703,4.30200,0.0000
-2020-05-29,SC,Schroeder,city,5,0,51,True,21365,4217402,23.40276,0.0000
+2020-05-30,SC,Schroeder,city,7,0,52,True,21365,4217402,32.76387,0.0000
+2020-05-29,SC,Schroeder,city,5,0,51,False,21365,4217402,23.40276,0.0000
 2020-05-28,SC,Schroeder,city,4,0,50,False,21365,4217402,18.72221,0.0000
 2020-05-27,SC,Schroeder,city,3,0,49,False,21365,4217402,14.04166,0.0000
 2020-05-26,SC,Schroeder,city,1,0,48,False,21365,4217402,4.68055,0.0000
@@ -6366,7 +6540,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Schroeder,city,1,0,3,False,21365,4217402,4.68055,0.0000
 2020-04-10,SC,Schroeder,city,1,0,2,False,21365,4217402,4.68055,0.0000
 2020-04-09,SC,Schroeder,city,1,0,1,False,21365,4217402,4.68055,0.0000
-2020-05-29,SC,Seara,city,116,0,35,True,17541,4217501,661.30779,0.0000
+2020-05-30,SC,Seara,city,116,0,36,True,17541,4217501,661.30779,0.0000
+2020-05-29,SC,Seara,city,116,0,35,False,17541,4217501,661.30779,0.0000
 2020-05-28,SC,Seara,city,96,0,34,False,17541,4217501,547.28921,0.0000
 2020-05-27,SC,Seara,city,77,0,33,False,17541,4217501,438.97155,0.0000
 2020-05-26,SC,Seara,city,77,0,32,False,17541,4217501,438.97155,0.0000
@@ -6401,7 +6576,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,SC,Seara,city,2,0,3,False,17541,4217501,11.40186,0.0000
 2020-04-26,SC,Seara,city,2,0,2,False,17541,4217501,11.40186,0.0000
 2020-04-25,SC,Seara,city,1,0,1,False,17541,4217501,5.70093,0.0000
-2020-05-29,SC,Serra Alta,city,0,0,23,True,3263,4217550,,0.0000
+2020-05-30,SC,Serra Alta,city,0,0,24,True,3263,4217550,,0.0000
+2020-05-29,SC,Serra Alta,city,0,0,23,False,3263,4217550,,0.0000
 2020-05-28,SC,Serra Alta,city,0,0,22,False,3263,4217550,,0.0000
 2020-05-27,SC,Serra Alta,city,0,0,21,False,3263,4217550,,0.0000
 2020-05-26,SC,Serra Alta,city,0,0,20,False,3263,4217550,,0.0000
@@ -6424,7 +6600,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,SC,Serra Alta,city,0,0,3,False,3263,4217550,,0.0000
 2020-05-08,SC,Serra Alta,city,0,0,2,False,3263,4217550,,0.0000
 2020-05-07,SC,Serra Alta,city,1,0,1,False,3263,4217550,30.64664,0.0000
-2020-05-29,SC,Siderópolis,city,19,1,65,True,14007,4217600,135.64646,0.0526
+2020-05-30,SC,Siderópolis,city,19,1,66,True,14007,4217600,135.64646,0.0526
+2020-05-29,SC,Siderópolis,city,19,1,65,False,14007,4217600,135.64646,0.0526
 2020-05-28,SC,Siderópolis,city,18,1,64,False,14007,4217600,128.50717,0.0556
 2020-05-27,SC,Siderópolis,city,18,1,63,False,14007,4217600,128.50717,0.0556
 2020-05-26,SC,Siderópolis,city,18,1,62,False,14007,4217600,128.50717,0.0556
@@ -6489,7 +6666,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-28,SC,Siderópolis,city,2,0,3,False,14007,4217600,14.27857,0.0000
 2020-03-27,SC,Siderópolis,city,2,0,2,False,14007,4217600,14.27857,0.0000
 2020-03-26,SC,Siderópolis,city,2,0,1,False,14007,4217600,14.27857,0.0000
-2020-05-29,SC,Sombrio,city,61,3,56,True,30374,4217709,200.82966,0.0492
+2020-05-30,SC,Sombrio,city,61,3,57,True,30374,4217709,200.82966,0.0492
+2020-05-29,SC,Sombrio,city,61,3,56,False,30374,4217709,200.82966,0.0492
 2020-05-28,SC,Sombrio,city,59,3,55,False,30374,4217709,194.24508,0.0508
 2020-05-27,SC,Sombrio,city,59,3,54,False,30374,4217709,194.24508,0.0508
 2020-05-26,SC,Sombrio,city,58,3,53,False,30374,4217709,190.95279,0.0517
@@ -6545,7 +6723,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,SC,Sombrio,city,3,0,3,False,30374,4217709,9.87687,0.0000
 2020-04-05,SC,Sombrio,city,3,0,2,False,30374,4217709,9.87687,0.0000
 2020-04-04,SC,Sombrio,city,2,0,1,False,30374,4217709,6.58458,0.0000
-2020-05-29,SC,São Bento do Sul,city,26,0,52,True,84507,4215802,30.76668,0.0000
+2020-05-30,SC,São Bento do Sul,city,26,0,53,True,84507,4215802,30.76668,0.0000
+2020-05-29,SC,São Bento do Sul,city,26,0,52,False,84507,4215802,30.76668,0.0000
 2020-05-28,SC,São Bento do Sul,city,24,0,51,False,84507,4215802,28.40001,0.0000
 2020-05-27,SC,São Bento do Sul,city,21,0,50,False,84507,4215802,24.85001,0.0000
 2020-05-26,SC,São Bento do Sul,city,19,0,49,False,84507,4215802,22.48334,0.0000
@@ -6597,7 +6776,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,SC,São Bento do Sul,city,1,0,3,False,84507,4215802,1.18333,0.0000
 2020-04-09,SC,São Bento do Sul,city,1,0,2,False,84507,4215802,1.18333,0.0000
 2020-04-08,SC,São Bento do Sul,city,1,0,1,False,84507,4215802,1.18333,0.0000
-2020-05-29,SC,São Bernardino,city,1,0,31,True,2336,4215752,42.80822,0.0000
+2020-05-30,SC,São Bernardino,city,1,0,32,True,2336,4215752,42.80822,0.0000
+2020-05-29,SC,São Bernardino,city,1,0,31,False,2336,4215752,42.80822,0.0000
 2020-05-28,SC,São Bernardino,city,1,0,30,False,2336,4215752,42.80822,0.0000
 2020-05-27,SC,São Bernardino,city,1,0,29,False,2336,4215752,42.80822,0.0000
 2020-05-26,SC,São Bernardino,city,1,0,28,False,2336,4215752,42.80822,0.0000
@@ -6628,7 +6808,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-01,SC,São Bernardino,city,1,0,3,False,2336,4215752,42.80822,0.0000
 2020-04-30,SC,São Bernardino,city,1,0,2,False,2336,4215752,42.80822,0.0000
 2020-04-29,SC,São Bernardino,city,1,0,1,False,2336,4215752,42.80822,0.0000
-2020-05-29,SC,São Carlos,city,17,0,22,True,11281,4216008,150.69586,0.0000
+2020-05-30,SC,São Carlos,city,17,0,23,True,11281,4216008,150.69586,0.0000
+2020-05-29,SC,São Carlos,city,17,0,22,False,11281,4216008,150.69586,0.0000
 2020-05-28,SC,São Carlos,city,17,0,21,False,11281,4216008,150.69586,0.0000
 2020-05-27,SC,São Carlos,city,17,0,20,False,11281,4216008,150.69586,0.0000
 2020-05-26,SC,São Carlos,city,17,0,19,False,11281,4216008,150.69586,0.0000
@@ -6650,7 +6831,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,SC,São Carlos,city,4,0,3,False,11281,4216008,35.45785,0.0000
 2020-05-09,SC,São Carlos,city,3,0,2,False,11281,4216008,26.59339,0.0000
 2020-05-08,SC,São Carlos,city,3,0,1,False,11281,4216008,26.59339,0.0000
-2020-05-29,SC,São Domingos,city,5,0,55,True,9445,4216107,52.93806,0.0000
+2020-05-30,SC,São Domingos,city,5,0,56,True,9445,4216107,52.93806,0.0000
+2020-05-29,SC,São Domingos,city,5,0,55,False,9445,4216107,52.93806,0.0000
 2020-05-28,SC,São Domingos,city,5,0,54,False,9445,4216107,52.93806,0.0000
 2020-05-27,SC,São Domingos,city,5,0,53,False,9445,4216107,52.93806,0.0000
 2020-05-26,SC,São Domingos,city,5,0,52,False,9445,4216107,52.93806,0.0000
@@ -6705,7 +6887,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,SC,São Domingos,city,1,0,3,False,9445,4216107,10.58761,0.0000
 2020-04-06,SC,São Domingos,city,1,0,2,False,9445,4216107,10.58761,0.0000
 2020-04-05,SC,São Domingos,city,1,0,1,False,9445,4216107,10.58761,0.0000
-2020-05-29,SC,São Francisco do Sul,city,28,1,63,True,52721,4216206,53.10977,0.0357
+2020-05-30,SC,São Francisco do Sul,city,30,1,64,True,52721,4216206,56.90332,0.0333
+2020-05-29,SC,São Francisco do Sul,city,28,1,63,False,52721,4216206,53.10977,0.0357
 2020-05-28,SC,São Francisco do Sul,city,27,1,62,False,52721,4216206,51.21299,0.0370
 2020-05-27,SC,São Francisco do Sul,city,26,1,61,False,52721,4216206,49.31621,0.0385
 2020-05-26,SC,São Francisco do Sul,city,26,1,60,False,52721,4216206,49.31621,0.0385
@@ -6768,14 +6951,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,SC,São Francisco do Sul,city,1,0,3,False,52721,4216206,1.89678,0.0000
 2020-03-29,SC,São Francisco do Sul,city,1,0,2,False,52721,4216206,1.89678,0.0000
 2020-03-28,SC,São Francisco do Sul,city,1,0,1,False,52721,4216206,1.89678,0.0000
-2020-05-29,SC,São Joaquim,city,3,0,7,True,26952,4216503,11.13090,0.0000
+2020-05-30,SC,São Joaquim,city,3,0,8,True,26952,4216503,11.13090,0.0000
+2020-05-29,SC,São Joaquim,city,3,0,7,False,26952,4216503,11.13090,0.0000
 2020-05-28,SC,São Joaquim,city,3,0,6,False,26952,4216503,11.13090,0.0000
 2020-05-27,SC,São Joaquim,city,3,0,5,False,26952,4216503,11.13090,0.0000
 2020-05-26,SC,São Joaquim,city,1,0,4,False,26952,4216503,3.71030,0.0000
 2020-05-25,SC,São Joaquim,city,1,0,3,False,26952,4216503,3.71030,0.0000
 2020-05-24,SC,São Joaquim,city,1,0,2,False,26952,4216503,3.71030,0.0000
 2020-05-23,SC,São Joaquim,city,1,0,1,False,26952,4216503,3.71030,0.0000
-2020-05-29,SC,São José,city,116,2,72,True,246586,4216602,47.04241,0.0172
+2020-05-30,SC,São José,city,103,2,73,True,246586,4216602,41.77042,0.0194
+2020-05-29,SC,São José,city,116,2,72,False,246586,4216602,47.04241,0.0172
 2020-05-28,SC,São José,city,113,2,71,False,246586,4216602,45.82580,0.0177
 2020-05-27,SC,São José,city,108,2,70,False,246586,4216602,43.79811,0.0185
 2020-05-26,SC,São José,city,109,2,69,False,246586,4216602,44.20364,0.0183
@@ -6847,7 +7032,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,SC,São José,city,2,0,3,False,246586,4216602,0.81108,0.0000
 2020-03-20,SC,São José,city,1,0,2,False,246586,4216602,0.40554,0.0000
 2020-03-19,SC,São José,city,1,0,1,False,246586,4216602,0.40554,0.0000
-2020-05-29,SC,São José do Cedro,city,2,0,8,True,13829,4216701,14.46236,0.0000
+2020-05-30,SC,São José do Cedro,city,2,0,9,True,13829,4216701,14.46236,0.0000
+2020-05-29,SC,São José do Cedro,city,2,0,8,False,13829,4216701,14.46236,0.0000
 2020-05-28,SC,São José do Cedro,city,2,0,7,False,13829,4216701,14.46236,0.0000
 2020-05-27,SC,São José do Cedro,city,2,0,6,False,13829,4216701,14.46236,0.0000
 2020-05-26,SC,São José do Cedro,city,2,0,5,False,13829,4216701,14.46236,0.0000
@@ -6855,7 +7041,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,SC,São José do Cedro,city,1,0,3,False,13829,4216701,7.23118,0.0000
 2020-05-23,SC,São José do Cedro,city,1,0,2,False,13829,4216701,7.23118,0.0000
 2020-05-22,SC,São José do Cedro,city,1,0,1,False,13829,4216701,7.23118,0.0000
-2020-05-29,SC,São João Batista,city,7,0,10,True,37424,4216305,18.70457,0.0000
+2020-05-30,SC,São João Batista,city,7,0,11,True,37424,4216305,18.70457,0.0000
+2020-05-29,SC,São João Batista,city,7,0,10,False,37424,4216305,18.70457,0.0000
 2020-05-28,SC,São João Batista,city,6,0,9,False,37424,4216305,16.03249,0.0000
 2020-05-27,SC,São João Batista,city,4,0,8,False,37424,4216305,10.68833,0.0000
 2020-05-26,SC,São João Batista,city,3,0,7,False,37424,4216305,8.01625,0.0000
@@ -6865,7 +7052,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,SC,São João Batista,city,1,0,3,False,37424,4216305,2.67208,0.0000
 2020-05-21,SC,São João Batista,city,1,0,2,False,37424,4216305,2.67208,0.0000
 2020-05-20,SC,São João Batista,city,1,0,1,False,37424,4216305,2.67208,0.0000
-2020-05-29,SC,São João do Itaperiú,city,5,0,30,True,3733,4216354,133.94053,0.0000
+2020-05-30,SC,São João do Itaperiú,city,5,0,31,True,3733,4216354,133.94053,0.0000
+2020-05-29,SC,São João do Itaperiú,city,5,0,30,False,3733,4216354,133.94053,0.0000
 2020-05-28,SC,São João do Itaperiú,city,5,0,29,False,3733,4216354,133.94053,0.0000
 2020-05-27,SC,São João do Itaperiú,city,5,0,28,False,3733,4216354,133.94053,0.0000
 2020-05-26,SC,São João do Itaperiú,city,5,0,27,False,3733,4216354,133.94053,0.0000
@@ -6895,14 +7083,17 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,SC,São João do Itaperiú,city,1,0,3,False,3733,4216354,26.78811,0.0000
 2020-05-01,SC,São João do Itaperiú,city,1,0,2,False,3733,4216354,26.78811,0.0000
 2020-04-30,SC,São João do Itaperiú,city,1,0,1,False,3733,4216354,26.78811,0.0000
-2020-05-29,SC,São João do Sul,city,2,0,7,True,7297,4216404,27.40852,0.0000
+2020-05-30,SC,São João do Oeste,city,1,0,1,True,6381,4216255,15.67152,0.0000
+2020-05-30,SC,São João do Sul,city,2,0,8,True,7297,4216404,27.40852,0.0000
+2020-05-29,SC,São João do Sul,city,2,0,7,False,7297,4216404,27.40852,0.0000
 2020-05-28,SC,São João do Sul,city,2,0,6,False,7297,4216404,27.40852,0.0000
 2020-05-27,SC,São João do Sul,city,1,0,5,False,7297,4216404,13.70426,0.0000
 2020-05-26,SC,São João do Sul,city,0,0,4,False,7297,4216404,,0.0000
 2020-05-25,SC,São João do Sul,city,1,0,3,False,7297,4216404,13.70426,0.0000
 2020-05-24,SC,São João do Sul,city,1,0,2,False,7297,4216404,13.70426,0.0000
 2020-05-23,SC,São João do Sul,city,1,0,1,False,7297,4216404,13.70426,0.0000
-2020-05-29,SC,São Lourenço do Oeste,city,4,0,64,True,24076,4216909,16.61406,0.0000
+2020-05-30,SC,São Lourenço do Oeste,city,5,0,65,True,24076,4216909,20.76757,0.0000
+2020-05-29,SC,São Lourenço do Oeste,city,4,0,64,False,24076,4216909,16.61406,0.0000
 2020-05-28,SC,São Lourenço do Oeste,city,4,0,63,False,24076,4216909,16.61406,0.0000
 2020-05-27,SC,São Lourenço do Oeste,city,4,0,62,False,24076,4216909,16.61406,0.0000
 2020-05-26,SC,São Lourenço do Oeste,city,4,0,61,False,24076,4216909,16.61406,0.0000
@@ -6966,7 +7157,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,SC,São Lourenço do Oeste,city,1,0,3,False,24076,4216909,4.15351,0.0000
 2020-03-28,SC,São Lourenço do Oeste,city,1,0,2,False,24076,4216909,4.15351,0.0000
 2020-03-27,SC,São Lourenço do Oeste,city,1,0,1,False,24076,4216909,4.15351,0.0000
-2020-05-29,SC,São Ludgero,city,30,1,66,True,13410,4217006,223.71365,0.0333
+2020-05-30,SC,São Ludgero,city,30,1,67,True,13410,4217006,223.71365,0.0333
+2020-05-29,SC,São Ludgero,city,30,1,66,False,13410,4217006,223.71365,0.0333
 2020-05-28,SC,São Ludgero,city,30,1,65,False,13410,4217006,223.71365,0.0333
 2020-05-27,SC,São Ludgero,city,29,1,64,False,13410,4217006,216.25652,0.0345
 2020-05-26,SC,São Ludgero,city,29,1,63,False,13410,4217006,216.25652,0.0345
@@ -7032,7 +7224,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SC,São Ludgero,city,1,0,3,False,13410,4217006,7.45712,0.0000
 2020-03-26,SC,São Ludgero,city,1,0,2,False,13410,4217006,7.45712,0.0000
 2020-03-25,SC,São Ludgero,city,1,0,1,False,13410,4217006,7.45712,0.0000
-2020-05-29,SC,São Martinho,city,3,0,31,True,3180,4217105,94.33962,0.0000
+2020-05-30,SC,São Martinho,city,2,0,32,True,3180,4217105,62.89308,0.0000
+2020-05-29,SC,São Martinho,city,3,0,31,False,3180,4217105,94.33962,0.0000
 2020-05-28,SC,São Martinho,city,3,0,30,False,3180,4217105,94.33962,0.0000
 2020-05-27,SC,São Martinho,city,3,0,29,False,3180,4217105,94.33962,0.0000
 2020-05-26,SC,São Martinho,city,3,0,28,False,3180,4217105,94.33962,0.0000
@@ -7063,7 +7256,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-01,SC,São Martinho,city,1,0,3,False,3180,4217105,31.44654,0.0000
 2020-04-30,SC,São Martinho,city,1,0,2,False,3180,4217105,31.44654,0.0000
 2020-04-29,SC,São Martinho,city,1,0,1,False,3180,4217105,31.44654,0.0000
-2020-05-29,SC,São Miguel do Oeste,city,51,0,26,True,40482,4217204,125.98192,0.0000
+2020-05-30,SC,São Miguel do Oeste,city,53,0,27,True,40482,4217204,130.92239,0.0000
+2020-05-29,SC,São Miguel do Oeste,city,51,0,26,False,40482,4217204,125.98192,0.0000
 2020-05-28,SC,São Miguel do Oeste,city,38,0,25,False,40482,4217204,93.86888,0.0000
 2020-05-27,SC,São Miguel do Oeste,city,30,0,24,False,40482,4217204,74.10701,0.0000
 2020-05-26,SC,São Miguel do Oeste,city,28,0,23,False,40482,4217204,69.16654,0.0000
@@ -7089,7 +7283,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,SC,São Miguel do Oeste,city,4,0,3,False,40482,4217204,9.88093,0.0000
 2020-05-05,SC,São Miguel do Oeste,city,1,0,2,False,40482,4217204,2.47023,0.0000
 2020-05-04,SC,São Miguel do Oeste,city,1,0,1,False,40482,4217204,2.47023,0.0000
-2020-05-29,SC,São Pedro de Alcântara,city,0,0,66,True,5823,4217253,,0.0000
+2020-05-30,SC,São Pedro de Alcântara,city,0,0,67,True,5823,4217253,,0.0000
+2020-05-29,SC,São Pedro de Alcântara,city,0,0,66,False,5823,4217253,,0.0000
 2020-05-28,SC,São Pedro de Alcântara,city,0,0,65,False,5823,4217253,,0.0000
 2020-05-27,SC,São Pedro de Alcântara,city,0,0,64,False,5823,4217253,,0.0000
 2020-05-26,SC,São Pedro de Alcântara,city,0,0,63,False,5823,4217253,,0.0000
@@ -7155,7 +7350,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,SC,São Pedro de Alcântara,city,1,0,3,False,5823,4217253,17.17328,0.0000
 2020-03-26,SC,São Pedro de Alcântara,city,1,0,2,False,5823,4217253,17.17328,0.0000
 2020-03-25,SC,São Pedro de Alcântara,city,1,0,1,False,5823,4217253,17.17328,0.0000
-2020-05-29,SC,Taió,city,1,0,32,True,18395,4217808,5.43626,0.0000
+2020-05-30,SC,Taió,city,1,0,33,True,18395,4217808,5.43626,0.0000
+2020-05-29,SC,Taió,city,1,0,32,False,18395,4217808,5.43626,0.0000
 2020-05-28,SC,Taió,city,1,0,31,False,18395,4217808,5.43626,0.0000
 2020-05-27,SC,Taió,city,1,0,30,False,18395,4217808,5.43626,0.0000
 2020-05-26,SC,Taió,city,1,0,29,False,18395,4217808,5.43626,0.0000
@@ -7187,7 +7383,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Taió,city,1,0,3,False,18395,4217808,5.43626,0.0000
 2020-04-29,SC,Taió,city,1,0,2,False,18395,4217808,5.43626,0.0000
 2020-04-28,SC,Taió,city,1,0,1,False,18395,4217808,5.43626,0.0000
-2020-05-29,SC,Tangará,city,2,1,52,True,8676,4217907,23.05210,0.5000
+2020-05-30,SC,Tangará,city,3,1,53,True,8676,4217907,34.57815,0.3333
+2020-05-29,SC,Tangará,city,2,1,52,False,8676,4217907,23.05210,0.5000
 2020-05-28,SC,Tangará,city,2,1,51,False,8676,4217907,23.05210,0.5000
 2020-05-27,SC,Tangará,city,2,1,50,False,8676,4217907,23.05210,0.5000
 2020-05-26,SC,Tangará,city,2,1,49,False,8676,4217907,23.05210,0.5000
@@ -7239,7 +7436,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,SC,Tangará,city,1,0,3,False,8676,4217907,11.52605,0.0000
 2020-04-09,SC,Tangará,city,1,0,2,False,8676,4217907,11.52605,0.0000
 2020-04-08,SC,Tangará,city,1,0,1,False,8676,4217907,11.52605,0.0000
-2020-05-29,SC,Tigrinhos,city,4,0,32,True,1633,4217956,244.94795,0.0000
+2020-05-30,SC,Tigrinhos,city,4,0,33,True,1633,4217956,244.94795,0.0000
+2020-05-29,SC,Tigrinhos,city,4,0,32,False,1633,4217956,244.94795,0.0000
 2020-05-28,SC,Tigrinhos,city,3,0,31,False,1633,4217956,183.71096,0.0000
 2020-05-27,SC,Tigrinhos,city,3,0,30,False,1633,4217956,183.71096,0.0000
 2020-05-26,SC,Tigrinhos,city,3,0,29,False,1633,4217956,183.71096,0.0000
@@ -7271,7 +7469,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Tigrinhos,city,1,0,3,False,1633,4217956,61.23699,0.0000
 2020-04-29,SC,Tigrinhos,city,1,0,2,False,1633,4217956,61.23699,0.0000
 2020-04-28,SC,Tigrinhos,city,1,0,1,False,1633,4217956,61.23699,0.0000
-2020-05-29,SC,Tijucas,city,14,0,67,True,38407,4218004,36.45169,0.0000
+2020-05-30,SC,Tijucas,city,15,0,68,True,38407,4218004,39.05538,0.0000
+2020-05-29,SC,Tijucas,city,14,0,67,False,38407,4218004,36.45169,0.0000
 2020-05-28,SC,Tijucas,city,14,0,66,False,38407,4218004,36.45169,0.0000
 2020-05-27,SC,Tijucas,city,13,0,65,False,38407,4218004,33.84800,0.0000
 2020-05-26,SC,Tijucas,city,13,0,64,False,38407,4218004,33.84800,0.0000
@@ -7338,7 +7537,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,SC,Tijucas,city,1,0,3,False,38407,4218004,2.60369,0.0000
 2020-03-25,SC,Tijucas,city,1,0,2,False,38407,4218004,2.60369,0.0000
 2020-03-24,SC,Tijucas,city,1,0,1,False,38407,4218004,2.60369,0.0000
-2020-05-29,SC,Timbé do Sul,city,5,0,65,True,5348,4218103,93.49289,0.0000
+2020-05-30,SC,Timbé do Sul,city,5,0,66,True,5348,4218103,93.49289,0.0000
+2020-05-29,SC,Timbé do Sul,city,5,0,65,False,5348,4218103,93.49289,0.0000
 2020-05-28,SC,Timbé do Sul,city,5,0,64,False,5348,4218103,93.49289,0.0000
 2020-05-27,SC,Timbé do Sul,city,5,0,63,False,5348,4218103,93.49289,0.0000
 2020-05-26,SC,Timbé do Sul,city,5,0,62,False,5348,4218103,93.49289,0.0000
@@ -7403,7 +7603,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-28,SC,Timbé do Sul,city,1,0,3,False,5348,4218103,18.69858,0.0000
 2020-03-27,SC,Timbé do Sul,city,1,0,2,False,5348,4218103,18.69858,0.0000
 2020-03-26,SC,Timbé do Sul,city,1,0,1,False,5348,4218103,18.69858,0.0000
-2020-05-29,SC,Timbó,city,32,0,54,True,44238,4218202,72.33600,0.0000
+2020-05-30,SC,Timbó,city,31,0,55,True,44238,4218202,70.07550,0.0000
+2020-05-29,SC,Timbó,city,32,0,54,False,44238,4218202,72.33600,0.0000
 2020-05-28,SC,Timbó,city,31,0,53,False,44238,4218202,70.07550,0.0000
 2020-05-27,SC,Timbó,city,33,0,52,False,44238,4218202,74.59650,0.0000
 2020-05-26,SC,Timbó,city,31,0,51,False,44238,4218202,70.07550,0.0000
@@ -7457,7 +7658,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,SC,Timbó,city,1,0,3,False,44238,4218202,2.26050,0.0000
 2020-04-07,SC,Timbó,city,1,0,2,False,44238,4218202,2.26050,0.0000
 2020-04-06,SC,Timbó,city,1,0,1,False,44238,4218202,2.26050,0.0000
-2020-05-29,SC,Treviso,city,0,0,14,True,3929,4218350,,0.0000
+2020-05-30,SC,Treviso,city,0,0,15,True,3929,4218350,,0.0000
+2020-05-29,SC,Treviso,city,0,0,14,False,3929,4218350,,0.0000
 2020-05-28,SC,Treviso,city,0,0,13,False,3929,4218350,,0.0000
 2020-05-27,SC,Treviso,city,0,0,12,False,3929,4218350,,0.0000
 2020-05-26,SC,Treviso,city,0,0,11,False,3929,4218350,,0.0000
@@ -7471,7 +7673,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-18,SC,Treviso,city,0,0,3,False,3929,4218350,,0.0000
 2020-05-17,SC,Treviso,city,1,0,2,False,3929,4218350,25.45177,0.0000
 2020-05-16,SC,Treviso,city,1,0,1,False,3929,4218350,25.45177,0.0000
-2020-05-29,SC,Treze Tílias,city,2,0,24,True,7840,4218509,25.51020,0.0000
+2020-05-30,SC,Treze Tílias,city,3,0,25,True,7840,4218509,38.26531,0.0000
+2020-05-29,SC,Treze Tílias,city,2,0,24,False,7840,4218509,25.51020,0.0000
 2020-05-28,SC,Treze Tílias,city,2,0,23,False,7840,4218509,25.51020,0.0000
 2020-05-27,SC,Treze Tílias,city,2,0,22,False,7840,4218509,25.51020,0.0000
 2020-05-26,SC,Treze Tílias,city,2,0,21,False,7840,4218509,25.51020,0.0000
@@ -7495,7 +7698,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,SC,Treze Tílias,city,2,0,3,False,7840,4218509,25.51020,0.0000
 2020-05-07,SC,Treze Tílias,city,2,0,2,False,7840,4218509,25.51020,0.0000
 2020-05-06,SC,Treze Tílias,city,2,0,1,False,7840,4218509,25.51020,0.0000
-2020-05-29,SC,Treze de Maio,city,3,0,47,True,7081,4218400,42.36690,0.0000
+2020-05-30,SC,Treze de Maio,city,3,0,48,True,7081,4218400,42.36690,0.0000
+2020-05-29,SC,Treze de Maio,city,3,0,47,False,7081,4218400,42.36690,0.0000
 2020-05-28,SC,Treze de Maio,city,3,0,46,False,7081,4218400,42.36690,0.0000
 2020-05-27,SC,Treze de Maio,city,3,0,45,False,7081,4218400,42.36690,0.0000
 2020-05-26,SC,Treze de Maio,city,3,0,44,False,7081,4218400,42.36690,0.0000
@@ -7542,7 +7746,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,SC,Treze de Maio,city,2,0,3,False,7081,4218400,28.24460,0.0000
 2020-04-14,SC,Treze de Maio,city,2,0,2,False,7081,4218400,28.24460,0.0000
 2020-04-13,SC,Treze de Maio,city,2,0,1,False,7081,4218400,28.24460,0.0000
-2020-05-29,SC,Trombudo Central,city,2,0,25,True,7360,4218608,27.17391,0.0000
+2020-05-30,SC,Trombudo Central,city,2,0,26,True,7360,4218608,27.17391,0.0000
+2020-05-29,SC,Trombudo Central,city,2,0,25,False,7360,4218608,27.17391,0.0000
 2020-05-28,SC,Trombudo Central,city,2,0,24,False,7360,4218608,27.17391,0.0000
 2020-05-27,SC,Trombudo Central,city,1,0,23,False,7360,4218608,13.58696,0.0000
 2020-05-26,SC,Trombudo Central,city,1,0,22,False,7360,4218608,13.58696,0.0000
@@ -7567,7 +7772,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,SC,Trombudo Central,city,1,0,3,False,7360,4218608,13.58696,0.0000
 2020-05-06,SC,Trombudo Central,city,1,0,2,False,7360,4218608,13.58696,0.0000
 2020-05-05,SC,Trombudo Central,city,1,0,1,False,7360,4218608,13.58696,0.0000
-2020-05-29,SC,Três Barras,city,115,0,32,True,19275,4218301,596.62776,0.0000
+2020-05-30,SC,Três Barras,city,121,0,33,True,19275,4218301,627.75616,0.0000
+2020-05-29,SC,Três Barras,city,115,0,32,False,19275,4218301,596.62776,0.0000
 2020-05-28,SC,Três Barras,city,108,0,31,False,19275,4218301,560.31128,0.0000
 2020-05-27,SC,Três Barras,city,84,0,30,False,19275,4218301,435.79767,0.0000
 2020-05-26,SC,Três Barras,city,26,0,29,False,19275,4218301,134.88975,0.0000
@@ -7599,7 +7805,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Três Barras,city,1,0,3,False,19275,4218301,5.18807,0.0000
 2020-04-29,SC,Três Barras,city,1,0,2,False,19275,4218301,5.18807,0.0000
 2020-04-28,SC,Três Barras,city,1,0,1,False,19275,4218301,5.18807,0.0000
-2020-05-29,SC,Tubarão,city,160,3,73,True,105686,4218707,151.39186,0.0187
+2020-05-30,SC,Tubarão,city,155,3,74,True,105686,4218707,146.66086,0.0194
+2020-05-29,SC,Tubarão,city,160,3,73,False,105686,4218707,151.39186,0.0187
 2020-05-28,SC,Tubarão,city,121,3,72,False,105686,4218707,114.49009,0.0248
 2020-05-27,SC,Tubarão,city,119,3,71,False,105686,4218707,112.59770,0.0252
 2020-05-26,SC,Tubarão,city,115,3,70,False,105686,4218707,108.81290,0.0261
@@ -7672,7 +7879,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,SC,Tubarão,city,6,0,3,False,105686,4218707,5.67719,0.0000
 2020-03-19,SC,Tubarão,city,2,0,2,False,105686,4218707,1.89240,0.0000
 2020-03-18,SC,Tubarão,city,2,0,1,False,105686,4218707,1.89240,0.0000
-2020-05-29,SC,Tunápolis,city,3,0,34,True,4543,4218756,66.03566,0.0000
+2020-05-30,SC,Tunápolis,city,3,0,35,True,4543,4218756,66.03566,0.0000
+2020-05-29,SC,Tunápolis,city,3,0,34,False,4543,4218756,66.03566,0.0000
 2020-05-28,SC,Tunápolis,city,2,0,33,False,4543,4218756,44.02377,0.0000
 2020-05-27,SC,Tunápolis,city,2,0,32,False,4543,4218756,44.02377,0.0000
 2020-05-26,SC,Tunápolis,city,2,0,31,False,4543,4218756,44.02377,0.0000
@@ -7706,7 +7914,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,SC,Tunápolis,city,1,0,3,False,4543,4218756,22.01189,0.0000
 2020-04-27,SC,Tunápolis,city,1,0,2,False,4543,4218756,22.01189,0.0000
 2020-04-26,SC,Tunápolis,city,1,0,1,False,4543,4218756,22.01189,0.0000
-2020-05-29,SC,Turvo,city,4,0,34,True,12899,4218806,31.01016,0.0000
+2020-05-30,SC,Turvo,city,4,0,35,True,12899,4218806,31.01016,0.0000
+2020-05-29,SC,Turvo,city,4,0,34,False,12899,4218806,31.01016,0.0000
 2020-05-28,SC,Turvo,city,4,0,33,False,12899,4218806,31.01016,0.0000
 2020-05-27,SC,Turvo,city,4,0,32,False,12899,4218806,31.01016,0.0000
 2020-05-26,SC,Turvo,city,4,0,31,False,12899,4218806,31.01016,0.0000
@@ -7740,11 +7949,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,SC,Turvo,city,1,0,3,False,12899,4218806,7.75254,0.0000
 2020-04-27,SC,Turvo,city,1,0,2,False,12899,4218806,7.75254,0.0000
 2020-04-26,SC,Turvo,city,1,0,1,False,12899,4218806,7.75254,0.0000
-2020-05-29,SC,União do Oeste,city,1,0,1,True,2464,4218855,40.58442,0.0000
-2020-05-29,SC,Urubici,city,0,0,3,True,11235,4218905,,0.0000
+2020-05-30,SC,União do Oeste,city,1,0,2,True,2464,4218855,40.58442,0.0000
+2020-05-29,SC,União do Oeste,city,1,0,1,False,2464,4218855,40.58442,0.0000
+2020-05-30,SC,Urubici,city,0,0,4,True,11235,4218905,,0.0000
+2020-05-29,SC,Urubici,city,0,0,3,False,11235,4218905,,0.0000
 2020-05-28,SC,Urubici,city,1,0,2,False,11235,4218905,8.90076,0.0000
 2020-05-27,SC,Urubici,city,1,0,1,False,11235,4218905,8.90076,0.0000
-2020-05-29,SC,Urussanga,city,34,2,63,True,21268,4219002,159.86459,0.0588
+2020-05-30,SC,Urussanga,city,39,2,64,True,21268,4219002,183.37408,0.0513
+2020-05-29,SC,Urussanga,city,34,2,63,False,21268,4219002,159.86459,0.0588
 2020-05-28,SC,Urussanga,city,29,2,62,False,21268,4219002,136.35509,0.0690
 2020-05-27,SC,Urussanga,city,27,2,61,False,21268,4219002,126.95129,0.0741
 2020-05-26,SC,Urussanga,city,27,2,60,False,21268,4219002,126.95129,0.0741
@@ -7807,7 +8019,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,SC,Urussanga,city,1,0,3,False,21268,4219002,4.70190,0.0000
 2020-03-29,SC,Urussanga,city,1,0,2,False,21268,4219002,4.70190,0.0000
 2020-03-28,SC,Urussanga,city,1,0,1,False,21268,4219002,4.70190,0.0000
-2020-05-29,SC,Vargem,city,0,0,16,True,2477,4219150,,0.0000
+2020-05-30,SC,Vargem,city,0,0,17,True,2477,4219150,,0.0000
+2020-05-29,SC,Vargem,city,0,0,16,False,2477,4219150,,0.0000
 2020-05-28,SC,Vargem,city,0,0,15,False,2477,4219150,,0.0000
 2020-05-27,SC,Vargem,city,0,0,14,False,2477,4219150,,0.0000
 2020-05-26,SC,Vargem,city,0,0,13,False,2477,4219150,,0.0000
@@ -7823,7 +8036,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,SC,Vargem,city,0,0,3,False,2477,4219150,,0.0000
 2020-05-15,SC,Vargem,city,1,0,2,False,2477,4219150,40.37142,0.0000
 2020-05-14,SC,Vargem,city,1,0,1,False,2477,4219150,40.37142,0.0000
-2020-05-29,SC,Vargem Bonita,city,22,0,37,True,4492,4219176,489.75957,0.0000
+2020-05-30,SC,Vargem Bonita,city,23,0,38,True,4492,4219176,512.02137,0.0000
+2020-05-29,SC,Vargem Bonita,city,22,0,37,False,4492,4219176,489.75957,0.0000
 2020-05-28,SC,Vargem Bonita,city,22,0,36,False,4492,4219176,489.75957,0.0000
 2020-05-27,SC,Vargem Bonita,city,21,0,35,False,4492,4219176,467.49777,0.0000
 2020-05-26,SC,Vargem Bonita,city,21,0,34,False,4492,4219176,467.49777,0.0000
@@ -7860,10 +8074,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,SC,Vargem Bonita,city,1,0,3,False,4492,4219176,22.26180,0.0000
 2020-04-24,SC,Vargem Bonita,city,1,0,2,False,4492,4219176,22.26180,0.0000
 2020-04-23,SC,Vargem Bonita,city,1,0,1,False,4492,4219176,22.26180,0.0000
-2020-05-29,SC,Vargeão,city,1,0,3,True,3573,4219101,27.98769,0.0000
+2020-05-30,SC,Vargeão,city,1,0,4,True,3573,4219101,27.98769,0.0000
+2020-05-29,SC,Vargeão,city,1,0,3,False,3573,4219101,27.98769,0.0000
 2020-05-28,SC,Vargeão,city,1,0,2,False,3573,4219101,27.98769,0.0000
 2020-05-27,SC,Vargeão,city,1,0,1,False,3573,4219101,27.98769,0.0000
-2020-05-29,SC,Vidal Ramos,city,2,0,51,True,6338,4219200,31.55570,0.0000
+2020-05-30,SC,Vidal Ramos,city,2,0,52,True,6338,4219200,31.55570,0.0000
+2020-05-29,SC,Vidal Ramos,city,2,0,51,False,6338,4219200,31.55570,0.0000
 2020-05-28,SC,Vidal Ramos,city,2,0,50,False,6338,4219200,31.55570,0.0000
 2020-05-27,SC,Vidal Ramos,city,2,0,49,False,6338,4219200,31.55570,0.0000
 2020-05-26,SC,Vidal Ramos,city,2,0,48,False,6338,4219200,31.55570,0.0000
@@ -7914,7 +8130,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,SC,Vidal Ramos,city,1,0,3,False,6338,4219200,15.77785,0.0000
 2020-04-10,SC,Vidal Ramos,city,1,0,2,False,6338,4219200,15.77785,0.0000
 2020-04-09,SC,Vidal Ramos,city,1,0,1,False,6338,4219200,15.77785,0.0000
-2020-05-29,SC,Videira,city,14,0,54,True,53065,4219309,26.38274,0.0000
+2020-05-30,SC,Videira,city,15,0,55,True,53065,4219309,28.26722,0.0000
+2020-05-29,SC,Videira,city,14,0,54,False,53065,4219309,26.38274,0.0000
 2020-05-28,SC,Videira,city,9,0,53,False,53065,4219309,16.96033,0.0000
 2020-05-27,SC,Videira,city,8,0,52,False,53065,4219309,15.07585,0.0000
 2020-05-26,SC,Videira,city,7,0,51,False,53065,4219309,13.19137,0.0000
@@ -7968,7 +8185,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,SC,Videira,city,1,0,3,False,53065,4219309,1.88448,0.0000
 2020-04-07,SC,Videira,city,1,0,2,False,53065,4219309,1.88448,0.0000
 2020-04-06,SC,Videira,city,1,0,1,False,53065,4219309,1.88448,0.0000
-2020-05-29,SC,Xanxerê,city,111,1,24,True,50982,4219507,217.72390,0.0090
+2020-05-30,SC,Xanxerê,city,121,1,25,True,50982,4219507,237.33867,0.0083
+2020-05-29,SC,Xanxerê,city,111,1,24,False,50982,4219507,217.72390,0.0090
 2020-05-28,SC,Xanxerê,city,110,1,23,False,50982,4219507,215.76243,0.0091
 2020-05-27,SC,Xanxerê,city,99,0,22,False,50982,4219507,194.18618,0.0000
 2020-05-26,SC,Xanxerê,city,92,0,21,False,50982,4219507,180.45585,0.0000
@@ -7992,7 +8210,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,SC,Xanxerê,city,1,0,3,False,50982,4219507,1.96148,0.0000
 2020-05-07,SC,Xanxerê,city,1,0,2,False,50982,4219507,1.96148,0.0000
 2020-05-06,SC,Xanxerê,city,1,0,1,False,50982,4219507,1.96148,0.0000
-2020-05-29,SC,Xavantina,city,2,0,34,True,3933,4219606,50.85177,0.0000
+2020-05-30,SC,Xavantina,city,2,0,35,True,3933,4219606,50.85177,0.0000
+2020-05-29,SC,Xavantina,city,2,0,34,False,3933,4219606,50.85177,0.0000
 2020-05-28,SC,Xavantina,city,2,0,33,False,3933,4219606,50.85177,0.0000
 2020-05-27,SC,Xavantina,city,2,0,32,False,3933,4219606,50.85177,0.0000
 2020-05-26,SC,Xavantina,city,2,0,31,False,3933,4219606,50.85177,0.0000
@@ -8026,7 +8245,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,SC,Xavantina,city,1,0,3,False,3933,4219606,25.42588,0.0000
 2020-04-27,SC,Xavantina,city,1,0,2,False,3933,4219606,25.42588,0.0000
 2020-04-26,SC,Xavantina,city,1,0,1,False,3933,4219606,25.42588,0.0000
-2020-05-29,SC,Xaxim,city,101,3,41,True,28706,4219705,351.84282,0.0297
+2020-05-30,SC,Xaxim,city,116,3,42,True,28706,4219705,404.09670,0.0259
+2020-05-29,SC,Xaxim,city,101,3,41,False,28706,4219705,351.84282,0.0297
 2020-05-28,SC,Xaxim,city,82,2,40,False,28706,4219705,285.65457,0.0244
 2020-05-27,SC,Xaxim,city,69,2,39,False,28706,4219705,240.36787,0.0290
 2020-05-26,SC,Xaxim,city,64,2,38,False,28706,4219705,222.94991,0.0312
@@ -8067,7 +8287,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,SC,Xaxim,city,1,0,3,False,28706,4219705,3.48359,0.0000
 2020-04-20,SC,Xaxim,city,1,0,2,False,28706,4219705,3.48359,0.0000
 2020-04-19,SC,Xaxim,city,1,0,1,False,28706,4219705,3.48359,0.0000
-2020-05-29,SC,Zortéa,city,8,0,32,True,3363,4219853,237.88284,0.0000
+2020-05-30,SC,Zortéa,city,8,0,33,True,3363,4219853,237.88284,0.0000
+2020-05-29,SC,Zortéa,city,8,0,32,False,3363,4219853,237.88284,0.0000
 2020-05-28,SC,Zortéa,city,8,0,31,False,3363,4219853,237.88284,0.0000
 2020-05-27,SC,Zortéa,city,8,0,30,False,3363,4219853,237.88284,0.0000
 2020-05-26,SC,Zortéa,city,8,0,29,False,3363,4219853,237.88284,0.0000
@@ -8099,7 +8320,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,SC,Zortéa,city,2,0,3,False,3363,4219853,59.47071,0.0000
 2020-04-29,SC,Zortéa,city,1,0,2,False,3363,4219853,29.73536,0.0000
 2020-04-28,SC,Zortéa,city,1,0,1,False,3363,4219853,29.73536,0.0000
-2020-05-29,SC,Água Doce,city,6,0,27,True,7145,4200408,83.97481,0.0000
+2020-05-30,SC,Água Doce,city,6,0,28,True,7145,4200408,83.97481,0.0000
+2020-05-29,SC,Água Doce,city,6,0,27,False,7145,4200408,83.97481,0.0000
 2020-05-28,SC,Água Doce,city,5,0,26,False,7145,4200408,69.97901,0.0000
 2020-05-27,SC,Água Doce,city,4,0,25,False,7145,4200408,55.98321,0.0000
 2020-05-26,SC,Água Doce,city,4,0,24,False,7145,4200408,55.98321,0.0000
@@ -8126,11 +8348,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,SC,Água Doce,city,2,0,3,False,7145,4200408,27.99160,0.0000
 2020-05-04,SC,Água Doce,city,2,0,2,False,7145,4200408,27.99160,0.0000
 2020-05-03,SC,Água Doce,city,2,0,1,False,7145,4200408,27.99160,0.0000
-2020-05-29,SC,Águas Frias,city,1,0,4,True,2366,4200556,42.26543,0.0000
+2020-05-30,SC,Águas Frias,city,1,0,5,True,2366,4200556,42.26543,0.0000
+2020-05-29,SC,Águas Frias,city,1,0,4,False,2366,4200556,42.26543,0.0000
 2020-05-28,SC,Águas Frias,city,1,0,3,False,2366,4200556,42.26543,0.0000
 2020-05-27,SC,Águas Frias,city,1,0,2,False,2366,4200556,42.26543,0.0000
 2020-05-26,SC,Águas Frias,city,1,0,1,False,2366,4200556,42.26543,0.0000
-2020-05-29,SC,Águas Mornas,city,2,0,54,True,6469,4200606,30.91668,0.0000
+2020-05-30,SC,Águas Mornas,city,2,0,55,True,6469,4200606,30.91668,0.0000
+2020-05-29,SC,Águas Mornas,city,2,0,54,False,6469,4200606,30.91668,0.0000
 2020-05-28,SC,Águas Mornas,city,2,0,53,False,6469,4200606,30.91668,0.0000
 2020-05-27,SC,Águas Mornas,city,2,0,52,False,6469,4200606,30.91668,0.0000
 2020-05-26,SC,Águas Mornas,city,2,0,51,False,6469,4200606,30.91668,0.0000
@@ -8184,7 +8408,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,SC,Águas Mornas,city,1,0,3,False,6469,4200606,15.45834,0.0000
 2020-04-07,SC,Águas Mornas,city,1,0,2,False,6469,4200606,15.45834,0.0000
 2020-04-06,SC,Águas Mornas,city,1,0,1,False,6469,4200606,15.45834,0.0000
-2020-05-29,SC,Águas de Chapecó,city,17,0,32,True,6486,4200507,262.10299,0.0000
+2020-05-30,SC,Águas de Chapecó,city,19,0,33,True,6486,4200507,292.93864,0.0000
+2020-05-29,SC,Águas de Chapecó,city,17,0,32,False,6486,4200507,262.10299,0.0000
 2020-05-28,SC,Águas de Chapecó,city,17,0,31,False,6486,4200507,262.10299,0.0000
 2020-05-27,SC,Águas de Chapecó,city,16,0,30,False,6486,4200507,246.68517,0.0000
 2020-05-26,SC,Águas de Chapecó,city,16,0,29,False,6486,4200507,246.68517,0.0000
