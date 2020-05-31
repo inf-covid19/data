@@ -1,4 +1,5 @@
 date,state,county,place_type,fips,cases,deaths
+2020-05-30,Alaska,,state,2,441,8
 2020-05-29,Alaska,,state,2,436,8
 2020-05-28,Alaska,,state,2,430,8
 2020-05-27,Alaska,,state,2,417,8
@@ -78,6 +79,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-14,Alaska,,state,2,1,0
 2020-03-13,Alaska,,state,2,1,0
 2020-03-12,Alaska,,state,2,1,0
+2020-05-30,Alaska,Anchorage,county,2020,217,4
 2020-05-29,Alaska,Anchorage,county,2020,216,4
 2020-05-28,Alaska,Anchorage,county,2020,214,4
 2020-05-27,Alaska,Anchorage,county,2020,210,4
@@ -157,6 +159,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-14,Alaska,Anchorage,county,2020,1,0
 2020-03-13,Alaska,Anchorage,county,2020,1,0
 2020-03-12,Alaska,Anchorage,county,2020,1,0
+2020-05-30,Alaska,Bethel Census Area,county,2050,3,0
 2020-05-29,Alaska,Bethel Census Area,county,2050,3,0
 2020-05-28,Alaska,Bethel Census Area,county,2050,3,0
 2020-05-27,Alaska,Bethel Census Area,county,2050,3,0
@@ -210,6 +213,8 @@ date,state,county,place_type,fips,cases,deaths
 2020-04-09,Alaska,Bethel Census Area,county,2050,1,0
 2020-04-08,Alaska,Bethel Census Area,county,2050,1,0
 2020-04-07,Alaska,Bethel Census Area,county,2050,1,0
+2020-05-30,Alaska,Bristol Bay Borough,county,2060,1,0
+2020-05-30,Alaska,Fairbanks North Star Borough,county,2090,85,2
 2020-05-29,Alaska,Fairbanks North Star Borough,county,2090,85,2
 2020-05-28,Alaska,Fairbanks North Star Borough,county,2090,85,2
 2020-05-27,Alaska,Fairbanks North Star Borough,county,2090,85,2
@@ -285,6 +290,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-18,Alaska,Fairbanks North Star Borough,county,2090,3,0
 2020-03-17,Alaska,Fairbanks North Star Borough,county,2090,3,0
 2020-03-16,Alaska,Fairbanks North Star Borough,county,2090,2,0
+2020-05-30,Alaska,Juneau City and Borough,county,2110,33,0
 2020-05-29,Alaska,Juneau City and Borough,county,2110,33,0
 2020-05-28,Alaska,Juneau City and Borough,county,2110,32,0
 2020-05-27,Alaska,Juneau City and Borough,county,2110,31,0
@@ -353,6 +359,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-25,Alaska,Juneau City and Borough,county,2110,2,0
 2020-03-24,Alaska,Juneau City and Borough,county,2110,2,0
 2020-03-23,Alaska,Juneau City and Borough,county,2110,1,0
+2020-05-30,Alaska,Kenai Peninsula Borough,county,2122,40,1
 2020-05-29,Alaska,Kenai Peninsula Borough,county,2122,38,1
 2020-05-28,Alaska,Kenai Peninsula Borough,county,2122,35,1
 2020-05-27,Alaska,Kenai Peninsula Borough,county,2122,28,1
@@ -426,6 +433,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-20,Alaska,Kenai Peninsula Borough,county,2122,1,0
 2020-03-19,Alaska,Kenai Peninsula Borough,county,2122,1,0
 2020-03-18,Alaska,Kenai Peninsula Borough,county,2122,1,0
+2020-05-30,Alaska,Ketchikan Gateway Borough,county,2130,16,0
 2020-05-29,Alaska,Ketchikan Gateway Borough,county,2130,16,0
 2020-05-28,Alaska,Ketchikan Gateway Borough,county,2130,16,0
 2020-05-27,Alaska,Ketchikan Gateway Borough,county,2130,16,0
@@ -500,6 +508,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-19,Alaska,Ketchikan Gateway Borough,county,2130,2,0
 2020-03-18,Alaska,Ketchikan Gateway Borough,county,2130,1,0
 2020-03-17,Alaska,Ketchikan Gateway Borough,county,2130,1,0
+2020-05-30,Alaska,Kodiak Island Borough,county,2150,1,0
 2020-05-29,Alaska,Kodiak Island Borough,county,2150,1,0
 2020-05-28,Alaska,Kodiak Island Borough,county,2150,1,0
 2020-05-27,Alaska,Kodiak Island Borough,county,2150,1,0
@@ -544,6 +553,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-04-18,Alaska,Kodiak Island Borough,county,2150,1,0
 2020-04-17,Alaska,Kodiak Island Borough,county,2150,1,0
 2020-04-16,Alaska,Kodiak Island Borough,county,2150,1,0
+2020-05-30,Alaska,Matanuska-Susitna Borough,county,2170,25,1
 2020-05-29,Alaska,Matanuska-Susitna Borough,county,2170,24,1
 2020-05-28,Alaska,Matanuska-Susitna Borough,county,2170,24,1
 2020-05-27,Alaska,Matanuska-Susitna Borough,county,2170,24,1
@@ -612,6 +622,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-03-25,Alaska,Matanuska-Susitna Borough,county,2170,2,0
 2020-03-24,Alaska,Matanuska-Susitna Borough,county,2170,2,0
 2020-03-23,Alaska,Matanuska-Susitna Borough,county,2170,2,0
+2020-05-30,Alaska,Nome Census Area,county,2180,3,0
 2020-05-29,Alaska,Nome Census Area,county,2180,3,0
 2020-05-28,Alaska,Nome Census Area,county,2180,3,0
 2020-05-27,Alaska,Nome Census Area,county,2180,3,0
@@ -657,8 +668,10 @@ date,state,county,place_type,fips,cases,deaths
 2020-04-17,Alaska,Nome Census Area,county,2180,1,0
 2020-04-16,Alaska,Nome Census Area,county,2180,1,0
 2020-04-15,Alaska,Nome Census Area,county,2180,1,0
+2020-05-30,Alaska,North Slope Borough,county,2185,1,0
 2020-05-29,Alaska,North Slope Borough,county,2185,1,0
 2020-05-28,Alaska,North Slope Borough,county,2185,1,0
+2020-05-30,Alaska,Northwest Arctic Borough,county,2188,2,0
 2020-05-29,Alaska,Northwest Arctic Borough,county,2188,2,0
 2020-05-28,Alaska,Northwest Arctic Borough,county,2188,2,0
 2020-05-27,Alaska,Northwest Arctic Borough,county,2188,2,0
@@ -669,6 +682,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-05-22,Alaska,Northwest Arctic Borough,county,2188,1,0
 2020-05-21,Alaska,Northwest Arctic Borough,county,2188,1,0
 2020-05-20,Alaska,Northwest Arctic Borough,county,2188,1,0
+2020-05-30,Alaska,Petersburg Borough,county,2195,3,0
 2020-05-29,Alaska,Petersburg Borough,county,2195,3,0
 2020-05-28,Alaska,Petersburg Borough,county,2195,3,0
 2020-05-27,Alaska,Petersburg Borough,county,2195,3,0
@@ -723,6 +737,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-04-08,Alaska,Petersburg Borough,county,2195,1,0
 2020-04-07,Alaska,Petersburg Borough,county,2195,1,0
 2020-04-06,Alaska,Petersburg Borough,county,2195,1,0
+2020-05-30,Alaska,Prince of Wales-Hyder Census Area,county,2198,2,0
 2020-05-29,Alaska,Prince of Wales-Hyder Census Area,county,2198,2,0
 2020-05-28,Alaska,Prince of Wales-Hyder Census Area,county,2198,2,0
 2020-05-27,Alaska,Prince of Wales-Hyder Census Area,county,2198,2,0
@@ -772,6 +787,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-04-13,Alaska,Prince of Wales-Hyder Census Area,county,2198,1,0
 2020-04-12,Alaska,Prince of Wales-Hyder Census Area,county,2198,1,0
 2020-04-11,Alaska,Prince of Wales-Hyder Census Area,county,2198,1,0
+2020-05-30,Alaska,Sitka City and Borough,county,2220,2,0
 2020-05-29,Alaska,Sitka City and Borough,county,2220,2,0
 2020-05-28,Alaska,Sitka City and Borough,county,2220,2,0
 2020-05-27,Alaska,Sitka City and Borough,county,2220,2,0
@@ -806,6 +822,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-04-28,Alaska,Sitka City and Borough,county,2220,1,0
 2020-04-27,Alaska,Sitka City and Borough,county,2220,1,0
 2020-04-26,Alaska,Sitka City and Borough,county,2220,1,0
+2020-05-30,Alaska,Southeast Fairbanks Census Area,county,2240,3,0
 2020-05-29,Alaska,Southeast Fairbanks Census Area,county,2240,3,0
 2020-05-28,Alaska,Southeast Fairbanks Census Area,county,2240,3,0
 2020-05-27,Alaska,Southeast Fairbanks Census Area,county,2240,3,0
@@ -863,6 +880,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-04-05,Alaska,Southeast Fairbanks Census Area,county,2240,1,0
 2020-04-04,Alaska,Southeast Fairbanks Census Area,county,2240,1,0
 2020-04-03,Alaska,Southeast Fairbanks Census Area,county,2240,1,0
+2020-05-30,Alaska,Unknown,county,,1,0
 2020-05-29,Alaska,Unknown,county,,1,0
 2020-05-28,Alaska,Unknown,county,,1,0
 2020-05-27,Alaska,Unknown,county,,1,0
@@ -875,6 +893,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-05-20,Alaska,Unknown,county,,1,0
 2020-04-08,Alaska,Unknown,county,,1,0
 2020-04-02,Alaska,Unknown,county,,1,0
+2020-05-30,Alaska,Valdez-Cordova Census Area,county,2261,2,0
 2020-05-29,Alaska,Valdez-Cordova Census Area,county,2261,2,0
 2020-05-28,Alaska,Valdez-Cordova Census Area,county,2261,2,0
 2020-05-27,Alaska,Valdez-Cordova Census Area,county,2261,2,0
@@ -898,6 +917,7 @@ date,state,county,place_type,fips,cases,deaths
 2020-05-09,Alaska,Valdez-Cordova Census Area,county,2261,1,0
 2020-05-08,Alaska,Valdez-Cordova Census Area,county,2261,1,0
 2020-05-07,Alaska,Valdez-Cordova Census Area,county,2261,1,0
+2020-05-30,Alaska,Yukon-Koyukuk Census Area,county,2290,1,0
 2020-05-29,Alaska,Yukon-Koyukuk Census Area,county,2290,1,0
 2020-05-28,Alaska,Yukon-Koyukuk Census Area,county,2290,1,0
 2020-05-27,Alaska,Yukon-Koyukuk Census Area,county,2290,1,0
