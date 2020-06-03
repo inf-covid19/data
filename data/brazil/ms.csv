@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-05-31,MS,,state,1568,20,79,True,2778986,50,56.42346,0.0128
+2020-06-01,MS,,state,1646,20,80,True,2778986,50,59.23024,0.0122
+2020-05-31,MS,,state,1568,20,79,False,2778986,50,56.42346,0.0128
 2020-05-30,MS,,state,1489,20,78,False,2778986,50,53.58069,0.0134
 2020-05-29,MS,,state,1418,19,77,False,2778986,50,51.02581,0.0134
 2020-05-28,MS,,state,1356,18,76,False,2778986,50,48.79478,0.0133
@@ -78,7 +79,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-16,MS,,state,4,0,3,False,2778986,50,0.14394,0.0000
 2020-03-15,MS,,state,2,0,2,False,2778986,50,0.07197,0.0000
 2020-03-14,MS,,state,2,0,1,False,2778986,50,0.07197,0.0000
-2020-05-31,MS,Alcinópolis,city,1,0,62,True,5343,5000252,18.71608,0.0000
+2020-06-01,MS,Alcinópolis,city,1,0,63,True,5343,5000252,18.71608,0.0000
+2020-05-31,MS,Alcinópolis,city,1,0,62,False,5343,5000252,18.71608,0.0000
 2020-05-30,MS,Alcinópolis,city,1,0,61,False,5343,5000252,18.71608,0.0000
 2020-05-29,MS,Alcinópolis,city,1,0,60,False,5343,5000252,18.71608,0.0000
 2020-05-28,MS,Alcinópolis,city,1,0,59,False,5343,5000252,18.71608,0.0000
@@ -140,7 +142,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,MS,Alcinópolis,city,1,0,3,False,5343,5000252,18.71608,0.0000
 2020-04-01,MS,Alcinópolis,city,1,0,2,False,5343,5000252,18.71608,0.0000
 2020-03-31,MS,Alcinópolis,city,1,0,1,False,5343,5000252,18.71608,0.0000
-2020-05-31,MS,Amambai,city,6,0,22,True,39396,5000609,15.22997,0.0000
+2020-06-01,MS,Amambai,city,6,0,23,True,39396,5000609,15.22997,0.0000
+2020-05-31,MS,Amambai,city,6,0,22,False,39396,5000609,15.22997,0.0000
 2020-05-30,MS,Amambai,city,5,0,21,False,39396,5000609,12.69164,0.0000
 2020-05-29,MS,Amambai,city,5,0,20,False,39396,5000609,12.69164,0.0000
 2020-05-28,MS,Amambai,city,5,0,19,False,39396,5000609,12.69164,0.0000
@@ -162,15 +165,18 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-12,MS,Amambai,city,1,0,3,False,39396,5000609,2.53833,0.0000
 2020-05-11,MS,Amambai,city,1,0,2,False,39396,5000609,2.53833,0.0000
 2020-05-10,MS,Amambai,city,1,0,1,False,39396,5000609,2.53833,0.0000
-2020-05-31,MS,Anastácio,city,1,0,6,True,25135,5000708,3.97852,0.0000
+2020-06-01,MS,Anastácio,city,1,0,7,True,25135,5000708,3.97852,0.0000
+2020-05-31,MS,Anastácio,city,1,0,6,False,25135,5000708,3.97852,0.0000
 2020-05-30,MS,Anastácio,city,1,0,5,False,25135,5000708,3.97852,0.0000
 2020-05-29,MS,Anastácio,city,1,0,4,False,25135,5000708,3.97852,0.0000
 2020-05-28,MS,Anastácio,city,1,0,3,False,25135,5000708,3.97852,0.0000
 2020-05-27,MS,Anastácio,city,1,0,2,False,25135,5000708,3.97852,0.0000
 2020-05-26,MS,Anastácio,city,1,0,1,False,25135,5000708,3.97852,0.0000
-2020-05-31,MS,Aquidauana,city,1,0,2,True,47871,5001102,2.08895,0.0000
+2020-06-01,MS,Aquidauana,city,0,0,3,True,47871,5001102,,0.0000
+2020-05-31,MS,Aquidauana,city,1,0,2,False,47871,5001102,2.08895,0.0000
 2020-05-30,MS,Aquidauana,city,1,0,1,False,47871,5001102,2.08895,0.0000
-2020-05-31,MS,Bataguassu,city,10,0,42,True,23024,5001904,43.43294,0.0000
+2020-06-01,MS,Bataguassu,city,10,0,43,True,23024,5001904,43.43294,0.0000
+2020-05-31,MS,Bataguassu,city,10,0,42,False,23024,5001904,43.43294,0.0000
 2020-05-30,MS,Bataguassu,city,10,0,41,False,23024,5001904,43.43294,0.0000
 2020-05-29,MS,Bataguassu,city,10,0,40,False,23024,5001904,43.43294,0.0000
 2020-05-28,MS,Bataguassu,city,10,0,39,False,23024,5001904,43.43294,0.0000
@@ -212,7 +218,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-22,MS,Bataguassu,city,2,0,3,False,23024,5001904,8.68659,0.0000
 2020-04-21,MS,Bataguassu,city,1,0,2,False,23024,5001904,4.34329,0.0000
 2020-04-20,MS,Bataguassu,city,1,0,1,False,23024,5001904,4.34329,0.0000
-2020-05-31,MS,Batayporã,city,6,2,66,True,11329,5002001,52.96143,0.3333
+2020-06-01,MS,Batayporã,city,6,2,67,True,11329,5002001,52.96143,0.3333
+2020-05-31,MS,Batayporã,city,6,2,66,False,11329,5002001,52.96143,0.3333
 2020-05-30,MS,Batayporã,city,6,2,65,False,11329,5002001,52.96143,0.3333
 2020-05-29,MS,Batayporã,city,6,2,64,False,11329,5002001,52.96143,0.3333
 2020-05-28,MS,Batayporã,city,6,2,63,False,11329,5002001,52.96143,0.3333
@@ -278,7 +285,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,MS,Batayporã,city,2,0,3,False,11329,5002001,17.65381,0.0000
 2020-03-28,MS,Batayporã,city,1,0,2,False,11329,5002001,8.82690,0.0000
 2020-03-27,MS,Batayporã,city,1,0,1,False,11329,5002001,8.82690,0.0000
-2020-05-31,MS,Bela Vista,city,2,0,24,True,24629,5002100,8.12051,0.0000
+2020-06-01,MS,Bela Vista,city,2,0,25,True,24629,5002100,8.12051,0.0000
+2020-05-31,MS,Bela Vista,city,2,0,24,False,24629,5002100,8.12051,0.0000
 2020-05-30,MS,Bela Vista,city,2,0,23,False,24629,5002100,8.12051,0.0000
 2020-05-29,MS,Bela Vista,city,2,0,22,False,24629,5002100,8.12051,0.0000
 2020-05-28,MS,Bela Vista,city,2,0,21,False,24629,5002100,8.12051,0.0000
@@ -302,7 +310,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,MS,Bela Vista,city,2,0,3,False,24629,5002100,8.12051,0.0000
 2020-05-09,MS,Bela Vista,city,2,0,2,False,24629,5002100,8.12051,0.0000
 2020-05-08,MS,Bela Vista,city,1,0,1,False,24629,5002100,4.06025,0.0000
-2020-05-31,MS,Bodoquena,city,0,0,13,True,7875,5002159,,0.0000
+2020-06-01,MS,Bodoquena,city,0,0,14,True,7875,5002159,,0.0000
+2020-05-31,MS,Bodoquena,city,0,0,13,False,7875,5002159,,0.0000
 2020-05-30,MS,Bodoquena,city,0,0,12,False,7875,5002159,,0.0000
 2020-05-29,MS,Bodoquena,city,0,0,11,False,7875,5002159,,0.0000
 2020-05-28,MS,Bodoquena,city,0,0,10,False,7875,5002159,,0.0000
@@ -315,7 +324,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,MS,Bodoquena,city,0,0,3,False,7875,5002159,,0.0000
 2020-05-20,MS,Bodoquena,city,0,0,2,False,7875,5002159,,0.0000
 2020-05-19,MS,Bodoquena,city,1,0,1,False,7875,5002159,12.69841,0.0000
-2020-05-31,MS,Bonito,city,46,0,24,True,21976,5002209,209.31926,0.0000
+2020-06-01,MS,Bonito,city,46,0,25,True,21976,5002209,209.31926,0.0000
+2020-05-31,MS,Bonito,city,46,0,24,False,21976,5002209,209.31926,0.0000
 2020-05-30,MS,Bonito,city,46,0,23,False,21976,5002209,209.31926,0.0000
 2020-05-29,MS,Bonito,city,45,0,22,False,21976,5002209,204.76884,0.0000
 2020-05-28,MS,Bonito,city,45,0,21,False,21976,5002209,204.76884,0.0000
@@ -339,7 +349,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,MS,Bonito,city,2,0,3,False,21976,5002209,9.10084,0.0000
 2020-05-09,MS,Bonito,city,2,0,2,False,21976,5002209,9.10084,0.0000
 2020-05-08,MS,Bonito,city,1,0,1,False,21976,5002209,4.55042,0.0000
-2020-05-31,MS,Brasilândia,city,15,2,27,True,11872,5002308,126.34771,0.1333
+2020-06-01,MS,Brasilândia,city,15,2,28,True,11872,5002308,126.34771,0.1333
+2020-05-31,MS,Brasilândia,city,15,2,27,False,11872,5002308,126.34771,0.1333
 2020-05-30,MS,Brasilândia,city,15,2,26,False,11872,5002308,126.34771,0.1333
 2020-05-29,MS,Brasilândia,city,15,2,25,False,11872,5002308,126.34771,0.1333
 2020-05-28,MS,Brasilândia,city,15,2,24,False,11872,5002308,126.34771,0.1333
@@ -366,7 +377,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,MS,Brasilândia,city,7,0,3,False,11872,5002308,58.96226,0.0000
 2020-05-06,MS,Brasilândia,city,2,0,2,False,11872,5002308,16.84636,0.0000
 2020-05-05,MS,Brasilândia,city,1,0,1,False,11872,5002308,8.42318,0.0000
-2020-05-31,MS,Caarapó,city,3,0,9,True,30174,5002407,9.94233,0.0000
+2020-06-01,MS,Caarapó,city,3,0,10,True,30174,5002407,9.94233,0.0000
+2020-05-31,MS,Caarapó,city,3,0,9,False,30174,5002407,9.94233,0.0000
 2020-05-30,MS,Caarapó,city,3,0,8,False,30174,5002407,9.94233,0.0000
 2020-05-29,MS,Caarapó,city,3,0,7,False,30174,5002407,9.94233,0.0000
 2020-05-28,MS,Caarapó,city,3,0,6,False,30174,5002407,9.94233,0.0000
@@ -375,7 +387,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,MS,Caarapó,city,3,0,3,False,30174,5002407,9.94233,0.0000
 2020-05-24,MS,Caarapó,city,3,0,2,False,30174,5002407,9.94233,0.0000
 2020-05-23,MS,Caarapó,city,1,0,1,False,30174,5002407,3.31411,0.0000
-2020-05-31,MS,Camapuã,city,2,0,17,True,13711,5002605,14.58683,0.0000
+2020-06-01,MS,Camapuã,city,2,0,18,True,13711,5002605,14.58683,0.0000
+2020-05-31,MS,Camapuã,city,2,0,17,False,13711,5002605,14.58683,0.0000
 2020-05-30,MS,Camapuã,city,2,0,16,False,13711,5002605,14.58683,0.0000
 2020-05-29,MS,Camapuã,city,2,0,15,False,13711,5002605,14.58683,0.0000
 2020-05-28,MS,Camapuã,city,2,0,14,False,13711,5002605,14.58683,0.0000
@@ -392,7 +405,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MS,Camapuã,city,1,0,3,False,13711,5002605,7.29341,0.0000
 2020-05-16,MS,Camapuã,city,1,0,2,False,13711,5002605,7.29341,0.0000
 2020-05-15,MS,Camapuã,city,1,0,1,False,13711,5002605,7.29341,0.0000
-2020-05-31,MS,Campo Grande,city,312,7,79,True,895982,5002704,34.82213,0.0224
+2020-06-01,MS,Campo Grande,city,317,7,80,True,895982,5002704,35.38018,0.0221
+2020-05-31,MS,Campo Grande,city,312,7,79,False,895982,5002704,34.82213,0.0224
 2020-05-30,MS,Campo Grande,city,293,7,78,False,895982,5002704,32.70155,0.0239
 2020-05-29,MS,Campo Grande,city,283,6,77,False,895982,5002704,31.58546,0.0212
 2020-05-28,MS,Campo Grande,city,278,6,76,False,895982,5002704,31.02741,0.0216
@@ -471,7 +485,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-16,MS,Campo Grande,city,4,0,3,False,895982,5002704,0.44644,0.0000
 2020-03-15,MS,Campo Grande,city,2,0,2,False,895982,5002704,0.22322,0.0000
 2020-03-14,MS,Campo Grande,city,2,0,1,False,895982,5002704,0.22322,0.0000
-2020-05-31,MS,Chapadão do Sul,city,19,0,57,True,25218,5002951,75.34301,0.0000
+2020-06-01,MS,Chapadão do Sul,city,21,0,58,True,25218,5002951,83.27385,0.0000
+2020-05-31,MS,Chapadão do Sul,city,19,0,57,False,25218,5002951,75.34301,0.0000
 2020-05-30,MS,Chapadão do Sul,city,15,0,56,False,25218,5002951,59.48132,0.0000
 2020-05-29,MS,Chapadão do Sul,city,13,0,55,False,25218,5002951,51.55048,0.0000
 2020-05-28,MS,Chapadão do Sul,city,11,0,54,False,25218,5002951,43.61964,0.0000
@@ -528,7 +543,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,MS,Chapadão do Sul,city,2,0,3,False,25218,5002951,7.93084,0.0000
 2020-04-06,MS,Chapadão do Sul,city,1,0,2,False,25218,5002951,3.96542,0.0000
 2020-04-05,MS,Chapadão do Sul,city,1,0,1,False,25218,5002951,3.96542,0.0000
-2020-05-31,MS,Corumbá,city,29,0,55,True,111435,5003207,26.02414,0.0000
+2020-06-01,MS,Corumbá,city,37,0,56,True,111435,5003207,33.20321,0.0000
+2020-05-31,MS,Corumbá,city,29,0,55,False,111435,5003207,26.02414,0.0000
 2020-05-30,MS,Corumbá,city,27,0,54,False,111435,5003207,24.22937,0.0000
 2020-05-29,MS,Corumbá,city,27,0,53,False,111435,5003207,24.22937,0.0000
 2020-05-28,MS,Corumbá,city,24,0,52,False,111435,5003207,21.53722,0.0000
@@ -583,9 +599,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,MS,Corumbá,city,1,0,3,False,111435,5003207,0.89738,0.0000
 2020-04-08,MS,Corumbá,city,1,0,2,False,111435,5003207,0.89738,0.0000
 2020-04-07,MS,Corumbá,city,1,0,1,False,111435,5003207,0.89738,0.0000
-2020-05-31,MS,Costa Rica,city,1,0,2,True,20823,5003256,4.80238,0.0000
+2020-06-01,MS,Costa Rica,city,2,0,3,True,20823,5003256,9.60476,0.0000
+2020-05-31,MS,Costa Rica,city,1,0,2,False,20823,5003256,4.80238,0.0000
 2020-05-30,MS,Costa Rica,city,1,0,1,False,20823,5003256,4.80238,0.0000
-2020-05-31,MS,Coxim,city,7,0,49,True,33543,5003306,20.86874,0.0000
+2020-06-01,MS,Coxim,city,7,0,50,True,33543,5003306,20.86874,0.0000
+2020-05-31,MS,Coxim,city,7,0,49,False,33543,5003306,20.86874,0.0000
 2020-05-30,MS,Coxim,city,7,0,48,False,33543,5003306,20.86874,0.0000
 2020-05-29,MS,Coxim,city,7,0,47,False,33543,5003306,20.86874,0.0000
 2020-05-28,MS,Coxim,city,7,0,46,False,33543,5003306,20.86874,0.0000
@@ -634,7 +652,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,MS,Coxim,city,1,0,3,False,33543,5003306,2.98125,0.0000
 2020-04-14,MS,Coxim,city,1,0,2,False,33543,5003306,2.98125,0.0000
 2020-04-13,MS,Coxim,city,1,0,1,False,33543,5003306,2.98125,0.0000
-2020-05-31,MS,Deodápolis,city,4,0,15,True,12924,5003454,30.95017,0.0000
+2020-06-01,MS,Deodápolis,city,4,0,16,True,12924,5003454,30.95017,0.0000
+2020-05-31,MS,Deodápolis,city,4,0,15,False,12924,5003454,30.95017,0.0000
 2020-05-30,MS,Deodápolis,city,4,0,14,False,12924,5003454,30.95017,0.0000
 2020-05-29,MS,Deodápolis,city,4,0,13,False,12924,5003454,30.95017,0.0000
 2020-05-28,MS,Deodápolis,city,4,0,12,False,12924,5003454,30.95017,0.0000
@@ -649,7 +668,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,MS,Deodápolis,city,2,0,3,False,12924,5003454,15.47509,0.0000
 2020-05-18,MS,Deodápolis,city,1,0,2,False,12924,5003454,7.73754,0.0000
 2020-05-17,MS,Deodápolis,city,1,0,1,False,12924,5003454,7.73754,0.0000
-2020-05-31,MS,Douradina,city,62,0,15,True,5924,5003504,1046.59014,0.0000
+2020-06-01,MS,Douradina,city,62,0,16,True,5924,5003504,1046.59014,0.0000
+2020-05-31,MS,Douradina,city,62,0,15,False,5924,5003504,1046.59014,0.0000
 2020-05-30,MS,Douradina,city,46,0,14,False,5924,5003504,776.50236,0.0000
 2020-05-29,MS,Douradina,city,38,0,13,False,5924,5003504,641.45847,0.0000
 2020-05-28,MS,Douradina,city,38,0,12,False,5924,5003504,641.45847,0.0000
@@ -664,7 +684,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,MS,Douradina,city,3,0,3,False,5924,5003504,50.64146,0.0000
 2020-05-18,MS,Douradina,city,2,0,2,False,5924,5003504,33.76097,0.0000
 2020-05-17,MS,Douradina,city,2,0,1,False,5924,5003504,33.76097,0.0000
-2020-05-31,MS,Dourados,city,306,2,65,True,222949,5003702,137.25112,0.0065
+2020-06-01,MS,Dourados,city,339,2,66,True,222949,5003702,152.05271,0.0059
+2020-05-31,MS,Dourados,city,306,2,65,False,222949,5003702,137.25112,0.0065
 2020-05-30,MS,Dourados,city,279,2,64,False,222949,5003702,125.14073,0.0072
 2020-05-29,MS,Dourados,city,260,2,63,False,222949,5003702,116.61860,0.0077
 2020-05-28,MS,Dourados,city,236,1,62,False,222949,5003702,105.85381,0.0042
@@ -729,7 +750,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,MS,Dourados,city,2,0,3,False,222949,5003702,0.89707,0.0000
 2020-03-29,MS,Dourados,city,2,0,2,False,222949,5003702,0.89707,0.0000
 2020-03-28,MS,Dourados,city,2,0,1,False,222949,5003702,0.89707,0.0000
-2020-05-31,MS,Fátima do Sul,city,69,0,16,True,19189,5003801,359.58101,0.0000
+2020-06-01,MS,Fátima do Sul,city,70,0,17,True,19189,5003801,364.79233,0.0000
+2020-05-31,MS,Fátima do Sul,city,69,0,16,False,19189,5003801,359.58101,0.0000
 2020-05-30,MS,Fátima do Sul,city,65,0,15,False,19189,5003801,338.73573,0.0000
 2020-05-29,MS,Fátima do Sul,city,66,0,14,False,19189,5003801,343.94705,0.0000
 2020-05-28,MS,Fátima do Sul,city,61,0,13,False,19189,5003801,317.89046,0.0000
@@ -745,7 +767,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-18,MS,Fátima do Sul,city,6,0,3,False,19189,5003801,31.26791,0.0000
 2020-05-17,MS,Fátima do Sul,city,5,0,2,False,19189,5003801,26.05659,0.0000
 2020-05-16,MS,Fátima do Sul,city,1,0,1,False,19189,5003801,5.21132,0.0000
-2020-05-31,MS,Glória de Dourados,city,7,0,16,True,9965,5004007,70.24586,0.0000
+2020-06-01,MS,Glória de Dourados,city,7,0,17,True,9965,5004007,70.24586,0.0000
+2020-05-31,MS,Glória de Dourados,city,7,0,16,False,9965,5004007,70.24586,0.0000
 2020-05-30,MS,Glória de Dourados,city,7,0,15,False,9965,5004007,70.24586,0.0000
 2020-05-29,MS,Glória de Dourados,city,7,0,14,False,9965,5004007,70.24586,0.0000
 2020-05-28,MS,Glória de Dourados,city,7,0,13,False,9965,5004007,70.24586,0.0000
@@ -761,7 +784,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-18,MS,Glória de Dourados,city,1,0,3,False,9965,5004007,10.03512,0.0000
 2020-05-17,MS,Glória de Dourados,city,1,0,2,False,9965,5004007,10.03512,0.0000
 2020-05-16,MS,Glória de Dourados,city,1,0,1,False,9965,5004007,10.03512,0.0000
-2020-05-31,MS,Guia Lopes da Laguna,city,230,0,27,True,9895,5004106,2324.40627,0.0000
+2020-06-01,MS,Guia Lopes da Laguna,city,234,0,28,True,9895,5004106,2364.83072,0.0000
+2020-05-31,MS,Guia Lopes da Laguna,city,230,0,27,False,9895,5004106,2324.40627,0.0000
 2020-05-30,MS,Guia Lopes da Laguna,city,230,0,26,False,9895,5004106,2324.40627,0.0000
 2020-05-29,MS,Guia Lopes da Laguna,city,230,0,25,False,9895,5004106,2324.40627,0.0000
 2020-05-28,MS,Guia Lopes da Laguna,city,225,0,24,False,9895,5004106,2273.87569,0.0000
@@ -788,7 +812,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,MS,Guia Lopes da Laguna,city,5,0,3,False,9895,5004106,50.53057,0.0000
 2020-05-06,MS,Guia Lopes da Laguna,city,1,0,2,False,9895,5004106,10.10611,0.0000
 2020-05-05,MS,Guia Lopes da Laguna,city,1,0,1,False,9895,5004106,10.10611,0.0000
-2020-05-31,MS,Itaporã,city,45,0,14,True,24839,5004502,181.16671,0.0000
+2020-06-01,MS,Itaporã,city,45,0,15,True,24839,5004502,181.16671,0.0000
+2020-05-31,MS,Itaporã,city,45,0,14,False,24839,5004502,181.16671,0.0000
 2020-05-30,MS,Itaporã,city,45,0,13,False,24839,5004502,181.16671,0.0000
 2020-05-29,MS,Itaporã,city,45,0,12,False,24839,5004502,181.16671,0.0000
 2020-05-28,MS,Itaporã,city,44,0,11,False,24839,5004502,177.14079,0.0000
@@ -802,17 +827,20 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,MS,Itaporã,city,1,0,3,False,24839,5004502,4.02593,0.0000
 2020-05-19,MS,Itaporã,city,1,0,2,False,24839,5004502,4.02593,0.0000
 2020-05-18,MS,Itaporã,city,1,0,1,False,24839,5004502,4.02593,0.0000
-2020-05-31,MS,Itaquiraí,city,1,0,3,True,21142,5004601,4.72992,0.0000
+2020-06-01,MS,Itaquiraí,city,1,0,4,True,21142,5004601,4.72992,0.0000
+2020-05-31,MS,Itaquiraí,city,1,0,3,False,21142,5004601,4.72992,0.0000
 2020-05-30,MS,Itaquiraí,city,1,0,2,False,21142,5004601,4.72992,0.0000
 2020-05-29,MS,Itaquiraí,city,1,0,1,False,21142,5004601,4.72992,0.0000
-2020-05-31,MS,Ivinhema,city,1,0,7,True,23187,5004700,4.31276,0.0000
+2020-06-01,MS,Ivinhema,city,1,0,8,True,23187,5004700,4.31276,0.0000
+2020-05-31,MS,Ivinhema,city,1,0,7,False,23187,5004700,4.31276,0.0000
 2020-05-30,MS,Ivinhema,city,1,0,6,False,23187,5004700,4.31276,0.0000
 2020-05-29,MS,Ivinhema,city,1,0,5,False,23187,5004700,4.31276,0.0000
 2020-05-28,MS,Ivinhema,city,1,0,4,False,23187,5004700,4.31276,0.0000
 2020-05-27,MS,Ivinhema,city,1,0,3,False,23187,5004700,4.31276,0.0000
 2020-05-26,MS,Ivinhema,city,1,0,2,False,23187,5004700,4.31276,0.0000
 2020-05-25,MS,Ivinhema,city,1,0,1,False,23187,5004700,4.31276,0.0000
-2020-05-31,MS,Jardim,city,33,0,25,True,26097,5005004,126.45132,0.0000
+2020-06-01,MS,Jardim,city,34,0,26,True,26097,5005004,130.28317,0.0000
+2020-05-31,MS,Jardim,city,33,0,25,False,26097,5005004,126.45132,0.0000
 2020-05-30,MS,Jardim,city,33,0,24,False,26097,5005004,126.45132,0.0000
 2020-05-29,MS,Jardim,city,33,0,23,False,26097,5005004,126.45132,0.0000
 2020-05-28,MS,Jardim,city,32,0,22,False,26097,5005004,122.61946,0.0000
@@ -837,7 +865,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,MS,Jardim,city,4,0,3,False,26097,5005004,15.32743,0.0000
 2020-05-08,MS,Jardim,city,3,0,2,False,26097,5005004,11.49557,0.0000
 2020-05-07,MS,Jardim,city,2,0,1,False,26097,5005004,7.66372,0.0000
-2020-05-31,MS,Jateí,city,1,0,29,True,4027,5005103,24.83238,0.0000
+2020-06-01,MS,Jateí,city,1,0,30,True,4027,5005103,24.83238,0.0000
+2020-05-31,MS,Jateí,city,1,0,29,False,4027,5005103,24.83238,0.0000
 2020-05-30,MS,Jateí,city,1,0,28,False,4027,5005103,24.83238,0.0000
 2020-05-29,MS,Jateí,city,1,0,27,False,4027,5005103,24.83238,0.0000
 2020-05-28,MS,Jateí,city,1,0,26,False,4027,5005103,24.83238,0.0000
@@ -866,7 +895,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,MS,Jateí,city,1,0,3,False,4027,5005103,24.83238,0.0000
 2020-05-04,MS,Jateí,city,1,0,2,False,4027,5005103,24.83238,0.0000
 2020-05-03,MS,Jateí,city,1,0,1,False,4027,5005103,24.83238,0.0000
-2020-05-31,MS,Ladário,city,11,0,44,True,23331,5005202,47.14757,0.0000
+2020-06-01,MS,Ladário,city,11,0,45,True,23331,5005202,47.14757,0.0000
+2020-05-31,MS,Ladário,city,11,0,44,False,23331,5005202,47.14757,0.0000
 2020-05-30,MS,Ladário,city,11,0,43,False,23331,5005202,47.14757,0.0000
 2020-05-29,MS,Ladário,city,11,0,42,False,23331,5005202,47.14757,0.0000
 2020-05-28,MS,Ladário,city,11,0,41,False,23331,5005202,47.14757,0.0000
@@ -910,13 +940,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,MS,Ladário,city,1,0,3,False,23331,5005202,4.28614,0.0000
 2020-04-19,MS,Ladário,city,1,0,2,False,23331,5005202,4.28614,0.0000
 2020-04-18,MS,Ladário,city,1,0,1,False,23331,5005202,4.28614,0.0000
-2020-05-31,MS,Maracaju,city,1,0,6,True,47083,5005400,2.12391,0.0000
+2020-06-01,MS,Maracaju,city,1,0,7,True,47083,5005400,2.12391,0.0000
+2020-05-31,MS,Maracaju,city,1,0,6,False,47083,5005400,2.12391,0.0000
 2020-05-30,MS,Maracaju,city,1,0,5,False,47083,5005400,2.12391,0.0000
 2020-05-29,MS,Maracaju,city,1,0,4,False,47083,5005400,2.12391,0.0000
 2020-05-28,MS,Maracaju,city,1,0,3,False,47083,5005400,2.12391,0.0000
 2020-05-27,MS,Maracaju,city,1,0,2,False,47083,5005400,2.12391,0.0000
 2020-05-26,MS,Maracaju,city,1,0,1,False,47083,5005400,2.12391,0.0000
-2020-05-31,MS,Miranda,city,1,0,46,True,28013,5005608,3.56977,0.0000
+2020-06-01,MS,Miranda,city,1,0,47,True,28013,5005608,3.56977,0.0000
+2020-05-31,MS,Miranda,city,1,0,46,False,28013,5005608,3.56977,0.0000
 2020-05-30,MS,Miranda,city,1,0,45,False,28013,5005608,3.56977,0.0000
 2020-05-29,MS,Miranda,city,1,0,44,False,28013,5005608,3.56977,0.0000
 2020-05-28,MS,Miranda,city,1,0,43,False,28013,5005608,3.56977,0.0000
@@ -962,7 +994,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,MS,Miranda,city,1,0,3,False,28013,5005608,3.56977,0.0000
 2020-04-17,MS,Miranda,city,1,0,2,False,28013,5005608,3.56977,0.0000
 2020-04-16,MS,Miranda,city,1,0,1,False,28013,5005608,3.56977,0.0000
-2020-05-31,MS,Mundo Novo,city,3,0,45,True,18366,5005681,16.33453,0.0000
+2020-06-01,MS,Mundo Novo,city,4,0,46,True,18366,5005681,21.77937,0.0000
+2020-05-31,MS,Mundo Novo,city,3,0,45,False,18366,5005681,16.33453,0.0000
 2020-05-30,MS,Mundo Novo,city,3,0,44,False,18366,5005681,16.33453,0.0000
 2020-05-29,MS,Mundo Novo,city,2,0,43,False,18366,5005681,10.88969,0.0000
 2020-05-28,MS,Mundo Novo,city,2,0,42,False,18366,5005681,10.88969,0.0000
@@ -1007,7 +1040,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,MS,Mundo Novo,city,2,0,3,False,18366,5005681,10.88969,0.0000
 2020-04-18,MS,Mundo Novo,city,2,0,2,False,18366,5005681,10.88969,0.0000
 2020-04-17,MS,Mundo Novo,city,2,0,1,False,18366,5005681,10.88969,0.0000
-2020-05-31,MS,Naviraí,city,13,0,50,True,54878,5005707,23.68891,0.0000
+2020-06-01,MS,Naviraí,city,13,0,51,True,54878,5005707,23.68891,0.0000
+2020-05-31,MS,Naviraí,city,13,0,50,False,54878,5005707,23.68891,0.0000
 2020-05-30,MS,Naviraí,city,12,0,49,False,54878,5005707,21.86669,0.0000
 2020-05-29,MS,Naviraí,city,11,0,48,False,54878,5005707,20.04446,0.0000
 2020-05-28,MS,Naviraí,city,10,0,47,False,54878,5005707,18.22224,0.0000
@@ -1057,7 +1091,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,MS,Naviraí,city,1,0,3,False,54878,5005707,1.82222,0.0000
 2020-04-13,MS,Naviraí,city,1,0,2,False,54878,5005707,1.82222,0.0000
 2020-04-12,MS,Naviraí,city,1,0,1,False,54878,5005707,1.82222,0.0000
-2020-05-31,MS,Nova Alvorada do Sul,city,1,0,9,True,21882,5006002,4.56997,0.0000
+2020-06-01,MS,Nova Alvorada do Sul,city,1,0,10,True,21882,5006002,4.56997,0.0000
+2020-05-31,MS,Nova Alvorada do Sul,city,1,0,9,False,21882,5006002,4.56997,0.0000
 2020-05-30,MS,Nova Alvorada do Sul,city,1,0,8,False,21882,5006002,4.56997,0.0000
 2020-05-29,MS,Nova Alvorada do Sul,city,1,0,7,False,21882,5006002,4.56997,0.0000
 2020-05-28,MS,Nova Alvorada do Sul,city,1,0,6,False,21882,5006002,4.56997,0.0000
@@ -1066,7 +1101,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,MS,Nova Alvorada do Sul,city,1,0,3,False,21882,5006002,4.56997,0.0000
 2020-05-24,MS,Nova Alvorada do Sul,city,1,0,2,False,21882,5006002,4.56997,0.0000
 2020-05-23,MS,Nova Alvorada do Sul,city,1,0,1,False,21882,5006002,4.56997,0.0000
-2020-05-31,MS,Nova Andradina,city,11,0,62,True,54374,5006200,20.23026,0.0000
+2020-06-01,MS,Nova Andradina,city,11,0,63,True,54374,5006200,20.23026,0.0000
+2020-05-31,MS,Nova Andradina,city,11,0,62,False,54374,5006200,20.23026,0.0000
 2020-05-30,MS,Nova Andradina,city,11,0,61,False,54374,5006200,20.23026,0.0000
 2020-05-29,MS,Nova Andradina,city,11,0,60,False,54374,5006200,20.23026,0.0000
 2020-05-28,MS,Nova Andradina,city,11,0,59,False,54374,5006200,20.23026,0.0000
@@ -1128,7 +1164,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,MS,Nova Andradina,city,2,0,3,False,54374,5006200,3.67823,0.0000
 2020-04-01,MS,Nova Andradina,city,2,0,2,False,54374,5006200,3.67823,0.0000
 2020-03-31,MS,Nova Andradina,city,2,0,1,False,54374,5006200,3.67823,0.0000
-2020-05-31,MS,Paranaíba,city,6,1,51,True,42148,5006309,14.23555,0.1667
+2020-06-01,MS,Paranaíba,city,6,1,52,True,42148,5006309,14.23555,0.1667
+2020-05-31,MS,Paranaíba,city,6,1,51,False,42148,5006309,14.23555,0.1667
 2020-05-30,MS,Paranaíba,city,6,1,50,False,42148,5006309,14.23555,0.1667
 2020-05-29,MS,Paranaíba,city,6,1,49,False,42148,5006309,14.23555,0.1667
 2020-05-28,MS,Paranaíba,city,6,1,48,False,42148,5006309,14.23555,0.1667
@@ -1179,7 +1216,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,MS,Paranaíba,city,2,0,3,False,42148,5006309,4.74518,0.0000
 2020-04-12,MS,Paranaíba,city,1,0,2,False,42148,5006309,2.37259,0.0000
 2020-04-11,MS,Paranaíba,city,1,0,1,False,42148,5006309,2.37259,0.0000
-2020-05-31,MS,Paranhos,city,1,0,17,True,14228,5006358,7.02839,0.0000
+2020-06-01,MS,Paranhos,city,1,0,18,True,14228,5006358,7.02839,0.0000
+2020-05-31,MS,Paranhos,city,1,0,17,False,14228,5006358,7.02839,0.0000
 2020-05-30,MS,Paranhos,city,1,0,16,False,14228,5006358,7.02839,0.0000
 2020-05-29,MS,Paranhos,city,1,0,15,False,14228,5006358,7.02839,0.0000
 2020-05-28,MS,Paranhos,city,1,0,14,False,14228,5006358,7.02839,0.0000
@@ -1196,7 +1234,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MS,Paranhos,city,1,0,3,False,14228,5006358,7.02839,0.0000
 2020-05-16,MS,Paranhos,city,1,0,2,False,14228,5006358,7.02839,0.0000
 2020-05-15,MS,Paranhos,city,1,0,1,False,14228,5006358,7.02839,0.0000
-2020-05-31,MS,Paraíso das Águas,city,3,0,44,True,5555,5006275,54.00540,0.0000
+2020-06-01,MS,Paraíso das Águas,city,3,0,45,True,5555,5006275,54.00540,0.0000
+2020-05-31,MS,Paraíso das Águas,city,3,0,44,False,5555,5006275,54.00540,0.0000
 2020-05-30,MS,Paraíso das Águas,city,3,0,43,False,5555,5006275,54.00540,0.0000
 2020-05-29,MS,Paraíso das Águas,city,3,0,42,False,5555,5006275,54.00540,0.0000
 2020-05-28,MS,Paraíso das Águas,city,3,0,41,False,5555,5006275,54.00540,0.0000
@@ -1240,7 +1279,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,MS,Paraíso das Águas,city,1,0,3,False,5555,5006275,18.00180,0.0000
 2020-04-19,MS,Paraíso das Águas,city,1,0,2,False,5555,5006275,18.00180,0.0000
 2020-04-18,MS,Paraíso das Águas,city,1,0,1,False,5555,5006275,18.00180,0.0000
-2020-05-31,MS,Ponta Porã,city,31,0,72,True,92526,5006606,33.50410,0.0000
+2020-06-01,MS,Ponta Porã,city,35,0,73,True,92526,5006606,37.82721,0.0000
+2020-05-31,MS,Ponta Porã,city,31,0,72,False,92526,5006606,33.50410,0.0000
 2020-05-30,MS,Ponta Porã,city,30,0,71,False,92526,5006606,32.42332,0.0000
 2020-05-29,MS,Ponta Porã,city,30,0,70,False,92526,5006606,32.42332,0.0000
 2020-05-28,MS,Ponta Porã,city,29,0,69,False,92526,5006606,31.34254,0.0000
@@ -1312,7 +1352,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,MS,Ponta Porã,city,1,0,3,False,92526,5006606,1.08078,0.0000
 2020-03-22,MS,Ponta Porã,city,1,0,2,False,92526,5006606,1.08078,0.0000
 2020-03-21,MS,Ponta Porã,city,1,0,1,False,92526,5006606,1.08078,0.0000
-2020-05-31,MS,Porto Murtinho,city,0,0,8,True,17131,5006903,,0.0000
+2020-06-01,MS,Porto Murtinho,city,0,0,9,True,17131,5006903,,0.0000
+2020-05-31,MS,Porto Murtinho,city,0,0,8,False,17131,5006903,,0.0000
 2020-05-30,MS,Porto Murtinho,city,0,0,7,False,17131,5006903,,0.0000
 2020-05-29,MS,Porto Murtinho,city,0,0,6,False,17131,5006903,,0.0000
 2020-05-28,MS,Porto Murtinho,city,0,0,5,False,17131,5006903,,0.0000
@@ -1320,7 +1361,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-26,MS,Porto Murtinho,city,0,0,3,False,17131,5006903,,0.0000
 2020-05-25,MS,Porto Murtinho,city,0,0,2,False,17131,5006903,,0.0000
 2020-05-24,MS,Porto Murtinho,city,2,0,1,False,17131,5006903,11.67474,0.0000
-2020-05-31,MS,Ribas do Rio Pardo,city,11,0,24,True,24615,5007109,44.68820,0.0000
+2020-06-01,MS,Ribas do Rio Pardo,city,11,0,25,True,24615,5007109,44.68820,0.0000
+2020-05-31,MS,Ribas do Rio Pardo,city,11,0,24,False,24615,5007109,44.68820,0.0000
 2020-05-30,MS,Ribas do Rio Pardo,city,11,0,23,False,24615,5007109,44.68820,0.0000
 2020-05-29,MS,Ribas do Rio Pardo,city,11,0,22,False,24615,5007109,44.68820,0.0000
 2020-05-28,MS,Ribas do Rio Pardo,city,11,0,21,False,24615,5007109,44.68820,0.0000
@@ -1344,7 +1386,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,MS,Ribas do Rio Pardo,city,2,0,3,False,24615,5007109,8.12513,0.0000
 2020-05-09,MS,Ribas do Rio Pardo,city,2,0,2,False,24615,5007109,8.12513,0.0000
 2020-05-08,MS,Ribas do Rio Pardo,city,1,0,1,False,24615,5007109,4.06256,0.0000
-2020-05-31,MS,Rio Brilhante,city,54,0,10,True,37514,5007208,143.94626,0.0000
+2020-06-01,MS,Rio Brilhante,city,58,0,11,True,37514,5007208,154.60895,0.0000
+2020-05-31,MS,Rio Brilhante,city,54,0,10,False,37514,5007208,143.94626,0.0000
 2020-05-30,MS,Rio Brilhante,city,54,0,9,False,37514,5007208,143.94626,0.0000
 2020-05-29,MS,Rio Brilhante,city,34,0,8,False,37514,5007208,90.63283,0.0000
 2020-05-28,MS,Rio Brilhante,city,25,0,7,False,37514,5007208,66.64179,0.0000
@@ -1354,7 +1397,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,MS,Rio Brilhante,city,4,0,3,False,37514,5007208,10.66269,0.0000
 2020-05-23,MS,Rio Brilhante,city,3,0,2,False,37514,5007208,7.99701,0.0000
 2020-05-22,MS,Rio Brilhante,city,2,0,1,False,37514,5007208,5.33134,0.0000
-2020-05-31,MS,Rio Verde de Mato Grosso,city,1,0,66,True,19746,5007406,5.06432,0.0000
+2020-06-01,MS,Rio Verde de Mato Grosso,city,1,0,67,True,19746,5007406,5.06432,0.0000
+2020-05-31,MS,Rio Verde de Mato Grosso,city,1,0,66,False,19746,5007406,5.06432,0.0000
 2020-05-30,MS,Rio Verde de Mato Grosso,city,1,0,65,False,19746,5007406,5.06432,0.0000
 2020-05-29,MS,Rio Verde de Mato Grosso,city,1,0,64,False,19746,5007406,5.06432,0.0000
 2020-05-28,MS,Rio Verde de Mato Grosso,city,1,0,63,False,19746,5007406,5.06432,0.0000
@@ -1420,7 +1464,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,MS,Rio Verde de Mato Grosso,city,1,0,3,False,19746,5007406,5.06432,0.0000
 2020-03-28,MS,Rio Verde de Mato Grosso,city,1,0,2,False,19746,5007406,5.06432,0.0000
 2020-03-27,MS,Rio Verde de Mato Grosso,city,1,0,1,False,19746,5007406,5.06432,0.0000
-2020-05-31,MS,Selvíria,city,1,0,44,True,6529,5007802,15.31628,0.0000
+2020-06-01,MS,Selvíria,city,1,0,45,True,6529,5007802,15.31628,0.0000
+2020-05-31,MS,Selvíria,city,1,0,44,False,6529,5007802,15.31628,0.0000
 2020-05-30,MS,Selvíria,city,1,0,43,False,6529,5007802,15.31628,0.0000
 2020-05-29,MS,Selvíria,city,1,0,42,False,6529,5007802,15.31628,0.0000
 2020-05-28,MS,Selvíria,city,1,0,41,False,6529,5007802,15.31628,0.0000
@@ -1464,7 +1509,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,MS,Selvíria,city,1,0,3,False,6529,5007802,15.31628,0.0000
 2020-04-19,MS,Selvíria,city,1,0,2,False,6529,5007802,15.31628,0.0000
 2020-04-18,MS,Selvíria,city,1,0,1,False,6529,5007802,15.31628,0.0000
-2020-05-31,MS,Sidrolândia,city,4,0,74,True,57665,5007901,6.93662,0.0000
+2020-06-01,MS,Sidrolândia,city,4,0,75,True,57665,5007901,6.93662,0.0000
+2020-05-31,MS,Sidrolândia,city,4,0,74,False,57665,5007901,6.93662,0.0000
 2020-05-30,MS,Sidrolândia,city,4,0,73,False,57665,5007901,6.93662,0.0000
 2020-05-29,MS,Sidrolândia,city,4,0,72,False,57665,5007901,6.93662,0.0000
 2020-05-28,MS,Sidrolândia,city,4,0,71,False,57665,5007901,6.93662,0.0000
@@ -1538,7 +1584,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,MS,Sidrolândia,city,1,0,3,False,57665,5007901,1.73415,0.0000
 2020-03-20,MS,Sidrolândia,city,1,0,2,False,57665,5007901,1.73415,0.0000
 2020-03-19,MS,Sidrolândia,city,1,0,1,False,57665,5007901,1.73415,0.0000
-2020-05-31,MS,Sonora,city,13,0,55,True,19274,5007935,67.44838,0.0000
+2020-06-01,MS,Sonora,city,13,0,56,True,19274,5007935,67.44838,0.0000
+2020-05-31,MS,Sonora,city,13,0,55,False,19274,5007935,67.44838,0.0000
 2020-05-30,MS,Sonora,city,13,0,54,False,19274,5007935,67.44838,0.0000
 2020-05-29,MS,Sonora,city,13,0,53,False,19274,5007935,67.44838,0.0000
 2020-05-28,MS,Sonora,city,13,0,52,False,19274,5007935,67.44838,0.0000
@@ -1593,7 +1640,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,MS,Sonora,city,1,0,3,False,19274,5007935,5.18834,0.0000
 2020-04-08,MS,Sonora,city,1,0,2,False,19274,5007935,5.18834,0.0000
 2020-04-07,MS,Sonora,city,1,0,1,False,19274,5007935,5.18834,0.0000
-2020-05-31,MS,São Gabriel do Oeste,city,6,0,23,True,26771,5007695,22.41231,0.0000
+2020-06-01,MS,São Gabriel do Oeste,city,7,0,24,True,26771,5007695,26.14770,0.0000
+2020-05-31,MS,São Gabriel do Oeste,city,6,0,23,False,26771,5007695,22.41231,0.0000
 2020-05-30,MS,São Gabriel do Oeste,city,6,0,22,False,26771,5007695,22.41231,0.0000
 2020-05-29,MS,São Gabriel do Oeste,city,7,0,21,False,26771,5007695,26.14770,0.0000
 2020-05-28,MS,São Gabriel do Oeste,city,6,0,20,False,26771,5007695,22.41231,0.0000
@@ -1616,7 +1664,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-11,MS,São Gabriel do Oeste,city,1,0,3,False,26771,5007695,3.73539,0.0000
 2020-05-10,MS,São Gabriel do Oeste,city,1,0,2,False,26771,5007695,3.73539,0.0000
 2020-05-09,MS,São Gabriel do Oeste,city,1,0,1,False,26771,5007695,3.73539,0.0000
-2020-05-31,MS,Tacuru,city,1,0,19,True,11552,5007950,8.65651,0.0000
+2020-06-01,MS,Tacuru,city,1,0,20,True,11552,5007950,8.65651,0.0000
+2020-05-31,MS,Tacuru,city,1,0,19,False,11552,5007950,8.65651,0.0000
 2020-05-30,MS,Tacuru,city,1,0,18,False,11552,5007950,8.65651,0.0000
 2020-05-29,MS,Tacuru,city,1,0,17,False,11552,5007950,8.65651,0.0000
 2020-05-28,MS,Tacuru,city,1,0,16,False,11552,5007950,8.65651,0.0000
@@ -1635,7 +1684,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,MS,Tacuru,city,1,0,3,False,11552,5007950,8.65651,0.0000
 2020-05-14,MS,Tacuru,city,1,0,2,False,11552,5007950,8.65651,0.0000
 2020-05-13,MS,Tacuru,city,1,0,1,False,11552,5007950,8.65651,0.0000
-2020-05-31,MS,Taquarussu,city,1,0,9,True,3588,5007976,27.87068,0.0000
+2020-06-01,MS,Taquarussu,city,1,0,10,True,3588,5007976,27.87068,0.0000
+2020-05-31,MS,Taquarussu,city,1,0,9,False,3588,5007976,27.87068,0.0000
 2020-05-30,MS,Taquarussu,city,1,0,8,False,3588,5007976,27.87068,0.0000
 2020-05-29,MS,Taquarussu,city,1,0,7,False,3588,5007976,27.87068,0.0000
 2020-05-28,MS,Taquarussu,city,1,0,6,False,3588,5007976,27.87068,0.0000
@@ -1644,7 +1694,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,MS,Taquarussu,city,1,0,3,False,3588,5007976,27.87068,0.0000
 2020-05-24,MS,Taquarussu,city,1,0,2,False,3588,5007976,27.87068,0.0000
 2020-05-23,MS,Taquarussu,city,1,0,1,False,3588,5007976,27.87068,0.0000
-2020-05-31,MS,Três Lagoas,city,146,5,61,True,121388,5008305,120.27548,0.0342
+2020-06-01,MS,Três Lagoas,city,146,5,62,True,121388,5008305,120.27548,0.0342
+2020-05-31,MS,Três Lagoas,city,146,5,61,False,121388,5008305,120.27548,0.0342
 2020-05-30,MS,Três Lagoas,city,144,5,60,False,121388,5008305,118.62787,0.0347
 2020-05-29,MS,Três Lagoas,city,140,5,59,False,121388,5008305,115.33265,0.0357
 2020-05-28,MS,Três Lagoas,city,138,5,58,False,121388,5008305,113.68504,0.0362
@@ -1705,7 +1756,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,MS,Três Lagoas,city,1,0,3,False,121388,5008305,0.82380,0.0000
 2020-04-02,MS,Três Lagoas,city,1,0,2,False,121388,5008305,0.82380,0.0000
 2020-04-01,MS,Três Lagoas,city,1,0,1,False,121388,5008305,0.82380,0.0000
-2020-05-31,MS,Vicentina,city,26,1,20,True,6102,5008404,426.08981,0.0385
+2020-06-01,MS,Vicentina,city,39,1,21,True,6102,5008404,639.13471,0.0256
+2020-05-31,MS,Vicentina,city,26,1,20,False,6102,5008404,426.08981,0.0385
 2020-05-30,MS,Vicentina,city,24,1,19,False,6102,5008404,393.31367,0.0417
 2020-05-29,MS,Vicentina,city,19,1,18,False,6102,5008404,311.37332,0.0526
 2020-05-28,MS,Vicentina,city,19,1,17,False,6102,5008404,311.37332,0.0526
@@ -1725,7 +1777,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,MS,Vicentina,city,1,1,3,False,6102,5008404,16.38807,1.0000
 2020-05-13,MS,Vicentina,city,1,1,2,False,6102,5008404,16.38807,1.0000
 2020-05-12,MS,Vicentina,city,1,1,1,False,6102,5008404,16.38807,1.0000
-2020-05-31,MS,Água Clara,city,2,0,6,True,15522,5000203,12.88494,0.0000
+2020-06-01,MS,Água Clara,city,3,0,7,True,15522,5000203,19.32741,0.0000
+2020-05-31,MS,Água Clara,city,2,0,6,False,15522,5000203,12.88494,0.0000
 2020-05-30,MS,Água Clara,city,2,0,5,False,15522,5000203,12.88494,0.0000
 2020-05-29,MS,Água Clara,city,2,0,4,False,15522,5000203,12.88494,0.0000
 2020-05-28,MS,Água Clara,city,1,0,3,False,15522,5000203,6.44247,0.0000
