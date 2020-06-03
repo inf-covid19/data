@@ -1,6 +1,6 @@
 ## Chile
 
-> Last updated at Jun 02 2020 00:38:48 UTC.
+> Last updated at Jun 03 2020 01:52:43 UTC.
 
 
 | Region | Dataset |
@@ -11,7 +11,7 @@
 | Coquimbo | [`cl-co.csv`](cl-co.csv) |
 | Araucanía | [`cl-ar.csv`](cl-ar.csv) |
 | Valparaíso | [`cl-vs.csv`](cl-vs.csv) |
-| O’Higgins | [`cl-li.csv`](cl-li.csv) |
+| O'Higgins | [`cl-li.csv`](cl-li.csv) |
 | Maule | [`cl-ml.csv`](cl-ml.csv) |
 | Biobío | [`cl-bi.csv`](cl-bi.csv) |
 | Los Lagos | [`cl-ll.csv`](cl-ll.csv) |

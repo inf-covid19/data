@@ -1,11 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 from os import getcwd, path, rename
 
 import datetime
 from helpers import ensure_dirs, ensure_consistency
 
-URL = 'https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/'
+URL = 'https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Chile'
 
 
 def scrape_chile():
@@ -17,13 +18,23 @@ def scrape_chile():
     today = str(datetime.date.today())
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, 'html.parser')
+    not_number_regexp = re.compile(r'\D')
+
+    per_region_table = None
+    tables = soup.find_all('table')
+
+    for table in tables:
+        headers = table.find_all('th')
+        if len(headers) > 0 and 'Resumen de casos y muertes' in headers[0].get_text():
+            per_region_table = table
+            break
     
     updated_files = []
     header = 'date,region,region_iso,province,city,place_type,cases,deaths\n'
-    for tr in soup.table.tbody.find_all('tr')[2:-1]:
+    for tr in per_region_table.find_all('tr')[3:-1]:
         cols = [td.get_text() for td in tr.find_all('td')]
         
-        region = cols[0]
+        region = cols[0].strip()
         iso = REGION_ISO[region]
 
         line = ','.join([
@@ -33,8 +44,8 @@ def scrape_chile():
             '',
             '',
             'region',
-            cols[1].replace('.', ''),
-            cols[5].replace('.', '')
+            not_number_regexp.sub('', cols[4]),
+            not_number_regexp.sub('', cols[6]),
         ])
 
         region_file = path.join(chile_dir, f'{iso.lower()}.csv')
@@ -79,7 +90,7 @@ REGION_ISO = {
     "Coquimbo": "CL-CO",
     "Araucanía": "CL-AR",
     "Valparaíso": "CL-VS",
-    "O’Higgins": "CL-LI",
+    "O'Higgins": "CL-LI",
     "Maule": "CL-ML",
     "Biobío": "CL-BI",
     "Los Lagos": "CL-LL",
