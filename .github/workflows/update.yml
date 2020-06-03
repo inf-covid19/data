@@ -7,7 +7,7 @@ on:
     paths-ignore:
       - 'data/**'
   schedule:
-    - cron: "35 */2 * * *"
+    - cron: "30 * * * *"
 
 jobs:
   scrape_and_update:
