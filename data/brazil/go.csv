@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-06-01,GO,,state,4017,127,82,True,7018354,52,57.23564,0.0316
+2020-06-02,GO,,state,4486,155,83,True,7018354,52,63.91812,0.0346
+2020-06-01,GO,,state,4017,127,82,False,7018354,52,57.23564,0.0316
 2020-05-31,GO,,state,3726,124,81,False,7018354,52,53.08937,0.0333
 2020-05-30,GO,,state,3609,124,80,False,7018354,52,51.42231,0.0344
 2020-05-29,GO,,state,3521,119,79,False,7018354,52,50.16846,0.0338
@@ -81,7 +82,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-14,GO,,state,4,0,3,False,7018354,52,0.05699,0.0000
 2020-03-13,GO,,state,3,0,2,False,7018354,52,0.04275,0.0000
 2020-03-12,GO,,state,3,0,1,False,7018354,52,0.04275,0.0000
-2020-06-01,GO,Abadia de Goiás,city,7,0,12,True,8773,5200050,79.79027,0.0000
+2020-06-02,GO,Abadia de Goiás,city,7,0,13,True,8773,5200050,79.79027,0.0000
+2020-06-01,GO,Abadia de Goiás,city,7,0,12,False,8773,5200050,79.79027,0.0000
 2020-05-31,GO,Abadia de Goiás,city,6,0,11,False,8773,5200050,68.39166,0.0000
 2020-05-30,GO,Abadia de Goiás,city,6,0,10,False,8773,5200050,68.39166,0.0000
 2020-05-29,GO,Abadia de Goiás,city,6,0,9,False,8773,5200050,68.39166,0.0000
@@ -93,12 +95,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,GO,Abadia de Goiás,city,5,0,3,False,8773,5200050,56.99305,0.0000
 2020-05-22,GO,Abadia de Goiás,city,5,0,2,False,8773,5200050,56.99305,0.0000
 2020-05-21,GO,Abadia de Goiás,city,6,0,1,False,8773,5200050,68.39166,0.0000
-2020-06-01,GO,Abadiânia,city,2,0,4,True,20042,5200100,9.97904,0.0000
+2020-06-02,GO,Abadiânia,city,8,0,5,True,20042,5200100,39.91618,0.0000
+2020-06-01,GO,Abadiânia,city,2,0,4,False,20042,5200100,9.97904,0.0000
 2020-05-31,GO,Abadiânia,city,2,0,3,False,20042,5200100,9.97904,0.0000
 2020-05-30,GO,Abadiânia,city,2,0,2,False,20042,5200100,9.97904,0.0000
 2020-05-29,GO,Abadiânia,city,2,0,1,False,20042,5200100,9.97904,0.0000
-2020-06-01,GO,Acreúna,city,2,0,1,True,22366,5200134,8.94214,0.0000
-2020-06-01,GO,Alexânia,city,7,0,26,True,27653,5200308,25.31371,0.0000
+2020-06-02,GO,Acreúna,city,2,0,2,True,22366,5200134,8.94214,0.0000
+2020-06-01,GO,Acreúna,city,2,0,1,False,22366,5200134,8.94214,0.0000
+2020-06-02,GO,Alexânia,city,6,0,27,True,27653,5200308,21.69747,0.0000
+2020-06-01,GO,Alexânia,city,7,0,26,False,27653,5200308,25.31371,0.0000
 2020-05-31,GO,Alexânia,city,4,0,25,False,27653,5200308,14.46498,0.0000
 2020-05-30,GO,Alexânia,city,4,0,24,False,27653,5200308,14.46498,0.0000
 2020-05-29,GO,Alexânia,city,4,0,23,False,27653,5200308,14.46498,0.0000
@@ -124,7 +129,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Alexânia,city,1,0,3,False,27653,5200308,3.61624,0.0000
 2020-05-08,GO,Alexânia,city,1,0,2,False,27653,5200308,3.61624,0.0000
 2020-05-07,GO,Alexânia,city,1,0,1,False,27653,5200308,3.61624,0.0000
-2020-06-01,GO,Aloândia,city,1,0,52,True,1995,5200506,50.12531,0.0000
+2020-06-02,GO,Aloândia,city,1,0,53,True,1995,5200506,50.12531,0.0000
+2020-06-01,GO,Aloândia,city,1,0,52,False,1995,5200506,50.12531,0.0000
 2020-05-31,GO,Aloândia,city,1,0,51,False,1995,5200506,50.12531,0.0000
 2020-05-30,GO,Aloândia,city,1,0,50,False,1995,5200506,50.12531,0.0000
 2020-05-29,GO,Aloândia,city,1,0,49,False,1995,5200506,50.12531,0.0000
@@ -176,7 +182,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,GO,Aloândia,city,1,0,3,False,1995,5200506,50.12531,0.0000
 2020-04-12,GO,Aloândia,city,1,0,2,False,1995,5200506,50.12531,0.0000
 2020-04-11,GO,Aloândia,city,1,0,1,False,1995,5200506,50.12531,0.0000
-2020-06-01,GO,Alto Paraíso de Goiás,city,0,0,25,True,7624,5200605,,0.0000
+2020-06-02,GO,Alto Paraíso de Goiás,city,0,0,26,True,7624,5200605,,0.0000
+2020-06-01,GO,Alto Paraíso de Goiás,city,0,0,25,False,7624,5200605,,0.0000
 2020-05-31,GO,Alto Paraíso de Goiás,city,0,0,24,False,7624,5200605,,0.0000
 2020-05-30,GO,Alto Paraíso de Goiás,city,0,0,23,False,7624,5200605,,0.0000
 2020-05-29,GO,Alto Paraíso de Goiás,city,0,0,22,False,7624,5200605,,0.0000
@@ -201,7 +208,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,GO,Alto Paraíso de Goiás,city,1,0,3,False,7624,5200605,13.11647,0.0000
 2020-05-09,GO,Alto Paraíso de Goiás,city,1,0,2,False,7624,5200605,13.11647,0.0000
 2020-05-08,GO,Alto Paraíso de Goiás,city,1,0,1,False,7624,5200605,13.11647,0.0000
-2020-06-01,GO,Amaralina,city,2,0,11,True,3812,5200829,52.46590,0.0000
+2020-06-02,GO,Amaralina,city,2,0,12,True,3812,5200829,52.46590,0.0000
+2020-06-01,GO,Amaralina,city,2,0,11,False,3812,5200829,52.46590,0.0000
 2020-05-31,GO,Amaralina,city,2,0,10,False,3812,5200829,52.46590,0.0000
 2020-05-30,GO,Amaralina,city,2,0,9,False,3812,5200829,52.46590,0.0000
 2020-05-29,GO,Amaralina,city,2,0,8,False,3812,5200829,52.46590,0.0000
@@ -212,7 +220,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,GO,Amaralina,city,2,0,3,False,3812,5200829,52.46590,0.0000
 2020-05-23,GO,Amaralina,city,2,0,2,False,3812,5200829,52.46590,0.0000
 2020-05-22,GO,Amaralina,city,2,0,1,False,3812,5200829,52.46590,0.0000
-2020-06-01,GO,Amorinópolis,city,2,0,11,True,3126,5200902,63.97953,0.0000
+2020-06-02,GO,Amorinópolis,city,2,0,12,True,3126,5200902,63.97953,0.0000
+2020-06-01,GO,Amorinópolis,city,2,0,11,False,3126,5200902,63.97953,0.0000
 2020-05-31,GO,Amorinópolis,city,2,0,10,False,3126,5200902,63.97953,0.0000
 2020-05-30,GO,Amorinópolis,city,2,0,9,False,3126,5200902,63.97953,0.0000
 2020-05-29,GO,Amorinópolis,city,2,0,8,False,3126,5200902,63.97953,0.0000
@@ -223,7 +232,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,GO,Amorinópolis,city,2,0,3,False,3126,5200902,63.97953,0.0000
 2020-05-23,GO,Amorinópolis,city,2,0,2,False,3126,5200902,63.97953,0.0000
 2020-05-22,GO,Amorinópolis,city,2,0,1,False,3126,5200902,63.97953,0.0000
-2020-06-01,GO,Anhanguera,city,1,0,54,True,1149,5201207,87.03220,0.0000
+2020-06-02,GO,Anhanguera,city,1,0,55,True,1149,5201207,87.03220,0.0000
+2020-06-01,GO,Anhanguera,city,1,0,54,False,1149,5201207,87.03220,0.0000
 2020-05-31,GO,Anhanguera,city,1,0,53,False,1149,5201207,87.03220,0.0000
 2020-05-30,GO,Anhanguera,city,1,0,52,False,1149,5201207,87.03220,0.0000
 2020-05-29,GO,Anhanguera,city,1,0,51,False,1149,5201207,87.03220,0.0000
@@ -277,7 +287,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-11,GO,Anhanguera,city,1,0,3,False,1149,5201207,87.03220,0.0000
 2020-04-10,GO,Anhanguera,city,1,0,2,False,1149,5201207,87.03220,0.0000
 2020-04-09,GO,Anhanguera,city,1,0,1,False,1149,5201207,87.03220,0.0000
-2020-06-01,GO,Anicuns,city,0,0,26,True,21850,5201306,,0.0000
+2020-06-02,GO,Anicuns,city,3,0,27,True,21850,5201306,13.72998,0.0000
+2020-06-01,GO,Anicuns,city,0,0,26,False,21850,5201306,,0.0000
 2020-05-31,GO,Anicuns,city,0,0,25,False,21850,5201306,,0.0000
 2020-05-30,GO,Anicuns,city,0,0,24,False,21850,5201306,,0.0000
 2020-05-29,GO,Anicuns,city,0,0,23,False,21850,5201306,,0.0000
@@ -303,7 +314,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Anicuns,city,0,0,3,False,21850,5201306,,0.0000
 2020-05-08,GO,Anicuns,city,0,0,2,False,21850,5201306,,0.0000
 2020-05-07,GO,Anicuns,city,1,0,1,False,21850,5201306,4.57666,0.0000
-2020-06-01,GO,Anápolis,city,158,2,77,True,386923,5201108,40.83500,0.0127
+2020-06-02,GO,Anápolis,city,168,2,78,True,386923,5201108,43.41949,0.0119
+2020-06-01,GO,Anápolis,city,158,2,77,False,386923,5201108,40.83500,0.0127
 2020-05-31,GO,Anápolis,city,151,2,76,False,386923,5201108,39.02585,0.0132
 2020-05-30,GO,Anápolis,city,150,2,75,False,386923,5201108,38.76740,0.0133
 2020-05-29,GO,Anápolis,city,149,2,74,False,386923,5201108,38.50895,0.0134
@@ -380,7 +392,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,GO,Anápolis,city,2,0,3,False,386923,5201108,0.51690,0.0000
 2020-03-17,GO,Anápolis,city,2,0,2,False,386923,5201108,0.51690,0.0000
 2020-03-16,GO,Anápolis,city,2,0,1,False,386923,5201108,0.51690,0.0000
-2020-06-01,GO,Aparecida de Goiânia,city,452,11,75,True,578179,5201405,78.17648,0.0243
+2020-06-02,GO,Aparecida de Goiânia,city,507,13,76,True,578179,5201405,87.68911,0.0256
+2020-06-01,GO,Aparecida de Goiânia,city,452,11,75,False,578179,5201405,78.17648,0.0243
 2020-05-31,GO,Aparecida de Goiânia,city,403,10,74,False,578179,5201405,69.70160,0.0248
 2020-05-30,GO,Aparecida de Goiânia,city,400,10,73,False,578179,5201405,69.18273,0.0250
 2020-05-29,GO,Aparecida de Goiânia,city,401,10,72,False,578179,5201405,69.35568,0.0249
@@ -455,7 +468,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,GO,Aparecida de Goiânia,city,2,0,3,False,578179,5201405,0.34591,0.0000
 2020-03-19,GO,Aparecida de Goiânia,city,1,0,2,False,578179,5201405,0.17296,0.0000
 2020-03-18,GO,Aparecida de Goiânia,city,1,0,1,False,578179,5201405,0.17296,0.0000
-2020-06-01,GO,Aparecida do Rio Doce,city,1,0,17,True,2474,5201454,40.42037,0.0000
+2020-06-02,GO,Aparecida do Rio Doce,city,1,0,18,True,2474,5201454,40.42037,0.0000
+2020-06-01,GO,Aparecida do Rio Doce,city,1,0,17,False,2474,5201454,40.42037,0.0000
 2020-05-31,GO,Aparecida do Rio Doce,city,1,0,16,False,2474,5201454,40.42037,0.0000
 2020-05-30,GO,Aparecida do Rio Doce,city,1,0,15,False,2474,5201454,40.42037,0.0000
 2020-05-29,GO,Aparecida do Rio Doce,city,1,0,14,False,2474,5201454,40.42037,0.0000
@@ -472,7 +486,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-18,GO,Aparecida do Rio Doce,city,1,1,3,False,2474,5201454,40.42037,1.0000
 2020-05-17,GO,Aparecida do Rio Doce,city,1,1,2,False,2474,5201454,40.42037,1.0000
 2020-05-16,GO,Aparecida do Rio Doce,city,1,1,1,False,2474,5201454,40.42037,1.0000
-2020-06-01,GO,Aporé,city,0,0,19,True,4198,5201504,,0.0000
+2020-06-02,GO,Aporé,city,0,0,20,True,4198,5201504,,0.0000
+2020-06-01,GO,Aporé,city,0,0,19,False,4198,5201504,,0.0000
 2020-05-31,GO,Aporé,city,0,0,18,False,4198,5201504,,0.0000
 2020-05-30,GO,Aporé,city,0,0,17,False,4198,5201504,,0.0000
 2020-05-29,GO,Aporé,city,0,0,16,False,4198,5201504,,0.0000
@@ -491,7 +506,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,GO,Aporé,city,0,0,3,False,4198,5201504,,0.0000
 2020-05-15,GO,Aporé,city,0,0,2,False,4198,5201504,,0.0000
 2020-05-14,GO,Aporé,city,1,0,1,False,4198,5201504,23.82087,0.0000
-2020-06-01,GO,Aragarças,city,12,0,22,True,20118,5201702,59.64808,0.0000
+2020-06-02,GO,Aragarças,city,12,0,23,True,20118,5201702,59.64808,0.0000
+2020-06-01,GO,Aragarças,city,12,0,22,False,20118,5201702,59.64808,0.0000
 2020-05-31,GO,Aragarças,city,12,0,21,False,20118,5201702,59.64808,0.0000
 2020-05-30,GO,Aragarças,city,12,0,20,False,20118,5201702,59.64808,0.0000
 2020-05-29,GO,Aragarças,city,63,0,19,False,20118,5201702,313.15240,0.0000
@@ -513,7 +529,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,GO,Aragarças,city,1,0,3,False,20118,5201702,4.97067,0.0000
 2020-05-12,GO,Aragarças,city,1,0,2,False,20118,5201702,4.97067,0.0000
 2020-05-11,GO,Aragarças,city,1,0,1,False,20118,5201702,4.97067,0.0000
-2020-06-01,GO,Aragoiânia,city,2,0,48,True,10308,5201801,19.40241,0.0000
+2020-06-02,GO,Aragoiânia,city,4,0,49,True,10308,5201801,38.80481,0.0000
+2020-06-01,GO,Aragoiânia,city,2,0,48,False,10308,5201801,19.40241,0.0000
 2020-05-31,GO,Aragoiânia,city,2,0,47,False,10308,5201801,19.40241,0.0000
 2020-05-30,GO,Aragoiânia,city,2,0,46,False,10308,5201801,19.40241,0.0000
 2020-05-29,GO,Aragoiânia,city,2,0,45,False,10308,5201801,19.40241,0.0000
@@ -561,7 +578,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,GO,Aragoiânia,city,1,0,3,False,10308,5201801,9.70120,0.0000
 2020-04-16,GO,Aragoiânia,city,1,0,2,False,10308,5201801,9.70120,0.0000
 2020-04-15,GO,Aragoiânia,city,1,0,1,False,10308,5201801,9.70120,0.0000
-2020-06-01,GO,Araguapaz,city,1,1,11,True,7770,5202155,12.87001,1.0000
+2020-06-02,GO,Araguapaz,city,1,1,12,True,7770,5202155,12.87001,1.0000
+2020-06-01,GO,Araguapaz,city,1,1,11,False,7770,5202155,12.87001,1.0000
 2020-05-31,GO,Araguapaz,city,1,1,10,False,7770,5202155,12.87001,1.0000
 2020-05-30,GO,Araguapaz,city,1,1,9,False,7770,5202155,12.87001,1.0000
 2020-05-29,GO,Araguapaz,city,1,1,8,False,7770,5202155,12.87001,1.0000
@@ -572,7 +590,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,GO,Araguapaz,city,2,1,3,False,7770,5202155,25.74003,0.5000
 2020-05-23,GO,Araguapaz,city,2,1,2,False,7770,5202155,25.74003,0.5000
 2020-05-22,GO,Araguapaz,city,2,1,1,False,7770,5202155,25.74003,0.5000
-2020-06-01,GO,Araçu,city,0,0,13,True,3522,5201603,,0.0000
+2020-06-02,GO,Araçu,city,0,0,14,True,3522,5201603,,0.0000
+2020-06-01,GO,Araçu,city,0,0,13,False,3522,5201603,,0.0000
 2020-05-31,GO,Araçu,city,0,0,12,False,3522,5201603,,0.0000
 2020-05-30,GO,Araçu,city,0,0,11,False,3522,5201603,,0.0000
 2020-05-29,GO,Araçu,city,0,0,10,False,3522,5201603,,0.0000
@@ -585,7 +604,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,GO,Araçu,city,0,0,3,False,3522,5201603,,0.0000
 2020-05-21,GO,Araçu,city,0,0,2,False,3522,5201603,,0.0000
 2020-05-20,GO,Araçu,city,1,0,1,False,3522,5201603,28.39296,0.0000
-2020-06-01,GO,Aurilândia,city,0,0,11,True,3120,5202601,,0.0000
+2020-06-02,GO,Aurilândia,city,0,0,12,True,3120,5202601,,0.0000
+2020-06-01,GO,Aurilândia,city,0,0,11,False,3120,5202601,,0.0000
 2020-05-31,GO,Aurilândia,city,0,0,10,False,3120,5202601,,0.0000
 2020-05-30,GO,Aurilândia,city,0,0,9,False,3120,5202601,,0.0000
 2020-05-29,GO,Aurilândia,city,0,0,8,False,3120,5202601,,0.0000
@@ -596,7 +616,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,GO,Aurilândia,city,1,1,3,False,3120,5202601,32.05128,1.0000
 2020-05-23,GO,Aurilândia,city,1,1,2,False,3120,5202601,32.05128,1.0000
 2020-05-22,GO,Aurilândia,city,1,1,1,False,3120,5202601,32.05128,1.0000
-2020-06-01,GO,Avelinópolis,city,1,0,37,True,2417,5202809,41.37360,0.0000
+2020-06-02,GO,Avelinópolis,city,1,0,38,True,2417,5202809,41.37360,0.0000
+2020-06-01,GO,Avelinópolis,city,1,0,37,False,2417,5202809,41.37360,0.0000
 2020-05-31,GO,Avelinópolis,city,1,0,36,False,2417,5202809,41.37360,0.0000
 2020-05-30,GO,Avelinópolis,city,1,0,35,False,2417,5202809,41.37360,0.0000
 2020-05-29,GO,Avelinópolis,city,1,0,34,False,2417,5202809,41.37360,0.0000
@@ -633,7 +654,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,GO,Avelinópolis,city,1,0,3,False,2417,5202809,41.37360,0.0000
 2020-04-27,GO,Avelinópolis,city,1,0,2,False,2417,5202809,41.37360,0.0000
 2020-04-26,GO,Avelinópolis,city,1,0,1,False,2417,5202809,41.37360,0.0000
-2020-06-01,GO,Barro Alto,city,8,1,40,True,11167,5203203,71.63965,0.1250
+2020-06-02,GO,Barro Alto,city,8,1,41,True,11167,5203203,71.63965,0.1250
+2020-06-01,GO,Barro Alto,city,8,1,40,False,11167,5203203,71.63965,0.1250
 2020-05-31,GO,Barro Alto,city,7,1,39,False,11167,5203203,62.68470,0.1429
 2020-05-30,GO,Barro Alto,city,7,1,38,False,11167,5203203,62.68470,0.1429
 2020-05-29,GO,Barro Alto,city,7,1,37,False,11167,5203203,62.68470,0.1429
@@ -673,7 +695,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,GO,Barro Alto,city,1,0,3,False,11167,5203203,8.95496,0.0000
 2020-04-24,GO,Barro Alto,city,1,0,2,False,11167,5203203,8.95496,0.0000
 2020-04-23,GO,Barro Alto,city,1,0,1,False,11167,5203203,8.95496,0.0000
-2020-06-01,GO,Bela Vista de Goiás,city,29,1,55,True,29975,5203302,96.74729,0.0345
+2020-06-02,GO,Bela Vista de Goiás,city,29,1,56,True,29975,5203302,96.74729,0.0345
+2020-06-01,GO,Bela Vista de Goiás,city,29,1,55,False,29975,5203302,96.74729,0.0345
 2020-05-31,GO,Bela Vista de Goiás,city,28,1,54,False,29975,5203302,93.41118,0.0357
 2020-05-30,GO,Bela Vista de Goiás,city,28,1,53,False,29975,5203302,93.41118,0.0357
 2020-05-29,GO,Bela Vista de Goiás,city,28,1,52,False,29975,5203302,93.41118,0.0357
@@ -728,7 +751,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,GO,Bela Vista de Goiás,city,1,0,3,False,29975,5203302,3.33611,0.0000
 2020-04-09,GO,Bela Vista de Goiás,city,1,0,2,False,29975,5203302,3.33611,0.0000
 2020-04-08,GO,Bela Vista de Goiás,city,1,0,1,False,29975,5203302,3.33611,0.0000
-2020-06-01,GO,Bom Jardim de Goiás,city,1,0,20,True,8841,5203401,11.31094,0.0000
+2020-06-02,GO,Bom Jardim de Goiás,city,1,0,21,True,8841,5203401,11.31094,0.0000
+2020-06-01,GO,Bom Jardim de Goiás,city,1,0,20,False,8841,5203401,11.31094,0.0000
 2020-05-31,GO,Bom Jardim de Goiás,city,1,0,19,False,8841,5203401,11.31094,0.0000
 2020-05-30,GO,Bom Jardim de Goiás,city,1,0,18,False,8841,5203401,11.31094,0.0000
 2020-05-29,GO,Bom Jardim de Goiás,city,1,0,17,False,8841,5203401,11.31094,0.0000
@@ -748,7 +772,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,GO,Bom Jardim de Goiás,city,0,0,3,False,8841,5203401,,0.0000
 2020-05-14,GO,Bom Jardim de Goiás,city,0,0,2,False,8841,5203401,,0.0000
 2020-05-13,GO,Bom Jardim de Goiás,city,1,0,1,False,8841,5203401,11.31094,0.0000
-2020-06-01,GO,Bom Jesus de Goiás,city,4,0,60,True,25216,5203500,15.86294,0.0000
+2020-06-02,GO,Bom Jesus de Goiás,city,4,0,61,True,25216,5203500,15.86294,0.0000
+2020-06-01,GO,Bom Jesus de Goiás,city,4,0,60,False,25216,5203500,15.86294,0.0000
 2020-05-31,GO,Bom Jesus de Goiás,city,4,0,59,False,25216,5203500,15.86294,0.0000
 2020-05-30,GO,Bom Jesus de Goiás,city,4,0,58,False,25216,5203500,15.86294,0.0000
 2020-05-29,GO,Bom Jesus de Goiás,city,4,0,57,False,25216,5203500,15.86294,0.0000
@@ -808,7 +833,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,GO,Bom Jesus de Goiás,city,1,0,3,False,25216,5203500,3.96574,0.0000
 2020-04-04,GO,Bom Jesus de Goiás,city,1,0,2,False,25216,5203500,3.96574,0.0000
 2020-04-03,GO,Bom Jesus de Goiás,city,1,0,1,False,25216,5203500,3.96574,0.0000
-2020-06-01,GO,Bonfinópolis,city,2,0,11,True,9706,5203559,20.60581,0.0000
+2020-06-02,GO,Bonfinópolis,city,2,0,12,True,9706,5203559,20.60581,0.0000
+2020-06-01,GO,Bonfinópolis,city,2,0,11,False,9706,5203559,20.60581,0.0000
 2020-05-31,GO,Bonfinópolis,city,2,0,10,False,9706,5203559,20.60581,0.0000
 2020-05-30,GO,Bonfinópolis,city,2,0,9,False,9706,5203559,20.60581,0.0000
 2020-05-29,GO,Bonfinópolis,city,2,0,8,False,9706,5203559,20.60581,0.0000
@@ -819,7 +845,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,GO,Bonfinópolis,city,2,0,3,False,9706,5203559,20.60581,0.0000
 2020-05-23,GO,Bonfinópolis,city,2,0,2,False,9706,5203559,20.60581,0.0000
 2020-05-22,GO,Bonfinópolis,city,2,0,1,False,9706,5203559,20.60581,0.0000
-2020-06-01,GO,Brazabrantes,city,0,0,9,True,3703,5203609,,0.0000
+2020-06-02,GO,Brazabrantes,city,0,0,10,True,3703,5203609,,0.0000
+2020-06-01,GO,Brazabrantes,city,0,0,9,False,3703,5203609,,0.0000
 2020-05-31,GO,Brazabrantes,city,0,0,8,False,3703,5203609,,0.0000
 2020-05-30,GO,Brazabrantes,city,0,0,7,False,3703,5203609,,0.0000
 2020-05-29,GO,Brazabrantes,city,0,0,6,False,3703,5203609,,0.0000
@@ -828,7 +855,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-26,GO,Brazabrantes,city,1,0,3,False,3703,5203609,27.00513,0.0000
 2020-05-25,GO,Brazabrantes,city,0,0,2,False,3703,5203609,,0.0000
 2020-05-24,GO,Brazabrantes,city,1,0,1,False,3703,5203609,27.00513,0.0000
-2020-06-01,GO,Britânia,city,2,0,26,True,5779,5203807,34.60806,0.0000
+2020-06-02,GO,Britânia,city,2,0,27,True,5779,5203807,34.60806,0.0000
+2020-06-01,GO,Britânia,city,2,0,26,False,5779,5203807,34.60806,0.0000
 2020-05-31,GO,Britânia,city,2,0,25,False,5779,5203807,34.60806,0.0000
 2020-05-30,GO,Britânia,city,2,0,24,False,5779,5203807,34.60806,0.0000
 2020-05-29,GO,Britânia,city,2,0,23,False,5779,5203807,34.60806,0.0000
@@ -854,16 +882,19 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Britânia,city,2,0,3,False,5779,5203807,34.60806,0.0000
 2020-05-08,GO,Britânia,city,2,0,2,False,5779,5203807,34.60806,0.0000
 2020-05-07,GO,Britânia,city,1,0,1,False,5779,5203807,17.30403,0.0000
-2020-06-01,GO,Cabeceiras,city,1,1,7,True,7993,5204003,12.51095,1.0000
+2020-06-02,GO,Cabeceiras,city,1,1,8,True,7993,5204003,12.51095,1.0000
+2020-06-01,GO,Cabeceiras,city,1,1,7,False,7993,5204003,12.51095,1.0000
 2020-05-31,GO,Cabeceiras,city,1,1,6,False,7993,5204003,12.51095,1.0000
 2020-05-30,GO,Cabeceiras,city,1,1,5,False,7993,5204003,12.51095,1.0000
 2020-05-29,GO,Cabeceiras,city,1,1,4,False,7993,5204003,12.51095,1.0000
 2020-05-28,GO,Cabeceiras,city,1,1,3,False,7993,5204003,12.51095,1.0000
 2020-05-27,GO,Cabeceiras,city,1,1,2,False,7993,5204003,12.51095,1.0000
 2020-05-26,GO,Cabeceiras,city,1,0,1,False,7993,5204003,12.51095,0.0000
-2020-06-01,GO,Cachoeira Alta,city,1,0,2,True,12484,5204102,8.01025,0.0000
+2020-06-02,GO,Cachoeira Alta,city,1,0,3,True,12484,5204102,8.01025,0.0000
+2020-06-01,GO,Cachoeira Alta,city,1,0,2,False,12484,5204102,8.01025,0.0000
 2020-05-31,GO,Cachoeira Alta,city,1,0,1,False,12484,5204102,8.01025,0.0000
-2020-06-01,GO,Cachoeira Dourada,city,2,0,8,True,8067,5204250,24.79236,0.0000
+2020-06-02,GO,Cachoeira Dourada,city,3,0,9,True,8067,5204250,37.18855,0.0000
+2020-06-01,GO,Cachoeira Dourada,city,2,0,8,False,8067,5204250,24.79236,0.0000
 2020-05-31,GO,Cachoeira Dourada,city,2,0,7,False,8067,5204250,24.79236,0.0000
 2020-05-30,GO,Cachoeira Dourada,city,2,0,6,False,8067,5204250,24.79236,0.0000
 2020-05-29,GO,Cachoeira Dourada,city,2,0,5,False,8067,5204250,24.79236,0.0000
@@ -871,11 +902,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-27,GO,Cachoeira Dourada,city,2,0,3,False,8067,5204250,24.79236,0.0000
 2020-05-26,GO,Cachoeira Dourada,city,2,0,2,False,8067,5204250,24.79236,0.0000
 2020-05-25,GO,Cachoeira Dourada,city,1,0,1,False,8067,5204250,12.39618,0.0000
-2020-06-01,GO,Caiapônia,city,1,0,4,True,18913,5204409,5.28737,0.0000
+2020-06-02,GO,Caiapônia,city,1,0,5,True,18913,5204409,5.28737,0.0000
+2020-06-01,GO,Caiapônia,city,1,0,4,False,18913,5204409,5.28737,0.0000
 2020-05-31,GO,Caiapônia,city,1,0,3,False,18913,5204409,5.28737,0.0000
 2020-05-30,GO,Caiapônia,city,1,0,2,False,18913,5204409,5.28737,0.0000
 2020-05-29,GO,Caiapônia,city,1,0,1,False,18913,5204409,5.28737,0.0000
-2020-06-01,GO,Caldas Novas,city,13,1,62,True,91162,5204508,14.26033,0.0769
+2020-06-02,GO,Caldas Novas,city,20,2,63,True,91162,5204508,21.93897,0.1000
+2020-06-01,GO,Caldas Novas,city,13,1,62,False,91162,5204508,14.26033,0.0769
 2020-05-31,GO,Caldas Novas,city,12,1,61,False,91162,5204508,13.16338,0.0833
 2020-05-30,GO,Caldas Novas,city,12,1,60,False,91162,5204508,13.16338,0.0833
 2020-05-29,GO,Caldas Novas,city,12,1,59,False,91162,5204508,13.16338,0.0833
@@ -937,7 +970,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,GO,Caldas Novas,city,0,0,3,False,91162,5204508,,0.0000
 2020-04-02,GO,Caldas Novas,city,0,0,2,False,91162,5204508,,0.0000
 2020-04-01,GO,Caldas Novas,city,1,0,1,False,91162,5204508,1.09695,0.0000
-2020-06-01,GO,Caldazinha,city,0,0,19,True,3804,5204557,,0.0000
+2020-06-02,GO,Caldazinha,city,0,0,20,True,3804,5204557,,0.0000
+2020-06-01,GO,Caldazinha,city,0,0,19,False,3804,5204557,,0.0000
 2020-05-31,GO,Caldazinha,city,0,0,18,False,3804,5204557,,0.0000
 2020-05-30,GO,Caldazinha,city,0,0,17,False,3804,5204557,,0.0000
 2020-05-29,GO,Caldazinha,city,0,0,16,False,3804,5204557,,0.0000
@@ -956,7 +990,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,GO,Caldazinha,city,0,0,3,False,3804,5204557,,0.0000
 2020-05-15,GO,Caldazinha,city,0,0,2,False,3804,5204557,,0.0000
 2020-05-14,GO,Caldazinha,city,1,0,1,False,3804,5204557,26.28812,0.0000
-2020-06-01,GO,Campestre de Goiás,city,1,0,62,True,3630,5204607,27.54821,0.0000
+2020-06-02,GO,Campestre de Goiás,city,1,0,63,True,3630,5204607,27.54821,0.0000
+2020-06-01,GO,Campestre de Goiás,city,1,0,62,False,3630,5204607,27.54821,0.0000
 2020-05-31,GO,Campestre de Goiás,city,1,0,61,False,3630,5204607,27.54821,0.0000
 2020-05-30,GO,Campestre de Goiás,city,1,0,60,False,3630,5204607,27.54821,0.0000
 2020-05-29,GO,Campestre de Goiás,city,1,0,59,False,3630,5204607,27.54821,0.0000
@@ -1018,7 +1053,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,GO,Campestre de Goiás,city,1,0,3,False,3630,5204607,27.54821,0.0000
 2020-04-02,GO,Campestre de Goiás,city,1,0,2,False,3630,5204607,27.54821,0.0000
 2020-04-01,GO,Campestre de Goiás,city,1,0,1,False,3630,5204607,27.54821,0.0000
-2020-06-01,GO,Campinorte,city,3,0,39,True,12626,5204706,23.76049,0.0000
+2020-06-02,GO,Campinorte,city,3,0,40,True,12626,5204706,23.76049,0.0000
+2020-06-01,GO,Campinorte,city,3,0,39,False,12626,5204706,23.76049,0.0000
 2020-05-31,GO,Campinorte,city,3,0,38,False,12626,5204706,23.76049,0.0000
 2020-05-30,GO,Campinorte,city,3,0,37,False,12626,5204706,23.76049,0.0000
 2020-05-29,GO,Campinorte,city,3,0,36,False,12626,5204706,23.76049,0.0000
@@ -1057,7 +1093,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,GO,Campinorte,city,1,0,3,False,12626,5204706,7.92016,0.0000
 2020-04-25,GO,Campinorte,city,1,0,2,False,12626,5204706,7.92016,0.0000
 2020-04-24,GO,Campinorte,city,1,0,1,False,12626,5204706,7.92016,0.0000
-2020-06-01,GO,Campo Alegre de Goiás,city,2,0,22,True,7589,5204805,26.35393,0.0000
+2020-06-02,GO,Campo Alegre de Goiás,city,3,0,23,True,7589,5204805,39.53090,0.0000
+2020-06-01,GO,Campo Alegre de Goiás,city,2,0,22,False,7589,5204805,26.35393,0.0000
 2020-05-31,GO,Campo Alegre de Goiás,city,2,0,21,False,7589,5204805,26.35393,0.0000
 2020-05-30,GO,Campo Alegre de Goiás,city,2,0,20,False,7589,5204805,26.35393,0.0000
 2020-05-29,GO,Campo Alegre de Goiás,city,2,0,19,False,7589,5204805,26.35393,0.0000
@@ -1079,7 +1116,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,GO,Campo Alegre de Goiás,city,1,0,3,False,7589,5204805,13.17697,0.0000
 2020-05-12,GO,Campo Alegre de Goiás,city,1,0,2,False,7589,5204805,13.17697,0.0000
 2020-05-11,GO,Campo Alegre de Goiás,city,1,0,1,False,7589,5204805,13.17697,0.0000
-2020-06-01,GO,Campos Belos,city,16,1,28,True,19887,5204904,80.45457,0.0625
+2020-06-02,GO,Campos Belos,city,16,1,29,True,19887,5204904,80.45457,0.0625
+2020-06-01,GO,Campos Belos,city,16,1,28,False,19887,5204904,80.45457,0.0625
 2020-05-31,GO,Campos Belos,city,17,1,27,False,19887,5204904,85.48298,0.0588
 2020-05-30,GO,Campos Belos,city,17,1,26,False,19887,5204904,85.48298,0.0588
 2020-05-29,GO,Campos Belos,city,17,1,25,False,19887,5204904,85.48298,0.0588
@@ -1107,7 +1145,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,GO,Campos Belos,city,7,1,3,False,19887,5204904,35.19887,0.1429
 2020-05-06,GO,Campos Belos,city,1,1,2,False,19887,5204904,5.02841,1.0000
 2020-05-05,GO,Campos Belos,city,1,1,1,False,19887,5204904,5.02841,1.0000
-2020-06-01,GO,Carmo do Rio Verde,city,3,0,46,True,10082,5205000,29.75600,0.0000
+2020-06-02,GO,Carmo do Rio Verde,city,3,0,47,True,10082,5205000,29.75600,0.0000
+2020-06-01,GO,Carmo do Rio Verde,city,3,0,46,False,10082,5205000,29.75600,0.0000
 2020-05-31,GO,Carmo do Rio Verde,city,3,0,45,False,10082,5205000,29.75600,0.0000
 2020-05-30,GO,Carmo do Rio Verde,city,3,0,44,False,10082,5205000,29.75600,0.0000
 2020-05-29,GO,Carmo do Rio Verde,city,3,0,43,False,10082,5205000,29.75600,0.0000
@@ -1153,7 +1192,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,GO,Carmo do Rio Verde,city,1,0,3,False,10082,5205000,9.91867,0.0000
 2020-04-18,GO,Carmo do Rio Verde,city,1,0,2,False,10082,5205000,9.91867,0.0000
 2020-04-17,GO,Carmo do Rio Verde,city,1,0,1,False,10082,5205000,9.91867,0.0000
-2020-06-01,GO,Catalão,city,23,0,72,True,108823,5205109,21.13524,0.0000
+2020-06-02,GO,Castelândia,city,3,0,1,True,3435,5205059,87.33624,0.0000
+2020-06-02,GO,Catalão,city,23,0,73,True,108823,5205109,21.13524,0.0000
+2020-06-01,GO,Catalão,city,23,0,72,False,108823,5205109,21.13524,0.0000
 2020-05-31,GO,Catalão,city,22,0,71,False,108823,5205109,20.21631,0.0000
 2020-05-30,GO,Catalão,city,22,0,70,False,108823,5205109,20.21631,0.0000
 2020-05-29,GO,Catalão,city,19,0,69,False,108823,5205109,17.45954,0.0000
@@ -1225,7 +1266,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,GO,Catalão,city,1,0,3,False,108823,5205109,0.91892,0.0000
 2020-03-23,GO,Catalão,city,1,0,2,False,108823,5205109,0.91892,0.0000
 2020-03-22,GO,Catalão,city,1,0,1,False,108823,5205109,0.91892,0.0000
-2020-06-01,GO,Caturaí,city,1,0,26,True,5070,5205208,19.72387,0.0000
+2020-06-02,GO,Caturaí,city,1,0,27,True,5070,5205208,19.72387,0.0000
+2020-06-01,GO,Caturaí,city,1,0,26,False,5070,5205208,19.72387,0.0000
 2020-05-31,GO,Caturaí,city,1,0,25,False,5070,5205208,19.72387,0.0000
 2020-05-30,GO,Caturaí,city,1,0,24,False,5070,5205208,19.72387,0.0000
 2020-05-29,GO,Caturaí,city,1,0,23,False,5070,5205208,19.72387,0.0000
@@ -1251,8 +1293,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Caturaí,city,1,0,3,False,5070,5205208,19.72387,0.0000
 2020-05-08,GO,Caturaí,city,1,0,2,False,5070,5205208,19.72387,0.0000
 2020-05-07,GO,Caturaí,city,1,0,1,False,5070,5205208,19.72387,0.0000
-2020-06-01,GO,Cavalcante,city,1,0,1,True,9709,5205307,10.29972,0.0000
-2020-06-01,GO,Caçu,city,30,0,20,True,16009,5204300,187.39459,0.0000
+2020-06-02,GO,Cavalcante,city,1,0,2,True,9709,5205307,10.29972,0.0000
+2020-06-01,GO,Cavalcante,city,1,0,1,False,9709,5205307,10.29972,0.0000
+2020-06-02,GO,Caçu,city,22,0,21,True,16009,5204300,137.42270,0.0000
+2020-06-01,GO,Caçu,city,30,0,20,False,16009,5204300,187.39459,0.0000
 2020-05-31,GO,Caçu,city,8,0,19,False,16009,5204300,49.97189,0.0000
 2020-05-30,GO,Caçu,city,8,0,18,False,16009,5204300,49.97189,0.0000
 2020-05-29,GO,Caçu,city,12,0,17,False,16009,5204300,74.95784,0.0000
@@ -1272,7 +1316,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,GO,Caçu,city,7,0,3,False,16009,5204300,43.72540,0.0000
 2020-05-14,GO,Caçu,city,7,0,2,False,16009,5204300,43.72540,0.0000
 2020-05-13,GO,Caçu,city,6,0,1,False,16009,5204300,37.47892,0.0000
-2020-06-01,GO,Ceres,city,4,0,46,True,22191,5205406,18.02533,0.0000
+2020-06-02,GO,Ceres,city,4,0,47,True,22191,5205406,18.02533,0.0000
+2020-06-01,GO,Ceres,city,4,0,46,False,22191,5205406,18.02533,0.0000
 2020-05-31,GO,Ceres,city,3,0,45,False,22191,5205406,13.51899,0.0000
 2020-05-30,GO,Ceres,city,3,0,44,False,22191,5205406,13.51899,0.0000
 2020-05-29,GO,Ceres,city,3,0,43,False,22191,5205406,13.51899,0.0000
@@ -1318,7 +1363,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,GO,Ceres,city,2,0,3,False,22191,5205406,9.01266,0.0000
 2020-04-18,GO,Ceres,city,2,0,2,False,22191,5205406,9.01266,0.0000
 2020-04-17,GO,Ceres,city,1,0,1,False,22191,5205406,4.50633,0.0000
-2020-06-01,GO,Chapadão do Céu,city,11,0,19,True,10167,5205471,108.19317,0.0000
+2020-06-02,GO,Chapadão do Céu,city,11,0,20,True,10167,5205471,108.19317,0.0000
+2020-06-01,GO,Chapadão do Céu,city,11,0,19,False,10167,5205471,108.19317,0.0000
 2020-05-31,GO,Chapadão do Céu,city,11,0,18,False,10167,5205471,108.19317,0.0000
 2020-05-30,GO,Chapadão do Céu,city,11,0,17,False,10167,5205471,108.19317,0.0000
 2020-05-29,GO,Chapadão do Céu,city,11,0,16,False,10167,5205471,108.19317,0.0000
@@ -1337,7 +1383,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,GO,Chapadão do Céu,city,3,0,3,False,10167,5205471,29.50723,0.0000
 2020-05-15,GO,Chapadão do Céu,city,3,0,2,False,10167,5205471,29.50723,0.0000
 2020-05-14,GO,Chapadão do Céu,city,1,0,1,False,10167,5205471,9.83574,0.0000
-2020-06-01,GO,Cidade Ocidental,city,24,0,62,True,71376,5205497,33.62475,0.0000
+2020-06-02,GO,Cidade Ocidental,city,38,1,63,True,71376,5205497,53.23918,0.0263
+2020-06-01,GO,Cidade Ocidental,city,24,0,62,False,71376,5205497,33.62475,0.0000
 2020-05-31,GO,Cidade Ocidental,city,24,0,61,False,71376,5205497,33.62475,0.0000
 2020-05-30,GO,Cidade Ocidental,city,23,0,60,False,71376,5205497,32.22372,0.0000
 2020-05-29,GO,Cidade Ocidental,city,23,0,59,False,71376,5205497,32.22372,0.0000
@@ -1399,14 +1446,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,GO,Cidade Ocidental,city,1,0,3,False,71376,5205497,1.40103,0.0000
 2020-04-02,GO,Cidade Ocidental,city,1,0,2,False,71376,5205497,1.40103,0.0000
 2020-04-01,GO,Cidade Ocidental,city,1,0,1,False,71376,5205497,1.40103,0.0000
-2020-06-01,GO,Cocalzinho de Goiás,city,6,0,7,True,20240,5205513,29.64427,0.0000
+2020-06-02,GO,Cocalzinho de Goiás,city,7,0,8,True,20240,5205513,34.58498,0.0000
+2020-06-01,GO,Cocalzinho de Goiás,city,6,0,7,False,20240,5205513,29.64427,0.0000
 2020-05-31,GO,Cocalzinho de Goiás,city,6,0,6,False,20240,5205513,29.64427,0.0000
 2020-05-30,GO,Cocalzinho de Goiás,city,6,0,5,False,20240,5205513,29.64427,0.0000
 2020-05-29,GO,Cocalzinho de Goiás,city,15,0,4,False,20240,5205513,74.11067,0.0000
 2020-05-28,GO,Cocalzinho de Goiás,city,5,0,3,False,20240,5205513,24.70356,0.0000
 2020-05-27,GO,Cocalzinho de Goiás,city,5,0,2,False,20240,5205513,24.70356,0.0000
 2020-05-26,GO,Cocalzinho de Goiás,city,4,0,1,False,20240,5205513,19.76285,0.0000
-2020-06-01,GO,Colinas do Sul,city,0,0,22,True,3382,5205521,,0.0000
+2020-06-02,GO,Colinas do Sul,city,0,0,23,True,3382,5205521,,0.0000
+2020-06-01,GO,Colinas do Sul,city,0,0,22,False,3382,5205521,,0.0000
 2020-05-31,GO,Colinas do Sul,city,0,0,21,False,3382,5205521,,0.0000
 2020-05-30,GO,Colinas do Sul,city,0,0,20,False,3382,5205521,,0.0000
 2020-05-29,GO,Colinas do Sul,city,0,0,19,False,3382,5205521,,0.0000
@@ -1428,7 +1477,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,GO,Colinas do Sul,city,0,0,3,False,3382,5205521,,0.0000
 2020-05-12,GO,Colinas do Sul,city,1,1,2,False,3382,5205521,29.56830,1.0000
 2020-05-11,GO,Colinas do Sul,city,1,1,1,False,3382,5205521,29.56830,1.0000
-2020-06-01,GO,Corumbaíba,city,1,1,25,True,9723,5205901,10.28489,1.0000
+2020-06-02,GO,Corumbaíba,city,1,1,26,True,9723,5205901,10.28489,1.0000
+2020-06-01,GO,Corumbaíba,city,1,1,25,False,9723,5205901,10.28489,1.0000
 2020-05-31,GO,Corumbaíba,city,1,1,24,False,9723,5205901,10.28489,1.0000
 2020-05-30,GO,Corumbaíba,city,1,1,23,False,9723,5205901,10.28489,1.0000
 2020-05-29,GO,Corumbaíba,city,1,1,22,False,9723,5205901,10.28489,1.0000
@@ -1453,7 +1503,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,GO,Corumbaíba,city,1,0,3,False,9723,5205901,10.28489,0.0000
 2020-05-09,GO,Corumbaíba,city,1,0,2,False,9723,5205901,10.28489,0.0000
 2020-05-08,GO,Corumbaíba,city,1,0,1,False,9723,5205901,10.28489,0.0000
-2020-06-01,GO,Corumbá de Goiás,city,1,0,26,True,11110,5205802,9.00090,0.0000
+2020-06-02,GO,Corumbá de Goiás,city,1,0,27,True,11110,5205802,9.00090,0.0000
+2020-06-01,GO,Corumbá de Goiás,city,1,0,26,False,11110,5205802,9.00090,0.0000
 2020-05-31,GO,Corumbá de Goiás,city,1,0,25,False,11110,5205802,9.00090,0.0000
 2020-05-30,GO,Corumbá de Goiás,city,1,0,24,False,11110,5205802,9.00090,0.0000
 2020-05-29,GO,Corumbá de Goiás,city,2,0,23,False,11110,5205802,18.00180,0.0000
@@ -1479,7 +1530,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Corumbá de Goiás,city,0,0,3,False,11110,5205802,,0.0000
 2020-05-08,GO,Corumbá de Goiás,city,0,0,2,False,11110,5205802,,0.0000
 2020-05-07,GO,Corumbá de Goiás,city,1,0,1,False,11110,5205802,9.00090,0.0000
-2020-06-01,GO,Cristalina,city,8,1,26,True,58997,5206206,13.56001,0.1250
+2020-06-02,GO,Cristalina,city,8,1,27,True,58997,5206206,13.56001,0.1250
+2020-06-01,GO,Cristalina,city,8,1,26,False,58997,5206206,13.56001,0.1250
 2020-05-31,GO,Cristalina,city,7,1,25,False,58997,5206206,11.86501,0.1429
 2020-05-30,GO,Cristalina,city,7,1,24,False,58997,5206206,11.86501,0.1429
 2020-05-29,GO,Cristalina,city,7,1,23,False,58997,5206206,11.86501,0.1429
@@ -1505,12 +1557,15 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Cristalina,city,2,1,3,False,58997,5206206,3.39000,0.5000
 2020-05-08,GO,Cristalina,city,2,1,2,False,58997,5206206,3.39000,0.5000
 2020-05-07,GO,Cristalina,city,1,0,1,False,58997,5206206,1.69500,0.0000
-2020-06-01,GO,Cromínia,city,1,0,5,True,3486,5206503,28.68617,0.0000
+2020-06-02,GO,Cromínia,city,1,0,6,True,3486,5206503,28.68617,0.0000
+2020-06-01,GO,Cromínia,city,1,0,5,False,3486,5206503,28.68617,0.0000
 2020-05-31,GO,Cromínia,city,1,0,4,False,3486,5206503,28.68617,0.0000
 2020-05-30,GO,Cromínia,city,1,0,3,False,3486,5206503,28.68617,0.0000
 2020-05-29,GO,Cromínia,city,1,0,2,False,3486,5206503,28.68617,0.0000
 2020-05-28,GO,Cromínia,city,1,0,1,False,3486,5206503,28.68617,0.0000
-2020-06-01,GO,Córrego do Ouro,city,1,0,26,True,2327,5205703,42.97379,0.0000
+2020-06-02,GO,Cumari,city,5,0,1,True,2854,5206602,175.19271,0.0000
+2020-06-02,GO,Córrego do Ouro,city,1,0,27,True,2327,5205703,42.97379,0.0000
+2020-06-01,GO,Córrego do Ouro,city,1,0,26,False,2327,5205703,42.97379,0.0000
 2020-05-31,GO,Córrego do Ouro,city,1,0,25,False,2327,5205703,42.97379,0.0000
 2020-05-30,GO,Córrego do Ouro,city,1,0,24,False,2327,5205703,42.97379,0.0000
 2020-05-29,GO,Córrego do Ouro,city,1,0,23,False,2327,5205703,42.97379,0.0000
@@ -1536,7 +1591,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Córrego do Ouro,city,0,0,3,False,2327,5205703,,0.0000
 2020-05-08,GO,Córrego do Ouro,city,0,0,2,False,2327,5205703,,0.0000
 2020-05-07,GO,Córrego do Ouro,city,1,0,1,False,2327,5205703,42.97379,0.0000
-2020-06-01,GO,Doverlândia,city,0,0,20,True,7322,5207253,,0.0000
+2020-06-02,GO,Doverlândia,city,0,0,21,True,7322,5207253,,0.0000
+2020-06-01,GO,Doverlândia,city,0,0,20,False,7322,5207253,,0.0000
 2020-05-31,GO,Doverlândia,city,0,0,19,False,7322,5207253,,0.0000
 2020-05-30,GO,Doverlândia,city,0,0,18,False,7322,5207253,,0.0000
 2020-05-29,GO,Doverlândia,city,0,0,17,False,7322,5207253,,0.0000
@@ -1556,7 +1612,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,GO,Doverlândia,city,0,0,3,False,7322,5207253,,0.0000
 2020-05-14,GO,Doverlândia,city,0,0,2,False,7322,5207253,,0.0000
 2020-05-13,GO,Doverlândia,city,1,0,1,False,7322,5207253,13.65747,0.0000
-2020-06-01,GO,Edéia,city,2,0,26,True,12372,5207402,16.16554,0.0000
+2020-06-02,GO,Edéia,city,3,0,27,True,12372,5207402,24.24830,0.0000
+2020-06-01,GO,Edéia,city,2,0,26,False,12372,5207402,16.16554,0.0000
 2020-05-31,GO,Edéia,city,2,0,25,False,12372,5207402,16.16554,0.0000
 2020-05-30,GO,Edéia,city,2,0,24,False,12372,5207402,16.16554,0.0000
 2020-05-29,GO,Edéia,city,2,0,23,False,12372,5207402,16.16554,0.0000
@@ -1582,7 +1639,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Edéia,city,0,0,3,False,12372,5207402,,0.0000
 2020-05-08,GO,Edéia,city,0,0,2,False,12372,5207402,,0.0000
 2020-05-07,GO,Edéia,city,1,0,1,False,12372,5207402,8.08277,0.0000
-2020-06-01,GO,Faina,city,1,0,49,True,6627,5207535,15.08978,0.0000
+2020-06-02,GO,Faina,city,1,0,50,True,6627,5207535,15.08978,0.0000
+2020-06-01,GO,Faina,city,1,0,49,False,6627,5207535,15.08978,0.0000
 2020-05-31,GO,Faina,city,1,0,48,False,6627,5207535,15.08978,0.0000
 2020-05-30,GO,Faina,city,1,0,47,False,6627,5207535,15.08978,0.0000
 2020-05-29,GO,Faina,city,1,0,46,False,6627,5207535,15.08978,0.0000
@@ -1631,11 +1689,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,GO,Faina,city,1,0,3,False,6627,5207535,15.08978,0.0000
 2020-04-15,GO,Faina,city,1,0,2,False,6627,5207535,15.08978,0.0000
 2020-04-14,GO,Faina,city,1,0,1,False,6627,5207535,15.08978,0.0000
-2020-06-01,GO,Firminópolis,city,2,0,4,True,13292,5207808,15.04664,0.0000
+2020-06-02,GO,Firminópolis,city,2,0,5,True,13292,5207808,15.04664,0.0000
+2020-06-01,GO,Firminópolis,city,2,0,4,False,13292,5207808,15.04664,0.0000
 2020-05-31,GO,Firminópolis,city,2,0,3,False,13292,5207808,15.04664,0.0000
 2020-05-30,GO,Firminópolis,city,2,0,2,False,13292,5207808,15.04664,0.0000
 2020-05-29,GO,Firminópolis,city,2,0,1,False,13292,5207808,15.04664,0.0000
-2020-06-01,GO,Formosa,city,24,2,50,True,121617,5208004,19.73408,0.0833
+2020-06-02,GO,Flores de Goiás,city,1,0,1,True,16557,5207907,6.03974,0.0000
+2020-06-02,GO,Formosa,city,25,2,51,True,121617,5208004,20.55634,0.0800
+2020-06-01,GO,Formosa,city,24,2,50,False,121617,5208004,19.73408,0.0833
 2020-05-31,GO,Formosa,city,24,2,49,False,121617,5208004,19.73408,0.0833
 2020-05-30,GO,Formosa,city,24,2,48,False,121617,5208004,19.73408,0.0833
 2020-05-29,GO,Formosa,city,24,0,47,False,121617,5208004,19.73408,0.0000
@@ -1685,11 +1746,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,GO,Formosa,city,3,0,3,False,121617,5208004,2.46676,0.0000
 2020-04-14,GO,Formosa,city,3,0,2,False,121617,5208004,2.46676,0.0000
 2020-04-13,GO,Formosa,city,1,0,1,False,121617,5208004,0.82225,0.0000
-2020-06-01,GO,Gameleira de Goiás,city,4,0,4,True,3818,5208152,104.76689,0.0000
+2020-06-02,GO,Gameleira de Goiás,city,4,0,5,True,3818,5208152,104.76689,0.0000
+2020-06-01,GO,Gameleira de Goiás,city,4,0,4,False,3818,5208152,104.76689,0.0000
 2020-05-31,GO,Gameleira de Goiás,city,4,0,3,False,3818,5208152,104.76689,0.0000
 2020-05-30,GO,Gameleira de Goiás,city,4,0,2,False,3818,5208152,104.76689,0.0000
 2020-05-29,GO,Gameleira de Goiás,city,2,0,1,False,3818,5208152,52.38345,0.0000
-2020-06-01,GO,Goiandira,city,3,1,55,True,5600,5208509,53.57143,0.3333
+2020-06-02,GO,Goiandira,city,3,1,56,True,5600,5208509,53.57143,0.3333
+2020-06-01,GO,Goiandira,city,3,1,55,False,5600,5208509,53.57143,0.3333
 2020-05-31,GO,Goiandira,city,3,1,54,False,5600,5208509,53.57143,0.3333
 2020-05-30,GO,Goiandira,city,3,1,53,False,5600,5208509,53.57143,0.3333
 2020-05-29,GO,Goiandira,city,3,1,52,False,5600,5208509,53.57143,0.3333
@@ -1744,7 +1807,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,GO,Goiandira,city,1,1,3,False,5600,5208509,17.85714,1.0000
 2020-04-09,GO,Goiandira,city,1,1,2,False,5600,5208509,17.85714,1.0000
 2020-04-08,GO,Goiandira,city,1,1,1,False,5600,5208509,17.85714,1.0000
-2020-06-01,GO,Goianira,city,5,0,49,True,44289,5208806,11.28948,0.0000
+2020-06-02,GO,Goianira,city,5,0,50,True,44289,5208806,11.28948,0.0000
+2020-06-01,GO,Goianira,city,5,0,49,False,44289,5208806,11.28948,0.0000
 2020-05-31,GO,Goianira,city,5,0,48,False,44289,5208806,11.28948,0.0000
 2020-05-30,GO,Goianira,city,4,0,47,False,44289,5208806,9.03159,0.0000
 2020-05-29,GO,Goianira,city,4,0,46,False,44289,5208806,9.03159,0.0000
@@ -1793,7 +1857,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,GO,Goianira,city,1,0,3,False,44289,5208806,2.25790,0.0000
 2020-04-15,GO,Goianira,city,1,0,2,False,44289,5208806,2.25790,0.0000
 2020-04-14,GO,Goianira,city,1,0,1,False,44289,5208806,2.25790,0.0000
-2020-06-01,GO,Goianápolis,city,4,0,10,True,11231,5208400,35.61571,0.0000
+2020-06-02,GO,Goianápolis,city,4,0,11,True,11231,5208400,35.61571,0.0000
+2020-06-01,GO,Goianápolis,city,4,0,10,False,11231,5208400,35.61571,0.0000
 2020-05-31,GO,Goianápolis,city,4,0,9,False,11231,5208400,35.61571,0.0000
 2020-05-30,GO,Goianápolis,city,4,0,8,False,11231,5208400,35.61571,0.0000
 2020-05-29,GO,Goianápolis,city,4,0,7,False,11231,5208400,35.61571,0.0000
@@ -1803,7 +1868,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,GO,Goianápolis,city,1,0,3,False,11231,5208400,8.90393,0.0000
 2020-05-24,GO,Goianápolis,city,1,0,2,False,11231,5208400,8.90393,0.0000
 2020-05-23,GO,Goianápolis,city,1,0,1,False,11231,5208400,8.90393,0.0000
-2020-06-01,GO,Goianésia,city,35,3,66,True,70084,5208608,49.94007,0.0857
+2020-06-02,GO,Goianésia,city,42,3,67,True,70084,5208608,59.92809,0.0714
+2020-06-01,GO,Goianésia,city,35,3,66,False,70084,5208608,49.94007,0.0857
 2020-05-31,GO,Goianésia,city,34,3,65,False,70084,5208608,48.51321,0.0882
 2020-05-30,GO,Goianésia,city,34,3,64,False,70084,5208608,48.51321,0.0882
 2020-05-29,GO,Goianésia,city,34,3,63,False,70084,5208608,48.51321,0.0882
@@ -1869,7 +1935,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-30,GO,Goianésia,city,1,0,3,False,70084,5208608,1.42686,0.0000
 2020-03-29,GO,Goianésia,city,1,0,2,False,70084,5208608,1.42686,0.0000
 2020-03-28,GO,Goianésia,city,1,0,1,False,70084,5208608,1.42686,0.0000
-2020-06-01,GO,Goiatuba,city,14,1,55,True,34095,5209101,41.06174,0.0714
+2020-06-02,GO,Goiatuba,city,15,1,56,True,34095,5209101,43.99472,0.0667
+2020-06-01,GO,Goiatuba,city,14,1,55,False,34095,5209101,41.06174,0.0714
 2020-05-31,GO,Goiatuba,city,13,1,54,False,34095,5209101,38.12876,0.0769
 2020-05-30,GO,Goiatuba,city,13,1,53,False,34095,5209101,38.12876,0.0769
 2020-05-29,GO,Goiatuba,city,13,1,52,False,34095,5209101,38.12876,0.0769
@@ -1924,7 +1991,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,GO,Goiatuba,city,1,0,3,False,34095,5209101,2.93298,0.0000
 2020-04-09,GO,Goiatuba,city,1,0,2,False,34095,5209101,2.93298,0.0000
 2020-04-08,GO,Goiatuba,city,1,0,1,False,34095,5209101,2.93298,0.0000
-2020-06-01,GO,Goiânia,city,1730,53,81,True,1516113,5208707,114.10759,0.0306
+2020-06-02,GO,Goiânia,city,1809,65,82,True,1516113,5208707,119.31828,0.0359
+2020-06-01,GO,Goiânia,city,1730,53,81,False,1516113,5208707,114.10759,0.0306
 2020-05-31,GO,Goiânia,city,1661,52,80,False,1516113,5208707,109.55648,0.0313
 2020-05-30,GO,Goiânia,city,1581,52,79,False,1516113,5208707,104.27983,0.0329
 2020-05-29,GO,Goiânia,city,1556,49,78,False,1516113,5208707,102.63087,0.0315
@@ -2005,7 +2073,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-14,GO,Goiânia,city,3,0,3,False,1516113,5208707,0.19787,0.0000
 2020-03-13,GO,Goiânia,city,2,0,2,False,1516113,5208707,0.13192,0.0000
 2020-03-12,GO,Goiânia,city,2,0,1,False,1516113,5208707,0.13192,0.0000
-2020-06-01,GO,Gouvelândia,city,1,0,8,True,5898,5209150,16.95490,0.0000
+2020-06-02,GO,Gouvelândia,city,1,0,9,True,5898,5209150,16.95490,0.0000
+2020-06-01,GO,Gouvelândia,city,1,0,8,False,5898,5209150,16.95490,0.0000
 2020-05-31,GO,Gouvelândia,city,1,0,7,False,5898,5209150,16.95490,0.0000
 2020-05-30,GO,Gouvelândia,city,1,0,6,False,5898,5209150,16.95490,0.0000
 2020-05-29,GO,Gouvelândia,city,1,0,5,False,5898,5209150,16.95490,0.0000
@@ -2013,7 +2082,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-27,GO,Gouvelândia,city,1,0,3,False,5898,5209150,16.95490,0.0000
 2020-05-26,GO,Gouvelândia,city,1,0,2,False,5898,5209150,16.95490,0.0000
 2020-05-25,GO,Gouvelândia,city,1,0,1,False,5898,5209150,16.95490,0.0000
-2020-06-01,GO,Guapó,city,7,0,55,True,14209,5209200,49.26455,0.0000
+2020-06-02,GO,Guapó,city,7,0,56,True,14209,5209200,49.26455,0.0000
+2020-06-01,GO,Guapó,city,7,0,55,False,14209,5209200,49.26455,0.0000
 2020-05-31,GO,Guapó,city,7,0,54,False,14209,5209200,49.26455,0.0000
 2020-05-30,GO,Guapó,city,7,0,53,False,14209,5209200,49.26455,0.0000
 2020-05-29,GO,Guapó,city,8,0,52,False,14209,5209200,56.30234,0.0000
@@ -2068,7 +2138,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,GO,Guapó,city,1,0,3,False,14209,5209200,7.03779,0.0000
 2020-04-09,GO,Guapó,city,1,0,2,False,14209,5209200,7.03779,0.0000
 2020-04-08,GO,Guapó,city,1,0,1,False,14209,5209200,7.03779,0.0000
-2020-06-01,GO,Hidrolândia,city,26,1,67,True,21706,5209705,119.78255,0.0385
+2020-06-02,GO,Hidrolândia,city,26,1,68,True,21706,5209705,119.78255,0.0385
+2020-06-01,GO,Hidrolândia,city,26,1,67,False,21706,5209705,119.78255,0.0385
 2020-05-31,GO,Hidrolândia,city,23,1,66,False,21706,5209705,105.96149,0.0435
 2020-05-30,GO,Hidrolândia,city,22,1,65,False,21706,5209705,101.35446,0.0455
 2020-05-29,GO,Hidrolândia,city,22,1,64,False,21706,5209705,101.35446,0.0455
@@ -2135,7 +2206,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,GO,Hidrolândia,city,1,0,3,False,21706,5209705,4.60702,0.0000
 2020-03-28,GO,Hidrolândia,city,1,0,2,False,21706,5209705,4.60702,0.0000
 2020-03-27,GO,Hidrolândia,city,1,0,1,False,21706,5209705,4.60702,0.0000
-2020-06-01,GO,Importados/Indefinidos,city,4,0,74,True,,,,0.0000
+2020-06-02,GO,Importados/Indefinidos,city,4,0,75,True,,,,0.0000
+2020-06-01,GO,Importados/Indefinidos,city,4,0,74,False,,,,0.0000
 2020-05-31,GO,Importados/Indefinidos,city,4,0,73,False,,,,0.0000
 2020-05-30,GO,Importados/Indefinidos,city,4,0,72,False,,,,0.0000
 2020-05-29,GO,Importados/Indefinidos,city,4,0,71,False,,,,0.0000
@@ -2209,7 +2281,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-21,GO,Importados/Indefinidos,city,0,0,3,False,,,,0.0000
 2020-03-20,GO,Importados/Indefinidos,city,1,0,2,False,,,,0.0000
 2020-03-19,GO,Importados/Indefinidos,city,1,0,1,False,,,,0.0000
-2020-06-01,GO,Indiara,city,13,0,15,True,15611,5209952,83.27461,0.0000
+2020-06-02,GO,Indiara,city,13,0,16,True,15611,5209952,83.27461,0.0000
+2020-06-01,GO,Indiara,city,13,0,15,False,15611,5209952,83.27461,0.0000
 2020-05-31,GO,Indiara,city,12,0,14,False,15611,5209952,76.86887,0.0000
 2020-05-30,GO,Indiara,city,12,0,13,False,15611,5209952,76.86887,0.0000
 2020-05-29,GO,Indiara,city,12,0,12,False,15611,5209952,76.86887,0.0000
@@ -2224,7 +2297,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,GO,Indiara,city,1,0,3,False,15611,5209952,6.40574,0.0000
 2020-05-19,GO,Indiara,city,1,0,2,False,15611,5209952,6.40574,0.0000
 2020-05-18,GO,Indiara,city,1,0,1,False,15611,5209952,6.40574,0.0000
-2020-06-01,GO,Inhumas,city,7,0,44,True,52866,5210000,13.24102,0.0000
+2020-06-02,GO,Inhumas,city,7,0,45,True,52866,5210000,13.24102,0.0000
+2020-06-01,GO,Inhumas,city,7,0,44,False,52866,5210000,13.24102,0.0000
 2020-05-31,GO,Inhumas,city,7,0,43,False,52866,5210000,13.24102,0.0000
 2020-05-30,GO,Inhumas,city,7,0,42,False,52866,5210000,13.24102,0.0000
 2020-05-29,GO,Inhumas,city,7,0,41,False,52866,5210000,13.24102,0.0000
@@ -2268,7 +2342,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,GO,Inhumas,city,1,0,3,False,52866,5210000,1.89157,0.0000
 2020-04-20,GO,Inhumas,city,1,0,2,False,52866,5210000,1.89157,0.0000
 2020-04-19,GO,Inhumas,city,1,0,1,False,52866,5210000,1.89157,0.0000
-2020-06-01,GO,Ipameri,city,1,0,36,True,26985,5210109,3.70576,0.0000
+2020-06-02,GO,Ipameri,city,1,0,37,True,26985,5210109,3.70576,0.0000
+2020-06-01,GO,Ipameri,city,1,0,36,False,26985,5210109,3.70576,0.0000
 2020-05-31,GO,Ipameri,city,1,0,35,False,26985,5210109,3.70576,0.0000
 2020-05-30,GO,Ipameri,city,1,0,34,False,26985,5210109,3.70576,0.0000
 2020-05-29,GO,Ipameri,city,1,0,33,False,26985,5210109,3.70576,0.0000
@@ -2304,7 +2379,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-29,GO,Ipameri,city,1,0,3,False,26985,5210109,3.70576,0.0000
 2020-04-28,GO,Ipameri,city,1,0,2,False,26985,5210109,3.70576,0.0000
 2020-04-27,GO,Ipameri,city,1,0,1,False,26985,5210109,3.70576,0.0000
-2020-06-01,GO,Iporá,city,5,2,26,True,31531,5210208,15.85741,0.4000
+2020-06-02,GO,Iporá,city,5,2,27,True,31531,5210208,15.85741,0.4000
+2020-06-01,GO,Iporá,city,5,2,26,False,31531,5210208,15.85741,0.4000
 2020-05-31,GO,Iporá,city,5,2,25,False,31531,5210208,15.85741,0.4000
 2020-05-30,GO,Iporá,city,5,2,24,False,31531,5210208,15.85741,0.4000
 2020-05-29,GO,Iporá,city,5,2,23,False,31531,5210208,15.85741,0.4000
@@ -2330,7 +2406,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Iporá,city,1,1,3,False,31531,5210208,3.17148,1.0000
 2020-05-08,GO,Iporá,city,1,1,2,False,31531,5210208,3.17148,1.0000
 2020-05-07,GO,Iporá,city,1,1,1,False,31531,5210208,3.17148,1.0000
-2020-06-01,GO,Itaberaí,city,4,1,12,True,42900,5210406,9.32401,0.2500
+2020-06-02,GO,Itaberaí,city,5,1,13,True,42900,5210406,11.65501,0.2000
+2020-06-01,GO,Itaberaí,city,4,1,12,False,42900,5210406,9.32401,0.2500
 2020-05-31,GO,Itaberaí,city,4,1,11,False,42900,5210406,9.32401,0.2500
 2020-05-30,GO,Itaberaí,city,4,1,10,False,42900,5210406,9.32401,0.2500
 2020-05-29,GO,Itaberaí,city,3,1,9,False,42900,5210406,6.99301,0.3333
@@ -2342,7 +2419,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,GO,Itaberaí,city,1,1,3,False,42900,5210406,2.33100,1.0000
 2020-05-22,GO,Itaberaí,city,1,1,2,False,42900,5210406,2.33100,1.0000
 2020-05-21,GO,Itaberaí,city,1,1,1,False,42900,5210406,2.33100,1.0000
-2020-06-01,GO,Itaguaru,city,2,0,51,True,5237,5210604,38.18980,0.0000
+2020-06-02,GO,Itaguaru,city,2,0,52,True,5237,5210604,38.18980,0.0000
+2020-06-01,GO,Itaguaru,city,2,0,51,False,5237,5210604,38.18980,0.0000
 2020-05-31,GO,Itaguaru,city,2,0,50,False,5237,5210604,38.18980,0.0000
 2020-05-30,GO,Itaguaru,city,1,0,49,False,5237,5210604,19.09490,0.0000
 2020-05-29,GO,Itaguaru,city,1,0,48,False,5237,5210604,19.09490,0.0000
@@ -2393,7 +2471,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,GO,Itaguaru,city,1,0,3,False,5237,5210604,19.09490,0.0000
 2020-04-13,GO,Itaguaru,city,1,0,2,False,5237,5210604,19.09490,0.0000
 2020-04-12,GO,Itaguaru,city,1,0,1,False,5237,5210604,19.09490,0.0000
-2020-06-01,GO,Itajá,city,3,0,14,True,4539,5210802,66.09385,0.0000
+2020-06-02,GO,Itajá,city,3,0,15,True,4539,5210802,66.09385,0.0000
+2020-06-01,GO,Itajá,city,3,0,14,False,4539,5210802,66.09385,0.0000
 2020-05-31,GO,Itajá,city,3,0,13,False,4539,5210802,66.09385,0.0000
 2020-05-30,GO,Itajá,city,3,0,12,False,4539,5210802,66.09385,0.0000
 2020-05-29,GO,Itajá,city,3,0,11,False,4539,5210802,66.09385,0.0000
@@ -2407,14 +2486,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,GO,Itajá,city,1,0,3,False,4539,5210802,22.03128,0.0000
 2020-05-20,GO,Itajá,city,1,0,2,False,4539,5210802,22.03128,0.0000
 2020-05-19,GO,Itajá,city,1,0,1,False,4539,5210802,22.03128,0.0000
-2020-06-01,GO,Itapaci,city,1,0,7,True,22981,5210901,4.35142,0.0000
+2020-06-02,GO,Itapaci,city,1,0,8,True,22981,5210901,4.35142,0.0000
+2020-06-01,GO,Itapaci,city,1,0,7,False,22981,5210901,4.35142,0.0000
 2020-05-31,GO,Itapaci,city,1,0,6,False,22981,5210901,4.35142,0.0000
 2020-05-30,GO,Itapaci,city,1,0,5,False,22981,5210901,4.35142,0.0000
 2020-05-29,GO,Itapaci,city,1,0,4,False,22981,5210901,4.35142,0.0000
 2020-05-28,GO,Itapaci,city,1,0,3,False,22981,5210901,4.35142,0.0000
 2020-05-27,GO,Itapaci,city,1,0,2,False,22981,5210901,4.35142,0.0000
 2020-05-26,GO,Itapaci,city,1,0,1,False,22981,5210901,4.35142,0.0000
-2020-06-01,GO,Itapuranga,city,4,0,20,True,25768,5211206,15.52313,0.0000
+2020-06-02,GO,Itapuranga,city,4,0,21,True,25768,5211206,15.52313,0.0000
+2020-06-01,GO,Itapuranga,city,4,0,20,False,25768,5211206,15.52313,0.0000
 2020-05-31,GO,Itapuranga,city,4,0,19,False,25768,5211206,15.52313,0.0000
 2020-05-30,GO,Itapuranga,city,4,0,18,False,25768,5211206,15.52313,0.0000
 2020-05-29,GO,Itapuranga,city,4,0,17,False,25768,5211206,15.52313,0.0000
@@ -2434,11 +2515,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,GO,Itapuranga,city,3,0,3,False,25768,5211206,11.64235,0.0000
 2020-05-14,GO,Itapuranga,city,3,0,2,False,25768,5211206,11.64235,0.0000
 2020-05-13,GO,Itapuranga,city,3,0,1,False,25768,5211206,11.64235,0.0000
-2020-06-01,GO,Itauçu,city,1,0,4,True,8938,5211404,11.18819,0.0000
+2020-06-02,GO,Itauçu,city,1,0,5,True,8938,5211404,11.18819,0.0000
+2020-06-01,GO,Itauçu,city,1,0,4,False,8938,5211404,11.18819,0.0000
 2020-05-31,GO,Itauçu,city,1,0,3,False,8938,5211404,11.18819,0.0000
 2020-05-30,GO,Itauçu,city,1,0,2,False,8938,5211404,11.18819,0.0000
 2020-05-29,GO,Itauçu,city,1,0,1,False,8938,5211404,11.18819,0.0000
-2020-06-01,GO,Itumbiara,city,20,0,64,True,104742,5211503,19.09454,0.0000
+2020-06-02,GO,Itumbiara,city,21,1,65,True,104742,5211503,20.04926,0.0476
+2020-06-01,GO,Itumbiara,city,20,0,64,False,104742,5211503,19.09454,0.0000
 2020-05-31,GO,Itumbiara,city,19,0,63,False,104742,5211503,18.13981,0.0000
 2020-05-30,GO,Itumbiara,city,19,0,62,False,104742,5211503,18.13981,0.0000
 2020-05-29,GO,Itumbiara,city,19,0,61,False,104742,5211503,18.13981,0.0000
@@ -2502,7 +2585,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,GO,Itumbiara,city,2,0,3,False,104742,5211503,1.90945,0.0000
 2020-03-31,GO,Itumbiara,city,2,0,2,False,104742,5211503,1.90945,0.0000
 2020-03-30,GO,Itumbiara,city,2,0,1,False,104742,5211503,1.90945,0.0000
-2020-06-01,GO,Ivolândia,city,1,0,20,True,2370,5211602,42.19409,0.0000
+2020-06-02,GO,Ivolândia,city,3,0,21,True,2370,5211602,126.58228,0.0000
+2020-06-01,GO,Ivolândia,city,1,0,20,False,2370,5211602,42.19409,0.0000
 2020-05-31,GO,Ivolândia,city,1,0,19,False,2370,5211602,42.19409,0.0000
 2020-05-30,GO,Ivolândia,city,1,0,18,False,2370,5211602,42.19409,0.0000
 2020-05-29,GO,Ivolândia,city,1,0,17,False,2370,5211602,42.19409,0.0000
@@ -2522,7 +2606,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,GO,Ivolândia,city,1,0,3,False,2370,5211602,42.19409,0.0000
 2020-05-14,GO,Ivolândia,city,1,0,2,False,2370,5211602,42.19409,0.0000
 2020-05-13,GO,Ivolândia,city,1,0,1,False,2370,5211602,42.19409,0.0000
-2020-06-01,GO,Jaraguá,city,16,0,38,True,50511,5211800,31.67627,0.0000
+2020-06-02,GO,Jaraguá,city,16,0,39,True,50511,5211800,31.67627,0.0000
+2020-06-01,GO,Jaraguá,city,16,0,38,False,50511,5211800,31.67627,0.0000
 2020-05-31,GO,Jaraguá,city,16,0,37,False,50511,5211800,31.67627,0.0000
 2020-05-30,GO,Jaraguá,city,16,0,36,False,50511,5211800,31.67627,0.0000
 2020-05-29,GO,Jaraguá,city,16,0,35,False,50511,5211800,31.67627,0.0000
@@ -2560,7 +2645,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,GO,Jaraguá,city,1,0,3,False,50511,5211800,1.97977,0.0000
 2020-04-26,GO,Jaraguá,city,1,0,2,False,50511,5211800,1.97977,0.0000
 2020-04-25,GO,Jaraguá,city,1,0,1,False,50511,5211800,1.97977,0.0000
-2020-06-01,GO,Jataí,city,86,1,75,True,100882,5211909,85.24811,0.0116
+2020-06-02,GO,Jataí,city,85,1,76,True,100882,5211909,84.25685,0.0118
+2020-06-01,GO,Jataí,city,86,1,75,False,100882,5211909,85.24811,0.0116
 2020-05-31,GO,Jataí,city,81,1,74,False,100882,5211909,80.29183,0.0123
 2020-05-30,GO,Jataí,city,81,1,73,False,100882,5211909,80.29183,0.0123
 2020-05-29,GO,Jataí,city,81,1,72,False,100882,5211909,80.29183,0.0123
@@ -2635,7 +2721,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,GO,Jataí,city,1,0,3,False,100882,5211909,0.99126,0.0000
 2020-03-19,GO,Jataí,city,1,0,2,False,100882,5211909,0.99126,0.0000
 2020-03-18,GO,Jataí,city,1,0,1,False,100882,5211909,0.99126,0.0000
-2020-06-01,GO,Jesúpolis,city,3,0,35,True,2490,5212055,120.48193,0.0000
+2020-06-02,GO,Jesúpolis,city,3,0,36,True,2490,5212055,120.48193,0.0000
+2020-06-01,GO,Jesúpolis,city,3,0,35,False,2490,5212055,120.48193,0.0000
 2020-05-31,GO,Jesúpolis,city,3,0,34,False,2490,5212055,120.48193,0.0000
 2020-05-30,GO,Jesúpolis,city,3,0,33,False,2490,5212055,120.48193,0.0000
 2020-05-29,GO,Jesúpolis,city,3,0,32,False,2490,5212055,120.48193,0.0000
@@ -2670,7 +2757,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,GO,Jesúpolis,city,1,0,3,False,2490,5212055,40.16064,0.0000
 2020-04-29,GO,Jesúpolis,city,1,0,2,False,2490,5212055,40.16064,0.0000
 2020-04-28,GO,Jesúpolis,city,1,0,1,False,2490,5212055,40.16064,0.0000
-2020-06-01,GO,Joviânia,city,2,1,19,True,7387,5212105,27.07459,0.5000
+2020-06-02,GO,Joviânia,city,2,1,20,True,7387,5212105,27.07459,0.5000
+2020-06-01,GO,Joviânia,city,2,1,19,False,7387,5212105,27.07459,0.5000
 2020-05-31,GO,Joviânia,city,2,1,18,False,7387,5212105,27.07459,0.5000
 2020-05-30,GO,Joviânia,city,2,1,17,False,7387,5212105,27.07459,0.5000
 2020-05-29,GO,Joviânia,city,2,1,16,False,7387,5212105,27.07459,0.5000
@@ -2689,7 +2777,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,GO,Joviânia,city,1,1,3,False,7387,5212105,13.53730,1.0000
 2020-05-15,GO,Joviânia,city,1,1,2,False,7387,5212105,13.53730,1.0000
 2020-05-14,GO,Joviânia,city,2,1,1,False,7387,5212105,27.07459,0.5000
-2020-06-01,GO,Jussara,city,1,0,29,True,18478,5212204,5.41184,0.0000
+2020-06-02,GO,Jussara,city,1,0,30,True,18478,5212204,5.41184,0.0000
+2020-06-01,GO,Jussara,city,1,0,29,False,18478,5212204,5.41184,0.0000
 2020-05-31,GO,Jussara,city,1,0,28,False,18478,5212204,5.41184,0.0000
 2020-05-30,GO,Jussara,city,1,0,27,False,18478,5212204,5.41184,0.0000
 2020-05-29,GO,Jussara,city,1,0,26,False,18478,5212204,5.41184,0.0000
@@ -2718,7 +2807,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,GO,Jussara,city,0,0,3,False,18478,5212204,,0.0000
 2020-05-05,GO,Jussara,city,0,0,2,False,18478,5212204,,0.0000
 2020-05-04,GO,Jussara,city,1,0,1,False,18478,5212204,5.41184,0.0000
-2020-06-01,GO,Leopoldo de Bulhões,city,5,0,14,True,7647,5212303,65.38512,0.0000
+2020-06-02,GO,Leopoldo de Bulhões,city,11,0,15,True,7647,5212303,143.84726,0.0000
+2020-06-01,GO,Leopoldo de Bulhões,city,5,0,14,False,7647,5212303,65.38512,0.0000
 2020-05-31,GO,Leopoldo de Bulhões,city,5,0,13,False,7647,5212303,65.38512,0.0000
 2020-05-30,GO,Leopoldo de Bulhões,city,5,0,12,False,7647,5212303,65.38512,0.0000
 2020-05-29,GO,Leopoldo de Bulhões,city,4,0,11,False,7647,5212303,52.30809,0.0000
@@ -2732,7 +2822,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,GO,Leopoldo de Bulhões,city,4,0,3,False,7647,5212303,52.30809,0.0000
 2020-05-20,GO,Leopoldo de Bulhões,city,4,0,2,False,7647,5212303,52.30809,0.0000
 2020-05-19,GO,Leopoldo de Bulhões,city,4,0,1,False,7647,5212303,52.30809,0.0000
-2020-06-01,GO,Luziânia,city,82,4,69,True,208299,5212501,39.36649,0.0488
+2020-06-02,GO,Luziânia,city,88,4,70,True,208299,5212501,42.24696,0.0455
+2020-06-01,GO,Luziânia,city,82,4,69,False,208299,5212501,39.36649,0.0488
 2020-05-31,GO,Luziânia,city,74,4,68,False,208299,5212501,35.52585,0.0541
 2020-05-30,GO,Luziânia,city,74,4,67,False,208299,5212501,35.52585,0.0541
 2020-05-29,GO,Luziânia,city,75,4,66,False,208299,5212501,36.00593,0.0533
@@ -2801,7 +2892,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,GO,Luziânia,city,1,1,3,False,208299,5212501,0.48008,1.0000
 2020-03-26,GO,Luziânia,city,1,1,2,False,208299,5212501,0.48008,1.0000
 2020-03-25,GO,Luziânia,city,1,0,1,False,208299,5212501,0.48008,0.0000
-2020-06-01,GO,Mara Rosa,city,7,1,25,True,9503,5212808,73.66095,0.1429
+2020-06-02,GO,Mara Rosa,city,7,1,26,True,9503,5212808,73.66095,0.1429
+2020-06-01,GO,Mara Rosa,city,7,1,25,False,9503,5212808,73.66095,0.1429
 2020-05-31,GO,Mara Rosa,city,7,1,24,False,9503,5212808,73.66095,0.1429
 2020-05-30,GO,Mara Rosa,city,7,1,23,False,9503,5212808,73.66095,0.1429
 2020-05-29,GO,Mara Rosa,city,7,1,22,False,9503,5212808,73.66095,0.1429
@@ -2826,7 +2918,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,GO,Mara Rosa,city,3,1,3,False,9503,5212808,31.56898,0.3333
 2020-05-09,GO,Mara Rosa,city,3,1,2,False,9503,5212808,31.56898,0.3333
 2020-05-08,GO,Mara Rosa,city,3,1,1,False,9503,5212808,31.56898,0.3333
-2020-06-01,GO,Maurilândia,city,12,0,12,True,14080,5213004,85.22727,0.0000
+2020-06-02,GO,Maurilândia,city,14,0,13,True,14080,5213004,99.43182,0.0000
+2020-06-01,GO,Maurilândia,city,12,0,12,False,14080,5213004,85.22727,0.0000
 2020-05-31,GO,Maurilândia,city,2,0,11,False,14080,5213004,14.20455,0.0000
 2020-05-30,GO,Maurilândia,city,2,0,10,False,14080,5213004,14.20455,0.0000
 2020-05-29,GO,Maurilândia,city,2,0,9,False,14080,5213004,14.20455,0.0000
@@ -2838,7 +2931,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,GO,Maurilândia,city,1,0,3,False,14080,5213004,7.10227,0.0000
 2020-05-22,GO,Maurilândia,city,1,0,2,False,14080,5213004,7.10227,0.0000
 2020-05-21,GO,Maurilândia,city,1,0,1,False,14080,5213004,7.10227,0.0000
-2020-06-01,GO,Minaçu,city,4,0,26,True,29070,5213087,13.75989,0.0000
+2020-06-02,GO,Minaçu,city,4,0,27,True,29070,5213087,13.75989,0.0000
+2020-06-01,GO,Minaçu,city,4,0,26,False,29070,5213087,13.75989,0.0000
 2020-05-31,GO,Minaçu,city,4,0,25,False,29070,5213087,13.75989,0.0000
 2020-05-30,GO,Minaçu,city,4,0,24,False,29070,5213087,13.75989,0.0000
 2020-05-29,GO,Minaçu,city,4,0,23,False,29070,5213087,13.75989,0.0000
@@ -2864,7 +2958,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Minaçu,city,1,0,3,False,29070,5213087,3.43997,0.0000
 2020-05-08,GO,Minaçu,city,1,0,2,False,29070,5213087,3.43997,0.0000
 2020-05-07,GO,Minaçu,city,1,0,1,False,29070,5213087,3.43997,0.0000
-2020-06-01,GO,Mineiros,city,32,0,39,True,66801,5213103,47.90347,0.0000
+2020-06-02,GO,Mineiros,city,34,0,40,True,66801,5213103,50.89744,0.0000
+2020-06-01,GO,Mineiros,city,32,0,39,False,66801,5213103,47.90347,0.0000
 2020-05-31,GO,Mineiros,city,28,0,38,False,66801,5213103,41.91554,0.0000
 2020-05-30,GO,Mineiros,city,28,0,37,False,66801,5213103,41.91554,0.0000
 2020-05-29,GO,Mineiros,city,28,0,36,False,66801,5213103,41.91554,0.0000
@@ -2903,11 +2998,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,GO,Mineiros,city,4,0,3,False,66801,5213103,5.98793,0.0000
 2020-04-25,GO,Mineiros,city,4,0,2,False,66801,5213103,5.98793,0.0000
 2020-04-24,GO,Mineiros,city,2,0,1,False,66801,5213103,2.99397,0.0000
-2020-06-01,GO,Monte Alegre de Goiás,city,2,0,4,True,8606,5213509,23.23960,0.0000
+2020-06-02,GO,Monte Alegre de Goiás,city,2,0,5,True,8606,5213509,23.23960,0.0000
+2020-06-01,GO,Monte Alegre de Goiás,city,2,0,4,False,8606,5213509,23.23960,0.0000
 2020-05-31,GO,Monte Alegre de Goiás,city,1,0,3,False,8606,5213509,11.61980,0.0000
 2020-05-30,GO,Monte Alegre de Goiás,city,1,0,2,False,8606,5213509,11.61980,0.0000
 2020-05-29,GO,Monte Alegre de Goiás,city,1,0,1,False,8606,5213509,11.61980,0.0000
-2020-06-01,GO,Montividiu,city,1,0,55,True,13396,5213756,7.46491,0.0000
+2020-06-02,GO,Montividiu,city,2,0,56,True,13396,5213756,14.92983,0.0000
+2020-06-01,GO,Montividiu,city,1,0,55,False,13396,5213756,7.46491,0.0000
 2020-05-31,GO,Montividiu,city,1,0,54,False,13396,5213756,7.46491,0.0000
 2020-05-30,GO,Montividiu,city,1,0,53,False,13396,5213756,7.46491,0.0000
 2020-05-29,GO,Montividiu,city,1,0,52,False,13396,5213756,7.46491,0.0000
@@ -2962,7 +3059,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,GO,Montividiu,city,1,0,3,False,13396,5213756,7.46491,0.0000
 2020-04-09,GO,Montividiu,city,1,0,2,False,13396,5213756,7.46491,0.0000
 2020-04-08,GO,Montividiu,city,1,0,1,False,13396,5213756,7.46491,0.0000
-2020-06-01,GO,Morrinhos,city,11,1,49,True,46136,5213806,23.84255,0.0909
+2020-06-02,GO,Morrinhos,city,11,2,50,True,46136,5213806,23.84255,0.1818
+2020-06-01,GO,Morrinhos,city,11,1,49,False,46136,5213806,23.84255,0.0909
 2020-05-31,GO,Morrinhos,city,11,1,48,False,46136,5213806,23.84255,0.0909
 2020-05-30,GO,Morrinhos,city,11,1,47,False,46136,5213806,23.84255,0.0909
 2020-05-29,GO,Morrinhos,city,11,1,46,False,46136,5213806,23.84255,0.0909
@@ -3011,18 +3109,21 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,GO,Morrinhos,city,0,0,3,False,46136,5213806,,0.0000
 2020-04-15,GO,Morrinhos,city,1,0,2,False,46136,5213806,2.16750,0.0000
 2020-04-14,GO,Morrinhos,city,1,0,1,False,46136,5213806,2.16750,0.0000
-2020-06-01,GO,Mozarlândia,city,0,0,6,True,15659,5214002,,0.0000
+2020-06-02,GO,Mozarlândia,city,0,0,7,True,15659,5214002,,0.0000
+2020-06-01,GO,Mozarlândia,city,0,0,6,False,15659,5214002,,0.0000
 2020-05-31,GO,Mozarlândia,city,0,0,5,False,15659,5214002,,0.0000
 2020-05-30,GO,Mozarlândia,city,0,0,4,False,15659,5214002,,0.0000
 2020-05-29,GO,Mozarlândia,city,0,0,3,False,15659,5214002,,0.0000
 2020-05-28,GO,Mozarlândia,city,0,0,2,False,15659,5214002,,0.0000
 2020-05-27,GO,Mozarlândia,city,1,0,1,False,15659,5214002,6.38610,0.0000
-2020-06-01,GO,Mutunópolis,city,1,0,5,True,3778,5214101,26.46903,0.0000
+2020-06-02,GO,Mutunópolis,city,1,0,6,True,3778,5214101,26.46903,0.0000
+2020-06-01,GO,Mutunópolis,city,1,0,5,False,3778,5214101,26.46903,0.0000
 2020-05-31,GO,Mutunópolis,city,1,0,4,False,3778,5214101,26.46903,0.0000
 2020-05-30,GO,Mutunópolis,city,1,0,3,False,3778,5214101,26.46903,0.0000
 2020-05-29,GO,Mutunópolis,city,1,0,2,False,3778,5214101,26.46903,0.0000
 2020-05-28,GO,Mutunópolis,city,1,0,1,False,3778,5214101,26.46903,0.0000
-2020-06-01,GO,Nerópolis,city,8,1,51,True,29850,5214507,26.80067,0.1250
+2020-06-02,GO,Nerópolis,city,8,1,52,True,29850,5214507,26.80067,0.1250
+2020-06-01,GO,Nerópolis,city,8,1,51,False,29850,5214507,26.80067,0.1250
 2020-05-31,GO,Nerópolis,city,8,1,50,False,29850,5214507,26.80067,0.1250
 2020-05-30,GO,Nerópolis,city,8,1,49,False,29850,5214507,26.80067,0.1250
 2020-05-29,GO,Nerópolis,city,8,1,48,False,29850,5214507,26.80067,0.1250
@@ -3073,7 +3174,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,GO,Nerópolis,city,1,0,3,False,29850,5214507,3.35008,0.0000
 2020-04-13,GO,Nerópolis,city,1,0,2,False,29850,5214507,3.35008,0.0000
 2020-04-12,GO,Nerópolis,city,1,0,1,False,29850,5214507,3.35008,0.0000
-2020-06-01,GO,Niquelândia,city,3,0,37,True,46388,5214606,6.46719,0.0000
+2020-06-02,GO,Niquelândia,city,3,0,38,True,46388,5214606,6.46719,0.0000
+2020-06-01,GO,Niquelândia,city,3,0,37,False,46388,5214606,6.46719,0.0000
 2020-05-31,GO,Niquelândia,city,3,0,36,False,46388,5214606,6.46719,0.0000
 2020-05-30,GO,Niquelândia,city,3,0,35,False,46388,5214606,6.46719,0.0000
 2020-05-29,GO,Niquelândia,city,3,0,34,False,46388,5214606,6.46719,0.0000
@@ -3110,7 +3212,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,GO,Niquelândia,city,1,0,3,False,46388,5214606,2.15573,0.0000
 2020-04-27,GO,Niquelândia,city,1,0,2,False,46388,5214606,2.15573,0.0000
 2020-04-26,GO,Niquelândia,city,1,0,1,False,46388,5214606,2.15573,0.0000
-2020-06-01,GO,Nova América,city,1,0,12,True,2352,5214705,42.51701,0.0000
+2020-06-02,GO,Nova América,city,1,0,13,True,2352,5214705,42.51701,0.0000
+2020-06-01,GO,Nova América,city,1,0,12,False,2352,5214705,42.51701,0.0000
 2020-05-31,GO,Nova América,city,1,0,11,False,2352,5214705,42.51701,0.0000
 2020-05-30,GO,Nova América,city,1,0,10,False,2352,5214705,42.51701,0.0000
 2020-05-29,GO,Nova América,city,1,0,9,False,2352,5214705,42.51701,0.0000
@@ -3122,7 +3225,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,GO,Nova América,city,1,0,3,False,2352,5214705,42.51701,0.0000
 2020-05-22,GO,Nova América,city,1,0,2,False,2352,5214705,42.51701,0.0000
 2020-05-21,GO,Nova América,city,1,0,1,False,2352,5214705,42.51701,0.0000
-2020-06-01,GO,Nova Glória,city,11,0,56,True,8164,5214861,134.73787,0.0000
+2020-06-02,GO,Nova Glória,city,17,0,57,True,8164,5214861,208.23126,0.0000
+2020-06-01,GO,Nova Glória,city,11,0,56,False,8164,5214861,134.73787,0.0000
 2020-05-31,GO,Nova Glória,city,10,0,55,False,8164,5214861,122.48898,0.0000
 2020-05-30,GO,Nova Glória,city,10,0,54,False,8164,5214861,122.48898,0.0000
 2020-05-29,GO,Nova Glória,city,10,0,53,False,8164,5214861,122.48898,0.0000
@@ -3178,7 +3282,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,GO,Nova Glória,city,1,0,3,False,8164,5214861,12.24890,0.0000
 2020-04-08,GO,Nova Glória,city,1,0,2,False,8164,5214861,12.24890,0.0000
 2020-04-07,GO,Nova Glória,city,1,0,1,False,8164,5214861,12.24890,0.0000
-2020-06-01,GO,Nova Veneza,city,3,0,60,True,9853,5215009,30.44758,0.0000
+2020-06-02,GO,Nova Veneza,city,3,0,61,True,9853,5215009,30.44758,0.0000
+2020-06-01,GO,Nova Veneza,city,3,0,60,False,9853,5215009,30.44758,0.0000
 2020-05-31,GO,Nova Veneza,city,3,0,59,False,9853,5215009,30.44758,0.0000
 2020-05-30,GO,Nova Veneza,city,3,0,58,False,9853,5215009,30.44758,0.0000
 2020-05-29,GO,Nova Veneza,city,3,0,57,False,9853,5215009,30.44758,0.0000
@@ -3238,7 +3343,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,GO,Nova Veneza,city,1,0,3,False,9853,5215009,10.14919,0.0000
 2020-04-04,GO,Nova Veneza,city,1,0,2,False,9853,5215009,10.14919,0.0000
 2020-04-03,GO,Nova Veneza,city,1,0,1,False,9853,5215009,10.14919,0.0000
-2020-06-01,GO,Novo Gama,city,79,2,40,True,115711,5215231,68.27354,0.0253
+2020-06-02,GO,Novo Gama,city,90,6,41,True,115711,5215231,77.77999,0.0667
+2020-06-01,GO,Novo Gama,city,79,2,40,False,115711,5215231,68.27354,0.0253
 2020-05-31,GO,Novo Gama,city,64,2,39,False,115711,5215231,55.31021,0.0312
 2020-05-30,GO,Novo Gama,city,64,2,38,False,115711,5215231,55.31021,0.0312
 2020-05-29,GO,Novo Gama,city,65,2,37,False,115711,5215231,56.17443,0.0308
@@ -3278,7 +3384,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,GO,Novo Gama,city,1,0,3,False,115711,5215231,0.86422,0.0000
 2020-04-24,GO,Novo Gama,city,1,0,2,False,115711,5215231,0.86422,0.0000
 2020-04-23,GO,Novo Gama,city,1,0,1,False,115711,5215231,0.86422,0.0000
-2020-06-01,GO,Novo Planalto,city,1,0,10,True,4495,5215256,22.24694,0.0000
+2020-06-02,GO,Novo Planalto,city,1,0,11,True,4495,5215256,22.24694,0.0000
+2020-06-01,GO,Novo Planalto,city,1,0,10,False,4495,5215256,22.24694,0.0000
 2020-05-31,GO,Novo Planalto,city,1,0,9,False,4495,5215256,22.24694,0.0000
 2020-05-30,GO,Novo Planalto,city,1,0,8,False,4495,5215256,22.24694,0.0000
 2020-05-29,GO,Novo Planalto,city,1,0,7,False,4495,5215256,22.24694,0.0000
@@ -3288,7 +3395,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,GO,Novo Planalto,city,1,0,3,False,4495,5215256,22.24694,0.0000
 2020-05-24,GO,Novo Planalto,city,1,0,2,False,4495,5215256,22.24694,0.0000
 2020-05-23,GO,Novo Planalto,city,1,0,1,False,4495,5215256,22.24694,0.0000
-2020-06-01,GO,Padre Bernardo,city,51,0,22,True,33835,5215603,150.73149,0.0000
+2020-06-02,GO,Padre Bernardo,city,54,0,23,True,33835,5215603,159.59805,0.0000
+2020-06-01,GO,Padre Bernardo,city,51,0,22,False,33835,5215603,150.73149,0.0000
 2020-05-31,GO,Padre Bernardo,city,46,0,21,False,33835,5215603,135.95389,0.0000
 2020-05-30,GO,Padre Bernardo,city,46,0,20,False,33835,5215603,135.95389,0.0000
 2020-05-29,GO,Padre Bernardo,city,46,0,19,False,33835,5215603,135.95389,0.0000
@@ -3310,7 +3418,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,GO,Padre Bernardo,city,1,0,3,False,33835,5215603,2.95552,0.0000
 2020-05-12,GO,Padre Bernardo,city,1,0,2,False,33835,5215603,2.95552,0.0000
 2020-05-11,GO,Padre Bernardo,city,1,0,1,False,33835,5215603,2.95552,0.0000
-2020-06-01,GO,Palmeiras de Goiás,city,10,1,22,True,28858,5215702,34.65244,0.1000
+2020-06-02,GO,Palmeiras de Goiás,city,10,1,23,True,28858,5215702,34.65244,0.1000
+2020-06-01,GO,Palmeiras de Goiás,city,10,1,22,False,28858,5215702,34.65244,0.1000
 2020-05-31,GO,Palmeiras de Goiás,city,10,1,21,False,28858,5215702,34.65244,0.1000
 2020-05-30,GO,Palmeiras de Goiás,city,10,1,20,False,28858,5215702,34.65244,0.1000
 2020-05-29,GO,Palmeiras de Goiás,city,9,1,19,False,28858,5215702,31.18719,0.1111
@@ -3332,7 +3441,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,GO,Palmeiras de Goiás,city,4,0,3,False,28858,5215702,13.86097,0.0000
 2020-05-12,GO,Palmeiras de Goiás,city,4,0,2,False,28858,5215702,13.86097,0.0000
 2020-05-11,GO,Palmeiras de Goiás,city,4,0,1,False,28858,5215702,13.86097,0.0000
-2020-06-01,GO,Palminópolis,city,1,1,25,True,3585,5215900,27.89400,1.0000
+2020-06-02,GO,Palminópolis,city,1,1,26,True,3585,5215900,27.89400,1.0000
+2020-06-01,GO,Palminópolis,city,1,1,25,False,3585,5215900,27.89400,1.0000
 2020-05-31,GO,Palminópolis,city,1,1,24,False,3585,5215900,27.89400,1.0000
 2020-05-30,GO,Palminópolis,city,1,1,23,False,3585,5215900,27.89400,1.0000
 2020-05-29,GO,Palminópolis,city,1,1,22,False,3585,5215900,27.89400,1.0000
@@ -3357,7 +3467,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,GO,Palminópolis,city,1,0,3,False,3585,5215900,27.89400,0.0000
 2020-05-09,GO,Palminópolis,city,1,0,2,False,3585,5215900,27.89400,0.0000
 2020-05-08,GO,Palminópolis,city,1,0,1,False,3585,5215900,27.89400,0.0000
-2020-06-01,GO,Paranaiguara,city,2,0,63,True,10057,5216304,19.88665,0.0000
+2020-06-02,GO,Paranaiguara,city,3,0,64,True,10057,5216304,29.82997,0.0000
+2020-06-01,GO,Paranaiguara,city,2,0,63,False,10057,5216304,19.88665,0.0000
 2020-05-31,GO,Paranaiguara,city,1,0,62,False,10057,5216304,9.94332,0.0000
 2020-05-30,GO,Paranaiguara,city,1,0,61,False,10057,5216304,9.94332,0.0000
 2020-05-29,GO,Paranaiguara,city,1,0,60,False,10057,5216304,9.94332,0.0000
@@ -3420,7 +3531,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,GO,Paranaiguara,city,1,0,3,False,10057,5216304,9.94332,0.0000
 2020-04-01,GO,Paranaiguara,city,1,0,2,False,10057,5216304,9.94332,0.0000
 2020-03-31,GO,Paranaiguara,city,1,0,1,False,10057,5216304,9.94332,0.0000
-2020-06-01,GO,Paraúna,city,11,2,50,True,10988,5216403,100.10921,0.1818
+2020-06-02,GO,Paraúna,city,14,2,51,True,10988,5216403,127.41172,0.1429
+2020-06-01,GO,Paraúna,city,11,2,50,False,10988,5216403,100.10921,0.1818
 2020-05-31,GO,Paraúna,city,10,2,49,False,10988,5216403,91.00837,0.2000
 2020-05-30,GO,Paraúna,city,10,2,48,False,10988,5216403,91.00837,0.2000
 2020-05-29,GO,Paraúna,city,6,2,47,False,10988,5216403,54.60502,0.3333
@@ -3470,7 +3582,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,GO,Paraúna,city,1,1,3,False,10988,5216403,9.10084,1.0000
 2020-04-14,GO,Paraúna,city,1,1,2,False,10988,5216403,9.10084,1.0000
 2020-04-13,GO,Paraúna,city,1,1,1,False,10988,5216403,9.10084,1.0000
-2020-06-01,GO,Piracanjuba,city,16,1,26,True,24524,5217104,65.24221,0.0625
+2020-06-02,GO,Piracanjuba,city,15,1,27,True,24524,5217104,61.16457,0.0667
+2020-06-01,GO,Piracanjuba,city,16,1,26,False,24524,5217104,65.24221,0.0625
 2020-05-31,GO,Piracanjuba,city,14,1,25,False,24524,5217104,57.08694,0.0714
 2020-05-30,GO,Piracanjuba,city,14,1,24,False,24524,5217104,57.08694,0.0714
 2020-05-29,GO,Piracanjuba,city,14,1,23,False,24524,5217104,57.08694,0.0714
@@ -3496,7 +3609,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,GO,Piracanjuba,city,2,1,3,False,24524,5217104,8.15528,0.5000
 2020-05-08,GO,Piracanjuba,city,2,1,2,False,24524,5217104,8.15528,0.5000
 2020-05-07,GO,Piracanjuba,city,1,0,1,False,24524,5217104,4.07764,0.0000
-2020-06-01,GO,Piranhas,city,3,0,11,True,10385,5217203,28.88782,0.0000
+2020-06-02,GO,Piranhas,city,3,0,12,True,10385,5217203,28.88782,0.0000
+2020-06-01,GO,Piranhas,city,3,0,11,False,10385,5217203,28.88782,0.0000
 2020-05-31,GO,Piranhas,city,3,0,10,False,10385,5217203,28.88782,0.0000
 2020-05-30,GO,Piranhas,city,3,0,9,False,10385,5217203,28.88782,0.0000
 2020-05-29,GO,Piranhas,city,3,0,8,False,10385,5217203,28.88782,0.0000
@@ -3507,7 +3621,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,GO,Piranhas,city,3,0,3,False,10385,5217203,28.88782,0.0000
 2020-05-23,GO,Piranhas,city,3,0,2,False,10385,5217203,28.88782,0.0000
 2020-05-22,GO,Piranhas,city,3,0,1,False,10385,5217203,28.88782,0.0000
-2020-06-01,GO,Pirenópolis,city,5,0,51,True,24908,5217302,20.07387,0.0000
+2020-06-02,GO,Pirenópolis,city,5,0,52,True,24908,5217302,20.07387,0.0000
+2020-06-01,GO,Pirenópolis,city,5,0,51,False,24908,5217302,20.07387,0.0000
 2020-05-31,GO,Pirenópolis,city,5,0,50,False,24908,5217302,20.07387,0.0000
 2020-05-30,GO,Pirenópolis,city,5,0,49,False,24908,5217302,20.07387,0.0000
 2020-05-29,GO,Pirenópolis,city,5,0,48,False,24908,5217302,20.07387,0.0000
@@ -3558,7 +3673,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,GO,Pirenópolis,city,0,0,3,False,24908,5217302,,0.0000
 2020-04-13,GO,Pirenópolis,city,0,0,2,False,24908,5217302,,0.0000
 2020-04-12,GO,Pirenópolis,city,1,0,1,False,24908,5217302,4.01477,0.0000
-2020-06-01,GO,Pires do Rio,city,6,1,55,True,31458,5217401,19.07305,0.1667
+2020-06-02,GO,Pires do Rio,city,8,1,56,True,31458,5217401,25.43073,0.1250
+2020-06-01,GO,Pires do Rio,city,6,1,55,False,31458,5217401,19.07305,0.1667
 2020-05-31,GO,Pires do Rio,city,6,1,54,False,31458,5217401,19.07305,0.1667
 2020-05-30,GO,Pires do Rio,city,6,1,53,False,31458,5217401,19.07305,0.1667
 2020-05-29,GO,Pires do Rio,city,6,1,52,False,31458,5217401,19.07305,0.1667
@@ -3613,7 +3729,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,GO,Pires do Rio,city,1,1,3,False,31458,5217401,3.17884,1.0000
 2020-04-09,GO,Pires do Rio,city,1,1,2,False,31458,5217401,3.17884,1.0000
 2020-04-08,GO,Pires do Rio,city,1,1,1,False,31458,5217401,3.17884,1.0000
-2020-06-01,GO,Planaltina,city,30,5,43,True,89918,5217609,33.36373,0.1667
+2020-06-02,GO,Planaltina,city,76,7,44,True,89918,5217609,84.52145,0.0921
+2020-06-01,GO,Planaltina,city,30,5,43,False,89918,5217609,33.36373,0.1667
 2020-05-31,GO,Planaltina,city,28,5,42,False,89918,5217609,31.13948,0.1786
 2020-05-30,GO,Planaltina,city,28,5,41,False,89918,5217609,31.13948,0.1786
 2020-05-29,GO,Planaltina,city,28,5,40,False,89918,5217609,31.13948,0.1786
@@ -3656,7 +3773,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-22,GO,Planaltina,city,1,1,3,False,89918,5217609,1.11212,1.0000
 2020-04-21,GO,Planaltina,city,1,0,2,False,89918,5217609,1.11212,0.0000
 2020-04-20,GO,Planaltina,city,1,0,1,False,89918,5217609,1.11212,0.0000
-2020-06-01,GO,Porangatu,city,16,1,22,True,45394,5218003,35.24695,0.0625
+2020-06-02,GO,Porangatu,city,17,1,23,True,45394,5218003,37.44988,0.0588
+2020-06-01,GO,Porangatu,city,16,1,22,False,45394,5218003,35.24695,0.0625
 2020-05-31,GO,Porangatu,city,16,1,21,False,45394,5218003,35.24695,0.0625
 2020-05-30,GO,Porangatu,city,16,1,20,False,45394,5218003,35.24695,0.0625
 2020-05-29,GO,Porangatu,city,16,1,19,False,45394,5218003,35.24695,0.0625
@@ -3678,7 +3796,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,GO,Porangatu,city,1,0,3,False,45394,5218003,2.20293,0.0000
 2020-05-12,GO,Porangatu,city,1,0,2,False,45394,5218003,2.20293,0.0000
 2020-05-11,GO,Porangatu,city,1,0,1,False,45394,5218003,2.20293,0.0000
-2020-06-01,GO,Portelândia,city,1,0,14,True,4011,5218102,24.93144,0.0000
+2020-06-02,GO,Portelândia,city,1,0,15,True,4011,5218102,24.93144,0.0000
+2020-06-01,GO,Portelândia,city,1,0,14,False,4011,5218102,24.93144,0.0000
 2020-05-31,GO,Portelândia,city,1,0,13,False,4011,5218102,24.93144,0.0000
 2020-05-30,GO,Portelândia,city,1,0,12,False,4011,5218102,24.93144,0.0000
 2020-05-29,GO,Portelândia,city,1,0,11,False,4011,5218102,24.93144,0.0000
@@ -3692,11 +3811,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,GO,Portelândia,city,1,0,3,False,4011,5218102,24.93144,0.0000
 2020-05-20,GO,Portelândia,city,1,0,2,False,4011,5218102,24.93144,0.0000
 2020-05-19,GO,Portelândia,city,1,0,1,False,4011,5218102,24.93144,0.0000
-2020-06-01,GO,Posse,city,2,0,4,True,36900,5218300,5.42005,0.0000
+2020-06-02,GO,Posse,city,2,0,5,True,36900,5218300,5.42005,0.0000
+2020-06-01,GO,Posse,city,2,0,4,False,36900,5218300,5.42005,0.0000
 2020-05-31,GO,Posse,city,2,0,3,False,36900,5218300,5.42005,0.0000
 2020-05-30,GO,Posse,city,2,0,2,False,36900,5218300,5.42005,0.0000
 2020-05-29,GO,Posse,city,2,0,1,False,36900,5218300,5.42005,0.0000
-2020-06-01,GO,Professor Jamil,city,6,2,53,True,3223,5218391,186.16196,0.3333
+2020-06-02,GO,Professor Jamil,city,6,2,54,True,3223,5218391,186.16196,0.3333
+2020-06-01,GO,Professor Jamil,city,6,2,53,False,3223,5218391,186.16196,0.3333
 2020-05-31,GO,Professor Jamil,city,6,2,52,False,3223,5218391,186.16196,0.3333
 2020-05-30,GO,Professor Jamil,city,6,2,51,False,3223,5218391,186.16196,0.3333
 2020-05-29,GO,Professor Jamil,city,6,2,50,False,3223,5218391,186.16196,0.3333
@@ -3749,7 +3870,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-12,GO,Professor Jamil,city,1,0,3,False,3223,5218391,31.02699,0.0000
 2020-04-11,GO,Professor Jamil,city,1,0,2,False,3223,5218391,31.02699,0.0000
 2020-04-10,GO,Professor Jamil,city,1,0,1,False,3223,5218391,31.02699,0.0000
-2020-06-01,GO,Quirinópolis,city,12,0,20,True,50065,5218508,23.96884,0.0000
+2020-06-02,GO,Quirinópolis,city,13,0,21,True,50065,5218508,25.96624,0.0000
+2020-06-01,GO,Quirinópolis,city,12,0,20,False,50065,5218508,23.96884,0.0000
 2020-05-31,GO,Quirinópolis,city,12,0,19,False,50065,5218508,23.96884,0.0000
 2020-05-30,GO,Quirinópolis,city,12,0,18,False,50065,5218508,23.96884,0.0000
 2020-05-29,GO,Quirinópolis,city,12,0,17,False,50065,5218508,23.96884,0.0000
@@ -3769,7 +3891,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,GO,Quirinópolis,city,1,0,3,False,50065,5218508,1.99740,0.0000
 2020-05-14,GO,Quirinópolis,city,1,0,2,False,50065,5218508,1.99740,0.0000
 2020-05-13,GO,Quirinópolis,city,1,0,1,False,50065,5218508,1.99740,0.0000
-2020-06-01,GO,Rialma,city,19,0,52,True,10918,5218607,174.02455,0.0000
+2020-06-02,GO,Rialma,city,20,0,53,True,10918,5218607,183.18373,0.0000
+2020-06-01,GO,Rialma,city,19,0,52,False,10918,5218607,174.02455,0.0000
 2020-05-31,GO,Rialma,city,19,0,51,False,10918,5218607,174.02455,0.0000
 2020-05-30,GO,Rialma,city,19,0,50,False,10918,5218607,174.02455,0.0000
 2020-05-29,GO,Rialma,city,19,0,49,False,10918,5218607,174.02455,0.0000
@@ -3821,7 +3944,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,GO,Rialma,city,2,0,3,False,10918,5218607,18.31837,0.0000
 2020-04-12,GO,Rialma,city,2,0,2,False,10918,5218607,18.31837,0.0000
 2020-04-11,GO,Rialma,city,2,0,1,False,10918,5218607,18.31837,0.0000
-2020-06-01,GO,Rianápolis,city,1,0,13,True,4801,5218706,20.82899,0.0000
+2020-06-02,GO,Rianápolis,city,1,0,14,True,4801,5218706,20.82899,0.0000
+2020-06-01,GO,Rianápolis,city,1,0,13,False,4801,5218706,20.82899,0.0000
 2020-05-31,GO,Rianápolis,city,1,0,12,False,4801,5218706,20.82899,0.0000
 2020-05-30,GO,Rianápolis,city,1,0,11,False,4801,5218706,20.82899,0.0000
 2020-05-29,GO,Rianápolis,city,1,0,10,False,4801,5218706,20.82899,0.0000
@@ -3834,7 +3958,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,GO,Rianápolis,city,1,0,3,False,4801,5218706,20.82899,0.0000
 2020-05-21,GO,Rianápolis,city,1,0,2,False,4801,5218706,20.82899,0.0000
 2020-05-20,GO,Rianápolis,city,1,0,1,False,4801,5218706,20.82899,0.0000
-2020-06-01,GO,Rio Verde,city,109,2,81,True,235647,5218805,46.25563,0.0183
+2020-06-02,GO,Rio Verde,city,149,2,82,True,235647,5218805,63.23017,0.0134
+2020-06-01,GO,Rio Verde,city,109,2,81,False,235647,5218805,46.25563,0.0183
 2020-05-31,GO,Rio Verde,city,92,2,80,False,235647,5218805,39.04145,0.0217
 2020-05-30,GO,Rio Verde,city,77,2,79,False,235647,5218805,32.67599,0.0260
 2020-05-29,GO,Rio Verde,city,80,2,78,False,235647,5218805,33.94908,0.0250
@@ -3915,11 +4040,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-14,GO,Rio Verde,city,1,0,3,False,235647,5218805,0.42436,0.0000
 2020-03-13,GO,Rio Verde,city,1,0,2,False,235647,5218805,0.42436,0.0000
 2020-03-12,GO,Rio Verde,city,1,0,1,False,235647,5218805,0.42436,0.0000
-2020-06-01,GO,Rubiataba,city,1,0,4,True,19882,5218904,5.02968,0.0000
+2020-06-02,GO,Rubiataba,city,2,1,5,True,19882,5218904,10.05935,0.5000
+2020-06-01,GO,Rubiataba,city,1,0,4,False,19882,5218904,5.02968,0.0000
 2020-05-31,GO,Rubiataba,city,1,0,3,False,19882,5218904,5.02968,0.0000
 2020-05-30,GO,Rubiataba,city,1,0,2,False,19882,5218904,5.02968,0.0000
 2020-05-29,GO,Rubiataba,city,1,0,1,False,19882,5218904,5.02968,0.0000
-2020-06-01,GO,Santa Fé de Goiás,city,1,0,33,True,5459,5219258,18.31837,0.0000
+2020-06-02,GO,Santa Fé de Goiás,city,1,0,34,True,5459,5219258,18.31837,0.0000
+2020-06-01,GO,Santa Fé de Goiás,city,1,0,33,False,5459,5219258,18.31837,0.0000
 2020-05-31,GO,Santa Fé de Goiás,city,1,0,32,False,5459,5219258,18.31837,0.0000
 2020-05-30,GO,Santa Fé de Goiás,city,1,0,31,False,5459,5219258,18.31837,0.0000
 2020-05-29,GO,Santa Fé de Goiás,city,1,0,30,False,5459,5219258,18.31837,0.0000
@@ -3952,7 +4079,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,GO,Santa Fé de Goiás,city,1,0,3,False,5459,5219258,18.31837,0.0000
 2020-05-01,GO,Santa Fé de Goiás,city,1,0,2,False,5459,5219258,18.31837,0.0000
 2020-04-30,GO,Santa Fé de Goiás,city,1,0,1,False,5459,5219258,18.31837,0.0000
-2020-06-01,GO,Santa Helena de Goiás,city,15,0,38,True,38648,5219308,38.81184,0.0000
+2020-06-02,GO,Santa Helena de Goiás,city,17,0,39,True,38648,5219308,43.98675,0.0000
+2020-06-01,GO,Santa Helena de Goiás,city,15,0,38,False,38648,5219308,38.81184,0.0000
 2020-05-31,GO,Santa Helena de Goiás,city,14,0,37,False,38648,5219308,36.22438,0.0000
 2020-05-30,GO,Santa Helena de Goiás,city,10,0,36,False,38648,5219308,25.87456,0.0000
 2020-05-29,GO,Santa Helena de Goiás,city,10,0,35,False,38648,5219308,25.87456,0.0000
@@ -3990,7 +4118,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-27,GO,Santa Helena de Goiás,city,1,0,3,False,38648,5219308,2.58746,0.0000
 2020-04-26,GO,Santa Helena de Goiás,city,1,0,2,False,38648,5219308,2.58746,0.0000
 2020-04-25,GO,Santa Helena de Goiás,city,1,0,1,False,38648,5219308,2.58746,0.0000
-2020-06-01,GO,Santa Rita do Araguaia,city,1,0,15,True,8756,5219407,11.42074,0.0000
+2020-06-02,GO,Santa Rita do Araguaia,city,1,0,16,True,8756,5219407,11.42074,0.0000
+2020-06-01,GO,Santa Rita do Araguaia,city,1,0,15,False,8756,5219407,11.42074,0.0000
 2020-05-31,GO,Santa Rita do Araguaia,city,1,0,14,False,8756,5219407,11.42074,0.0000
 2020-05-30,GO,Santa Rita do Araguaia,city,1,0,13,False,8756,5219407,11.42074,0.0000
 2020-05-29,GO,Santa Rita do Araguaia,city,1,0,12,False,8756,5219407,11.42074,0.0000
@@ -4005,12 +4134,16 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,GO,Santa Rita do Araguaia,city,1,0,3,False,8756,5219407,11.42074,0.0000
 2020-05-19,GO,Santa Rita do Araguaia,city,1,0,2,False,8756,5219407,11.42074,0.0000
 2020-05-18,GO,Santa Rita do Araguaia,city,1,0,1,False,8756,5219407,11.42074,0.0000
-2020-06-01,GO,Santa Rosa de Goiás,city,1,0,1,True,2319,5219506,43.12204,0.0000
-2020-06-01,GO,Santa Terezinha de Goiás,city,1,0,4,True,8744,5219704,11.43641,0.0000
+2020-06-02,GO,Santa Rita do Novo Destino,city,1,0,1,True,3343,5219456,29.91325,0.0000
+2020-06-02,GO,Santa Rosa de Goiás,city,2,1,2,True,2319,5219506,86.24407,0.5000
+2020-06-01,GO,Santa Rosa de Goiás,city,1,0,1,False,2319,5219506,43.12204,0.0000
+2020-06-02,GO,Santa Terezinha de Goiás,city,1,0,5,True,8744,5219704,11.43641,0.0000
+2020-06-01,GO,Santa Terezinha de Goiás,city,1,0,4,False,8744,5219704,11.43641,0.0000
 2020-05-31,GO,Santa Terezinha de Goiás,city,1,0,3,False,8744,5219704,11.43641,0.0000
 2020-05-30,GO,Santa Terezinha de Goiás,city,1,0,2,False,8744,5219704,11.43641,0.0000
 2020-05-29,GO,Santa Terezinha de Goiás,city,1,0,1,False,8744,5219704,11.43641,0.0000
-2020-06-01,GO,Santo Antônio de Goiás,city,1,1,22,True,6283,5219738,15.91596,1.0000
+2020-06-02,GO,Santo Antônio de Goiás,city,1,1,23,True,6283,5219738,15.91596,1.0000
+2020-06-01,GO,Santo Antônio de Goiás,city,1,1,22,False,6283,5219738,15.91596,1.0000
 2020-05-31,GO,Santo Antônio de Goiás,city,1,1,21,False,6283,5219738,15.91596,1.0000
 2020-05-30,GO,Santo Antônio de Goiás,city,1,1,20,False,6283,5219738,15.91596,1.0000
 2020-05-29,GO,Santo Antônio de Goiás,city,1,1,19,False,6283,5219738,15.91596,1.0000
@@ -4032,7 +4165,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,GO,Santo Antônio de Goiás,city,1,0,3,False,6283,5219738,15.91596,0.0000
 2020-05-12,GO,Santo Antônio de Goiás,city,1,0,2,False,6283,5219738,15.91596,0.0000
 2020-05-11,GO,Santo Antônio de Goiás,city,1,0,1,False,6283,5219738,15.91596,0.0000
-2020-06-01,GO,Santo Antônio do Descoberto,city,27,2,48,True,74744,5219753,36.12330,0.0741
+2020-06-02,GO,Santo Antônio do Descoberto,city,105,3,49,True,74744,5219753,140.47950,0.0286
+2020-06-01,GO,Santo Antônio do Descoberto,city,27,2,48,False,74744,5219753,36.12330,0.0741
 2020-05-31,GO,Santo Antônio do Descoberto,city,25,2,47,False,74744,5219753,33.44750,0.0800
 2020-05-30,GO,Santo Antônio do Descoberto,city,25,2,46,False,74744,5219753,33.44750,0.0800
 2020-05-29,GO,Santo Antônio do Descoberto,city,23,2,45,False,74744,5219753,30.77170,0.0870
@@ -4080,7 +4214,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,GO,Santo Antônio do Descoberto,city,1,0,3,False,74744,5219753,1.33790,0.0000
 2020-04-16,GO,Santo Antônio do Descoberto,city,1,0,2,False,74744,5219753,1.33790,0.0000
 2020-04-15,GO,Santo Antônio do Descoberto,city,1,0,1,False,74744,5219753,1.33790,0.0000
-2020-06-01,GO,Senador Canedo,city,72,2,60,True,115371,5220454,62.40736,0.0278
+2020-06-02,GO,Senador Canedo,city,76,2,61,True,115371,5220454,65.87444,0.0263
+2020-06-01,GO,Senador Canedo,city,72,2,60,False,115371,5220454,62.40736,0.0278
 2020-05-31,GO,Senador Canedo,city,68,2,59,False,115371,5220454,58.94029,0.0294
 2020-05-30,GO,Senador Canedo,city,68,2,58,False,115371,5220454,58.94029,0.0294
 2020-05-29,GO,Senador Canedo,city,72,2,57,False,115371,5220454,62.40736,0.0278
@@ -4140,7 +4275,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,GO,Senador Canedo,city,1,0,3,False,115371,5220454,0.86677,0.0000
 2020-04-04,GO,Senador Canedo,city,1,0,2,False,115371,5220454,0.86677,0.0000
 2020-04-03,GO,Senador Canedo,city,1,0,1,False,115371,5220454,0.86677,0.0000
-2020-06-01,GO,Serranópolis,city,1,0,8,True,8544,5220504,11.70412,0.0000
+2020-06-02,GO,Serranópolis,city,1,0,9,True,8544,5220504,11.70412,0.0000
+2020-06-01,GO,Serranópolis,city,1,0,8,False,8544,5220504,11.70412,0.0000
 2020-05-31,GO,Serranópolis,city,1,0,7,False,8544,5220504,11.70412,0.0000
 2020-05-30,GO,Serranópolis,city,1,0,6,False,8544,5220504,11.70412,0.0000
 2020-05-29,GO,Serranópolis,city,1,0,5,False,8544,5220504,11.70412,0.0000
@@ -4148,7 +4284,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-27,GO,Serranópolis,city,1,0,3,False,8544,5220504,11.70412,0.0000
 2020-05-26,GO,Serranópolis,city,1,0,2,False,8544,5220504,11.70412,0.0000
 2020-05-25,GO,Serranópolis,city,1,0,1,False,8544,5220504,11.70412,0.0000
-2020-06-01,GO,Silvânia,city,3,0,69,True,20695,5220603,14.49626,0.0000
+2020-06-02,GO,Silvânia,city,4,0,70,True,20695,5220603,19.32834,0.0000
+2020-06-01,GO,Silvânia,city,3,0,69,False,20695,5220603,14.49626,0.0000
 2020-05-31,GO,Silvânia,city,1,0,68,False,20695,5220603,4.83209,0.0000
 2020-05-30,GO,Silvânia,city,1,0,67,False,20695,5220603,4.83209,0.0000
 2020-05-29,GO,Silvânia,city,1,0,66,False,20695,5220603,4.83209,0.0000
@@ -4217,7 +4354,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,GO,Silvânia,city,1,0,3,False,20695,5220603,4.83209,0.0000
 2020-03-26,GO,Silvânia,city,1,0,2,False,20695,5220603,4.83209,0.0000
 2020-03-25,GO,Silvânia,city,1,0,1,False,20695,5220603,4.83209,0.0000
-2020-06-01,GO,São João d'Aliança,city,2,1,8,True,13740,5220009,14.55604,0.5000
+2020-06-02,GO,São João d'Aliança,city,3,1,9,True,13740,5220009,21.83406,0.3333
+2020-06-01,GO,São João d'Aliança,city,2,1,8,False,13740,5220009,14.55604,0.5000
 2020-05-31,GO,São João d'Aliança,city,2,1,7,False,13740,5220009,14.55604,0.5000
 2020-05-30,GO,São João d'Aliança,city,2,1,6,False,13740,5220009,14.55604,0.5000
 2020-05-29,GO,São João d'Aliança,city,2,1,5,False,13740,5220009,14.55604,0.5000
@@ -4225,7 +4363,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-27,GO,São João d'Aliança,city,2,1,3,False,13740,5220009,14.55604,0.5000
 2020-05-26,GO,São João d'Aliança,city,3,1,2,False,13740,5220009,21.83406,0.3333
 2020-05-25,GO,São João d'Aliança,city,1,0,1,False,13740,5220009,7.27802,0.0000
-2020-06-01,GO,São Luís de Montes Belos,city,6,0,60,True,33817,5220108,17.74256,0.0000
+2020-06-02,GO,São Luís de Montes Belos,city,6,0,61,True,33817,5220108,17.74256,0.0000
+2020-06-01,GO,São Luís de Montes Belos,city,6,0,60,False,33817,5220108,17.74256,0.0000
 2020-05-31,GO,São Luís de Montes Belos,city,6,0,59,False,33817,5220108,17.74256,0.0000
 2020-05-30,GO,São Luís de Montes Belos,city,4,0,58,False,33817,5220108,11.82837,0.0000
 2020-05-29,GO,São Luís de Montes Belos,city,4,0,57,False,33817,5220108,11.82837,0.0000
@@ -4285,11 +4424,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,GO,São Luís de Montes Belos,city,1,0,3,False,33817,5220108,2.95709,0.0000
 2020-04-04,GO,São Luís de Montes Belos,city,1,0,2,False,33817,5220108,2.95709,0.0000
 2020-04-03,GO,São Luís de Montes Belos,city,1,0,1,False,33817,5220108,2.95709,0.0000
-2020-06-01,GO,São Miguel do Araguaia,city,2,0,4,True,21993,5220207,9.09380,0.0000
+2020-06-02,GO,São Miguel do Araguaia,city,2,0,5,True,21993,5220207,9.09380,0.0000
+2020-06-01,GO,São Miguel do Araguaia,city,2,0,4,False,21993,5220207,9.09380,0.0000
 2020-05-31,GO,São Miguel do Araguaia,city,2,0,3,False,21993,5220207,9.09380,0.0000
 2020-05-30,GO,São Miguel do Araguaia,city,2,0,2,False,21993,5220207,9.09380,0.0000
 2020-05-29,GO,São Miguel do Araguaia,city,2,0,1,False,21993,5220207,9.09380,0.0000
-2020-06-01,GO,São Simão,city,7,0,19,True,20645,5220405,33.90651,0.0000
+2020-06-02,GO,São Simão,city,8,0,20,True,20645,5220405,38.75030,0.0000
+2020-06-01,GO,São Simão,city,7,0,19,False,20645,5220405,33.90651,0.0000
 2020-05-31,GO,São Simão,city,7,0,18,False,20645,5220405,33.90651,0.0000
 2020-05-30,GO,São Simão,city,7,0,17,False,20645,5220405,33.90651,0.0000
 2020-05-29,GO,São Simão,city,7,0,16,False,20645,5220405,33.90651,0.0000
@@ -4308,7 +4449,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,GO,São Simão,city,1,0,3,False,20645,5220405,4.84379,0.0000
 2020-05-15,GO,São Simão,city,1,0,2,False,20645,5220405,4.84379,0.0000
 2020-05-14,GO,São Simão,city,1,0,1,False,20645,5220405,4.84379,0.0000
-2020-06-01,GO,Terezópolis de Goiás,city,3,0,10,True,8043,5221197,37.29952,0.0000
+2020-06-02,GO,Terezópolis de Goiás,city,3,0,11,True,8043,5221197,37.29952,0.0000
+2020-06-01,GO,Terezópolis de Goiás,city,3,0,10,False,8043,5221197,37.29952,0.0000
 2020-05-31,GO,Terezópolis de Goiás,city,2,0,9,False,8043,5221197,24.86634,0.0000
 2020-05-30,GO,Terezópolis de Goiás,city,2,0,8,False,8043,5221197,24.86634,0.0000
 2020-05-29,GO,Terezópolis de Goiás,city,2,0,7,False,8043,5221197,24.86634,0.0000
@@ -4318,7 +4460,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,GO,Terezópolis de Goiás,city,1,0,3,False,8043,5221197,12.43317,0.0000
 2020-05-24,GO,Terezópolis de Goiás,city,1,0,2,False,8043,5221197,12.43317,0.0000
 2020-05-23,GO,Terezópolis de Goiás,city,1,0,1,False,8043,5221197,12.43317,0.0000
-2020-06-01,GO,Trindade,city,52,2,62,True,127599,5221403,40.75267,0.0385
+2020-06-02,GO,Trindade,city,53,2,63,True,127599,5221403,41.53638,0.0377
+2020-06-01,GO,Trindade,city,52,2,62,False,127599,5221403,40.75267,0.0385
 2020-05-31,GO,Trindade,city,51,2,61,False,127599,5221403,39.96897,0.0392
 2020-05-30,GO,Trindade,city,46,2,60,False,127599,5221403,36.05044,0.0435
 2020-05-29,GO,Trindade,city,45,2,59,False,127599,5221403,35.26673,0.0444
@@ -4380,11 +4523,13 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,GO,Trindade,city,1,0,3,False,127599,5221403,0.78371,0.0000
 2020-04-02,GO,Trindade,city,1,0,2,False,127599,5221403,0.78371,0.0000
 2020-04-01,GO,Trindade,city,1,0,1,False,127599,5221403,0.78371,0.0000
-2020-06-01,GO,Turvânia,city,2,0,4,True,4598,5221502,43.49717,0.0000
+2020-06-02,GO,Turvânia,city,2,0,5,True,4598,5221502,43.49717,0.0000
+2020-06-01,GO,Turvânia,city,2,0,4,False,4598,5221502,43.49717,0.0000
 2020-05-31,GO,Turvânia,city,2,0,3,False,4598,5221502,43.49717,0.0000
 2020-05-30,GO,Turvânia,city,2,0,2,False,4598,5221502,43.49717,0.0000
 2020-05-29,GO,Turvânia,city,2,0,1,False,4598,5221502,43.49717,0.0000
-2020-06-01,GO,Uruana,city,0,0,11,True,13843,5221700,,0.0000
+2020-06-02,GO,Uruana,city,1,0,12,True,13843,5221700,7.22387,0.0000
+2020-06-01,GO,Uruana,city,0,0,11,False,13843,5221700,,0.0000
 2020-05-31,GO,Uruana,city,0,0,10,False,13843,5221700,,0.0000
 2020-05-30,GO,Uruana,city,0,0,9,False,13843,5221700,,0.0000
 2020-05-29,GO,Uruana,city,0,0,8,False,13843,5221700,,0.0000
@@ -4395,7 +4540,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,GO,Uruana,city,1,0,3,False,13843,5221700,7.22387,0.0000
 2020-05-23,GO,Uruana,city,1,0,2,False,13843,5221700,7.22387,0.0000
 2020-05-22,GO,Uruana,city,1,0,1,False,13843,5221700,7.22387,0.0000
-2020-06-01,GO,Uruaçu,city,22,0,51,True,40532,5221601,54.27810,0.0000
+2020-06-02,GO,Uruaçu,city,23,0,52,True,40532,5221601,56.74529,0.0000
+2020-06-01,GO,Uruaçu,city,22,0,51,False,40532,5221601,54.27810,0.0000
 2020-05-31,GO,Uruaçu,city,18,0,50,False,40532,5221601,44.40936,0.0000
 2020-05-30,GO,Uruaçu,city,18,0,49,False,40532,5221601,44.40936,0.0000
 2020-05-29,GO,Uruaçu,city,18,0,48,False,40532,5221601,44.40936,0.0000
@@ -4446,7 +4592,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,GO,Uruaçu,city,0,0,3,False,40532,5221601,,0.0000
 2020-04-13,GO,Uruaçu,city,0,0,2,False,40532,5221601,,0.0000
 2020-04-12,GO,Uruaçu,city,1,0,1,False,40532,5221601,2.46719,0.0000
-2020-06-01,GO,Urutaí,city,2,0,36,True,3072,5221809,65.10417,0.0000
+2020-06-02,GO,Urutaí,city,2,0,37,True,3072,5221809,65.10417,0.0000
+2020-06-01,GO,Urutaí,city,2,0,36,False,3072,5221809,65.10417,0.0000
 2020-05-31,GO,Urutaí,city,2,0,35,False,3072,5221809,65.10417,0.0000
 2020-05-30,GO,Urutaí,city,2,0,34,False,3072,5221809,65.10417,0.0000
 2020-05-29,GO,Urutaí,city,2,0,33,False,3072,5221809,65.10417,0.0000
@@ -4482,7 +4629,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-29,GO,Urutaí,city,0,0,3,False,3072,5221809,,0.0000
 2020-04-28,GO,Urutaí,city,0,0,2,False,3072,5221809,,0.0000
 2020-04-27,GO,Urutaí,city,1,0,1,False,3072,5221809,32.55208,0.0000
-2020-06-01,GO,Valparaíso de Goiás,city,135,2,70,True,168468,5221858,80.13391,0.0148
+2020-06-02,GO,Valparaíso de Goiás,city,150,3,71,True,168468,5221858,89.03768,0.0200
+2020-06-01,GO,Valparaíso de Goiás,city,135,2,70,False,168468,5221858,80.13391,0.0148
 2020-05-31,GO,Valparaíso de Goiás,city,130,2,69,False,168468,5221858,77.16599,0.0154
 2020-05-30,GO,Valparaíso de Goiás,city,130,2,68,False,168468,5221858,77.16599,0.0154
 2020-05-29,GO,Valparaíso de Goiás,city,115,2,67,False,168468,5221858,68.26222,0.0174
@@ -4552,7 +4700,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,GO,Valparaíso de Goiás,city,2,0,3,False,168468,5221858,1.18717,0.0000
 2020-03-25,GO,Valparaíso de Goiás,city,2,0,2,False,168468,5221858,1.18717,0.0000
 2020-03-24,GO,Valparaíso de Goiás,city,2,0,1,False,168468,5221858,1.18717,0.0000
-2020-06-01,GO,Vianópolis,city,2,0,56,True,13863,5222005,14.42689,0.0000
+2020-06-02,GO,Vianópolis,city,2,0,57,True,13863,5222005,14.42689,0.0000
+2020-06-01,GO,Vianópolis,city,2,0,56,False,13863,5222005,14.42689,0.0000
 2020-05-31,GO,Vianópolis,city,1,0,55,False,13863,5222005,7.21345,0.0000
 2020-05-30,GO,Vianópolis,city,1,0,54,False,13863,5222005,7.21345,0.0000
 2020-05-29,GO,Vianópolis,city,1,0,53,False,13863,5222005,7.21345,0.0000
@@ -4608,7 +4757,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,GO,Vianópolis,city,1,0,3,False,13863,5222005,7.21345,0.0000
 2020-04-08,GO,Vianópolis,city,1,0,2,False,13863,5222005,7.21345,0.0000
 2020-04-07,GO,Vianópolis,city,1,0,1,False,13863,5222005,7.21345,0.0000
-2020-06-01,GO,Águas Lindas de Goiás,city,210,5,66,True,212440,5200258,98.85144,0.0238
+2020-06-02,GO,Águas Lindas de Goiás,city,248,5,67,True,212440,5200258,116.73884,0.0202
+2020-06-01,GO,Águas Lindas de Goiás,city,210,5,66,False,212440,5200258,98.85144,0.0238
 2020-05-31,GO,Águas Lindas de Goiás,city,179,4,65,False,212440,5200258,84.25908,0.0223
 2020-05-30,GO,Águas Lindas de Goiás,city,177,4,64,False,212440,5200258,83.31764,0.0226
 2020-05-29,GO,Águas Lindas de Goiás,city,69,4,63,False,212440,5200258,32.47976,0.0580
