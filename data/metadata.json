@@ -1916,6 +1916,12 @@
         "place_type": "city",
         "file": "data/brazil/ba.csv"
       },
+      "BA:Bonito": {
+        "name": "Bonito",
+        "parent": "BA",
+        "place_type": "city",
+        "file": "data/brazil/ba.csv"
+      },
       "BA:Boquira": {
         "name": "Boquira",
         "parent": "BA",
@@ -2300,6 +2306,12 @@
         "place_type": "city",
         "file": "data/brazil/ba.csv"
       },
+      "BA:Formosa do Rio Preto": {
+        "name": "Formosa do Rio Preto",
+        "parent": "BA",
+        "place_type": "city",
+        "file": "data/brazil/ba.csv"
+      },
       "BA:Fátima": {
         "name": "Fátima",
         "parent": "BA",
@@ -2354,8 +2366,20 @@
         "place_type": "city",
         "file": "data/brazil/ba.csv"
       },
+      "BA:Ibicuí": {
+        "name": "Ibicuí",
+        "parent": "BA",
+        "place_type": "city",
+        "file": "data/brazil/ba.csv"
+      },
       "BA:Ibipeba": {
         "name": "Ibipeba",
+        "parent": "BA",
+        "place_type": "city",
+        "file": "data/brazil/ba.csv"
+      },
+      "BA:Ibipitanga": {
+        "name": "Ibipitanga",
         "parent": "BA",
         "place_type": "city",
         "file": "data/brazil/ba.csv"
@@ -2674,6 +2698,12 @@
       },
       "BA:Juazeiro": {
         "name": "Juazeiro",
+        "parent": "BA",
+        "place_type": "city",
+        "file": "data/brazil/ba.csv"
+      },
+      "BA:Jussara": {
+        "name": "Jussara",
         "parent": "BA",
         "place_type": "city",
         "file": "data/brazil/ba.csv"
@@ -3160,6 +3190,12 @@
       },
       "BA:Presidente Tancredo Neves": {
         "name": "Presidente Tancredo Neves",
+        "parent": "BA",
+        "place_type": "city",
+        "file": "data/brazil/ba.csv"
+      },
+      "BA:Pé de Serra": {
+        "name": "Pé de Serra",
         "parent": "BA",
         "place_type": "city",
         "file": "data/brazil/ba.csv"
@@ -10441,6 +10477,12 @@
         "place_type": "city",
         "file": "data/brazil/ms.csv"
       },
+      "MS:Aparecida do Taboado": {
+        "name": "Aparecida do Taboado",
+        "parent": "MS",
+        "place_type": "city",
+        "file": "data/brazil/ms.csv"
+      },
       "MS:Aquidauana": {
         "name": "Aquidauana",
         "parent": "MS",
@@ -10503,6 +10545,12 @@
       },
       "MS:Chapadão do Sul": {
         "name": "Chapadão do Sul",
+        "parent": "MS",
+        "place_type": "city",
+        "file": "data/brazil/ms.csv"
+      },
+      "MS:Corguinho": {
+        "name": "Corguinho",
         "parent": "MS",
         "place_type": "city",
         "file": "data/brazil/ms.csv"
@@ -10950,6 +10998,12 @@
         "place_type": "city",
         "file": "data/brazil/mt.csv"
       },
+      "MT:Itiquira": {
+        "name": "Itiquira",
+        "parent": "MT",
+        "place_type": "city",
+        "file": "data/brazil/mt.csv"
+      },
       "MT:Jaciara": {
         "name": "Jaciara",
         "parent": "MT",
@@ -11264,6 +11318,12 @@
       },
       "MT:São José do Povo": {
         "name": "São José do Povo",
+        "parent": "MT",
+        "place_type": "city",
+        "file": "data/brazil/mt.csv"
+      },
+      "MT:São José do Rio Claro": {
+        "name": "São José do Rio Claro",
         "parent": "MT",
         "place_type": "city",
         "file": "data/brazil/mt.csv"
@@ -12622,6 +12682,12 @@
         "place_type": "city",
         "file": "data/brazil/pb.csv"
       },
+      "PB:Diamante": {
+        "name": "Diamante",
+        "parent": "PB",
+        "place_type": "city",
+        "file": "data/brazil/pb.csv"
+      },
       "PB:Dona Inês": {
         "name": "Dona Inês",
         "parent": "PB",
@@ -13054,6 +13120,12 @@
         "place_type": "city",
         "file": "data/brazil/pb.csv"
       },
+      "PB:Prata": {
+        "name": "Prata",
+        "parent": "PB",
+        "place_type": "city",
+        "file": "data/brazil/pb.csv"
+      },
       "PB:Princesa Isabel": {
         "name": "Princesa Isabel",
         "parent": "PB",
@@ -13092,6 +13164,12 @@
       },
       "PB:Riacho dos Cavalos": {
         "name": "Riacho dos Cavalos",
+        "parent": "PB",
+        "place_type": "city",
+        "file": "data/brazil/pb.csv"
+      },
+      "PB:Riachão": {
+        "name": "Riachão",
         "parent": "PB",
         "place_type": "city",
         "file": "data/brazil/pb.csv"
@@ -13164,6 +13242,12 @@
       },
       "PB:Santana dos Garrotes": {
         "name": "Santana dos Garrotes",
+        "parent": "PB",
+        "place_type": "city",
+        "file": "data/brazil/pb.csv"
+      },
+      "PB:Santo André": {
+        "name": "Santo André",
         "parent": "PB",
         "place_type": "city",
         "file": "data/brazil/pb.csv"
@@ -32083,12 +32167,6 @@
         "place_type": "state",
         "file": "data/united_states_of_america/02.csv"
       },
-      "Alaska:Aleutians West Census Area": {
-        "name": "Aleutians West Census Area",
-        "parent": "Alaska",
-        "place_type": "county",
-        "file": "data/united_states_of_america/02.csv"
-      },
       "Alaska:Anchorage": {
         "name": "Anchorage",
         "parent": "Alaska",
@@ -45643,12 +45721,6 @@
       },
       "South Dakota:Corson": {
         "name": "Corson",
-        "parent": "South Dakota",
-        "place_type": "county",
-        "file": "data/united_states_of_america/46.csv"
-      },
-      "South Dakota:Custer": {
-        "name": "Custer",
         "parent": "South Dakota",
         "place_type": "county",
         "file": "data/united_states_of_america/46.csv"
