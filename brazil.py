@@ -2,6 +2,7 @@ from urllib import request
 from os import getcwd, path
 import gzip
 import datetime
+import requests
 
 from helpers import ensure_dirs
 
@@ -16,8 +17,11 @@ def scrape_brazil():
 
     ensure_dirs(brazil_dir, tmp_dir)
 
-    gz_file = path.join(tmp_dir, 'brazil.csv.gz')
-    request.urlretrieve(BRAZIL_DATA, gz_file)
+    gz_filename = path.join(tmp_dir, 'brazil.csv.gz')
+
+    with open(gz_filename, 'wb') as gz_file:
+        r = requests.get(BRAZIL_DATA, allow_redirects=True)
+        gz_file.write(r.content)
 
     states = {}
     prev_state = ''
@@ -28,7 +32,7 @@ def scrape_brazil():
         with open(path.join(brazil_dir, f'{prev_state}.csv'), 'w') as state_file:
             state_file.writelines([header] + curr_lines)
 
-    with gzip.open(gz_file, 'rt') as f:
+    with gzip.open(gz_filename, 'rt') as f:
         for line in f:
             if header == '':
                 header = line
