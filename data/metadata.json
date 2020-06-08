@@ -5806,6 +5806,12 @@
         "place_type": "city",
         "file": "data/brazil/go.csv"
       },
+      "GO:Estrela do Norte": {
+        "name": "Estrela do Norte",
+        "parent": "GO",
+        "place_type": "city",
+        "file": "data/brazil/go.csv"
+      },
       "GO:Faina": {
         "name": "Faina",
         "parent": "GO",
@@ -5886,6 +5892,12 @@
       },
       "GO:Guapó": {
         "name": "Guapó",
+        "parent": "GO",
+        "place_type": "city",
+        "file": "data/brazil/go.csv"
+      },
+      "GO:Guaraíta": {
+        "name": "Guaraíta",
         "parent": "GO",
         "place_type": "city",
         "file": "data/brazil/go.csv"
@@ -6048,6 +6060,12 @@
       },
       "GO:Maurilândia": {
         "name": "Maurilândia",
+        "parent": "GO",
+        "place_type": "city",
+        "file": "data/brazil/go.csv"
+      },
+      "GO:Mimoso de Goiás": {
+        "name": "Mimoso de Goiás",
         "parent": "GO",
         "place_type": "city",
         "file": "data/brazil/go.csv"
@@ -6288,6 +6306,12 @@
       },
       "GO:Santa Terezinha de Goiás": {
         "name": "Santa Terezinha de Goiás",
+        "parent": "GO",
+        "place_type": "city",
+        "file": "data/brazil/go.csv"
+      },
+      "GO:Santo Antônio da Barra": {
+        "name": "Santo Antônio da Barra",
         "parent": "GO",
         "place_type": "city",
         "file": "data/brazil/go.csv"
@@ -7736,6 +7760,12 @@
         "place_type": "city",
         "file": "data/brazil/mg.csv"
       },
+      "MG:Abre Campo": {
+        "name": "Abre Campo",
+        "parent": "MG",
+        "place_type": "city",
+        "file": "data/brazil/mg.csv"
+      },
       "MG:Aimorés": {
         "name": "Aimorés",
         "parent": "MG",
@@ -8236,6 +8266,12 @@
       },
       "MG:Caparaó": {
         "name": "Caparaó",
+        "parent": "MG",
+        "place_type": "city",
+        "file": "data/brazil/mg.csv"
+      },
+      "MG:Capela Nova": {
+        "name": "Capela Nova",
         "parent": "MG",
         "place_type": "city",
         "file": "data/brazil/mg.csv"
@@ -8830,6 +8866,12 @@
       },
       "MG:Formiga": {
         "name": "Formiga",
+        "parent": "MG",
+        "place_type": "city",
+        "file": "data/brazil/mg.csv"
+      },
+      "MG:Formoso": {
+        "name": "Formoso",
         "parent": "MG",
         "place_type": "city",
         "file": "data/brazil/mg.csv"
@@ -14309,6 +14351,12 @@
       },
       "PE:Escada": {
         "name": "Escada",
+        "parent": "PE",
+        "place_type": "city",
+        "file": "data/brazil/pe.csv"
+      },
+      "PE:Exu": {
+        "name": "Exu",
         "parent": "PE",
         "place_type": "city",
         "file": "data/brazil/pe.csv"
@@ -21841,6 +21889,12 @@
         "place_type": "city",
         "file": "data/brazil/sc.csv"
       },
+      "SC:Bela Vista do Toldo": {
+        "name": "Bela Vista do Toldo",
+        "parent": "SC",
+        "place_type": "city",
+        "file": "data/brazil/sc.csv"
+      },
       "SC:Benedito Novo": {
         "name": "Benedito Novo",
         "parent": "SC",
@@ -21885,6 +21939,12 @@
       },
       "SC:Braço do Norte": {
         "name": "Braço do Norte",
+        "parent": "SC",
+        "place_type": "city",
+        "file": "data/brazil/sc.csv"
+      },
+      "SC:Brunópolis": {
+        "name": "Brunópolis",
         "parent": "SC",
         "place_type": "city",
         "file": "data/brazil/sc.csv"
@@ -22797,6 +22857,12 @@
       },
       "SC:Santa Terezinha": {
         "name": "Santa Terezinha",
+        "parent": "SC",
+        "place_type": "city",
+        "file": "data/brazil/sc.csv"
+      },
+      "SC:Santa Terezinha do Progresso": {
+        "name": "Santa Terezinha do Progresso",
         "parent": "SC",
         "place_type": "city",
         "file": "data/brazil/sc.csv"
@@ -26435,6 +26501,12 @@
         "place_type": "city",
         "file": "data/brazil/sp.csv"
       },
+      "SP:Sebastianópolis do Sul": {
+        "name": "Sebastianópolis do Sul",
+        "parent": "SP",
+        "place_type": "city",
+        "file": "data/brazil/sp.csv"
+      },
       "SP:Serra Azul": {
         "name": "Serra Azul",
         "parent": "SP",
@@ -28092,206 +28164,7 @@
     "file": "data/countries/colombia.csv",
     "geoId": "CO",
     "countryTerritoryCode": "COL",
-    "regions": {
-      "Amazonas": {
-        "name": "Amazonas",
-        "iso": "CO-AMA",
-        "place_type": "departamento",
-        "file": "data/colombia/co-ama.csv"
-      },
-      "Antioquia": {
-        "name": "Antioquia",
-        "iso": "CO-ANT",
-        "place_type": "departamento",
-        "file": "data/colombia/co-ant.csv"
-      },
-      "Arauca": {
-        "name": "Arauca",
-        "iso": "CO-ARA",
-        "place_type": "departamento",
-        "file": "data/colombia/co-ara.csv"
-      },
-      "Atlántico": {
-        "name": "Atlántico",
-        "iso": "CO-ATL",
-        "place_type": "departamento",
-        "file": "data/colombia/co-atl.csv"
-      },
-      "Bogotá": {
-        "name": "Bogotá",
-        "iso": "CO-DC",
-        "place_type": "departamento",
-        "file": "data/colombia/co-dc.csv"
-      },
-      "Bolívar": {
-        "name": "Bolívar",
-        "iso": "CO-BOL",
-        "place_type": "departamento",
-        "file": "data/colombia/co-bol.csv"
-      },
-      "Boyacá": {
-        "name": "Boyacá",
-        "iso": "CO-BOY",
-        "place_type": "departamento",
-        "file": "data/colombia/co-boy.csv"
-      },
-      "Caldas": {
-        "name": "Caldas",
-        "iso": "CO-CAL",
-        "place_type": "departamento",
-        "file": "data/colombia/co-cal.csv"
-      },
-      "Caquetá": {
-        "name": "Caquetá",
-        "iso": "CO-CAQ",
-        "place_type": "departamento",
-        "file": "data/colombia/co-caq.csv"
-      },
-      "Casanare": {
-        "name": "Casanare",
-        "iso": "CO-CAS",
-        "place_type": "departamento",
-        "file": "data/colombia/co-cas.csv"
-      },
-      "Cauca": {
-        "name": "Cauca",
-        "iso": "CO-CAU",
-        "place_type": "departamento",
-        "file": "data/colombia/co-cau.csv"
-      },
-      "Cesar": {
-        "name": "Cesar",
-        "iso": "CO-CES",
-        "place_type": "departamento",
-        "file": "data/colombia/co-ces.csv"
-      },
-      "Chocó": {
-        "name": "Chocó",
-        "iso": "CO-CHO",
-        "place_type": "departamento",
-        "file": "data/colombia/co-cho.csv"
-      },
-      "Cundinamarca": {
-        "name": "Cundinamarca",
-        "iso": "CO-CUN",
-        "place_type": "departamento",
-        "file": "data/colombia/co-cun.csv"
-      },
-      "Córdoba": {
-        "name": "Córdoba",
-        "iso": "CO-COR",
-        "place_type": "departamento",
-        "file": "data/colombia/co-cor.csv"
-      },
-      "Guainía": {
-        "name": "Guainía",
-        "iso": "CO-GUA",
-        "place_type": "departamento",
-        "file": "data/colombia/co-gua.csv"
-      },
-      "Guaviare": {
-        "name": "Guaviare",
-        "iso": "CO-GUV",
-        "place_type": "departamento",
-        "file": "data/colombia/co-guv.csv"
-      },
-      "Huila": {
-        "name": "Huila",
-        "iso": "CO-HUI",
-        "place_type": "departamento",
-        "file": "data/colombia/co-hui.csv"
-      },
-      "La Guajira": {
-        "name": "La Guajira",
-        "iso": "CO-LAG",
-        "place_type": "departamento",
-        "file": "data/colombia/co-lag.csv"
-      },
-      "Magdalena": {
-        "name": "Magdalena",
-        "iso": "CO-MAG",
-        "place_type": "departamento",
-        "file": "data/colombia/co-mag.csv"
-      },
-      "Meta": {
-        "name": "Meta",
-        "iso": "CO-MET",
-        "place_type": "departamento",
-        "file": "data/colombia/co-met.csv"
-      },
-      "Nariño": {
-        "name": "Nariño",
-        "iso": "CO-NAR",
-        "place_type": "departamento",
-        "file": "data/colombia/co-nar.csv"
-      },
-      "Norte de Santander": {
-        "name": "Norte de Santander",
-        "iso": "CO-NSA",
-        "place_type": "departamento",
-        "file": "data/colombia/co-nsa.csv"
-      },
-      "Putumayo": {
-        "name": "Putumayo",
-        "iso": "CO-PUT",
-        "place_type": "departamento",
-        "file": "data/colombia/co-put.csv"
-      },
-      "Quindío": {
-        "name": "Quindío",
-        "iso": "CO-QUI",
-        "place_type": "departamento",
-        "file": "data/colombia/co-qui.csv"
-      },
-      "Risaralda": {
-        "name": "Risaralda",
-        "iso": "CO-RIS",
-        "place_type": "departamento",
-        "file": "data/colombia/co-ris.csv"
-      },
-      "San Andrés y Providencia": {
-        "name": "San Andrés y Providencia",
-        "iso": "CO-SAP",
-        "place_type": "departamento",
-        "file": "data/colombia/co-sap.csv"
-      },
-      "Santander": {
-        "name": "Santander",
-        "iso": "CO-SAN",
-        "place_type": "departamento",
-        "file": "data/colombia/co-san.csv"
-      },
-      "Sucre": {
-        "name": "Sucre",
-        "iso": "CO-SUC",
-        "place_type": "departamento",
-        "file": "data/colombia/co-suc.csv"
-      },
-      "Tolima": {
-        "name": "Tolima",
-        "iso": "CO-TOL",
-        "place_type": "departamento",
-        "file": "data/colombia/co-tol.csv"
-      },
-      "Valle del Cauca": {
-        "name": "Valle del Cauca",
-        "iso": "CO-VAC",
-        "place_type": "departamento",
-        "file": "data/colombia/co-vac.csv"
-      },
-      "Vaupés": {
-        "name": "Vaupés",
-        "iso": "CO-VAU",
-        "place_type": "departamento",
-        "file": "data/colombia/co-vau.csv"
-      },
-      "Vichada": {
-        "name": "Vichada",
-        "iso": "CO-VID",
-        "place_type": "departamento",
-        "file": "data/colombia/co-vid.csv"
-      }
-    },
+    "regions": {},
     "parent": "America"
   },
   "Comoros": {
