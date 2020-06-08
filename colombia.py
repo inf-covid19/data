@@ -51,9 +51,9 @@ def scrape_colombia():
             departament,
             '',
             'departamento',
-            cases,
-            deaths,
-            recovered,
+            not_number_regexp.sub('', cases),
+            not_number_regexp.sub('', deaths),
+            not_number_regexp.sub('', recovered),
         ])
 
         departament_file = path.join(colombia_dir, f'{iso.lower()}.csv')
