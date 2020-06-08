@@ -25,7 +25,7 @@ def scrape_chile():
 
     for table in tables:
         headers = table.find_all('th')
-        if len(headers) > 0 and 'Resumen de casos y muertes' in headers[0].get_text():
+        if len(headers) > 0 and 'Regiones' in headers[0].get_text():
             per_region_table = table
             break
     
