@@ -1,7 +1,7 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
 2020-06-08,PR,,state,7031,243,87,True,11433957,41,61.49227,0.0346
 2020-06-07,PR,,state,6897,237,86,False,11433957,41,60.32032,0.0344
-2020-06-06,PR,,state,6604,232,85,False,11433957,41,57.75778,0.0351
+2020-06-06,PR,,state,6693,239,85,False,11433957,41,58.53617,0.0357
 2020-06-05,PR,,state,6434,233,84,False,11433957,41,56.27098,0.0362
 2020-06-04,PR,,state,5895,220,83,False,11433957,41,51.55695,0.0373
 2020-06-03,PR,,state,5567,210,82,False,11433957,41,48.68831,0.0377
@@ -88,7 +88,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-12,PR,,state,6,0,1,False,11433957,41,0.05248,0.0000
 2020-06-08,PR,Abatiá,city,2,0,32,True,7457,4100103,26.82044,0.0000
 2020-06-07,PR,Abatiá,city,2,0,31,False,7457,4100103,26.82044,0.0000
-2020-06-06,PR,Abatiá,city,2,0,30,False,7457,4100103,26.82044,0.0000
+2020-06-06,PR,Abatiá,city,7,0,30,False,7457,4100103,93.87153,0.0000
 2020-06-05,PR,Abatiá,city,7,0,29,False,7457,4100103,93.87153,0.0000
 2020-06-04,PR,Abatiá,city,2,0,28,False,7457,4100103,26.82044,0.0000
 2020-06-03,PR,Abatiá,city,2,0,27,False,7457,4100103,26.82044,0.0000
@@ -120,7 +120,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,PR,Abatiá,city,1,0,1,False,7457,4100103,13.41022,0.0000
 2020-06-08,PR,Agudos do Sul,city,11,0,31,True,9371,4100301,117.38342,0.0000
 2020-06-07,PR,Agudos do Sul,city,11,0,30,False,9371,4100301,117.38342,0.0000
-2020-06-06,PR,Agudos do Sul,city,11,0,29,False,9371,4100301,117.38342,0.0000
+2020-06-06,PR,Agudos do Sul,city,13,0,29,False,9371,4100301,138.72586,0.0000
 2020-06-05,PR,Agudos do Sul,city,13,0,28,False,9371,4100301,138.72586,0.0000
 2020-06-04,PR,Agudos do Sul,city,11,0,27,False,9371,4100301,117.38342,0.0000
 2020-06-03,PR,Agudos do Sul,city,11,0,26,False,9371,4100301,117.38342,0.0000
@@ -151,7 +151,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,PR,Agudos do Sul,city,1,0,1,False,9371,4100301,10.67122,0.0000
 2020-06-08,PR,Almirante Tamandaré,city,32,0,71,True,118623,4100400,26.97622,0.0000
 2020-06-07,PR,Almirante Tamandaré,city,32,0,70,False,118623,4100400,26.97622,0.0000
-2020-06-06,PR,Almirante Tamandaré,city,32,0,69,False,118623,4100400,26.97622,0.0000
+2020-06-06,PR,Almirante Tamandaré,city,36,0,69,False,118623,4100400,30.34825,0.0000
 2020-06-05,PR,Almirante Tamandaré,city,36,0,68,False,118623,4100400,30.34825,0.0000
 2020-06-04,PR,Almirante Tamandaré,city,32,0,67,False,118623,4100400,26.97622,0.0000
 2020-06-03,PR,Almirante Tamandaré,city,29,0,66,False,118623,4100400,24.44720,0.0000
@@ -304,7 +304,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,PR,Alto Paraíso,city,1,0,1,False,2741,4128625,36.48304,0.0000
 2020-06-08,PR,Alvorada do Sul,city,6,0,38,True,11406,4100806,52.60389,0.0000
 2020-06-07,PR,Alvorada do Sul,city,6,0,37,False,11406,4100806,52.60389,0.0000
-2020-06-06,PR,Alvorada do Sul,city,6,0,36,False,11406,4100806,52.60389,0.0000
+2020-06-06,PR,Alvorada do Sul,city,7,1,36,False,11406,4100806,61.37121,0.1429
 2020-06-05,PR,Alvorada do Sul,city,7,0,35,False,11406,4100806,61.37121,0.0000
 2020-06-04,PR,Alvorada do Sul,city,6,0,34,False,11406,4100806,52.60389,0.0000
 2020-06-03,PR,Alvorada do Sul,city,6,0,33,False,11406,4100806,52.60389,0.0000
@@ -450,7 +450,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,PR,Anahy,city,1,0,1,False,2801,4101051,35.70154,0.0000
 2020-06-08,PR,Andirá,city,9,0,25,True,20031,4101101,44.93036,0.0000
 2020-06-07,PR,Andirá,city,9,0,24,False,20031,4101101,44.93036,0.0000
-2020-06-06,PR,Andirá,city,9,0,23,False,20031,4101101,44.93036,0.0000
+2020-06-06,PR,Andirá,city,12,0,23,False,20031,4101101,59.90714,0.0000
 2020-06-05,PR,Andirá,city,12,0,22,False,20031,4101101,59.90714,0.0000
 2020-06-04,PR,Andirá,city,9,0,21,False,20031,4101101,44.93036,0.0000
 2020-06-03,PR,Andirá,city,9,0,20,False,20031,4101101,44.93036,0.0000
@@ -475,7 +475,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,PR,Andirá,city,1,0,1,False,20031,4101101,4.99226,0.0000
 2020-06-08,PR,Antonina,city,6,0,10,True,18980,4101200,31.61222,0.0000
 2020-06-07,PR,Antonina,city,6,0,9,False,18980,4101200,31.61222,0.0000
-2020-06-06,PR,Antonina,city,6,0,8,False,18980,4101200,31.61222,0.0000
+2020-06-06,PR,Antonina,city,7,0,8,False,18980,4101200,36.88093,0.0000
 2020-06-05,PR,Antonina,city,6,0,7,False,18980,4101200,31.61222,0.0000
 2020-06-04,PR,Antonina,city,6,0,6,False,18980,4101200,31.61222,0.0000
 2020-06-03,PR,Antonina,city,5,0,5,False,18980,4101200,26.34352,0.0000
@@ -483,11 +483,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-01,PR,Antonina,city,5,0,3,False,18980,4101200,26.34352,0.0000
 2020-05-31,PR,Antonina,city,4,0,2,False,18980,4101200,21.07482,0.0000
 2020-05-30,PR,Antonina,city,1,0,1,False,18980,4101200,5.26870,0.0000
-2020-06-08,PR,Antônio Olinto,city,1,0,2,True,7434,4101309,13.45171,0.0000
+2020-06-08,PR,Antônio Olinto,city,1,0,3,True,7434,4101309,13.45171,0.0000
+2020-06-06,PR,Antônio Olinto,city,1,0,2,False,7434,4101309,13.45171,0.0000
 2020-06-05,PR,Antônio Olinto,city,1,0,1,False,7434,4101309,13.45171,0.0000
 2020-06-08,PR,Apucarana,city,40,3,57,True,134996,4101408,29.63051,0.0750
 2020-06-07,PR,Apucarana,city,40,3,56,False,134996,4101408,29.63051,0.0750
-2020-06-06,PR,Apucarana,city,40,3,55,False,134996,4101408,29.63051,0.0750
+2020-06-06,PR,Apucarana,city,43,3,55,False,134996,4101408,31.85280,0.0698
 2020-06-05,PR,Apucarana,city,43,3,54,False,134996,4101408,31.85280,0.0698
 2020-06-04,PR,Apucarana,city,40,3,53,False,134996,4101408,29.63051,0.0750
 2020-06-03,PR,Apucarana,city,40,3,52,False,134996,4101408,29.63051,0.0750
@@ -544,7 +545,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-13,PR,Apucarana,city,5,0,1,False,134996,4101408,3.70381,0.0000
 2020-06-08,PR,Arapongas,city,25,2,69,True,123027,4101507,20.32074,0.0800
 2020-06-07,PR,Arapongas,city,25,2,68,False,123027,4101507,20.32074,0.0800
-2020-06-06,PR,Arapongas,city,25,2,67,False,123027,4101507,20.32074,0.0800
+2020-06-06,PR,Arapongas,city,28,2,67,False,123027,4101507,22.75923,0.0714
 2020-06-05,PR,Arapongas,city,25,2,66,False,123027,4101507,20.32074,0.0800
 2020-06-04,PR,Arapongas,city,25,2,65,False,123027,4101507,20.32074,0.0800
 2020-06-03,PR,Arapongas,city,25,1,64,False,123027,4101507,20.32074,0.0400
@@ -613,7 +614,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,PR,Arapongas,city,2,0,1,False,123027,4101507,1.62566,0.0000
 2020-06-08,PR,Arapoti,city,2,0,8,True,28115,4101606,7.11364,0.0000
 2020-06-07,PR,Arapoti,city,2,0,7,False,28115,4101606,7.11364,0.0000
-2020-06-06,PR,Arapoti,city,2,0,6,False,28115,4101606,7.11364,0.0000
+2020-06-06,PR,Arapoti,city,5,0,6,False,28115,4101606,17.78410,0.0000
 2020-06-05,PR,Arapoti,city,2,0,5,False,28115,4101606,7.11364,0.0000
 2020-06-04,PR,Arapoti,city,2,0,4,False,28115,4101606,7.11364,0.0000
 2020-06-03,PR,Arapoti,city,1,0,3,False,28115,4101606,3.55682,0.0000
@@ -621,7 +622,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-01,PR,Arapoti,city,1,0,1,False,28115,4101606,3.55682,0.0000
 2020-06-08,PR,Araruna,city,17,1,67,True,13970,4101705,121.68933,0.0588
 2020-06-07,PR,Araruna,city,17,1,66,False,13970,4101705,121.68933,0.0588
-2020-06-06,PR,Araruna,city,17,1,65,False,13970,4101705,121.68933,0.0588
+2020-06-06,PR,Araruna,city,19,1,65,False,13970,4101705,136.00573,0.0526
 2020-06-05,PR,Araruna,city,19,1,64,False,13970,4101705,136.00573,0.0526
 2020-06-04,PR,Araruna,city,17,1,63,False,13970,4101705,121.68933,0.0588
 2020-06-03,PR,Araruna,city,17,1,62,False,13970,4101705,121.68933,0.0588
@@ -688,7 +689,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,PR,Araruna,city,1,0,1,False,13970,4101705,7.15820,0.0000
 2020-06-08,PR,Araucária,city,102,0,69,True,143843,4101804,70.91065,0.0000
 2020-06-07,PR,Araucária,city,102,0,68,False,143843,4101804,70.91065,0.0000
-2020-06-06,PR,Araucária,city,102,0,67,False,143843,4101804,70.91065,0.0000
+2020-06-06,PR,Araucária,city,106,0,67,False,143843,4101804,73.69146,0.0000
 2020-06-05,PR,Araucária,city,105,0,66,False,143843,4101804,72.99625,0.0000
 2020-06-04,PR,Araucária,city,102,0,65,False,143843,4101804,70.91065,0.0000
 2020-06-03,PR,Araucária,city,100,0,64,False,143843,4101804,69.52024,0.0000
@@ -757,7 +758,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,PR,Araucária,city,1,0,1,False,143843,4101804,0.69520,0.0000
 2020-06-08,PR,Assaí,city,4,0,55,True,15119,4101903,26.45678,0.0000
 2020-06-07,PR,Assaí,city,4,0,54,False,15119,4101903,26.45678,0.0000
-2020-06-06,PR,Assaí,city,4,0,53,False,15119,4101903,26.45678,0.0000
+2020-06-06,PR,Assaí,city,5,0,53,False,15119,4101903,33.07097,0.0000
 2020-06-05,PR,Assaí,city,5,0,52,False,15119,4101903,33.07097,0.0000
 2020-06-04,PR,Assaí,city,4,0,51,False,15119,4101903,26.45678,0.0000
 2020-06-03,PR,Assaí,city,4,0,50,False,15119,4101903,26.45678,0.0000
@@ -812,7 +813,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-15,PR,Assaí,city,1,0,1,False,15119,4101903,6.61419,0.0000
 2020-06-08,PR,Assis Chateaubriand,city,36,1,69,True,33362,4102000,107.90720,0.0278
 2020-06-07,PR,Assis Chateaubriand,city,36,1,68,False,33362,4102000,107.90720,0.0278
-2020-06-06,PR,Assis Chateaubriand,city,36,1,67,False,33362,4102000,107.90720,0.0278
+2020-06-06,PR,Assis Chateaubriand,city,41,2,67,False,33362,4102000,122.89431,0.0488
 2020-06-05,PR,Assis Chateaubriand,city,39,1,66,False,33362,4102000,116.89947,0.0256
 2020-06-04,PR,Assis Chateaubriand,city,36,1,65,False,33362,4102000,107.90720,0.0278
 2020-06-03,PR,Assis Chateaubriand,city,33,0,64,False,33362,4102000,98.91493,0.0000
@@ -946,7 +947,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,PR,Balsa Nova,city,1,0,1,False,12941,4102307,7.72738,0.0000
 2020-06-08,PR,Bandeirantes,city,11,1,64,True,31367,4102406,35.06870,0.0909
 2020-06-07,PR,Bandeirantes,city,11,1,63,False,31367,4102406,35.06870,0.0909
-2020-06-06,PR,Bandeirantes,city,11,1,62,False,31367,4102406,35.06870,0.0909
+2020-06-06,PR,Bandeirantes,city,12,1,62,False,31367,4102406,38.25677,0.0833
 2020-06-05,PR,Bandeirantes,city,12,1,61,False,31367,4102406,38.25677,0.0833
 2020-06-04,PR,Bandeirantes,city,11,1,60,False,31367,4102406,35.06870,0.0909
 2020-06-03,PR,Bandeirantes,city,11,1,59,False,31367,4102406,35.06870,0.0909
@@ -1063,7 +1064,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-24,PR,Barracão,city,1,0,1,False,10275,4102604,9.73236,0.0000
 2020-06-08,PR,Bela Vista do Paraíso,city,3,0,19,True,15397,4102802,19.48432,0.0000
 2020-06-07,PR,Bela Vista do Paraíso,city,3,0,18,False,15397,4102802,19.48432,0.0000
-2020-06-06,PR,Bela Vista do Paraíso,city,3,0,17,False,15397,4102802,19.48432,0.0000
+2020-06-06,PR,Bela Vista do Paraíso,city,4,1,17,False,15397,4102802,25.97909,0.2500
 2020-06-05,PR,Bela Vista do Paraíso,city,4,1,16,False,15397,4102802,25.97909,0.2500
 2020-06-04,PR,Bela Vista do Paraíso,city,3,0,15,False,15397,4102802,19.48432,0.0000
 2020-06-03,PR,Bela Vista do Paraíso,city,3,0,14,False,15397,4102802,19.48432,0.0000
@@ -1082,7 +1083,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,PR,Bela Vista do Paraíso,city,1,0,1,False,15397,4102802,6.49477,0.0000
 2020-06-08,PR,Bituruna,city,1,0,8,True,16389,4102901,6.10165,0.0000
 2020-06-07,PR,Bituruna,city,1,0,7,False,16389,4102901,6.10165,0.0000
-2020-06-06,PR,Bituruna,city,1,0,6,False,16389,4102901,6.10165,0.0000
+2020-06-06,PR,Bituruna,city,4,0,6,False,16389,4102901,24.40661,0.0000
 2020-06-05,PR,Bituruna,city,4,0,5,False,16389,4102901,24.40661,0.0000
 2020-06-04,PR,Bituruna,city,1,0,4,False,16389,4102901,6.10165,0.0000
 2020-06-03,PR,Bituruna,city,1,0,3,False,16389,4102901,6.10165,0.0000
@@ -1144,9 +1145,10 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-03,PR,Bocaiúva do Sul,city,1,0,3,False,12944,4103107,7.72559,0.0000
 2020-06-02,PR,Bocaiúva do Sul,city,2,0,2,False,12944,4103107,15.45117,0.0000
 2020-06-01,PR,Bocaiúva do Sul,city,2,0,1,False,12944,4103107,15.45117,0.0000
+2020-06-06,PR,Bom Jesus do Sul,city,1,0,1,True,3541,4103156,28.24061,0.0000
 2020-06-08,PR,Braganey,city,11,1,20,True,5427,4103354,202.69025,0.0909
 2020-06-07,PR,Braganey,city,11,1,19,False,5427,4103354,202.69025,0.0909
-2020-06-06,PR,Braganey,city,11,1,18,False,5427,4103354,202.69025,0.0909
+2020-06-06,PR,Braganey,city,12,1,18,False,5427,4103354,221.11664,0.0833
 2020-06-05,PR,Braganey,city,12,1,17,False,5427,4103354,221.11664,0.0833
 2020-06-04,PR,Braganey,city,11,1,16,False,5427,4103354,202.69025,0.0909
 2020-06-03,PR,Braganey,city,11,1,15,False,5427,4103354,202.69025,0.0909
@@ -1214,6 +1216,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,PR,Cafelândia,city,2,0,3,False,18120,4103453,11.03753,0.0000
 2020-05-21,PR,Cafelândia,city,2,0,2,False,18120,4103453,11.03753,0.0000
 2020-05-20,PR,Cafelândia,city,2,0,1,False,18120,4103453,11.03753,0.0000
+2020-06-06,PR,Califórnia,city,1,0,1,True,8570,4103503,11.66861,0.0000
 2020-06-08,PR,Cambará,city,2,0,25,True,25360,4103602,7.88644,0.0000
 2020-06-07,PR,Cambará,city,2,0,24,False,25360,4103602,7.88644,0.0000
 2020-06-06,PR,Cambará,city,2,0,23,False,25360,4103602,7.88644,0.0000
@@ -1241,7 +1244,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,PR,Cambará,city,1,0,1,False,25360,4103602,3.94322,0.0000
 2020-06-08,PR,Cambé,city,53,1,69,True,106533,4103701,49.74984,0.0189
 2020-06-07,PR,Cambé,city,53,1,68,False,106533,4103701,49.74984,0.0189
-2020-06-06,PR,Cambé,city,53,1,67,False,106533,4103701,49.74984,0.0189
+2020-06-06,PR,Cambé,city,57,2,67,False,106533,4103701,53.50455,0.0351
 2020-06-05,PR,Cambé,city,56,2,66,False,106533,4103701,52.56587,0.0357
 2020-06-04,PR,Cambé,city,53,1,65,False,106533,4103701,49.74984,0.0189
 2020-06-03,PR,Cambé,city,49,1,64,False,106533,4103701,45.99514,0.0204
@@ -1310,7 +1313,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,PR,Cambé,city,1,0,1,False,106533,4103701,0.93868,0.0000
 2020-06-08,PR,Campina Grande do Sul,city,50,3,67,True,43288,4104006,115.50545,0.0600
 2020-06-07,PR,Campina Grande do Sul,city,50,3,66,False,43288,4104006,115.50545,0.0600
-2020-06-06,PR,Campina Grande do Sul,city,50,3,65,False,43288,4104006,115.50545,0.0600
+2020-06-06,PR,Campina Grande do Sul,city,60,4,65,False,43288,4104006,138.60654,0.0667
 2020-06-05,PR,Campina Grande do Sul,city,60,4,64,False,43288,4104006,138.60654,0.0667
 2020-06-04,PR,Campina Grande do Sul,city,50,3,63,False,43288,4104006,115.50545,0.0600
 2020-06-03,PR,Campina Grande do Sul,city,49,3,62,False,43288,4104006,113.19534,0.0612
@@ -1377,7 +1380,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,PR,Campina Grande do Sul,city,1,0,1,False,43288,4104006,2.31011,0.0000
 2020-06-08,PR,Campina da Lagoa,city,2,1,61,True,14202,4103909,14.08252,0.5000
 2020-06-07,PR,Campina da Lagoa,city,2,1,60,False,14202,4103909,14.08252,0.5000
-2020-06-06,PR,Campina da Lagoa,city,2,1,59,False,14202,4103909,14.08252,0.5000
+2020-06-06,PR,Campina da Lagoa,city,3,1,59,False,14202,4103909,21.12379,0.3333
 2020-06-05,PR,Campina da Lagoa,city,3,1,58,False,14202,4103909,21.12379,0.3333
 2020-06-04,PR,Campina da Lagoa,city,2,1,57,False,14202,4103909,14.08252,0.5000
 2020-06-03,PR,Campina da Lagoa,city,2,1,56,False,14202,4103909,14.08252,0.5000
@@ -1438,7 +1441,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,PR,Campina da Lagoa,city,1,1,1,False,14202,4103909,7.04126,1.0000
 2020-06-08,PR,Campo Bonito,city,13,0,30,True,3833,4104055,339.15993,0.0000
 2020-06-07,PR,Campo Bonito,city,13,0,29,False,3833,4104055,339.15993,0.0000
-2020-06-06,PR,Campo Bonito,city,13,0,28,False,3833,4104055,339.15993,0.0000
+2020-06-06,PR,Campo Bonito,city,16,0,28,False,3833,4104055,417.42760,0.0000
 2020-06-05,PR,Campo Bonito,city,15,0,27,False,3833,4104055,391.33838,0.0000
 2020-06-04,PR,Campo Bonito,city,13,0,26,False,3833,4104055,339.15993,0.0000
 2020-06-03,PR,Campo Bonito,city,13,0,25,False,3833,4104055,339.15993,0.0000
@@ -1468,7 +1471,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,PR,Campo Bonito,city,1,0,1,False,3833,4104055,26.08923,0.0000
 2020-06-08,PR,Campo Largo,city,43,2,84,True,132002,4104204,32.57526,0.0465
 2020-06-07,PR,Campo Largo,city,43,2,83,False,132002,4104204,32.57526,0.0465
-2020-06-06,PR,Campo Largo,city,43,2,82,False,132002,4104204,32.57526,0.0465
+2020-06-06,PR,Campo Largo,city,50,2,82,False,132002,4104204,37.87821,0.0400
 2020-06-05,PR,Campo Largo,city,48,2,81,False,132002,4104204,36.36309,0.0417
 2020-06-04,PR,Campo Largo,city,43,2,80,False,132002,4104204,32.57526,0.0465
 2020-06-03,PR,Campo Largo,city,43,2,79,False,132002,4104204,32.57526,0.0465
@@ -1748,7 +1751,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-30,PR,Candói,city,1,0,1,False,15979,4104428,6.25821,0.0000
 2020-06-08,PR,Cantagalo,city,2,0,6,True,13317,4104451,15.01840,0.0000
 2020-06-07,PR,Cantagalo,city,2,0,5,False,13317,4104451,15.01840,0.0000
-2020-06-06,PR,Cantagalo,city,2,0,4,False,13317,4104451,15.01840,0.0000
+2020-06-06,PR,Cantagalo,city,5,0,4,False,13317,4104451,37.54599,0.0000
 2020-06-05,PR,Cantagalo,city,2,0,3,False,13317,4104451,15.01840,0.0000
 2020-06-04,PR,Cantagalo,city,2,0,2,False,13317,4104451,15.01840,0.0000
 2020-06-03,PR,Cantagalo,city,1,0,1,False,13317,4104451,7.50920,0.0000
@@ -1794,7 +1797,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,PR,Capitão Leônidas Marques,city,1,0,1,False,15780,4104600,6.33714,0.0000
 2020-06-08,PR,Carambeí,city,4,0,20,True,23415,4104659,17.08307,0.0000
 2020-06-07,PR,Carambeí,city,4,0,19,False,23415,4104659,17.08307,0.0000
-2020-06-06,PR,Carambeí,city,4,0,18,False,23415,4104659,17.08307,0.0000
+2020-06-06,PR,Carambeí,city,7,0,18,False,23415,4104659,29.89537,0.0000
 2020-06-05,PR,Carambeí,city,4,0,17,False,23415,4104659,17.08307,0.0000
 2020-06-04,PR,Carambeí,city,4,0,16,False,23415,4104659,17.08307,0.0000
 2020-06-03,PR,Carambeí,city,3,0,15,False,23415,4104659,12.81230,0.0000
@@ -1855,7 +1858,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-29,PR,Carlópolis,city,1,0,1,False,14320,4104709,6.98324,0.0000
 2020-06-08,PR,Cascavel,city,621,9,78,True,328454,4104808,189.06757,0.0145
 2020-06-07,PR,Cascavel,city,621,9,77,False,328454,4104808,189.06757,0.0145
-2020-06-06,PR,Cascavel,city,621,9,76,False,328454,4104808,189.06757,0.0145
+2020-06-06,PR,Cascavel,city,742,10,76,False,328454,4104808,225.90682,0.0135
 2020-06-05,PR,Cascavel,city,690,10,75,False,328454,4104808,210.07508,0.0145
 2020-06-04,PR,Cascavel,city,621,9,74,False,328454,4104808,189.06757,0.0145
 2020-06-03,PR,Cascavel,city,586,8,73,False,328454,4104808,178.41159,0.0137
@@ -1933,7 +1936,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,PR,Cascavel,city,1,0,1,False,328454,4104808,0.30446,0.0000
 2020-06-08,PR,Castro,city,4,0,72,True,71484,4104907,5.59566,0.0000
 2020-06-07,PR,Castro,city,4,0,71,False,71484,4104907,5.59566,0.0000
-2020-06-06,PR,Castro,city,4,0,70,False,71484,4104907,5.59566,0.0000
+2020-06-06,PR,Castro,city,5,0,70,False,71484,4104907,6.99457,0.0000
 2020-06-05,PR,Castro,city,4,0,69,False,71484,4104907,5.59566,0.0000
 2020-06-04,PR,Castro,city,4,0,68,False,71484,4104907,5.59566,0.0000
 2020-06-03,PR,Castro,city,4,0,67,False,71484,4104907,5.59566,0.0000
@@ -2043,7 +2046,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-11,PR,Centenário do Sul,city,1,0,1,False,10827,4105102,9.23617,0.0000
 2020-06-08,PR,Chopinzinho,city,5,0,66,True,19254,4105409,25.96863,0.0000
 2020-06-07,PR,Chopinzinho,city,5,0,65,False,19254,4105409,25.96863,0.0000
-2020-06-06,PR,Chopinzinho,city,5,0,64,False,19254,4105409,25.96863,0.0000
+2020-06-06,PR,Chopinzinho,city,6,0,64,False,19254,4105409,31.16236,0.0000
 2020-06-05,PR,Chopinzinho,city,5,0,63,False,19254,4105409,25.96863,0.0000
 2020-06-04,PR,Chopinzinho,city,5,0,62,False,19254,4105409,25.96863,0.0000
 2020-06-03,PR,Chopinzinho,city,5,0,61,False,19254,4105409,25.96863,0.0000
@@ -2109,7 +2112,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,PR,Chopinzinho,city,1,0,1,False,19254,4105409,5.19373,0.0000
 2020-06-08,PR,Cianorte,city,100,1,87,True,82620,4105508,121.03607,0.0100
 2020-06-07,PR,Cianorte,city,100,1,86,False,82620,4105508,121.03607,0.0100
-2020-06-06,PR,Cianorte,city,100,1,85,False,82620,4105508,121.03607,0.0100
+2020-06-06,PR,Cianorte,city,128,1,85,False,82620,4105508,154.92617,0.0078
 2020-06-05,PR,Cianorte,city,112,1,84,False,82620,4105508,135.56040,0.0089
 2020-06-04,PR,Cianorte,city,100,1,83,False,82620,4105508,121.03607,0.0100
 2020-06-03,PR,Cianorte,city,90,1,82,False,82620,4105508,108.93246,0.0111
@@ -2222,14 +2225,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,PR,Cidade Gaúcha,city,2,0,1,False,12652,4105607,15.80778,0.0000
 2020-06-08,PR,Clevelândia,city,4,0,7,True,16559,4105706,24.15605,0.0000
 2020-06-07,PR,Clevelândia,city,4,0,6,False,16559,4105706,24.15605,0.0000
-2020-06-06,PR,Clevelândia,city,4,0,5,False,16559,4105706,24.15605,0.0000
+2020-06-06,PR,Clevelândia,city,8,0,5,False,16559,4105706,48.31210,0.0000
 2020-06-05,PR,Clevelândia,city,4,0,4,False,16559,4105706,24.15605,0.0000
 2020-06-04,PR,Clevelândia,city,4,0,3,False,16559,4105706,24.15605,0.0000
 2020-06-03,PR,Clevelândia,city,2,0,2,False,16559,4105706,12.07802,0.0000
 2020-06-02,PR,Clevelândia,city,1,0,1,False,16559,4105706,6.03901,0.0000
 2020-06-08,PR,Colombo,city,69,0,79,True,243726,4105805,28.31048,0.0000
 2020-06-07,PR,Colombo,city,69,0,78,False,243726,4105805,28.31048,0.0000
-2020-06-06,PR,Colombo,city,69,0,77,False,243726,4105805,28.31048,0.0000
+2020-06-06,PR,Colombo,city,82,0,77,False,243726,4105805,33.64434,0.0000
 2020-06-05,PR,Colombo,city,78,0,76,False,243726,4105805,32.00315,0.0000
 2020-06-04,PR,Colombo,city,69,0,75,False,243726,4105805,28.31048,0.0000
 2020-06-03,PR,Colombo,city,66,0,74,False,243726,4105805,27.07959,0.0000
@@ -2339,7 +2342,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,PR,Colorado,city,1,0,1,False,24012,4105904,4.16458,0.0000
 2020-06-08,PR,Congonhinhas,city,3,0,16,True,8818,4106001,34.02132,0.0000
 2020-06-07,PR,Congonhinhas,city,3,0,15,False,8818,4106001,34.02132,0.0000
-2020-06-06,PR,Congonhinhas,city,3,0,14,False,8818,4106001,34.02132,0.0000
+2020-06-06,PR,Congonhinhas,city,4,0,14,False,8818,4106001,45.36176,0.0000
 2020-06-05,PR,Congonhinhas,city,4,0,13,False,8818,4106001,45.36176,0.0000
 2020-06-04,PR,Congonhinhas,city,3,0,12,False,8818,4106001,34.02132,0.0000
 2020-06-03,PR,Congonhinhas,city,2,0,11,False,8818,4106001,22.68088,0.0000
@@ -2355,7 +2358,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,PR,Congonhinhas,city,1,0,1,False,8818,4106001,11.34044,0.0000
 2020-06-08,PR,Conselheiro Mairinck,city,5,0,10,True,3860,4106100,129.53368,0.0000
 2020-06-07,PR,Conselheiro Mairinck,city,5,0,9,False,3860,4106100,129.53368,0.0000
-2020-06-06,PR,Conselheiro Mairinck,city,5,0,8,False,3860,4106100,129.53368,0.0000
+2020-06-06,PR,Conselheiro Mairinck,city,8,0,8,False,3860,4106100,207.25389,0.0000
 2020-06-05,PR,Conselheiro Mairinck,city,5,0,7,False,3860,4106100,129.53368,0.0000
 2020-06-04,PR,Conselheiro Mairinck,city,5,0,6,False,3860,4106100,129.53368,0.0000
 2020-06-03,PR,Conselheiro Mairinck,city,5,0,5,False,3860,4106100,129.53368,0.0000
@@ -2455,7 +2458,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,PR,Corbélia,city,1,0,1,False,17071,4106308,5.85789,0.0000
 2020-06-08,PR,Cornélio Procópio,city,121,1,68,True,47845,4106407,252.89999,0.0083
 2020-06-07,PR,Cornélio Procópio,city,121,1,67,False,47845,4106407,252.89999,0.0083
-2020-06-06,PR,Cornélio Procópio,city,121,1,66,False,47845,4106407,252.89999,0.0083
+2020-06-06,PR,Cornélio Procópio,city,142,2,66,False,47845,4106407,296.79172,0.0141
 2020-06-05,PR,Cornélio Procópio,city,142,2,65,False,47845,4106407,296.79172,0.0141
 2020-06-04,PR,Cornélio Procópio,city,121,1,64,False,47845,4106407,252.89999,0.0083
 2020-06-03,PR,Cornélio Procópio,city,107,1,63,False,47845,4106407,223.63883,0.0093
@@ -2523,7 +2526,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,PR,Cornélio Procópio,city,1,0,1,False,47845,4106407,2.09008,0.0000
 2020-06-08,PR,Coronel Domingos Soares,city,87,0,13,True,7497,4106456,1160.46419,0.0000
 2020-06-07,PR,Coronel Domingos Soares,city,87,0,12,False,7497,4106456,1160.46419,0.0000
-2020-06-06,PR,Coronel Domingos Soares,city,87,0,11,False,7497,4106456,1160.46419,0.0000
+2020-06-06,PR,Coronel Domingos Soares,city,88,0,11,False,7497,4106456,1173.80285,0.0000
 2020-06-05,PR,Coronel Domingos Soares,city,88,0,10,False,7497,4106456,1173.80285,0.0000
 2020-06-04,PR,Coronel Domingos Soares,city,87,0,9,False,7497,4106456,1160.46419,0.0000
 2020-06-03,PR,Coronel Domingos Soares,city,49,0,8,False,7497,4106456,653.59477,0.0000
@@ -2586,7 +2589,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-18,PR,Cruzeiro do Iguaçu,city,2,0,1,False,4252,4106571,47.03669,0.0000
 2020-06-08,PR,Cruzeiro do Oeste,city,5,0,16,True,20932,4106605,23.88687,0.0000
 2020-06-07,PR,Cruzeiro do Oeste,city,5,0,15,False,20932,4106605,23.88687,0.0000
-2020-06-06,PR,Cruzeiro do Oeste,city,5,0,14,False,20932,4106605,23.88687,0.0000
+2020-06-06,PR,Cruzeiro do Oeste,city,10,0,14,False,20932,4106605,47.77374,0.0000
 2020-06-05,PR,Cruzeiro do Oeste,city,10,0,13,False,20932,4106605,47.77374,0.0000
 2020-06-04,PR,Cruzeiro do Oeste,city,5,0,12,False,20932,4106605,23.88687,0.0000
 2020-06-03,PR,Cruzeiro do Oeste,city,5,0,11,False,20932,4106605,23.88687,0.0000
@@ -2651,11 +2654,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-21,PR,Cruzeiro do Sul,city,1,0,3,False,4469,4106704,22.37637,0.0000
 2020-04-20,PR,Cruzeiro do Sul,city,1,0,2,False,4469,4106704,22.37637,0.0000
 2020-04-19,PR,Cruzeiro do Sul,city,1,0,1,False,4469,4106704,22.37637,0.0000
-2020-06-08,PR,Cruzmaltina,city,1,0,2,True,2950,4106852,33.89831,0.0000
+2020-06-08,PR,Cruzmaltina,city,1,0,3,True,2950,4106852,33.89831,0.0000
+2020-06-06,PR,Cruzmaltina,city,0,0,2,False,2950,4106852,,0.0000
 2020-06-05,PR,Cruzmaltina,city,1,0,1,False,2950,4106852,33.89831,0.0000
 2020-06-08,PR,Curitiba,city,1143,53,87,True,1933105,4106902,59.12767,0.0464
 2020-06-07,PR,Curitiba,city,1143,53,86,False,1933105,4106902,59.12767,0.0464
-2020-06-06,PR,Curitiba,city,1143,53,85,False,1933105,4106902,59.12767,0.0464
+2020-06-06,PR,Curitiba,city,1264,54,85,False,1933105,4106902,65.38703,0.0427
 2020-06-05,PR,Curitiba,city,1230,55,84,False,1933105,4106902,63.62820,0.0447
 2020-06-04,PR,Curitiba,city,1143,53,83,False,1933105,4106902,59.12767,0.0464
 2020-06-03,PR,Curitiba,city,1099,53,82,False,1933105,4106902,56.85154,0.0482
@@ -2749,7 +2753,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-02,PR,Curiúva,city,3,0,1,False,15101,4107009,19.86623,0.0000
 2020-06-08,PR,Céu Azul,city,9,1,43,True,11765,4105300,76.49809,0.1111
 2020-06-07,PR,Céu Azul,city,9,1,42,False,11765,4105300,76.49809,0.1111
-2020-06-06,PR,Céu Azul,city,9,1,41,False,11765,4105300,76.49809,0.1111
+2020-06-06,PR,Céu Azul,city,9,0,41,False,11765,4105300,76.49809,0.0000
 2020-06-05,PR,Céu Azul,city,9,0,40,False,11765,4105300,76.49809,0.0000
 2020-06-04,PR,Céu Azul,city,9,1,39,False,11765,4105300,76.49809,0.1111
 2020-06-03,PR,Céu Azul,city,9,0,38,False,11765,4105300,76.49809,0.0000
@@ -2809,7 +2813,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,PR,Diamante do Norte,city,1,0,1,False,5087,4107108,19.65795,0.0000
 2020-06-08,PR,Diamante do Sul,city,7,0,20,True,3439,4107124,203.54754,0.0000
 2020-06-07,PR,Diamante do Sul,city,7,0,19,False,3439,4107124,203.54754,0.0000
-2020-06-06,PR,Diamante do Sul,city,7,0,18,False,3439,4107124,203.54754,0.0000
+2020-06-06,PR,Diamante do Sul,city,9,0,18,False,3439,4107124,261.70398,0.0000
 2020-06-05,PR,Diamante do Sul,city,9,0,17,False,3439,4107124,261.70398,0.0000
 2020-06-04,PR,Diamante do Sul,city,7,0,16,False,3439,4107124,203.54754,0.0000
 2020-06-03,PR,Diamante do Sul,city,7,0,15,False,3439,4107124,203.54754,0.0000
@@ -2917,7 +2921,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,PR,Doutor Camargo,city,1,0,3,False,5979,4107306,16.72520,0.0000
 2020-05-22,PR,Doutor Camargo,city,1,0,2,False,5979,4107306,16.72520,0.0000
 2020-05-21,PR,Doutor Camargo,city,1,0,1,False,5979,4107306,16.72520,0.0000
-2020-06-08,PR,Enéas Marques,city,1,0,2,True,5961,4107405,16.77571,0.0000
+2020-06-08,PR,Enéas Marques,city,1,0,3,True,5961,4107405,16.77571,0.0000
+2020-06-06,PR,Enéas Marques,city,1,0,2,False,5961,4107405,16.77571,0.0000
 2020-06-05,PR,Enéas Marques,city,1,0,1,False,5961,4107405,16.77571,0.0000
 2020-06-08,PR,Faxinal,city,3,0,76,True,17251,4107603,17.39030,0.0000
 2020-06-07,PR,Faxinal,city,3,0,75,False,17251,4107603,17.39030,0.0000
@@ -2997,7 +3002,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,PR,Faxinal,city,1,0,1,False,17251,4107603,5.79677,0.0000
 2020-06-08,PR,Fazenda Rio Grande,city,73,4,69,True,100209,4107652,72.84775,0.0548
 2020-06-07,PR,Fazenda Rio Grande,city,73,4,68,False,100209,4107652,72.84775,0.0548
-2020-06-06,PR,Fazenda Rio Grande,city,73,4,67,False,100209,4107652,72.84775,0.0548
+2020-06-06,PR,Fazenda Rio Grande,city,82,5,67,False,100209,4107652,81.82898,0.0610
 2020-06-05,PR,Fazenda Rio Grande,city,79,4,66,False,100209,4107652,78.83523,0.0506
 2020-06-04,PR,Fazenda Rio Grande,city,73,4,65,False,100209,4107652,72.84775,0.0548
 2020-06-03,PR,Fazenda Rio Grande,city,70,4,64,False,100209,4107652,69.85401,0.0571
@@ -3180,7 +3185,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,PR,Florestópolis,city,1,0,1,False,10548,4108007,9.48047,0.0000
 2020-06-08,PR,Foz do Iguaçu,city,133,3,83,True,258532,4108304,51.44431,0.0226
 2020-06-07,PR,Foz do Iguaçu,city,133,3,82,False,258532,4108304,51.44431,0.0226
-2020-06-06,PR,Foz do Iguaçu,city,133,3,81,False,258532,4108304,51.44431,0.0226
+2020-06-06,PR,Foz do Iguaçu,city,132,3,81,False,258532,4108304,51.05751,0.0227
 2020-06-05,PR,Foz do Iguaçu,city,133,3,80,False,258532,4108304,51.44431,0.0226
 2020-06-04,PR,Foz do Iguaçu,city,133,3,79,False,258532,4108304,51.44431,0.0226
 2020-06-03,PR,Foz do Iguaçu,city,130,3,78,False,258532,4108304,50.28391,0.0231
@@ -3263,7 +3268,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-18,PR,Foz do Iguaçu,city,1,0,1,False,258532,4108304,0.38680,0.0000
 2020-06-08,PR,Foz do Jordão,city,9,0,11,True,4650,4108452,193.54839,0.0000
 2020-06-07,PR,Foz do Jordão,city,9,0,10,False,4650,4108452,193.54839,0.0000
-2020-06-06,PR,Foz do Jordão,city,9,0,9,False,4650,4108452,193.54839,0.0000
+2020-06-06,PR,Foz do Jordão,city,16,0,9,False,4650,4108452,344.08602,0.0000
 2020-06-05,PR,Foz do Jordão,city,15,0,8,False,4650,4108452,322.58065,0.0000
 2020-06-04,PR,Foz do Jordão,city,9,0,7,False,4650,4108452,193.54839,0.0000
 2020-06-03,PR,Foz do Jordão,city,9,0,6,False,4650,4108452,193.54839,0.0000
@@ -3289,7 +3294,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,PR,Francisco Alves,city,1,0,1,False,6046,4108320,16.53986,0.0000
 2020-06-08,PR,Francisco Beltrão,city,36,2,70,True,91093,4108403,39.52005,0.0556
 2020-06-07,PR,Francisco Beltrão,city,36,2,69,False,91093,4108403,39.52005,0.0556
-2020-06-06,PR,Francisco Beltrão,city,36,2,68,False,91093,4108403,39.52005,0.0556
+2020-06-06,PR,Francisco Beltrão,city,39,2,68,False,91093,4108403,42.81339,0.0513
 2020-06-05,PR,Francisco Beltrão,city,38,2,67,False,91093,4108403,41.71561,0.0526
 2020-06-04,PR,Francisco Beltrão,city,36,2,66,False,91093,4108403,39.52005,0.0556
 2020-06-03,PR,Francisco Beltrão,city,26,2,65,False,91093,4108403,28.54226,0.0769
@@ -3548,7 +3553,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,PR,Guapirama,city,1,0,1,False,3802,4109005,26.30195,0.0000
 2020-06-08,PR,Guaporema,city,6,1,13,True,2243,4109104,267.49889,0.1667
 2020-06-07,PR,Guaporema,city,6,1,12,False,2243,4109104,267.49889,0.1667
-2020-06-06,PR,Guaporema,city,6,1,11,False,2243,4109104,267.49889,0.1667
+2020-06-06,PR,Guaporema,city,7,1,11,False,2243,4109104,312.08203,0.1429
 2020-06-05,PR,Guaporema,city,6,1,10,False,2243,4109104,267.49889,0.1667
 2020-06-04,PR,Guaporema,city,6,1,9,False,2243,4109104,267.49889,0.1667
 2020-06-03,PR,Guaporema,city,6,0,8,False,2243,4109104,267.49889,0.0000
@@ -3614,7 +3619,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,PR,Guaraci,city,1,0,1,False,5502,4109203,18.17521,0.0000
 2020-06-08,PR,Guaraniaçu,city,23,0,66,True,12472,4109302,184.41309,0.0000
 2020-06-07,PR,Guaraniaçu,city,23,0,65,False,12472,4109302,184.41309,0.0000
-2020-06-06,PR,Guaraniaçu,city,23,0,64,False,12472,4109302,184.41309,0.0000
+2020-06-06,PR,Guaraniaçu,city,24,0,64,False,12472,4109302,192.43105,0.0000
 2020-06-05,PR,Guaraniaçu,city,24,0,63,False,12472,4109302,192.43105,0.0000
 2020-06-04,PR,Guaraniaçu,city,23,0,62,False,12472,4109302,184.41309,0.0000
 2020-06-03,PR,Guaraniaçu,city,23,0,61,False,12472,4109302,184.41309,0.0000
@@ -3680,7 +3685,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,PR,Guaraniaçu,city,2,0,1,False,12472,4109302,16.03592,0.0000
 2020-06-08,PR,Guarapuava,city,38,0,74,True,181504,4109401,20.93618,0.0000
 2020-06-07,PR,Guarapuava,city,38,0,73,False,181504,4109401,20.93618,0.0000
-2020-06-06,PR,Guarapuava,city,38,0,72,False,181504,4109401,20.93618,0.0000
+2020-06-06,PR,Guarapuava,city,41,0,72,False,181504,4109401,22.58903,0.0000
 2020-06-05,PR,Guarapuava,city,40,0,71,False,181504,4109401,22.03808,0.0000
 2020-06-04,PR,Guarapuava,city,38,0,70,False,181504,4109401,20.93618,0.0000
 2020-06-03,PR,Guarapuava,city,35,0,69,False,181504,4109401,19.28332,0.0000
@@ -3786,7 +3791,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,PR,Guaraqueçaba,city,1,0,1,False,7636,4109500,13.09586,0.0000
 2020-06-08,PR,Guaratuba,city,27,1,46,True,37067,4109609,72.84107,0.0370
 2020-06-07,PR,Guaratuba,city,27,1,45,False,37067,4109609,72.84107,0.0370
-2020-06-06,PR,Guaratuba,city,27,1,44,False,37067,4109609,72.84107,0.0370
+2020-06-06,PR,Guaratuba,city,28,1,44,False,37067,4109609,75.53889,0.0357
 2020-06-05,PR,Guaratuba,city,27,1,43,False,37067,4109609,72.84107,0.0370
 2020-06-04,PR,Guaratuba,city,27,1,42,False,37067,4109609,72.84107,0.0370
 2020-06-03,PR,Guaratuba,city,27,1,41,False,37067,4109609,72.84107,0.0370
@@ -3913,7 +3918,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-20,PR,Guaíra,city,1,0,1,False,33119,4108809,3.01941,0.0000
 2020-06-08,PR,Ibaiti,city,2,0,69,True,31364,4109708,6.37674,0.0000
 2020-06-07,PR,Ibaiti,city,2,0,68,False,31364,4109708,6.37674,0.0000
-2020-06-06,PR,Ibaiti,city,2,0,67,False,31364,4109708,6.37674,0.0000
+2020-06-06,PR,Ibaiti,city,3,0,67,False,31364,4109708,9.56511,0.0000
 2020-06-05,PR,Ibaiti,city,3,0,66,False,31364,4109708,9.56511,0.0000
 2020-06-04,PR,Ibaiti,city,2,0,65,False,31364,4109708,6.37674,0.0000
 2020-06-03,PR,Ibaiti,city,2,0,64,False,31364,4109708,6.37674,0.0000
@@ -4048,7 +4053,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,PR,Ibema,city,1,0,1,False,6352,4109757,15.74307,0.0000
 2020-06-08,PR,Ibiporã,city,22,0,50,True,54558,4109807,40.32406,0.0000
 2020-06-07,PR,Ibiporã,city,22,0,49,False,54558,4109807,40.32406,0.0000
-2020-06-06,PR,Ibiporã,city,22,0,48,False,54558,4109807,40.32406,0.0000
+2020-06-06,PR,Ibiporã,city,22,1,48,False,54558,4109807,40.32406,0.0455
 2020-06-05,PR,Ibiporã,city,22,1,47,False,54558,4109807,40.32406,0.0455
 2020-06-04,PR,Ibiporã,city,22,0,46,False,54558,4109807,40.32406,0.0000
 2020-06-03,PR,Ibiporã,city,19,0,45,False,54558,4109807,34.82532,0.0000
@@ -4133,7 +4138,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-26,PR,Iguatu,city,1,0,1,False,2256,4110052,44.32624,0.0000
 2020-06-08,PR,Imbaú,city,5,0,52,True,13111,4110078,38.13592,0.0000
 2020-06-07,PR,Imbaú,city,5,0,51,False,13111,4110078,38.13592,0.0000
-2020-06-06,PR,Imbaú,city,5,0,50,False,13111,4110078,38.13592,0.0000
+2020-06-06,PR,Imbaú,city,8,0,50,False,13111,4110078,61.01747,0.0000
 2020-06-05,PR,Imbaú,city,7,0,49,False,13111,4110078,53.39028,0.0000
 2020-06-04,PR,Imbaú,city,5,0,48,False,13111,4110078,38.13592,0.0000
 2020-06-03,PR,Imbaú,city,4,0,47,False,13111,4110078,30.50873,0.0000
@@ -4215,7 +4220,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,PR,Imbituva,city,1,0,1,False,32564,4110102,3.07088,0.0000
 2020-06-08,PR,Importados/Indefinidos,city,75,5,79,True,,,,0.0667
 2020-06-07,PR,Importados/Indefinidos,city,75,5,78,False,,,,0.0667
-2020-06-06,PR,Importados/Indefinidos,city,75,5,77,False,,,,0.0667
+2020-06-06,PR,Importados/Indefinidos,city,89,7,77,False,,,,0.0787
 2020-06-05,PR,Importados/Indefinidos,city,87,6,76,False,,,,0.0690
 2020-06-04,PR,Importados/Indefinidos,city,75,5,75,False,,,,0.0667
 2020-06-03,PR,Importados/Indefinidos,city,73,5,74,False,,,,0.0685
@@ -4294,7 +4299,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,PR,Importados/Indefinidos,city,4,0,1,False,,,,0.0000
 2020-06-08,PR,Indianópolis,city,8,0,9,True,4457,4110409,179.49293,0.0000
 2020-06-07,PR,Indianópolis,city,8,0,8,False,4457,4110409,179.49293,0.0000
-2020-06-06,PR,Indianópolis,city,8,0,7,False,4457,4110409,179.49293,0.0000
+2020-06-06,PR,Indianópolis,city,12,0,7,False,4457,4110409,269.23940,0.0000
 2020-06-05,PR,Indianópolis,city,12,0,6,False,4457,4110409,269.23940,0.0000
 2020-06-04,PR,Indianópolis,city,8,0,5,False,4457,4110409,179.49293,0.0000
 2020-06-03,PR,Indianópolis,city,7,0,4,False,4457,4110409,157.05632,0.0000
@@ -4338,7 +4343,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,PR,Inácio Martins,city,1,0,1,False,11125,4110201,8.98876,0.0000
 2020-06-08,PR,Iracema do Oeste,city,1,0,12,True,2288,4110656,43.70629,0.0000
 2020-06-07,PR,Iracema do Oeste,city,1,0,11,False,2288,4110656,43.70629,0.0000
-2020-06-06,PR,Iracema do Oeste,city,1,0,10,False,2288,4110656,43.70629,0.0000
+2020-06-06,PR,Iracema do Oeste,city,2,0,10,False,2288,4110656,87.41259,0.0000
 2020-06-05,PR,Iracema do Oeste,city,1,0,9,False,2288,4110656,43.70629,0.0000
 2020-06-04,PR,Iracema do Oeste,city,1,0,8,False,2288,4110656,43.70629,0.0000
 2020-06-03,PR,Iracema do Oeste,city,1,0,7,False,2288,4110656,43.70629,0.0000
@@ -4350,7 +4355,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-28,PR,Iracema do Oeste,city,1,0,1,False,2288,4110656,43.70629,0.0000
 2020-06-08,PR,Irati,city,3,0,25,True,60727,4110706,4.94014,0.0000
 2020-06-07,PR,Irati,city,3,0,24,False,60727,4110706,4.94014,0.0000
-2020-06-06,PR,Irati,city,3,0,23,False,60727,4110706,4.94014,0.0000
+2020-06-06,PR,Irati,city,5,0,23,False,60727,4110706,8.23357,0.0000
 2020-06-05,PR,Irati,city,4,0,22,False,60727,4110706,6.58686,0.0000
 2020-06-04,PR,Irati,city,3,0,21,False,60727,4110706,4.94014,0.0000
 2020-06-03,PR,Irati,city,2,0,20,False,60727,4110706,3.29343,0.0000
@@ -4449,7 +4454,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,PR,Iretama,city,1,0,1,False,10169,4110805,9.83381,0.0000
 2020-06-08,PR,Itaipulândia,city,1,0,26,True,11176,4110953,8.94775,0.0000
 2020-06-07,PR,Itaipulândia,city,1,0,25,False,11176,4110953,8.94775,0.0000
-2020-06-06,PR,Itaipulândia,city,1,0,24,False,11176,4110953,8.94775,0.0000
+2020-06-06,PR,Itaipulândia,city,2,0,24,False,11176,4110953,17.89549,0.0000
 2020-06-05,PR,Itaipulândia,city,1,0,23,False,11176,4110953,8.94775,0.0000
 2020-06-04,PR,Itaipulândia,city,1,0,22,False,11176,4110953,8.94775,0.0000
 2020-06-03,PR,Itaipulândia,city,1,0,21,False,11176,4110953,8.94775,0.0000
@@ -4555,7 +4560,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,PR,Itaperuçu,city,1,0,1,False,28634,4111258,3.49235,0.0000
 2020-06-08,PR,Itaúna do Sul,city,1,0,41,True,2865,4111308,34.90401,0.0000
 2020-06-07,PR,Itaúna do Sul,city,1,0,40,False,2865,4111308,34.90401,0.0000
-2020-06-06,PR,Itaúna do Sul,city,1,0,39,False,2865,4111308,34.90401,0.0000
+2020-06-06,PR,Itaúna do Sul,city,2,0,39,False,2865,4111308,69.80803,0.0000
 2020-06-05,PR,Itaúna do Sul,city,2,0,38,False,2865,4111308,69.80803,0.0000
 2020-06-04,PR,Itaúna do Sul,city,1,0,37,False,2865,4111308,34.90401,0.0000
 2020-06-03,PR,Itaúna do Sul,city,1,0,36,False,2865,4111308,34.90401,0.0000
@@ -4748,7 +4753,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,PR,Jacarezinho,city,1,0,1,False,39378,4111803,2.53949,0.0000
 2020-06-08,PR,Jaguapitã,city,4,0,52,True,13620,4111902,29.36858,0.0000
 2020-06-07,PR,Jaguapitã,city,4,0,51,False,13620,4111902,29.36858,0.0000
-2020-06-06,PR,Jaguapitã,city,4,0,50,False,13620,4111902,29.36858,0.0000
+2020-06-06,PR,Jaguapitã,city,5,0,50,False,13620,4111902,36.71072,0.0000
 2020-06-05,PR,Jaguapitã,city,4,0,49,False,13620,4111902,29.36858,0.0000
 2020-06-04,PR,Jaguapitã,city,4,0,48,False,13620,4111902,29.36858,0.0000
 2020-06-03,PR,Jaguapitã,city,4,0,47,False,13620,4111902,29.36858,0.0000
@@ -4800,7 +4805,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,PR,Jaguapitã,city,1,0,1,False,13620,4111902,7.34214,0.0000
 2020-06-08,PR,Jaguariaíva,city,9,1,25,True,34857,4112009,25.81978,0.1111
 2020-06-07,PR,Jaguariaíva,city,9,1,24,False,34857,4112009,25.81978,0.1111
-2020-06-06,PR,Jaguariaíva,city,9,1,23,False,34857,4112009,25.81978,0.1111
+2020-06-06,PR,Jaguariaíva,city,17,1,23,False,34857,4112009,48.77069,0.0588
 2020-06-05,PR,Jaguariaíva,city,9,1,22,False,34857,4112009,25.81978,0.1111
 2020-06-04,PR,Jaguariaíva,city,9,1,21,False,34857,4112009,25.81978,0.1111
 2020-06-03,PR,Jaguariaíva,city,9,1,20,False,34857,4112009,25.81978,0.1111
@@ -4848,11 +4853,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,PR,Janiópolis,city,1,0,3,False,5245,4112207,19.06578,0.0000
 2020-05-24,PR,Janiópolis,city,1,0,2,False,5245,4112207,19.06578,0.0000
 2020-05-23,PR,Janiópolis,city,1,0,1,False,5245,4112207,19.06578,0.0000
-2020-06-08,PR,Japira,city,1,0,2,True,4994,4112306,20.02403,0.0000
+2020-06-08,PR,Japira,city,1,0,3,True,4994,4112306,20.02403,0.0000
+2020-06-06,PR,Japira,city,1,0,2,False,4994,4112306,20.02403,0.0000
 2020-06-05,PR,Japira,city,1,0,1,False,4994,4112306,20.02403,0.0000
 2020-06-08,PR,Japurá,city,7,0,51,True,9425,4112405,74.27056,0.0000
 2020-06-07,PR,Japurá,city,7,0,50,False,9425,4112405,74.27056,0.0000
-2020-06-06,PR,Japurá,city,7,0,49,False,9425,4112405,74.27056,0.0000
+2020-06-06,PR,Japurá,city,10,0,49,False,9425,4112405,106.10080,0.0000
 2020-06-05,PR,Japurá,city,10,0,48,False,9425,4112405,106.10080,0.0000
 2020-06-04,PR,Japurá,city,7,0,47,False,9425,4112405,74.27056,0.0000
 2020-06-03,PR,Japurá,city,7,0,46,False,9425,4112405,74.27056,0.0000
@@ -4987,7 +4993,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,PR,Jesuítas,city,1,1,1,False,8412,4112751,11.88778,1.0000
 2020-06-08,PR,Joaquim Távora,city,1,0,8,True,11908,4112801,8.39772,0.0000
 2020-06-07,PR,Joaquim Távora,city,1,0,7,False,11908,4112801,8.39772,0.0000
-2020-06-06,PR,Joaquim Távora,city,1,0,6,False,11908,4112801,8.39772,0.0000
+2020-06-06,PR,Joaquim Távora,city,3,0,6,False,11908,4112801,25.19315,0.0000
 2020-06-05,PR,Joaquim Távora,city,3,0,5,False,11908,4112801,25.19315,0.0000
 2020-06-04,PR,Joaquim Távora,city,1,0,4,False,11908,4112801,8.39772,0.0000
 2020-06-03,PR,Joaquim Távora,city,1,0,3,False,11908,4112801,8.39772,0.0000
@@ -5002,7 +5008,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-02,PR,Juranda,city,1,0,1,False,7340,4112959,13.62398,0.0000
 2020-06-08,PR,Jussara,city,2,1,58,True,7013,4113007,28.51847,0.5000
 2020-06-07,PR,Jussara,city,2,1,57,False,7013,4113007,28.51847,0.5000
-2020-06-06,PR,Jussara,city,2,1,56,False,7013,4113007,28.51847,0.5000
+2020-06-06,PR,Jussara,city,4,1,56,False,7013,4113007,57.03693,0.2500
 2020-06-05,PR,Jussara,city,2,1,55,False,7013,4113007,28.51847,0.5000
 2020-06-04,PR,Jussara,city,2,1,54,False,7013,4113007,28.51847,0.5000
 2020-06-03,PR,Jussara,city,2,1,53,False,7013,4113007,28.51847,0.5000
@@ -5086,7 +5092,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,PR,Kaloré,city,1,0,1,False,4100,4113106,24.39024,0.0000
 2020-06-08,PR,Lapa,city,4,0,70,True,48163,4113205,8.30513,0.0000
 2020-06-07,PR,Lapa,city,4,0,69,False,48163,4113205,8.30513,0.0000
-2020-06-06,PR,Lapa,city,4,0,68,False,48163,4113205,8.30513,0.0000
+2020-06-06,PR,Lapa,city,6,0,68,False,48163,4113205,12.45770,0.0000
 2020-06-05,PR,Lapa,city,4,0,67,False,48163,4113205,8.30513,0.0000
 2020-06-04,PR,Lapa,city,4,0,66,False,48163,4113205,8.30513,0.0000
 2020-06-03,PR,Lapa,city,4,0,65,False,48163,4113205,8.30513,0.0000
@@ -5180,7 +5186,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,PR,Laranjeiras do Sul,city,1,0,1,False,32073,4113304,3.11789,0.0000
 2020-06-08,PR,Leópolis,city,4,0,68,True,3954,4113403,101.16338,0.0000
 2020-06-07,PR,Leópolis,city,4,0,67,False,3954,4113403,101.16338,0.0000
-2020-06-06,PR,Leópolis,city,4,0,66,False,3954,4113403,101.16338,0.0000
+2020-06-06,PR,Leópolis,city,5,0,66,False,3954,4113403,126.45422,0.0000
 2020-06-05,PR,Leópolis,city,5,0,65,False,3954,4113403,126.45422,0.0000
 2020-06-04,PR,Leópolis,city,4,0,64,False,3954,4113403,101.16338,0.0000
 2020-06-03,PR,Leópolis,city,4,0,63,False,3954,4113403,101.16338,0.0000
@@ -5248,7 +5254,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,PR,Leópolis,city,1,0,1,False,3954,4113403,25.29084,0.0000
 2020-06-08,PR,Lindoeste,city,4,0,14,True,4676,4113452,85.54320,0.0000
 2020-06-07,PR,Lindoeste,city,4,0,13,False,4676,4113452,85.54320,0.0000
-2020-06-06,PR,Lindoeste,city,4,0,12,False,4676,4113452,85.54320,0.0000
+2020-06-06,PR,Lindoeste,city,5,0,12,False,4676,4113452,106.92900,0.0000
 2020-06-05,PR,Lindoeste,city,5,0,11,False,4676,4113452,106.92900,0.0000
 2020-06-04,PR,Lindoeste,city,4,0,10,False,4676,4113452,85.54320,0.0000
 2020-06-03,PR,Lindoeste,city,3,0,9,False,4676,4113452,64.15740,0.0000
@@ -5319,7 +5325,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,PR,Lobato,city,1,0,1,False,4787,4113601,20.88991,0.0000
 2020-06-08,PR,Londrina,city,521,29,84,True,569733,4113700,91.44634,0.0557
 2020-06-07,PR,Londrina,city,521,29,83,False,569733,4113700,91.44634,0.0557
-2020-06-06,PR,Londrina,city,521,29,82,False,569733,4113700,91.44634,0.0557
+2020-06-06,PR,Londrina,city,589,31,82,False,569733,4113700,103.38176,0.0526
 2020-06-05,PR,Londrina,city,570,30,81,False,569733,4113700,100.04686,0.0526
 2020-06-04,PR,Londrina,city,521,29,80,False,569733,4113700,91.44634,0.0557
 2020-06-03,PR,Londrina,city,491,28,79,False,569733,4113700,86.18072,0.0570
@@ -5618,7 +5624,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-24,PR,Mandaguaçu,city,1,0,1,False,22819,4114104,4.38231,0.0000
 2020-06-08,PR,Mandirituba,city,30,0,68,True,26869,4114302,111.65283,0.0000
 2020-06-07,PR,Mandirituba,city,30,0,67,False,26869,4114302,111.65283,0.0000
-2020-06-06,PR,Mandirituba,city,30,0,66,False,26869,4114302,111.65283,0.0000
+2020-06-06,PR,Mandirituba,city,34,0,66,False,26869,4114302,126.53988,0.0000
 2020-06-05,PR,Mandirituba,city,33,0,65,False,26869,4114302,122.81812,0.0000
 2020-06-04,PR,Mandirituba,city,30,0,64,False,26869,4114302,111.65283,0.0000
 2020-06-03,PR,Mandirituba,city,30,0,63,False,26869,4114302,111.65283,0.0000
@@ -5872,7 +5878,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,PR,Maria Helena,city,1,0,1,False,5677,4114708,17.61494,0.0000
 2020-06-08,PR,Marialva,city,2,0,34,True,35496,4114807,5.63444,0.0000
 2020-06-07,PR,Marialva,city,2,0,33,False,35496,4114807,5.63444,0.0000
-2020-06-06,PR,Marialva,city,2,0,32,False,35496,4114807,5.63444,0.0000
+2020-06-06,PR,Marialva,city,3,0,32,False,35496,4114807,8.45166,0.0000
 2020-06-05,PR,Marialva,city,3,0,31,False,35496,4114807,8.45166,0.0000
 2020-06-04,PR,Marialva,city,2,0,30,False,35496,4114807,5.63444,0.0000
 2020-06-03,PR,Marialva,city,2,0,29,False,35496,4114807,5.63444,0.0000
@@ -5994,7 +6000,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,PR,Marilândia do Sul,city,1,0,1,False,8836,4114906,11.31734,0.0000
 2020-06-08,PR,Maringá,city,199,9,83,True,423666,4115200,46.97096,0.0452
 2020-06-07,PR,Maringá,city,199,9,82,False,423666,4115200,46.97096,0.0452
-2020-06-06,PR,Maringá,city,199,9,81,False,423666,4115200,46.97096,0.0452
+2020-06-06,PR,Maringá,city,240,10,81,False,423666,4115200,56.64840,0.0417
 2020-06-05,PR,Maringá,city,212,10,80,False,423666,4115200,50.03942,0.0472
 2020-06-04,PR,Maringá,city,199,9,79,False,423666,4115200,46.97096,0.0452
 2020-06-03,PR,Maringá,city,190,9,78,False,423666,4115200,44.84665,0.0474
@@ -6236,7 +6242,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,PR,Matelândia,city,1,0,1,False,17943,4115606,5.57320,0.0000
 2020-06-08,PR,Matinhos,city,7,0,71,True,34720,4115705,20.16129,0.0000
 2020-06-07,PR,Matinhos,city,7,0,70,False,34720,4115705,20.16129,0.0000
-2020-06-06,PR,Matinhos,city,7,0,69,False,34720,4115705,20.16129,0.0000
+2020-06-06,PR,Matinhos,city,10,0,69,False,34720,4115705,28.80184,0.0000
 2020-06-05,PR,Matinhos,city,8,0,68,False,34720,4115705,23.04147,0.0000
 2020-06-04,PR,Matinhos,city,7,0,67,False,34720,4115705,20.16129,0.0000
 2020-06-03,PR,Matinhos,city,7,0,66,False,34720,4115705,20.16129,0.0000
@@ -6419,7 +6425,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,PR,Mirador,city,2,0,1,False,2213,4115903,90.37506,0.0000
 2020-06-08,PR,Missal,city,4,0,24,True,10702,4116059,37.37619,0.0000
 2020-06-07,PR,Missal,city,4,0,23,False,10702,4116059,37.37619,0.0000
-2020-06-06,PR,Missal,city,4,0,22,False,10702,4116059,37.37619,0.0000
+2020-06-06,PR,Missal,city,7,0,22,False,10702,4116059,65.40833,0.0000
 2020-06-05,PR,Missal,city,4,0,21,False,10702,4116059,37.37619,0.0000
 2020-06-04,PR,Missal,city,4,0,20,False,10702,4116059,37.37619,0.0000
 2020-06-03,PR,Missal,city,4,0,19,False,10702,4116059,37.37619,0.0000
@@ -6457,7 +6463,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-26,PR,Moreira Sales,city,1,0,1,False,12121,4116109,8.25014,0.0000
 2020-06-08,PR,Morretes,city,7,0,52,True,16406,4116208,42.66732,0.0000
 2020-06-07,PR,Morretes,city,7,0,51,False,16406,4116208,42.66732,0.0000
-2020-06-06,PR,Morretes,city,7,0,50,False,16406,4116208,42.66732,0.0000
+2020-06-06,PR,Morretes,city,9,0,50,False,16406,4116208,54.85798,0.0000
 2020-06-05,PR,Morretes,city,9,0,49,False,16406,4116208,54.85798,0.0000
 2020-06-04,PR,Morretes,city,7,0,48,False,16406,4116208,42.66732,0.0000
 2020-06-03,PR,Morretes,city,7,0,47,False,16406,4116208,42.66732,0.0000
@@ -6621,7 +6627,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-22,PR,Nova Esperança,city,5,0,1,False,27904,4116901,17.91858,0.0000
 2020-06-08,PR,Nova Fátima,city,4,0,42,True,8153,4117008,49.06170,0.0000
 2020-06-07,PR,Nova Fátima,city,4,0,41,False,8153,4117008,49.06170,0.0000
-2020-06-06,PR,Nova Fátima,city,4,0,40,False,8153,4117008,49.06170,0.0000
+2020-06-06,PR,Nova Fátima,city,10,0,40,False,8153,4117008,122.65424,0.0000
 2020-06-05,PR,Nova Fátima,city,10,0,39,False,8153,4117008,122.65424,0.0000
 2020-06-04,PR,Nova Fátima,city,4,0,38,False,8153,4117008,49.06170,0.0000
 2020-06-03,PR,Nova Fátima,city,3,0,37,False,8153,4117008,36.79627,0.0000
@@ -6715,7 +6721,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,PR,Nova Londrina,city,1,0,1,False,13213,4117107,7.56830,0.0000
 2020-06-08,PR,Nova Olímpia,city,1,0,7,True,5806,4117206,17.22356,0.0000
 2020-06-07,PR,Nova Olímpia,city,1,0,6,False,5806,4117206,17.22356,0.0000
-2020-06-06,PR,Nova Olímpia,city,1,0,5,False,5806,4117206,17.22356,0.0000
+2020-06-06,PR,Nova Olímpia,city,2,0,5,False,5806,4117206,34.44712,0.0000
 2020-06-05,PR,Nova Olímpia,city,1,0,4,False,5806,4117206,17.22356,0.0000
 2020-06-04,PR,Nova Olímpia,city,1,0,3,False,5806,4117206,17.22356,0.0000
 2020-06-03,PR,Nova Olímpia,city,1,0,2,False,5806,4117206,17.22356,0.0000
@@ -6737,7 +6743,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,PR,Ortigueira,city,1,0,1,False,22141,4117305,4.51651,0.0000
 2020-06-08,PR,Paiçandu,city,5,0,60,True,41281,4117503,12.11211,0.0000
 2020-06-07,PR,Paiçandu,city,5,0,59,False,41281,4117503,12.11211,0.0000
-2020-06-06,PR,Paiçandu,city,5,0,58,False,41281,4117503,12.11211,0.0000
+2020-06-06,PR,Paiçandu,city,6,0,58,False,41281,4117503,14.53453,0.0000
 2020-06-05,PR,Paiçandu,city,6,0,57,False,41281,4117503,14.53453,0.0000
 2020-06-04,PR,Paiçandu,city,5,0,56,False,41281,4117503,12.11211,0.0000
 2020-06-03,PR,Paiçandu,city,5,0,55,False,41281,4117503,12.11211,0.0000
@@ -6797,7 +6803,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,PR,Paiçandu,city,1,0,1,False,41281,4117503,2.42242,0.0000
 2020-06-08,PR,Palmas,city,7,0,66,True,50986,4117602,13.72926,0.0000
 2020-06-07,PR,Palmas,city,7,0,65,False,50986,4117602,13.72926,0.0000
-2020-06-06,PR,Palmas,city,7,0,64,False,50986,4117602,13.72926,0.0000
+2020-06-06,PR,Palmas,city,8,0,64,False,50986,4117602,15.69058,0.0000
 2020-06-05,PR,Palmas,city,8,0,63,False,50986,4117602,15.69058,0.0000
 2020-06-04,PR,Palmas,city,7,0,62,False,50986,4117602,13.72926,0.0000
 2020-06-03,PR,Palmas,city,6,0,61,False,50986,4117602,11.76794,0.0000
@@ -6931,7 +6937,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,PR,Palmeira,city,1,0,1,False,33877,4117701,2.95186,0.0000
 2020-06-08,PR,Palotina,city,16,1,39,True,31846,4117909,50.24179,0.0625
 2020-06-07,PR,Palotina,city,16,1,38,False,31846,4117909,50.24179,0.0625
-2020-06-06,PR,Palotina,city,16,1,37,False,31846,4117909,50.24179,0.0625
+2020-06-06,PR,Palotina,city,18,1,37,False,31846,4117909,56.52201,0.0556
 2020-06-05,PR,Palotina,city,18,1,36,False,31846,4117909,56.52201,0.0556
 2020-06-04,PR,Palotina,city,16,1,35,False,31846,4117909,50.24179,0.0625
 2020-06-03,PR,Palotina,city,16,1,34,False,31846,4117909,50.24179,0.0625
@@ -7021,7 +7027,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,PR,Paranacity,city,4,0,1,False,11472,4118105,34.86750,0.0000
 2020-06-08,PR,Paranaguá,city,71,4,68,True,154936,4118204,45.82537,0.0563
 2020-06-07,PR,Paranaguá,city,71,4,67,False,154936,4118204,45.82537,0.0563
-2020-06-06,PR,Paranaguá,city,71,4,66,False,154936,4118204,45.82537,0.0563
+2020-06-06,PR,Paranaguá,city,73,4,66,False,154936,4118204,47.11623,0.0548
 2020-06-05,PR,Paranaguá,city,71,4,65,False,154936,4118204,45.82537,0.0563
 2020-06-04,PR,Paranaguá,city,71,4,64,False,154936,4118204,45.82537,0.0563
 2020-06-03,PR,Paranaguá,city,64,4,63,False,154936,4118204,41.30738,0.0625
@@ -7133,7 +7139,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,PR,Paranapoema,city,1,0,1,False,3203,4118303,31.22073,0.0000
 2020-06-08,PR,Paranavaí,city,102,6,77,True,88374,4118402,115.41856,0.0588
 2020-06-07,PR,Paranavaí,city,102,6,76,False,88374,4118402,115.41856,0.0588
-2020-06-06,PR,Paranavaí,city,102,6,75,False,88374,4118402,115.41856,0.0588
+2020-06-06,PR,Paranavaí,city,103,6,75,False,88374,4118402,116.55012,0.0583
 2020-06-05,PR,Paranavaí,city,102,6,74,False,88374,4118402,115.41856,0.0588
 2020-06-04,PR,Paranavaí,city,102,6,73,False,88374,4118402,115.41856,0.0588
 2020-06-03,PR,Paranavaí,city,102,6,72,False,88374,4118402,115.41856,0.0588
@@ -7430,7 +7436,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-29,PR,Peabiru,city,1,0,1,False,13996,4118808,7.14490,0.0000
 2020-06-08,PR,Pinhais,city,103,4,80,True,132157,4119152,77.93760,0.0388
 2020-06-07,PR,Pinhais,city,103,4,79,False,132157,4119152,77.93760,0.0388
-2020-06-06,PR,Pinhais,city,103,4,78,False,132157,4119152,77.93760,0.0388
+2020-06-06,PR,Pinhais,city,124,4,78,False,132157,4119152,93.82780,0.0323
 2020-06-05,PR,Pinhais,city,121,4,77,False,132157,4119152,91.55777,0.0331
 2020-06-04,PR,Pinhais,city,103,4,76,False,132157,4119152,77.93760,0.0388
 2020-06-03,PR,Pinhais,city,99,3,75,False,132157,4119152,74.91090,0.0303
@@ -7560,7 +7566,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,PR,Pinhal de São Bento,city,1,0,1,False,2731,4119251,36.61662,0.0000
 2020-06-08,PR,Pinhão,city,3,0,66,True,32391,4119301,9.26183,0.0000
 2020-06-07,PR,Pinhão,city,3,0,65,False,32391,4119301,9.26183,0.0000
-2020-06-06,PR,Pinhão,city,3,0,64,False,32391,4119301,9.26183,0.0000
+2020-06-06,PR,Pinhão,city,4,0,64,False,32391,4119301,12.34911,0.0000
 2020-06-05,PR,Pinhão,city,4,0,63,False,32391,4119301,12.34911,0.0000
 2020-06-04,PR,Pinhão,city,3,0,62,False,32391,4119301,9.26183,0.0000
 2020-06-03,PR,Pinhão,city,3,0,61,False,32391,4119301,9.26183,0.0000
@@ -7626,7 +7632,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,PR,Pinhão,city,1,0,1,False,32391,4119301,3.08728,0.0000
 2020-06-08,PR,Piraquara,city,69,5,67,True,113036,4119509,61.04250,0.0725
 2020-06-07,PR,Piraquara,city,69,5,66,False,113036,4119509,61.04250,0.0725
-2020-06-06,PR,Piraquara,city,69,5,65,False,113036,4119509,61.04250,0.0725
+2020-06-06,PR,Piraquara,city,92,6,65,False,113036,4119509,81.39000,0.0652
 2020-06-05,PR,Piraquara,city,86,6,64,False,113036,4119509,76.08196,0.0698
 2020-06-04,PR,Piraquara,city,69,5,63,False,113036,4119509,61.04250,0.0725
 2020-06-03,PR,Piraquara,city,58,3,62,False,113036,4119509,51.31109,0.0517
@@ -7691,11 +7697,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-05,PR,Piraquara,city,1,0,3,False,113036,4119509,0.88467,0.0000
 2020-04-04,PR,Piraquara,city,1,0,2,False,113036,4119509,0.88467,0.0000
 2020-04-03,PR,Piraquara,city,1,0,1,False,113036,4119509,0.88467,0.0000
-2020-06-08,PR,Piraí do Sul,city,1,0,2,True,25463,4119400,3.92727,0.0000
+2020-06-08,PR,Piraí do Sul,city,1,0,3,True,25463,4119400,3.92727,0.0000
+2020-06-06,PR,Piraí do Sul,city,1,0,2,False,25463,4119400,3.92727,0.0000
 2020-06-05,PR,Piraí do Sul,city,1,0,1,False,25463,4119400,3.92727,0.0000
 2020-06-08,PR,Pitanga,city,4,0,20,True,30310,4119608,13.19696,0.0000
 2020-06-07,PR,Pitanga,city,4,0,19,False,30310,4119608,13.19696,0.0000
-2020-06-06,PR,Pitanga,city,4,0,18,False,30310,4119608,13.19696,0.0000
+2020-06-06,PR,Pitanga,city,9,0,18,False,30310,4119608,29.69317,0.0000
 2020-06-05,PR,Pitanga,city,6,0,17,False,30310,4119608,19.79545,0.0000
 2020-06-04,PR,Pitanga,city,4,0,16,False,30310,4119608,13.19696,0.0000
 2020-06-03,PR,Pitanga,city,4,0,15,False,30310,4119608,13.19696,0.0000
@@ -7791,7 +7798,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,PR,Planaltina do Paraná,city,1,0,1,False,4263,4119707,23.45766,0.0000
 2020-06-08,PR,Planalto,city,2,0,10,True,13479,4119806,14.83790,0.0000
 2020-06-07,PR,Planalto,city,2,0,9,False,13479,4119806,14.83790,0.0000
-2020-06-06,PR,Planalto,city,2,0,8,False,13479,4119806,14.83790,0.0000
+2020-06-06,PR,Planalto,city,3,0,8,False,13479,4119806,22.25684,0.0000
 2020-06-05,PR,Planalto,city,3,0,7,False,13479,4119806,22.25684,0.0000
 2020-06-04,PR,Planalto,city,2,0,6,False,13479,4119806,14.83790,0.0000
 2020-06-03,PR,Planalto,city,1,0,5,False,13479,4119806,7.41895,0.0000
@@ -7801,7 +7808,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-30,PR,Planalto,city,1,0,1,False,13479,4119806,7.41895,0.0000
 2020-06-08,PR,Ponta Grossa,city,83,0,80,True,351736,4119905,23.59724,0.0000
 2020-06-07,PR,Ponta Grossa,city,83,0,79,False,351736,4119905,23.59724,0.0000
-2020-06-06,PR,Ponta Grossa,city,83,0,78,False,351736,4119905,23.59724,0.0000
+2020-06-06,PR,Ponta Grossa,city,96,0,78,False,351736,4119905,27.29320,0.0000
 2020-06-05,PR,Ponta Grossa,city,95,0,77,False,351736,4119905,27.00889,0.0000
 2020-06-04,PR,Ponta Grossa,city,83,0,76,False,351736,4119905,23.59724,0.0000
 2020-06-03,PR,Ponta Grossa,city,80,0,75,False,351736,4119905,22.74433,0.0000
@@ -7918,7 +7925,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-03,PR,Porecatu,city,1,0,3,False,12914,4120002,7.74353,0.0000
 2020-06-02,PR,Porecatu,city,1,0,2,False,12914,4120002,7.74353,0.0000
 2020-06-01,PR,Porecatu,city,1,0,1,False,12914,4120002,7.74353,0.0000
-2020-06-08,PR,Porto Barreiro,city,1,0,2,True,3237,4120150,30.89280,0.0000
+2020-06-08,PR,Porto Barreiro,city,1,0,3,True,3237,4120150,30.89280,0.0000
+2020-06-06,PR,Porto Barreiro,city,1,0,2,False,3237,4120150,30.89280,0.0000
 2020-06-05,PR,Porto Barreiro,city,1,0,1,False,3237,4120150,30.89280,0.0000
 2020-06-08,PR,Prado Ferreira,city,4,0,42,True,3753,4120333,106.58140,0.0000
 2020-06-07,PR,Prado Ferreira,city,4,0,41,False,3753,4120333,106.58140,0.0000
@@ -8131,7 +8139,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-28,PR,Quatiguá,city,1,0,1,False,7449,4120705,13.42462,0.0000
 2020-06-08,PR,Quatro Barras,city,25,1,69,True,23559,4120804,106.11656,0.0400
 2020-06-07,PR,Quatro Barras,city,25,1,68,False,23559,4120804,106.11656,0.0400
-2020-06-06,PR,Quatro Barras,city,25,1,67,False,23559,4120804,106.11656,0.0400
+2020-06-06,PR,Quatro Barras,city,31,1,67,False,23559,4120804,131.58453,0.0323
 2020-06-05,PR,Quatro Barras,city,30,1,66,False,23559,4120804,127.33987,0.0333
 2020-06-04,PR,Quatro Barras,city,25,1,65,False,23559,4120804,106.11656,0.0400
 2020-06-03,PR,Quatro Barras,city,24,1,64,False,23559,4120804,101.87190,0.0417
@@ -8263,7 +8271,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-22,PR,Querência do Norte,city,1,0,1,False,12206,4121000,8.19269,0.0000
 2020-06-08,PR,Quitandinha,city,27,1,63,True,19049,4121208,141.73972,0.0370
 2020-06-07,PR,Quitandinha,city,27,1,62,False,19049,4121208,141.73972,0.0370
-2020-06-06,PR,Quitandinha,city,27,1,61,False,19049,4121208,141.73972,0.0370
+2020-06-06,PR,Quitandinha,city,28,1,61,False,19049,4121208,146.98934,0.0357
 2020-06-05,PR,Quitandinha,city,28,1,60,False,19049,4121208,146.98934,0.0357
 2020-06-04,PR,Quitandinha,city,27,1,59,False,19049,4121208,141.73972,0.0370
 2020-06-03,PR,Quitandinha,city,27,1,58,False,19049,4121208,141.73972,0.0370
@@ -8377,7 +8385,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,PR,Ramilândia,city,1,0,1,False,4451,4121257,22.46686,0.0000
 2020-06-08,PR,Rancho Alegre,city,4,1,14,True,3808,4121307,105.04202,0.2500
 2020-06-07,PR,Rancho Alegre,city,4,1,13,False,3808,4121307,105.04202,0.2500
-2020-06-06,PR,Rancho Alegre,city,4,1,12,False,3808,4121307,105.04202,0.2500
+2020-06-06,PR,Rancho Alegre,city,5,1,12,False,3808,4121307,131.30252,0.2000
 2020-06-05,PR,Rancho Alegre,city,5,1,11,False,3808,4121307,131.30252,0.2000
 2020-06-04,PR,Rancho Alegre,city,4,1,10,False,3808,4121307,105.04202,0.2500
 2020-06-03,PR,Rancho Alegre,city,4,1,9,False,3808,4121307,105.04202,0.2500
@@ -8450,7 +8458,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,PR,Rebouças,city,1,0,1,False,14899,4121505,6.71186,0.0000
 2020-06-08,PR,Reserva,city,11,0,21,True,26715,4121703,41.17537,0.0000
 2020-06-07,PR,Reserva,city,11,0,20,False,26715,4121703,41.17537,0.0000
-2020-06-06,PR,Reserva,city,11,0,19,False,26715,4121703,41.17537,0.0000
+2020-06-06,PR,Reserva,city,12,0,19,False,26715,4121703,44.91859,0.0000
 2020-06-05,PR,Reserva,city,12,0,18,False,26715,4121703,44.91859,0.0000
 2020-06-04,PR,Reserva,city,11,0,17,False,26715,4121703,41.17537,0.0000
 2020-06-03,PR,Reserva,city,11,0,16,False,26715,4121703,41.17537,0.0000
@@ -8471,7 +8479,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,PR,Reserva,city,3,0,1,False,26715,4121703,11.22965,0.0000
 2020-06-08,PR,Reserva do Iguaçu,city,7,0,10,True,8010,4121752,87.39076,0.0000
 2020-06-07,PR,Reserva do Iguaçu,city,7,0,9,False,8010,4121752,87.39076,0.0000
-2020-06-06,PR,Reserva do Iguaçu,city,7,0,8,False,8010,4121752,87.39076,0.0000
+2020-06-06,PR,Reserva do Iguaçu,city,9,0,8,False,8010,4121752,112.35955,0.0000
 2020-06-05,PR,Reserva do Iguaçu,city,7,0,7,False,8010,4121752,87.39076,0.0000
 2020-06-04,PR,Reserva do Iguaçu,city,7,0,6,False,8010,4121752,87.39076,0.0000
 2020-06-03,PR,Reserva do Iguaçu,city,4,0,5,False,8010,4121752,49.93758,0.0000
@@ -8481,7 +8489,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-30,PR,Reserva do Iguaçu,city,2,0,1,False,8010,4121752,24.96879,0.0000
 2020-06-08,PR,Ribeirão do Pinhal,city,22,1,42,True,13029,4121901,168.85409,0.0455
 2020-06-07,PR,Ribeirão do Pinhal,city,22,1,41,False,13029,4121901,168.85409,0.0455
-2020-06-06,PR,Ribeirão do Pinhal,city,22,1,40,False,13029,4121901,168.85409,0.0455
+2020-06-06,PR,Ribeirão do Pinhal,city,26,1,40,False,13029,4121901,199.55484,0.0385
 2020-06-05,PR,Ribeirão do Pinhal,city,26,1,39,False,13029,4121901,199.55484,0.0385
 2020-06-04,PR,Ribeirão do Pinhal,city,22,1,38,False,13029,4121901,168.85409,0.0455
 2020-06-03,PR,Ribeirão do Pinhal,city,22,1,37,False,13029,4121901,168.85409,0.0455
@@ -8682,7 +8690,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,PR,Rio Negro,city,1,0,1,False,34170,4122305,2.92654,0.0000
 2020-06-08,PR,Rolândia,city,15,0,66,True,66580,4122404,22.52929,0.0000
 2020-06-07,PR,Rolândia,city,15,0,65,False,66580,4122404,22.52929,0.0000
-2020-06-06,PR,Rolândia,city,15,0,64,False,66580,4122404,22.52929,0.0000
+2020-06-06,PR,Rolândia,city,19,1,64,False,66580,4122404,28.53710,0.0526
 2020-06-05,PR,Rolândia,city,19,1,63,False,66580,4122404,28.53710,0.0526
 2020-06-04,PR,Rolândia,city,15,0,62,False,66580,4122404,22.52929,0.0000
 2020-06-03,PR,Rolândia,city,14,0,61,False,66580,4122404,21.02734,0.0000
@@ -8748,7 +8756,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,PR,Rolândia,city,1,0,1,False,66580,4122404,1.50195,0.0000
 2020-06-08,PR,Rondon,city,16,0,17,True,9579,4122602,167.03205,0.0000
 2020-06-07,PR,Rondon,city,16,0,16,False,9579,4122602,167.03205,0.0000
-2020-06-06,PR,Rondon,city,16,0,15,False,9579,4122602,167.03205,0.0000
+2020-06-06,PR,Rondon,city,20,0,15,False,9579,4122602,208.79006,0.0000
 2020-06-05,PR,Rondon,city,16,0,14,False,9579,4122602,167.03205,0.0000
 2020-06-04,PR,Rondon,city,16,0,13,False,9579,4122602,167.03205,0.0000
 2020-06-03,PR,Rondon,city,13,0,12,False,9579,4122602,135.71354,0.0000
@@ -8765,7 +8773,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,PR,Rondon,city,2,0,1,False,9579,4122602,20.87901,0.0000
 2020-06-08,PR,Salgado Filho,city,2,0,10,True,3580,4122800,55.86592,0.0000
 2020-06-07,PR,Salgado Filho,city,2,0,9,False,3580,4122800,55.86592,0.0000
-2020-06-06,PR,Salgado Filho,city,2,0,8,False,3580,4122800,55.86592,0.0000
+2020-06-06,PR,Salgado Filho,city,4,0,8,False,3580,4122800,111.73184,0.0000
 2020-06-05,PR,Salgado Filho,city,4,0,7,False,3580,4122800,111.73184,0.0000
 2020-06-04,PR,Salgado Filho,city,2,0,6,False,3580,4122800,55.86592,0.0000
 2020-06-03,PR,Salgado Filho,city,2,0,5,False,3580,4122800,55.86592,0.0000
@@ -8794,11 +8802,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,PR,Salto do Itararé,city,1,0,3,False,4935,4122909,20.26342,0.0000
 2020-05-20,PR,Salto do Itararé,city,1,0,2,False,4935,4122909,20.26342,0.0000
 2020-05-19,PR,Salto do Itararé,city,1,0,1,False,4935,4122909,20.26342,0.0000
-2020-06-08,PR,Santa Amélia,city,3,0,2,True,3324,4123105,90.25271,0.0000
+2020-06-08,PR,Santa Amélia,city,3,0,3,True,3324,4123105,90.25271,0.0000
+2020-06-06,PR,Santa Amélia,city,3,0,2,False,3324,4123105,90.25271,0.0000
 2020-06-05,PR,Santa Amélia,city,3,0,1,False,3324,4123105,90.25271,0.0000
 2020-06-08,PR,Santa Cecília do Pavão,city,1,0,15,True,3334,4123204,29.99400,0.0000
 2020-06-07,PR,Santa Cecília do Pavão,city,1,0,14,False,3334,4123204,29.99400,0.0000
-2020-06-06,PR,Santa Cecília do Pavão,city,1,0,13,False,3334,4123204,29.99400,0.0000
+2020-06-06,PR,Santa Cecília do Pavão,city,4,0,13,False,3334,4123204,119.97600,0.0000
 2020-06-05,PR,Santa Cecília do Pavão,city,4,0,12,False,3334,4123204,119.97600,0.0000
 2020-06-04,PR,Santa Cecília do Pavão,city,1,0,11,False,3334,4123204,29.99400,0.0000
 2020-06-03,PR,Santa Cecília do Pavão,city,1,0,10,False,3334,4123204,29.99400,0.0000
@@ -8932,7 +8941,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,PR,Santa Fé,city,2,1,3,False,12037,4123402,16.61544,0.5000
 2020-04-06,PR,Santa Fé,city,1,1,2,False,12037,4123402,8.30772,1.0000
 2020-04-05,PR,Santa Fé,city,1,1,1,False,12037,4123402,8.30772,1.0000
-2020-06-08,PR,Santa Inês,city,1,0,2,True,1596,4123600,62.65664,0.0000
+2020-06-08,PR,Santa Inês,city,1,0,3,True,1596,4123600,62.65664,0.0000
+2020-06-06,PR,Santa Inês,city,1,0,2,False,1596,4123600,62.65664,0.0000
 2020-06-05,PR,Santa Inês,city,1,0,1,False,1596,4123600,62.65664,0.0000
 2020-06-08,PR,Santa Isabel do Ivaí,city,13,1,52,True,8562,4123709,151.83368,0.0769
 2020-06-07,PR,Santa Isabel do Ivaí,city,13,1,51,False,8562,4123709,151.83368,0.0769
@@ -9000,7 +9010,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-28,PR,Santa Lúcia,city,1,0,1,False,3813,4123824,26.22607,0.0000
 2020-06-08,PR,Santa Mariana,city,5,1,41,True,11724,4123907,42.64756,0.2000
 2020-06-07,PR,Santa Mariana,city,5,1,40,False,11724,4123907,42.64756,0.2000
-2020-06-06,PR,Santa Mariana,city,5,1,39,False,11724,4123907,42.64756,0.2000
+2020-06-06,PR,Santa Mariana,city,10,1,39,False,11724,4123907,85.29512,0.1000
 2020-06-05,PR,Santa Mariana,city,10,1,38,False,11724,4123907,85.29512,0.1000
 2020-06-04,PR,Santa Mariana,city,5,1,37,False,11724,4123907,42.64756,0.2000
 2020-06-03,PR,Santa Mariana,city,5,1,36,False,11724,4123907,42.64756,0.2000
@@ -9127,7 +9137,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-12,PR,Santa Tereza do Oeste,city,1,0,1,False,10139,4124020,9.86291,0.0000
 2020-06-08,PR,Santa Terezinha de Itaipu,city,21,0,51,True,23465,4124053,89.49499,0.0000
 2020-06-07,PR,Santa Terezinha de Itaipu,city,21,0,50,False,23465,4124053,89.49499,0.0000
-2020-06-06,PR,Santa Terezinha de Itaipu,city,21,0,49,False,23465,4124053,89.49499,0.0000
+2020-06-06,PR,Santa Terezinha de Itaipu,city,26,0,49,False,23465,4124053,110.80332,0.0000
 2020-06-05,PR,Santa Terezinha de Itaipu,city,26,0,48,False,23465,4124053,110.80332,0.0000
 2020-06-04,PR,Santa Terezinha de Itaipu,city,21,0,47,False,23465,4124053,89.49499,0.0000
 2020-06-03,PR,Santa Terezinha de Itaipu,city,18,0,46,False,23465,4124053,76.70999,0.0000
@@ -9234,7 +9244,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,PR,Santana do Itararé,city,1,0,1,False,4992,4124004,20.03205,0.0000
 2020-06-08,PR,Santo Antônio da Platina,city,3,0,27,True,45993,4124103,6.52273,0.0000
 2020-06-07,PR,Santo Antônio da Platina,city,3,0,26,False,45993,4124103,6.52273,0.0000
-2020-06-06,PR,Santo Antônio da Platina,city,3,0,25,False,45993,4124103,6.52273,0.0000
+2020-06-06,PR,Santo Antônio da Platina,city,5,0,25,False,45993,4124103,10.87122,0.0000
 2020-06-05,PR,Santo Antônio da Platina,city,5,0,24,False,45993,4124103,10.87122,0.0000
 2020-06-04,PR,Santo Antônio da Platina,city,3,0,23,False,45993,4124103,6.52273,0.0000
 2020-06-03,PR,Santo Antônio da Platina,city,3,0,22,False,45993,4124103,6.52273,0.0000
@@ -9350,7 +9360,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,PR,Santo Inácio,city,1,0,1,False,5438,4124509,18.38911,0.0000
 2020-06-08,PR,Sapopema,city,17,1,19,True,6736,4126207,252.37530,0.0588
 2020-06-07,PR,Sapopema,city,17,1,18,False,6736,4126207,252.37530,0.0588
-2020-06-06,PR,Sapopema,city,17,1,17,False,6736,4126207,252.37530,0.0588
+2020-06-06,PR,Sapopema,city,18,1,17,False,6736,4126207,267.22090,0.0556
 2020-06-05,PR,Sapopema,city,18,1,16,False,6736,4126207,267.22090,0.0556
 2020-06-04,PR,Sapopema,city,17,1,15,False,6736,4126207,252.37530,0.0588
 2020-06-03,PR,Sapopema,city,17,1,14,False,6736,4126207,252.37530,0.0588
@@ -9458,7 +9468,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-18,PR,Saudade do Iguaçu,city,1,0,1,False,5500,4126272,18.18182,0.0000
 2020-06-08,PR,Sertaneja,city,7,0,65,True,5284,4126405,132.47540,0.0000
 2020-06-07,PR,Sertaneja,city,7,0,64,False,5284,4126405,132.47540,0.0000
-2020-06-06,PR,Sertaneja,city,7,0,63,False,5284,4126405,132.47540,0.0000
+2020-06-06,PR,Sertaneja,city,8,0,63,False,5284,4126405,151.40045,0.0000
 2020-06-05,PR,Sertaneja,city,8,0,62,False,5284,4126405,151.40045,0.0000
 2020-06-04,PR,Sertaneja,city,7,0,61,False,5284,4126405,132.47540,0.0000
 2020-06-03,PR,Sertaneja,city,7,0,60,False,5284,4126405,132.47540,0.0000
@@ -9547,7 +9557,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,PR,Sertanópolis,city,1,1,1,False,16369,4126504,6.10911,1.0000
 2020-06-08,PR,Siqueira Campos,city,9,4,47,True,21016,4126603,42.82451,0.4444
 2020-06-07,PR,Siqueira Campos,city,9,4,46,False,21016,4126603,42.82451,0.4444
-2020-06-06,PR,Siqueira Campos,city,9,4,45,False,21016,4126603,42.82451,0.4444
+2020-06-06,PR,Siqueira Campos,city,13,4,45,False,21016,4126603,61.85763,0.3077
 2020-06-05,PR,Siqueira Campos,city,11,4,44,False,21016,4126603,52.34107,0.3636
 2020-06-04,PR,Siqueira Campos,city,9,4,43,False,21016,4126603,42.82451,0.4444
 2020-06-03,PR,Siqueira Campos,city,9,4,42,False,21016,4126603,42.82451,0.4444
@@ -9626,7 +9636,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,PR,São José da Boa Vista,city,1,0,1,False,6206,4125407,16.11344,0.0000
 2020-06-08,PR,São José dos Pinhais,city,127,5,72,True,323340,4125506,39.27754,0.0394
 2020-06-07,PR,São José dos Pinhais,city,127,5,71,False,323340,4125506,39.27754,0.0394
-2020-06-06,PR,São José dos Pinhais,city,127,5,70,False,323340,4125506,39.27754,0.0394
+2020-06-06,PR,São José dos Pinhais,city,138,7,70,False,323340,4125506,42.67953,0.0507
 2020-06-05,PR,São José dos Pinhais,city,136,5,69,False,323340,4125506,42.06099,0.0368
 2020-06-04,PR,São José dos Pinhais,city,127,5,68,False,323340,4125506,39.27754,0.0394
 2020-06-03,PR,São José dos Pinhais,city,123,5,67,False,323340,4125506,38.04045,0.0407
@@ -9960,7 +9970,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,PR,São Miguel do Iguaçu,city,2,0,1,False,27452,4125704,7.28544,0.0000
 2020-06-08,PR,São Tomé,city,5,0,14,True,5722,4126108,87.38203,0.0000
 2020-06-07,PR,São Tomé,city,5,0,13,False,5722,4126108,87.38203,0.0000
-2020-06-06,PR,São Tomé,city,5,0,12,False,5722,4126108,87.38203,0.0000
+2020-06-06,PR,São Tomé,city,11,0,12,False,5722,4126108,192.24048,0.0000
 2020-06-05,PR,São Tomé,city,9,0,11,False,5722,4126108,157.28766,0.0000
 2020-06-04,PR,São Tomé,city,5,0,10,False,5722,4126108,87.38203,0.0000
 2020-06-03,PR,São Tomé,city,4,0,9,False,5722,4126108,69.90563,0.0000
@@ -10045,7 +10055,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-19,PR,Tamboara,city,1,0,1,False,5120,4126702,19.53125,0.0000
 2020-06-08,PR,Tapejara,city,27,0,18,True,16205,4126801,166.61524,0.0000
 2020-06-07,PR,Tapejara,city,27,0,17,False,16205,4126801,166.61524,0.0000
-2020-06-06,PR,Tapejara,city,27,0,16,False,16205,4126801,166.61524,0.0000
+2020-06-06,PR,Tapejara,city,30,0,16,False,16205,4126801,185.12805,0.0000
 2020-06-05,PR,Tapejara,city,27,0,15,False,16205,4126801,166.61524,0.0000
 2020-06-04,PR,Tapejara,city,27,0,14,False,16205,4126801,166.61524,0.0000
 2020-06-03,PR,Tapejara,city,17,0,13,False,16205,4126801,104.90589,0.0000
@@ -10063,7 +10073,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,PR,Tapejara,city,1,0,1,False,16205,4126801,6.17093,0.0000
 2020-06-08,PR,Telêmaco Borba,city,35,1,77,True,78974,4127106,44.31838,0.0286
 2020-06-07,PR,Telêmaco Borba,city,35,1,76,False,78974,4127106,44.31838,0.0286
-2020-06-06,PR,Telêmaco Borba,city,35,1,75,False,78974,4127106,44.31838,0.0286
+2020-06-06,PR,Telêmaco Borba,city,36,1,75,False,78974,4127106,45.58462,0.0278
 2020-06-05,PR,Telêmaco Borba,city,36,1,74,False,78974,4127106,45.58462,0.0278
 2020-06-04,PR,Telêmaco Borba,city,35,1,73,False,78974,4127106,44.31838,0.0286
 2020-06-03,PR,Telêmaco Borba,city,35,1,72,False,78974,4127106,44.31838,0.0286
@@ -10140,7 +10150,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,PR,Telêmaco Borba,city,1,0,1,False,78974,4127106,1.26624,0.0000
 2020-06-08,PR,Terra Boa,city,7,1,68,True,17094,4127205,40.95004,0.1429
 2020-06-07,PR,Terra Boa,city,7,1,67,False,17094,4127205,40.95004,0.1429
-2020-06-06,PR,Terra Boa,city,7,1,66,False,17094,4127205,40.95004,0.1429
+2020-06-06,PR,Terra Boa,city,11,1,66,False,17094,4127205,64.35006,0.0909
 2020-06-05,PR,Terra Boa,city,11,1,65,False,17094,4127205,64.35006,0.0909
 2020-06-04,PR,Terra Boa,city,7,1,64,False,17094,4127205,40.95004,0.1429
 2020-06-03,PR,Terra Boa,city,7,1,63,False,17094,4127205,40.95004,0.1429
@@ -10208,7 +10218,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-02,PR,Terra Boa,city,1,0,1,False,17094,4127205,5.85001,0.0000
 2020-06-08,PR,Terra Rica,city,22,1,72,True,16789,4127304,131.03818,0.0455
 2020-06-07,PR,Terra Rica,city,22,1,71,False,16789,4127304,131.03818,0.0455
-2020-06-06,PR,Terra Rica,city,22,1,70,False,16789,4127304,131.03818,0.0455
+2020-06-06,PR,Terra Rica,city,24,1,70,False,16789,4127304,142.95074,0.0417
 2020-06-05,PR,Terra Rica,city,24,1,69,False,16789,4127304,142.95074,0.0417
 2020-06-04,PR,Terra Rica,city,22,1,68,False,16789,4127304,131.03818,0.0455
 2020-06-03,PR,Terra Rica,city,21,1,67,False,16789,4127304,125.08190,0.0476
@@ -10289,11 +10299,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-31,PR,Terra Roxa,city,1,0,3,False,17481,4127403,5.72050,0.0000
 2020-05-30,PR,Terra Roxa,city,1,0,2,False,17481,4127403,5.72050,0.0000
 2020-05-29,PR,Terra Roxa,city,1,0,1,False,17481,4127403,5.72050,0.0000
-2020-06-08,PR,Tibagi,city,1,0,2,True,20522,4127502,4.87282,0.0000
+2020-06-08,PR,Tibagi,city,1,0,3,True,20522,4127502,4.87282,0.0000
+2020-06-06,PR,Tibagi,city,1,0,2,False,20522,4127502,4.87282,0.0000
 2020-06-05,PR,Tibagi,city,1,0,1,False,20522,4127502,4.87282,0.0000
 2020-06-08,PR,Tijucas do Sul,city,17,0,28,True,16868,4127601,100.78255,0.0000
 2020-06-07,PR,Tijucas do Sul,city,17,0,27,False,16868,4127601,100.78255,0.0000
-2020-06-06,PR,Tijucas do Sul,city,17,0,26,False,16868,4127601,100.78255,0.0000
+2020-06-06,PR,Tijucas do Sul,city,21,0,26,False,16868,4127601,124.49609,0.0000
 2020-06-05,PR,Tijucas do Sul,city,20,0,25,False,16868,4127601,118.56770,0.0000
 2020-06-04,PR,Tijucas do Sul,city,17,0,24,False,16868,4127601,100.78255,0.0000
 2020-06-03,PR,Tijucas do Sul,city,16,0,23,False,16868,4127601,94.85416,0.0000
@@ -10321,7 +10332,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-12,PR,Tijucas do Sul,city,1,0,1,False,16868,4127601,5.92839,0.0000
 2020-06-08,PR,Toledo,city,49,1,62,True,140635,4127700,34.84197,0.0204
 2020-06-07,PR,Toledo,city,49,1,61,False,140635,4127700,34.84197,0.0204
-2020-06-06,PR,Toledo,city,49,1,60,False,140635,4127700,34.84197,0.0204
+2020-06-06,PR,Toledo,city,73,2,60,False,140635,4127700,51.90742,0.0274
 2020-06-05,PR,Toledo,city,71,2,59,False,140635,4127700,50.48530,0.0282
 2020-06-04,PR,Toledo,city,49,1,58,False,140635,4127700,34.84197,0.0204
 2020-06-03,PR,Toledo,city,39,1,57,False,140635,4127700,27.73136,0.0256
@@ -10383,7 +10394,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,PR,Toledo,city,1,0,1,False,140635,4127700,0.71106,0.0000
 2020-06-08,PR,Tomazina,city,5,0,13,True,7918,4127809,63.14726,0.0000
 2020-06-07,PR,Tomazina,city,5,0,12,False,7918,4127809,63.14726,0.0000
-2020-06-06,PR,Tomazina,city,5,0,11,False,7918,4127809,63.14726,0.0000
+2020-06-06,PR,Tomazina,city,9,0,11,False,7918,4127809,113.66507,0.0000
 2020-06-05,PR,Tomazina,city,6,0,10,False,7918,4127809,75.77671,0.0000
 2020-06-04,PR,Tomazina,city,5,0,9,False,7918,4127809,63.14726,0.0000
 2020-06-03,PR,Tomazina,city,4,0,8,False,7918,4127809,50.51781,0.0000
@@ -10436,7 +10447,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,PR,Três Barras do Paraná,city,1,0,1,False,12040,4127858,8.30565,0.0000
 2020-06-08,PR,Tuneiras do Oeste,city,16,0,29,True,8566,4127908,186.78496,0.0000
 2020-06-07,PR,Tuneiras do Oeste,city,16,0,28,False,8566,4127908,186.78496,0.0000
-2020-06-06,PR,Tuneiras do Oeste,city,16,0,27,False,8566,4127908,186.78496,0.0000
+2020-06-06,PR,Tuneiras do Oeste,city,23,0,27,False,8566,4127908,268.50339,0.0000
 2020-06-05,PR,Tuneiras do Oeste,city,19,0,26,False,8566,4127908,221.80714,0.0000
 2020-06-04,PR,Tuneiras do Oeste,city,16,0,25,False,8566,4127908,186.78496,0.0000
 2020-06-03,PR,Tuneiras do Oeste,city,11,0,24,False,8566,4127908,128.41466,0.0000
@@ -10521,7 +10532,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-14,PR,Tupãssi,city,1,0,1,False,8124,4127957,12.30921,0.0000
 2020-06-08,PR,Umuarama,city,40,1,80,True,111557,4128104,35.85611,0.0250
 2020-06-07,PR,Umuarama,city,40,1,79,False,111557,4128104,35.85611,0.0250
-2020-06-06,PR,Umuarama,city,40,1,78,False,111557,4128104,35.85611,0.0250
+2020-06-06,PR,Umuarama,city,42,1,78,False,111557,4128104,37.64891,0.0238
 2020-06-05,PR,Umuarama,city,40,1,77,False,111557,4128104,35.85611,0.0250
 2020-06-04,PR,Umuarama,city,40,1,76,False,111557,4128104,35.85611,0.0250
 2020-06-03,PR,Umuarama,city,40,1,75,False,111557,4128104,35.85611,0.0250
@@ -10675,7 +10686,7 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-27,PR,União da Vitória,city,1,0,1,False,57517,4128203,1.73862,0.0000
 2020-06-08,PR,Uraí,city,11,1,34,True,11314,4128401,97.22468,0.0909
 2020-06-07,PR,Uraí,city,11,1,33,False,11314,4128401,97.22468,0.0909
-2020-06-06,PR,Uraí,city,11,1,32,False,11314,4128401,97.22468,0.0909
+2020-06-06,PR,Uraí,city,16,1,32,False,11314,4128401,141.41771,0.0625
 2020-06-05,PR,Uraí,city,16,1,31,False,11314,4128401,141.41771,0.0625
 2020-06-04,PR,Uraí,city,11,1,30,False,11314,4128401,97.22468,0.0909
 2020-06-03,PR,Uraí,city,11,1,29,False,11314,4128401,97.22468,0.0909
