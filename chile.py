@@ -31,7 +31,7 @@ def scrape_chile():
     
     updated_files = []
     header = 'date,region,region_iso,province,city,place_type,cases,deaths\n'
-    for tr in per_region_table.find_all('tr')[3:-1]:
+    for tr in per_region_table.find_all('tr')[2:-1]:
         cols = [td.get_text() for td in tr.find_all('td')]
         
         region = cols[0].strip()
