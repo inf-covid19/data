@@ -19,6 +19,7 @@ from colombia import scrape_colombia
 from peru import scrape_peru
 from uruguay import scrape_uruguay
 from australia import scrape_australia
+from canada import scrape_canada
 
 
 if __name__ == "__main__":
@@ -43,6 +44,7 @@ if __name__ == "__main__":
         scrape_peru,
         scrape_uruguay,
         scrape_australia,
+        scrape_canada,
     ]
 
     if args.region is not None:
