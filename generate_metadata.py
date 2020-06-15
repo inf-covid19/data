@@ -375,6 +375,58 @@ def meta_uruguay(countries={}):
     return countries
 
 
+def meta_australia(countries={}):
+    regions_file = glob.glob('data/australia/*.csv')
+    country = 'Australia'
+
+    regions = {}
+
+    for region_file in regions_file:
+        region_df = pd.read_csv(region_file)
+
+        unique_region = region_df[[
+            'state', 'city', 'place_type', 'iso']].drop_duplicates()
+
+        for _, row in unique_region.iterrows():
+            regions[row['state']] = {
+                'name': row['state'],
+                'iso': row['iso'],
+                'place_type': row['place_type'],
+                'file': region_file,
+            }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
+
+    return countries
+
+
+def meta_canada(countries={}):
+    regions_file = glob.glob('data/canada/*.csv')
+    country = 'Canada'
+
+    regions = {}
+
+    for region_file in regions_file:
+        region_df = pd.read_csv(region_file)
+
+        unique_region = region_df[[
+            'province', 'city', 'place_type', 'iso']].drop_duplicates()
+
+        for _, row in unique_region.iterrows():
+            regions[row['province']] = {
+                'name': row['province'],
+                'iso': row['iso'],
+                'place_type': row['place_type'],
+                'file': region_file,
+            }
+
+    regions = dict(sorted(regions.items(), key=lambda item: item[0]))
+    countries[country]['regions'] = regions
+
+    return countries
+
+
 if __name__ == "__main__":
     meta_json = {}
     meta_gatherer = [
@@ -391,6 +443,8 @@ if __name__ == "__main__":
         meta_colombia,
         meta_peru,
         meta_uruguay,
+        meta_australia,
+        meta_canada,
     ]
 
     for fn in meta_gatherer:

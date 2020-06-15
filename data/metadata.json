@@ -235,7 +235,56 @@
     "file": "data/countries/australia.csv",
     "geoId": "AU",
     "countryTerritoryCode": "AUS",
-    "regions": {},
+    "regions": {
+      "Australian Capital Territory": {
+        "name": "Australian Capital Territory",
+        "iso": "ACT",
+        "place_type": "territory",
+        "file": "data/australia/act.csv"
+      },
+      "New South Wales": {
+        "name": "New South Wales",
+        "iso": "NSW",
+        "place_type": "state",
+        "file": "data/australia/nsw.csv"
+      },
+      "Northern Territory": {
+        "name": "Northern Territory",
+        "iso": "NT",
+        "place_type": "territory",
+        "file": "data/australia/nt.csv"
+      },
+      "Queensland": {
+        "name": "Queensland",
+        "iso": "QLD",
+        "place_type": "state",
+        "file": "data/australia/qld.csv"
+      },
+      "South Australia": {
+        "name": "South Australia",
+        "iso": "SA",
+        "place_type": "state",
+        "file": "data/australia/sa.csv"
+      },
+      "Tasmania": {
+        "name": "Tasmania",
+        "iso": "TAS",
+        "place_type": "state",
+        "file": "data/australia/tas.csv"
+      },
+      "Victoria": {
+        "name": "Victoria",
+        "iso": "VIC",
+        "place_type": "state",
+        "file": "data/australia/vic.csv"
+      },
+      "Western Australia": {
+        "name": "Western Australia",
+        "iso": "WA",
+        "place_type": "state",
+        "file": "data/australia/wa.csv"
+      }
+    },
     "parent": "Oceania"
   },
   "Austria": {
@@ -28945,7 +28994,86 @@
     "file": "data/countries/canada.csv",
     "geoId": "CA",
     "countryTerritoryCode": "CAN",
-    "regions": {},
+    "regions": {
+      "Alberta": {
+        "name": "Alberta",
+        "iso": "AB",
+        "place_type": "province",
+        "file": "data/canada/ab.csv"
+      },
+      "British Columbia": {
+        "name": "British Columbia",
+        "iso": "BC",
+        "place_type": "province",
+        "file": "data/canada/bc.csv"
+      },
+      "Manitoba": {
+        "name": "Manitoba",
+        "iso": "MB",
+        "place_type": "province",
+        "file": "data/canada/mb.csv"
+      },
+      "New Brunswick": {
+        "name": "New Brunswick",
+        "iso": "NB",
+        "place_type": "province",
+        "file": "data/canada/nb.csv"
+      },
+      "Newfoundland and Labrador": {
+        "name": "Newfoundland and Labrador",
+        "iso": "NL",
+        "place_type": "province",
+        "file": "data/canada/nl.csv"
+      },
+      "Northwest Territories": {
+        "name": "Northwest Territories",
+        "iso": "NT",
+        "place_type": "territory",
+        "file": "data/canada/nt.csv"
+      },
+      "Nova Scotia": {
+        "name": "Nova Scotia",
+        "iso": "NS",
+        "place_type": "province",
+        "file": "data/canada/ns.csv"
+      },
+      "Nunavut": {
+        "name": "Nunavut",
+        "iso": "NU",
+        "place_type": "territory",
+        "file": "data/canada/nu.csv"
+      },
+      "Ontario": {
+        "name": "Ontario",
+        "iso": "ON",
+        "place_type": "province",
+        "file": "data/canada/on.csv"
+      },
+      "Prince Edward Island": {
+        "name": "Prince Edward Island",
+        "iso": "PE",
+        "place_type": "province",
+        "file": "data/canada/pe.csv"
+      },
+      "Quebec": {
+        "name": "Quebec",
+        "iso": "QC",
+        "place_type": "province",
+        "file": "data/canada/qc.csv"
+      },
+      "Saskatchewan": {
+        "name": "Saskatchewan",
+        "iso": "SK",
+        "place_type": "province",
+        "file": "data/canada/sk.csv"
+      },
+      "Yukon": {
+        "name": "Yukon",
+        "iso": "YT",
+        "place_type": "territory",
+        "file": "data/canada/yt.csv"
+      }
+    },
     "parent": "America"
   },
   "Cape_Verde": {

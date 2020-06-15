@@ -45,11 +45,11 @@ def scrape_australia():
             place_type = 'territory'
         for date in region_data.keys():
             region_data[date]['date'] = date
-            region_data[date]['state_iso'] = iso
+            region_data[date]['iso'] = iso
             region_data[date]['state'] = ISO_REGION[iso]
             region_data[date]['city'] = ''
             region_data[date]['place_type'] = place_type
-        df = pd.DataFrame(region_data.values(), columns=['date', 'state_iso', 'state', 'city', 'place_type', 'cases', 'deaths', 'recovered'])
+        df = pd.DataFrame(region_data.values(), columns=['date', 'iso', 'state', 'city', 'place_type', 'cases', 'deaths', 'recovered'])
         region_file = path.join(australia_dir, f'{iso.lower()}.csv')
         df.to_csv(region_file, index=False, float_format='%.f')
 
