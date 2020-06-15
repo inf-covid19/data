@@ -16,9 +16,7 @@ def scrape_bolivia():
     bolivia_dir = path.join(cwd, 'data', 'bolivia')
     tmp_dir = path.join(cwd, 'tmp')
     ensure_dirs(bolivia_dir, tmp_dir)
-    not_number_regexp = re.compile(r'\D')
 
-    today = str(datetime.date.today())
     data = requests.get(URL).json()
 
     for key, iso in REGION_ISO.items():
@@ -29,7 +27,7 @@ def scrape_bolivia():
             region_data[entry['fecha']]['deaths'] = entry['dep'][key]
         for entry in data['recuperados']:
             region_data[entry['fecha']]['recovered'] = entry['dep'][key]
-        for date, row in region_data.items():
+        for date in region_data.keys():
             region_data[date]['date'] = date
             region_data[date]['region_iso'] = iso
             region_data[date]['region'] = ISO_REGION[iso]
@@ -39,7 +37,7 @@ def scrape_bolivia():
         df = pd.DataFrame(region_data.values(), columns=[
                           'date', 'region_iso', 'region', 'province', 'city', 'place_type', 'cases', 'deaths', 'recovered'])
         region_file = path.join(bolivia_dir, f'{iso.lower()}.csv')
-        df.to_csv(region_file, index=False)
+        df.to_csv(region_file, index=False, float_format='%.f')
 
     with open(path.join(getcwd(), 'data', 'bolivia', 'README.md'), 'w') as readme_f:
         readme_f.write(get_readme_contents())
