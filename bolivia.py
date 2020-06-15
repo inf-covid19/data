@@ -1,11 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 from os import getcwd, path, rename
-
+import re
 import datetime
 from helpers import ensure_dirs, ensure_consistency
+import pandas as pd
+from collections import defaultdict
 
-URL = 'https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2020_en_Bolivia'
+
+URL = 'https://raw.githubusercontent.com/mauforonda/covid19-bolivia/master/data.json'
 
 
 def scrape_bolivia():
@@ -13,66 +16,38 @@ def scrape_bolivia():
     bolivia_dir = path.join(cwd, 'data', 'bolivia')
     tmp_dir = path.join(cwd, 'tmp')
     ensure_dirs(bolivia_dir, tmp_dir)
+    not_number_regexp = re.compile(r'\D')
 
     today = str(datetime.date.today())
-    page = requests.get(URL)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    data = requests.get(URL).json()
 
-    tables = soup.find_all('table')
-
-    per_dep_table = None
-    per_city_table = None
-
-    for table in tables:
-        if table.caption and 'Epidemiología' in table.caption.get_text():
-            per_dep_table = table
-            continue
-
-        headers = table.find_all('th')
-        if len(headers) > 0 and 'Municipios Bolivianos' in headers[0].get_text():
-            per_city_table = table
-
-    updated_files = []
-    header = 'date,region_iso,region,province,city,place_type,cases,deaths,recovered\n'
-
-    for tr in per_dep_table.tbody.find_all('tr')[1:-1]:
-        cols = [td.get_text().strip() for td in tr.find_all('td')]
-
-        region = cols[0]
-        iso = REGION_ISO[region]
-
-        line = ','.join([
-            today,
-            iso,
-            region,
-            '',
-            '',
-            'departamento',
-            cols[1],
-            cols[2],
-            cols[3]
-        ])
-
+    for key, iso in REGION_ISO.items():
+        region_data = defaultdict(dict)
+        for entry in data['confirmados']:
+            region_data[entry['fecha']]['cases'] = entry['dep'][key]
+        for entry in data['decesos']:
+            region_data[entry['fecha']]['deaths'] = entry['dep'][key]
+        for entry in data['recuperados']:
+            region_data[entry['fecha']]['recovered'] = entry['dep'][key]
+        for date, row in region_data.items():
+            region_data[date]['date'] = date
+            region_data[date]['region_iso'] = iso
+            region_data[date]['region'] = ISO_REGION[iso]
+            region_data[date]['province'] = ''
+            region_data[date]['city'] = ''
+            region_data[date]['place_type'] = 'departamento'
+        df = pd.DataFrame(region_data.values(), columns=[
+                          'date', 'region_iso', 'region', 'province', 'city', 'place_type', 'cases', 'deaths', 'recovered'])
         region_file = path.join(bolivia_dir, f'{iso.lower()}.csv')
-        is_empty = not path.exists(region_file)
-
-        with open(region_file, 'a+') as f:
-            if is_empty:
-                f.write(header)
-            f.write(f'{line}\n')
-
-        if not is_empty: 
-            updated_files.append(region_file)
-
-    ensure_consistency(updated_files, lambda row: row[:5])
+        df.to_csv(region_file, index=False)
 
     with open(path.join(getcwd(), 'data', 'bolivia', 'README.md'), 'w') as readme_f:
         readme_f.write(get_readme_contents())
 
 
 def get_readme_contents():
-    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name,
-           iso in REGION_ISO.items()]
+    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for iso,
+           name in ISO_REGION.items()]
     toc_contents = '\n'.join(toc)
 
     return f"""## Bolivia
@@ -88,15 +63,15 @@ def get_readme_contents():
 
 
 REGION_ISO = {
-    "La Paz": "lp",
-    "Cochabamba": "cb",
-    "Santa Cruz": "sc",
-    "Oruro": "or",
-    "Potosí": "pt",
-    "Tarija": "tj",
-    "Chuquisaca": "ch",
-    "Beni": "bn",
-    "Pando": "pn"
+    "la_paz": "lp",
+    "cochabamba": "cb",
+    "santa_cruz": "sc",
+    "oruro": "or",
+    "potosí": "pt",
+    "tarija": "tj",
+    "chuquisaca": "ch",
+    "beni": "bn",
+    "pando": "pn"
 }
 
 ISO_REGION = {
