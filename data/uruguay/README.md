@@ -1,6 +1,6 @@
 ## Uruguay
 
-> Last updated at Jun 16 2020 15:33:27 UTC.
+> Last updated at Jun 16 2020 21:06:48 UTC.
 
 
 | Departament | Dataset |
@@ -11,7 +11,7 @@
 | Colonia | [`uy-co.csv`](uy-co.csv) |
 | Durazno | [`uy-du.csv`](uy-du.csv) |
 | Flores | [`uy-fs.csv`](uy-fs.csv) |
-| Florida | [`uy-fd.csv`](uy-fd.csv) |
+| Departamento de Florida | [`uy-fd.csv`](uy-fd.csv) |
 | Lavalleja | [`uy-la.csv`](uy-la.csv) |
 | Maldonado | [`uy-ma.csv`](uy-ma.csv) |
 | Montevideo | [`uy-mo.csv`](uy-mo.csv) |
