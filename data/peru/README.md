@@ -1,6 +1,6 @@
 ## Peru
 
-> Last updated at Jun 15 2020 00:33:32 UTC.
+> Last updated at Jun 16 2020 00:33:36 UTC.
 
 
 | Departament | Dataset |
