@@ -92,7 +92,7 @@ DEPARTAMENT_ISO = {
     'Colonia': 'UY-CO',
     'Durazno': 'UY-DU',
     'Flores': 'UY-FS',
-    'Florida': 'UY-FD',
+    'Departamento de Florida': 'UY-FD',
     'Lavalleja': 'UY-LA',
     'Maldonado': 'UY-MA',
     'Montevideo': 'UY-MO',
