@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Jun 17 2020 09:33:24 UTC.
+> Last updated at Jun 18 2020 22:33:14 UTC.
 
 
 | Country | Dataset |
@@ -42,7 +42,6 @@
 | Cameroon | [`cameroon.csv`](cameroon.csv) |
 | Canada | [`canada.csv`](canada.csv) |
 | Cape Verde | [`cape_verde.csv`](cape_verde.csv) |
-| Cases on an international conveyance Japan | [`cases_on_an_international_conveyance_japan.csv`](cases_on_an_international_conveyance_japan.csv) |
 | Cayman Islands | [`cayman_islands.csv`](cayman_islands.csv) |
 | Central African Republic | [`central_african_republic.csv`](central_african_republic.csv) |
 | Chad | [`chad.csv`](chad.csv) |
@@ -93,7 +92,6 @@
 | Guinea Bissau | [`guinea_bissau.csv`](guinea_bissau.csv) |
 | Guyana | [`guyana.csv`](guyana.csv) |
 | Haiti | [`haiti.csv`](haiti.csv) |
-| Holy See | [`holy_see.csv`](holy_see.csv) |
 | Honduras | [`honduras.csv`](honduras.csv) |
 | Hungary | [`hungary.csv`](hungary.csv) |
 | Iceland | [`iceland.csv`](iceland.csv) |
@@ -177,7 +175,6 @@
 | Seychelles | [`seychelles.csv`](seychelles.csv) |
 | Sierra Leone | [`sierra_leone.csv`](sierra_leone.csv) |
 | Singapore | [`singapore.csv`](singapore.csv) |
-| Sint Maarten | [`sint_maarten.csv`](sint_maarten.csv) |
 | Slovakia | [`slovakia.csv`](slovakia.csv) |
 | Slovenia | [`slovenia.csv`](slovenia.csv) |
 | Somalia | [`somalia.csv`](somalia.csv) |
@@ -199,7 +196,6 @@
 | Trinidad and Tobago | [`trinidad_and_tobago.csv`](trinidad_and_tobago.csv) |
 | Tunisia | [`tunisia.csv`](tunisia.csv) |
 | Turkey | [`turkey.csv`](turkey.csv) |
-| Turks and Caicos islands | [`turks_and_caicos_islands.csv`](turks_and_caicos_islands.csv) |
 | Uganda | [`uganda.csv`](uganda.csv) |
 | Ukraine | [`ukraine.csv`](ukraine.csv) |
 | United Arab Emirates | [`united_arab_emirates.csv`](united_arab_emirates.csv) |
