@@ -5,7 +5,7 @@ import pandas as pd
 
 from helpers import ensure_dirs
 
-COUNTRIES_DATA = 'https://opendata.ecdc.europa.eu/covid19/casedistribution/csv'
+COUNTRIES_DATA = 'https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide.xlsx'
 
 
 def scrape_countries():
@@ -14,7 +14,7 @@ def scrape_countries():
     ensure_dirs(countries_dir)
 
     countries = {}
-    df = pd.read_csv(COUNTRIES_DATA)
+    df = pd.read_excel(COUNTRIES_DATA)
 
     for country in df['countriesAndTerritories'].unique():
         is_country = df['countriesAndTerritories'] == country
