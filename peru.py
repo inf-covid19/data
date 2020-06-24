@@ -34,7 +34,7 @@ def scrape_peru():
 
     for tr in per_departament_table.tbody.find_all('tr'):
         cols = [td.get_text().strip() for td in tr.find_all('td')]
-        if len(cols) != 7:
+        if len(cols) != 8:
             continue
 
         departament = cols[0]
@@ -47,7 +47,7 @@ def scrape_peru():
             '',
             'departamento',
             not_number_regexp.sub('', cols[1]),
-            not_number_regexp.sub('', cols[2]),
+            not_number_regexp.sub('', cols[3]),
         ])
 
         departament_file = path.join(peru_dir, f'{iso.lower()}.csv')
