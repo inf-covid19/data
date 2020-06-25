@@ -28,14 +28,16 @@ def scrape_chile():
         if len(headers) > 0 and 'Regiones' in headers[0].get_text():
             per_region_table = table
             break
-    
+
     updated_files = []
     header = 'date,region,region_iso,province,city,place_type,cases,deaths\n'
     for tr in per_region_table.find_all('tr')[2:-1]:
         cols = [td.get_text() for td in tr.find_all('td')]
-        
-        region = cols[0].strip()
-        iso = REGION_ISO[region]
+        if len(cols) != 12:
+            continue
+
+        iso = cols[0].strip()
+        region = ISO_REGION[iso]
 
         line = ','.join([
             today,
@@ -44,8 +46,8 @@ def scrape_chile():
             '',
             '',
             'region',
-            not_number_regexp.sub('', cols[4]),
-            not_number_regexp.sub('', cols[6]),
+            not_number_regexp.sub('', cols[5]),
+            not_number_regexp.sub('', cols[10]),
         ])
 
         region_file = path.join(chile_dir, f'{iso.lower()}.csv')
@@ -55,10 +57,10 @@ def scrape_chile():
             if is_empty:
                 f.write(header)
             f.write(f'{line}\n')
-        
+
         if not is_empty:
             updated_files.append(region_file)
-    
+
     ensure_consistency(updated_files, lambda row: row[:5])
 
     with open(path.join(getcwd(), 'data', 'chile', 'README.md'), 'w') as readme_f:
@@ -66,7 +68,8 @@ def scrape_chile():
 
 
 def get_readme_contents():
-    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name, iso in REGION_ISO.items()]
+    toc = [f'| {name} | [`{iso.lower()}.csv`]({iso.lower()}.csv) |' for name,
+           iso in REGION_ISO.items()]
     toc_contents = '\n'.join(toc)
 
     return f"""## Chile
@@ -79,8 +82,6 @@ def get_readme_contents():
 {toc_contents}
 
 """
-
-
 
 
 REGION_ISO = {
@@ -101,3 +102,5 @@ REGION_ISO = {
     "Arica y Parinacota": "CL-AP",
     "Ñuble": "CL-NB",
 }
+
+ISO_REGION = {v: k for k, v in REGION_ISO.items()}
