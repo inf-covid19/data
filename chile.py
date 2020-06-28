@@ -33,10 +33,14 @@ def scrape_chile():
     header = 'date,region,region_iso,province,city,place_type,cases,deaths\n'
     for tr in per_region_table.find_all('tr')[2:-1]:
         cols = [td.get_text() for td in tr.find_all('td')]
-        if len(cols) != 13:
+        if len(cols) != 12:
             continue
 
-        iso = cols[1].strip()
+        iso = None
+        for region in REGION_ISO:
+            if region in cols[0]:
+                iso = REGION_ISO[region]
+                break
         region = ISO_REGION[iso]
 
         line = ','.join([
@@ -46,8 +50,8 @@ def scrape_chile():
             '',
             '',
             'region',
-            not_number_regexp.sub('', cols[6]),
-            not_number_regexp.sub('', cols[11]),
+            not_number_regexp.sub('', cols[5]),
+            not_number_regexp.sub('', cols[10]),
         ])
 
         region_file = path.join(chile_dir, f'{iso.lower()}.csv')
