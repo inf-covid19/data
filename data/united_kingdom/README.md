@@ -1,6 +1,6 @@
 ## United Kingdom
 
-> Last updated at Jul 05 2020 15:33:22 UTC.
+> Last updated at Jul 06 2020 15:33:47 UTC.
 
 
 | Country | Dataset |
