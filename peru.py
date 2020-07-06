@@ -32,12 +32,28 @@ def scrape_peru():
     updated_files = []
     header = 'date,iso,region,city,place_type,cases,deaths\n'
 
+    mapped = {}
+
     for tr in per_departament_table.tbody.find_all('tr'):
         cols = [td.get_text().strip() for td in tr.find_all('td')]
         if len(cols) != 9:
             continue
 
         departament = cols[0]
+
+        cases = int(not_number_regexp.sub('', cols[2]))
+        deaths = int(not_number_regexp.sub('', cols[4]))
+
+        if 'Lima' in departament:
+            departament = 'Lima'
+            if 'Lima' in mapped:
+                _cases, _deaths = mapped['Lima']
+                cases += _cases
+                deaths += _deaths
+            else:
+                mapped['Lima'] = (cases, deaths)
+                continue
+
         iso = DEPARTAMENT_ISO[departament]
 
         line = ','.join([
@@ -46,8 +62,8 @@ def scrape_peru():
             departament,
             '',
             'departamento',
-            not_number_regexp.sub('', cols[2]),
-            not_number_regexp.sub('', cols[4]),
+            str(cases),
+            str(deaths),
         ])
 
         departament_file = path.join(peru_dir, f'{iso.lower()}.csv')
