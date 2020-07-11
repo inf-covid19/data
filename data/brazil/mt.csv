@@ -1,6 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
 2020-07-10,MT,,state,26396,986,110,True,3484466,51,757.53358,0.0374
-2020-07-09,MT,,state,25264,928,109,False,3484466,51,725.04654,0.0367
+2020-07-09,MT,,state,26396,961,109,False,3484466,51,757.53358,0.0364
 2020-07-08,MT,,state,24804,921,108,False,3484466,51,711.84509,0.0371
 2020-07-07,MT,,state,23506,896,107,False,3484466,51,674.59404,0.0381
 2020-07-06,MT,,state,22078,857,106,False,3484466,51,633.61215,0.0388
@@ -109,7 +109,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-23,MT,,state,6,0,3,False,3484466,51,0.17219,0.0000
 2020-03-22,MT,,state,2,0,2,False,3484466,51,0.05740,0.0000
 2020-03-20,MT,,state,1,0,1,False,3484466,51,0.02870,0.0000
-2020-07-08,MT,Acorizal,city,50,1,60,True,5399,5100102,926.09743,0.0200
+2020-07-09,MT,Acorizal,city,50,1,61,True,5399,5100102,926.09743,0.0200
+2020-07-08,MT,Acorizal,city,50,1,60,False,5399,5100102,926.09743,0.0200
 2020-07-07,MT,Acorizal,city,50,1,59,False,5399,5100102,926.09743,0.0200
 2020-07-06,MT,Acorizal,city,50,1,58,False,5399,5100102,926.09743,0.0200
 2020-07-05,MT,Acorizal,city,50,1,57,False,5399,5100102,926.09743,0.0200
@@ -169,7 +170,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-12,MT,Acorizal,city,1,0,3,False,5399,5100102,18.52195,0.0000
 2020-05-11,MT,Acorizal,city,1,0,2,False,5399,5100102,18.52195,0.0000
 2020-05-10,MT,Acorizal,city,1,0,1,False,5399,5100102,18.52195,0.0000
-2020-07-08,MT,Alta Floresta,city,203,5,96,True,51782,5100250,392.02812,0.0246
+2020-07-09,MT,Alta Floresta,city,205,6,97,True,51782,5100250,395.89046,0.0293
+2020-07-08,MT,Alta Floresta,city,203,5,96,False,51782,5100250,392.02812,0.0246
 2020-07-07,MT,Alta Floresta,city,199,5,95,False,51782,5100250,384.30343,0.0251
 2020-07-06,MT,Alta Floresta,city,198,5,94,False,51782,5100250,382.37225,0.0253
 2020-07-05,MT,Alta Floresta,city,192,5,93,False,51782,5100250,370.78521,0.0260
@@ -265,7 +267,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,MT,Alta Floresta,city,1,0,3,False,51782,5100250,1.93117,0.0000
 2020-04-05,MT,Alta Floresta,city,1,0,2,False,51782,5100250,1.93117,0.0000
 2020-04-04,MT,Alta Floresta,city,1,0,1,False,51782,5100250,1.93117,0.0000
-2020-07-08,MT,Alto Araguaia,city,59,3,54,True,19044,5100300,309.80886,0.0508
+2020-07-09,MT,Alto Araguaia,city,59,3,55,True,19044,5100300,309.80886,0.0508
+2020-07-08,MT,Alto Araguaia,city,59,3,54,False,19044,5100300,309.80886,0.0508
 2020-07-07,MT,Alto Araguaia,city,57,3,53,False,19044,5100300,299.30687,0.0526
 2020-07-06,MT,Alto Araguaia,city,54,3,52,False,19044,5100300,283.55388,0.0556
 2020-07-05,MT,Alto Araguaia,city,54,3,51,False,19044,5100300,283.55388,0.0556
@@ -319,7 +322,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-18,MT,Alto Araguaia,city,2,0,3,False,19044,5100300,10.50200,0.0000
 2020-05-17,MT,Alto Araguaia,city,2,0,2,False,19044,5100300,10.50200,0.0000
 2020-05-16,MT,Alto Araguaia,city,2,0,1,False,19044,5100300,10.50200,0.0000
-2020-07-08,MT,Alto Boa Vista,city,38,2,51,True,6822,5100359,557.02140,0.0526
+2020-07-09,MT,Alto Boa Vista,city,38,2,52,True,6822,5100359,557.02140,0.0526
+2020-07-08,MT,Alto Boa Vista,city,38,2,51,False,6822,5100359,557.02140,0.0526
 2020-07-07,MT,Alto Boa Vista,city,35,2,50,False,6822,5100359,513.04603,0.0571
 2020-07-06,MT,Alto Boa Vista,city,32,2,49,False,6822,5100359,469.07065,0.0625
 2020-07-05,MT,Alto Boa Vista,city,31,2,48,False,6822,5100359,454.41220,0.0645
@@ -370,7 +374,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,MT,Alto Boa Vista,city,1,1,3,False,6822,5100359,14.65846,1.0000
 2020-05-20,MT,Alto Boa Vista,city,1,1,2,False,6822,5100359,14.65846,1.0000
 2020-05-19,MT,Alto Boa Vista,city,1,1,1,False,6822,5100359,14.65846,1.0000
-2020-07-08,MT,Alto Garças,city,87,0,53,True,12030,5100409,723.19202,0.0000
+2020-07-09,MT,Alto Garças,city,92,0,54,True,12030,5100409,764.75478,0.0000
+2020-07-08,MT,Alto Garças,city,87,0,53,False,12030,5100409,723.19202,0.0000
 2020-07-07,MT,Alto Garças,city,75,0,52,False,12030,5100409,623.44140,0.0000
 2020-07-06,MT,Alto Garças,city,75,0,51,False,12030,5100409,623.44140,0.0000
 2020-07-05,MT,Alto Garças,city,75,0,50,False,12030,5100409,623.44140,0.0000
@@ -423,7 +428,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,MT,Alto Garças,city,1,0,3,False,12030,5100409,8.31255,0.0000
 2020-05-18,MT,Alto Garças,city,1,0,2,False,12030,5100409,8.31255,0.0000
 2020-05-17,MT,Alto Garças,city,1,0,1,False,12030,5100409,8.31255,0.0000
-2020-07-08,MT,Alto Paraguai,city,30,0,56,True,11356,5100508,264.17753,0.0000
+2020-07-09,MT,Alto Paraguai,city,30,0,57,True,11356,5100508,264.17753,0.0000
+2020-07-08,MT,Alto Paraguai,city,30,0,56,False,11356,5100508,264.17753,0.0000
 2020-07-07,MT,Alto Paraguai,city,18,0,55,False,11356,5100508,158.50652,0.0000
 2020-07-06,MT,Alto Paraguai,city,17,0,54,False,11356,5100508,149.70060,0.0000
 2020-07-05,MT,Alto Paraguai,city,17,0,53,False,11356,5100508,149.70060,0.0000
@@ -479,7 +485,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,MT,Alto Paraguai,city,1,0,3,False,11356,5100508,8.80592,0.0000
 2020-05-15,MT,Alto Paraguai,city,1,0,2,False,11356,5100508,8.80592,0.0000
 2020-05-14,MT,Alto Paraguai,city,1,0,1,False,11356,5100508,8.80592,0.0000
-2020-07-08,MT,Alto Taquari,city,10,1,19,True,10847,5100607,92.19139,0.1000
+2020-07-09,MT,Alto Taquari,city,10,1,20,True,10847,5100607,92.19139,0.1000
+2020-07-08,MT,Alto Taquari,city,10,1,19,False,10847,5100607,92.19139,0.1000
 2020-07-07,MT,Alto Taquari,city,10,1,18,False,10847,5100607,92.19139,0.1000
 2020-07-06,MT,Alto Taquari,city,10,1,17,False,10847,5100607,92.19139,0.1000
 2020-07-05,MT,Alto Taquari,city,12,1,16,False,10847,5100607,110.62967,0.0833
@@ -498,7 +505,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-22,MT,Alto Taquari,city,3,1,3,False,10847,5100607,27.65742,0.3333
 2020-06-21,MT,Alto Taquari,city,3,1,2,False,10847,5100607,27.65742,0.3333
 2020-06-20,MT,Alto Taquari,city,3,0,1,False,10847,5100607,27.65742,0.0000
-2020-07-08,MT,Apiacás,city,3,1,22,True,10133,5100805,29.60624,0.3333
+2020-07-09,MT,Apiacás,city,3,1,23,True,10133,5100805,29.60624,0.3333
+2020-07-08,MT,Apiacás,city,3,1,22,False,10133,5100805,29.60624,0.3333
 2020-07-07,MT,Apiacás,city,3,1,21,False,10133,5100805,29.60624,0.3333
 2020-07-06,MT,Apiacás,city,3,1,20,False,10133,5100805,29.60624,0.3333
 2020-07-05,MT,Apiacás,city,3,0,19,False,10133,5100805,29.60624,0.0000
@@ -520,7 +528,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-19,MT,Apiacás,city,0,0,3,False,10133,5100805,,0.0000
 2020-06-18,MT,Apiacás,city,0,0,2,False,10133,5100805,,0.0000
 2020-06-17,MT,Apiacás,city,1,0,1,False,10133,5100805,9.86875,0.0000
-2020-07-08,MT,Araguaiana,city,8,0,13,True,3100,5101001,258.06452,0.0000
+2020-07-09,MT,Araguaiana,city,8,0,14,True,3100,5101001,258.06452,0.0000
+2020-07-08,MT,Araguaiana,city,8,0,13,False,3100,5101001,258.06452,0.0000
 2020-07-07,MT,Araguaiana,city,7,0,12,False,3100,5101001,225.80645,0.0000
 2020-07-06,MT,Araguaiana,city,7,0,11,False,3100,5101001,225.80645,0.0000
 2020-07-05,MT,Araguaiana,city,7,0,10,False,3100,5101001,225.80645,0.0000
@@ -533,12 +542,14 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-28,MT,Araguaiana,city,5,0,3,False,3100,5101001,161.29032,0.0000
 2020-06-27,MT,Araguaiana,city,5,0,2,False,3100,5101001,161.29032,0.0000
 2020-06-26,MT,Araguaiana,city,5,0,1,False,3100,5101001,161.29032,0.0000
-2020-07-08,MT,Araguainha,city,1,0,5,True,935,5101209,106.95187,0.0000
+2020-07-09,MT,Araguainha,city,1,0,6,True,935,5101209,106.95187,0.0000
+2020-07-08,MT,Araguainha,city,1,0,5,False,935,5101209,106.95187,0.0000
 2020-07-07,MT,Araguainha,city,1,0,4,False,935,5101209,106.95187,0.0000
 2020-07-06,MT,Araguainha,city,1,0,3,False,935,5101209,106.95187,0.0000
 2020-07-05,MT,Araguainha,city,1,0,2,False,935,5101209,106.95187,0.0000
 2020-07-04,MT,Araguainha,city,1,0,1,False,935,5101209,106.95187,0.0000
-2020-07-08,MT,Araputanga,city,53,2,39,True,16822,5101258,315.06361,0.0377
+2020-07-09,MT,Araputanga,city,53,2,40,True,16822,5101258,315.06361,0.0377
+2020-07-08,MT,Araputanga,city,53,2,39,False,16822,5101258,315.06361,0.0377
 2020-07-07,MT,Araputanga,city,53,2,38,False,16822,5101258,315.06361,0.0377
 2020-07-06,MT,Araputanga,city,36,1,37,False,16822,5101258,214.00547,0.0278
 2020-07-05,MT,Araputanga,city,35,1,36,False,16822,5101258,208.06087,0.0286
@@ -577,7 +588,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-02,MT,Araputanga,city,2,0,3,False,16822,5101258,11.88919,0.0000
 2020-06-01,MT,Araputanga,city,2,0,2,False,16822,5101258,11.88919,0.0000
 2020-05-31,MT,Araputanga,city,2,0,1,False,16822,5101258,11.88919,0.0000
-2020-07-08,MT,Arenápolis,city,48,1,41,True,9607,5101308,499.63568,0.0208
+2020-07-09,MT,Arenápolis,city,63,1,42,True,9607,5101308,655.77183,0.0159
+2020-07-08,MT,Arenápolis,city,48,1,41,False,9607,5101308,499.63568,0.0208
 2020-07-07,MT,Arenápolis,city,48,1,40,False,9607,5101308,499.63568,0.0208
 2020-07-06,MT,Arenápolis,city,39,1,39,False,9607,5101308,405.95399,0.0256
 2020-07-05,MT,Arenápolis,city,39,1,38,False,9607,5101308,405.95399,0.0256
@@ -618,7 +630,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-31,MT,Arenápolis,city,1,0,3,False,9607,5101308,10.40908,0.0000
 2020-05-30,MT,Arenápolis,city,1,0,2,False,9607,5101308,10.40908,0.0000
 2020-05-29,MT,Arenápolis,city,1,0,1,False,9607,5101308,10.40908,0.0000
-2020-07-08,MT,Aripuanã,city,88,2,94,True,22354,5101407,393.66556,0.0227
+2020-07-09,MT,Aripuanã,city,89,2,95,True,22354,5101407,398.13904,0.0225
+2020-07-08,MT,Aripuanã,city,88,2,94,False,22354,5101407,393.66556,0.0227
 2020-07-07,MT,Aripuanã,city,88,2,93,False,22354,5101407,393.66556,0.0227
 2020-07-06,MT,Aripuanã,city,89,2,92,False,22354,5101407,398.13904,0.0225
 2020-07-05,MT,Aripuanã,city,88,2,91,False,22354,5101407,393.66556,0.0227
@@ -712,7 +725,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,MT,Aripuanã,city,1,0,3,False,22354,5101407,4.47347,0.0000
 2020-04-07,MT,Aripuanã,city,1,0,2,False,22354,5101407,4.47347,0.0000
 2020-04-06,MT,Aripuanã,city,1,0,1,False,22354,5101407,4.47347,0.0000
-2020-07-08,MT,Barra do Bugres,city,73,2,40,True,34966,5101704,208.77424,0.0274
+2020-07-09,MT,Barra do Bugres,city,77,2,41,True,34966,5101704,220.21392,0.0260
+2020-07-08,MT,Barra do Bugres,city,73,2,40,False,34966,5101704,208.77424,0.0274
 2020-07-07,MT,Barra do Bugres,city,69,2,39,False,34966,5101704,197.33455,0.0290
 2020-07-06,MT,Barra do Bugres,city,53,2,38,False,34966,5101704,151.57582,0.0377
 2020-07-05,MT,Barra do Bugres,city,51,2,37,False,34966,5101704,145.85597,0.0392
@@ -752,7 +766,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-01,MT,Barra do Bugres,city,1,0,3,False,34966,5101704,2.85992,0.0000
 2020-05-31,MT,Barra do Bugres,city,1,0,2,False,34966,5101704,2.85992,0.0000
 2020-05-30,MT,Barra do Bugres,city,1,0,1,False,34966,5101704,2.85992,0.0000
-2020-07-08,MT,Barra do Garças,city,334,28,82,True,61012,5101803,547.43329,0.0838
+2020-07-09,MT,Barra do Garças,city,352,28,83,True,61012,5101803,576.93568,0.0795
+2020-07-08,MT,Barra do Garças,city,334,28,82,False,61012,5101803,547.43329,0.0838
 2020-07-07,MT,Barra do Garças,city,310,27,81,False,61012,5101803,508.09677,0.0871
 2020-07-06,MT,Barra do Garças,city,274,27,80,False,61012,5101803,449.09198,0.0985
 2020-07-05,MT,Barra do Garças,city,270,27,79,False,61012,5101803,442.53589,0.1000
@@ -834,7 +849,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,MT,Barra do Garças,city,3,1,3,False,61012,5101803,4.91707,0.3333
 2020-04-19,MT,Barra do Garças,city,1,0,2,False,61012,5101803,1.63902,0.0000
 2020-04-18,MT,Barra do Garças,city,1,0,1,False,61012,5101803,1.63902,0.0000
-2020-07-08,MT,Barão de Melgaço,city,30,1,23,True,8564,5101605,350.30360,0.0333
+2020-07-09,MT,Barão de Melgaço,city,30,1,24,True,8564,5101605,350.30360,0.0333
+2020-07-08,MT,Barão de Melgaço,city,30,1,23,False,8564,5101605,350.30360,0.0333
 2020-07-07,MT,Barão de Melgaço,city,9,1,22,False,8564,5101605,105.09108,0.1111
 2020-07-06,MT,Barão de Melgaço,city,8,1,21,False,8564,5101605,93.41429,0.1250
 2020-07-05,MT,Barão de Melgaço,city,8,1,20,False,8564,5101605,93.41429,0.1250
@@ -857,7 +873,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-18,MT,Barão de Melgaço,city,3,0,3,False,8564,5101605,35.03036,0.0000
 2020-06-17,MT,Barão de Melgaço,city,3,0,2,False,8564,5101605,35.03036,0.0000
 2020-06-16,MT,Barão de Melgaço,city,3,0,1,False,8564,5101605,35.03036,0.0000
-2020-07-08,MT,Bom Jesus do Araguaia,city,31,0,50,True,6580,5101852,471.12462,0.0000
+2020-07-09,MT,Bom Jesus do Araguaia,city,33,0,51,True,6580,5101852,501.51976,0.0000
+2020-07-08,MT,Bom Jesus do Araguaia,city,31,0,50,False,6580,5101852,471.12462,0.0000
 2020-07-07,MT,Bom Jesus do Araguaia,city,31,0,49,False,6580,5101852,471.12462,0.0000
 2020-07-06,MT,Bom Jesus do Araguaia,city,29,0,48,False,6580,5101852,440.72948,0.0000
 2020-07-05,MT,Bom Jesus do Araguaia,city,28,0,47,False,6580,5101852,425.53191,0.0000
@@ -907,7 +924,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,MT,Bom Jesus do Araguaia,city,2,0,3,False,6580,5101852,30.39514,0.0000
 2020-05-21,MT,Bom Jesus do Araguaia,city,1,0,2,False,6580,5101852,15.19757,0.0000
 2020-05-20,MT,Bom Jesus do Araguaia,city,1,0,1,False,6580,5101852,15.19757,0.0000
-2020-07-08,MT,Brasnorte,city,7,0,29,True,19695,5101902,35.54202,0.0000
+2020-07-09,MT,Brasnorte,city,14,0,30,True,19695,5101902,71.08403,0.0000
+2020-07-08,MT,Brasnorte,city,7,0,29,False,19695,5101902,35.54202,0.0000
 2020-07-07,MT,Brasnorte,city,7,0,28,False,19695,5101902,35.54202,0.0000
 2020-07-06,MT,Brasnorte,city,7,0,27,False,19695,5101902,35.54202,0.0000
 2020-07-05,MT,Brasnorte,city,7,0,26,False,19695,5101902,35.54202,0.0000
@@ -936,7 +954,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-12,MT,Brasnorte,city,2,0,3,False,19695,5101902,10.15486,0.0000
 2020-06-11,MT,Brasnorte,city,2,0,2,False,19695,5101902,10.15486,0.0000
 2020-06-10,MT,Brasnorte,city,2,0,1,False,19695,5101902,10.15486,0.0000
-2020-07-08,MT,Campinápolis,city,44,4,31,True,15980,5102603,275.34418,0.0909
+2020-07-09,MT,Campinápolis,city,56,5,32,True,15980,5102603,350.43805,0.0893
+2020-07-08,MT,Campinápolis,city,44,4,31,False,15980,5102603,275.34418,0.0909
 2020-07-07,MT,Campinápolis,city,36,4,30,False,15980,5102603,225.28160,0.1111
 2020-07-06,MT,Campinápolis,city,33,4,29,False,15980,5102603,206.50814,0.1212
 2020-07-05,MT,Campinápolis,city,34,4,28,False,15980,5102603,212.76596,0.1176
@@ -967,7 +986,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-10,MT,Campinápolis,city,3,0,3,False,15980,5102603,18.77347,0.0000
 2020-06-09,MT,Campinápolis,city,3,0,2,False,15980,5102603,18.77347,0.0000
 2020-06-08,MT,Campinápolis,city,1,0,1,False,15980,5102603,6.25782,0.0000
-2020-07-08,MT,Campo Novo do Parecis,city,294,5,96,True,35360,5102637,831.44796,0.0170
+2020-07-09,MT,Campo Novo do Parecis,city,325,6,97,True,35360,5102637,919.11765,0.0185
+2020-07-08,MT,Campo Novo do Parecis,city,294,5,96,False,35360,5102637,831.44796,0.0170
 2020-07-07,MT,Campo Novo do Parecis,city,281,3,95,False,35360,5102637,794.68326,0.0107
 2020-07-06,MT,Campo Novo do Parecis,city,278,3,94,False,35360,5102637,786.19910,0.0108
 2020-07-05,MT,Campo Novo do Parecis,city,267,2,93,False,35360,5102637,755.09050,0.0075
@@ -1063,7 +1083,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,MT,Campo Novo do Parecis,city,1,0,3,False,35360,5102637,2.82805,0.0000
 2020-04-05,MT,Campo Novo do Parecis,city,1,0,2,False,35360,5102637,2.82805,0.0000
 2020-04-04,MT,Campo Novo do Parecis,city,1,0,1,False,35360,5102637,2.82805,0.0000
-2020-07-08,MT,Campo Verde,city,451,7,56,True,44041,5102678,1024.04578,0.0155
+2020-07-09,MT,Campo Verde,city,472,7,57,True,44041,5102678,1071.72862,0.0148
+2020-07-08,MT,Campo Verde,city,451,7,56,False,44041,5102678,1024.04578,0.0155
 2020-07-07,MT,Campo Verde,city,414,6,55,False,44041,5102678,940.03315,0.0145
 2020-07-06,MT,Campo Verde,city,409,5,54,False,44041,5102678,928.68009,0.0122
 2020-07-05,MT,Campo Verde,city,400,4,53,False,44041,5102678,908.24459,0.0100
@@ -1119,7 +1140,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,MT,Campo Verde,city,1,0,3,False,44041,5102678,2.27061,0.0000
 2020-05-15,MT,Campo Verde,city,1,0,2,False,44041,5102678,2.27061,0.0000
 2020-05-14,MT,Campo Verde,city,1,0,1,False,44041,5102678,2.27061,0.0000
-2020-07-08,MT,Campos de Júlio,city,122,2,51,True,6891,5102686,1770.42519,0.0164
+2020-07-09,MT,Campos de Júlio,city,123,2,52,True,6891,5102686,1784.93687,0.0163
+2020-07-08,MT,Campos de Júlio,city,122,2,51,False,6891,5102686,1770.42519,0.0164
 2020-07-07,MT,Campos de Júlio,city,121,2,50,False,6891,5102686,1755.91351,0.0165
 2020-07-06,MT,Campos de Júlio,city,121,2,49,False,6891,5102686,1755.91351,0.0165
 2020-07-05,MT,Campos de Júlio,city,110,2,48,False,6891,5102686,1596.28501,0.0182
@@ -1170,7 +1192,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,MT,Campos de Júlio,city,1,0,3,False,6891,5102686,14.51168,0.0000
 2020-05-20,MT,Campos de Júlio,city,1,0,2,False,6891,5102686,14.51168,0.0000
 2020-05-19,MT,Campos de Júlio,city,1,0,1,False,6891,5102686,14.51168,0.0000
-2020-07-08,MT,Canabrava do Norte,city,28,1,36,True,4743,5102694,590.34366,0.0357
+2020-07-09,MT,Canabrava do Norte,city,28,1,37,True,4743,5102694,590.34366,0.0357
+2020-07-08,MT,Canabrava do Norte,city,28,1,36,False,4743,5102694,590.34366,0.0357
 2020-07-07,MT,Canabrava do Norte,city,28,1,35,False,4743,5102694,590.34366,0.0357
 2020-07-06,MT,Canabrava do Norte,city,25,1,34,False,4743,5102694,527.09256,0.0400
 2020-07-05,MT,Canabrava do Norte,city,25,1,33,False,4743,5102694,527.09256,0.0400
@@ -1206,7 +1229,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-05,MT,Canabrava do Norte,city,5,0,3,False,4743,5102694,105.41851,0.0000
 2020-06-04,MT,Canabrava do Norte,city,5,0,2,False,4743,5102694,105.41851,0.0000
 2020-06-03,MT,Canabrava do Norte,city,5,0,1,False,4743,5102694,105.41851,0.0000
-2020-07-08,MT,Canarana,city,108,2,94,True,21579,5102702,500.48658,0.0185
+2020-07-09,MT,Canarana,city,132,2,95,True,21579,5102702,611.70583,0.0152
+2020-07-08,MT,Canarana,city,108,2,94,False,21579,5102702,500.48658,0.0185
 2020-07-07,MT,Canarana,city,102,2,93,False,21579,5102702,472.68177,0.0196
 2020-07-06,MT,Canarana,city,94,2,92,False,21579,5102702,435.60869,0.0213
 2020-07-05,MT,Canarana,city,91,2,91,False,21579,5102702,421.70629,0.0220
@@ -1300,7 +1324,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,MT,Canarana,city,1,0,3,False,21579,5102702,4.63414,0.0000
 2020-04-07,MT,Canarana,city,1,0,2,False,21579,5102702,4.63414,0.0000
 2020-04-06,MT,Canarana,city,1,0,1,False,21579,5102702,4.63414,0.0000
-2020-07-08,MT,Castanheira,city,8,0,20,True,8729,5102850,91.64853,0.0000
+2020-07-09,MT,Castanheira,city,10,0,21,True,8729,5102850,114.56066,0.0000
+2020-07-08,MT,Castanheira,city,8,0,20,False,8729,5102850,91.64853,0.0000
 2020-07-07,MT,Castanheira,city,8,0,19,False,8729,5102850,91.64853,0.0000
 2020-07-06,MT,Castanheira,city,6,0,18,False,8729,5102850,68.73640,0.0000
 2020-07-05,MT,Castanheira,city,3,0,17,False,8729,5102850,34.36820,0.0000
@@ -1320,7 +1345,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-21,MT,Castanheira,city,1,0,3,False,8729,5102850,11.45607,0.0000
 2020-06-20,MT,Castanheira,city,1,0,2,False,8729,5102850,11.45607,0.0000
 2020-06-19,MT,Castanheira,city,1,0,1,False,8729,5102850,11.45607,0.0000
-2020-07-08,MT,Chapada dos Guimarães,city,131,5,93,True,19752,5103007,663.22398,0.0382
+2020-07-09,MT,Chapada dos Guimarães,city,134,5,94,True,19752,5103007,678.41231,0.0373
+2020-07-08,MT,Chapada dos Guimarães,city,131,5,93,False,19752,5103007,663.22398,0.0382
 2020-07-07,MT,Chapada dos Guimarães,city,119,4,92,False,19752,5103007,602.47064,0.0336
 2020-07-06,MT,Chapada dos Guimarães,city,115,4,91,False,19752,5103007,582.21952,0.0348
 2020-07-05,MT,Chapada dos Guimarães,city,109,4,90,False,19752,5103007,551.84285,0.0367
@@ -1413,7 +1439,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,MT,Chapada dos Guimarães,city,0,0,3,False,19752,5103007,,0.0000
 2020-04-08,MT,Chapada dos Guimarães,city,0,0,2,False,19752,5103007,,0.0000
 2020-04-07,MT,Chapada dos Guimarães,city,1,0,1,False,19752,5103007,5.06278,0.0000
-2020-07-08,MT,Cláudia,city,96,1,29,True,12149,5103056,790.18849,0.0104
+2020-07-09,MT,Cláudia,city,100,1,30,True,12149,5103056,823.11301,0.0100
+2020-07-08,MT,Cláudia,city,96,1,29,False,12149,5103056,790.18849,0.0104
 2020-07-07,MT,Cláudia,city,90,1,28,False,12149,5103056,740.80171,0.0111
 2020-07-06,MT,Cláudia,city,87,1,27,False,12149,5103056,716.10832,0.0115
 2020-07-05,MT,Cláudia,city,87,1,26,False,12149,5103056,716.10832,0.0115
@@ -1442,7 +1469,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-12,MT,Cláudia,city,2,0,3,False,12149,5103056,16.46226,0.0000
 2020-06-11,MT,Cláudia,city,2,0,2,False,12149,5103056,16.46226,0.0000
 2020-06-10,MT,Cláudia,city,2,0,1,False,12149,5103056,16.46226,0.0000
-2020-07-08,MT,Cocalinho,city,12,0,15,True,5700,5103106,210.52632,0.0000
+2020-07-09,MT,Cocalinho,city,12,0,16,True,5700,5103106,210.52632,0.0000
+2020-07-08,MT,Cocalinho,city,12,0,15,False,5700,5103106,210.52632,0.0000
 2020-07-07,MT,Cocalinho,city,12,0,14,False,5700,5103106,210.52632,0.0000
 2020-07-06,MT,Cocalinho,city,11,0,13,False,5700,5103106,192.98246,0.0000
 2020-07-05,MT,Cocalinho,city,11,0,12,False,5700,5103106,192.98246,0.0000
@@ -1457,7 +1485,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-26,MT,Cocalinho,city,5,0,3,False,5700,5103106,87.71930,0.0000
 2020-06-25,MT,Cocalinho,city,3,0,2,False,5700,5103106,52.63158,0.0000
 2020-06-24,MT,Cocalinho,city,2,0,1,False,5700,5103106,35.08772,0.0000
-2020-07-08,MT,Colniza,city,2,0,40,True,38582,5103254,5.18376,0.0000
+2020-07-09,MT,Colniza,city,2,0,41,True,38582,5103254,5.18376,0.0000
+2020-07-08,MT,Colniza,city,2,0,40,False,38582,5103254,5.18376,0.0000
 2020-07-07,MT,Colniza,city,2,0,39,False,38582,5103254,5.18376,0.0000
 2020-07-06,MT,Colniza,city,2,0,38,False,38582,5103254,5.18376,0.0000
 2020-07-05,MT,Colniza,city,2,0,37,False,38582,5103254,5.18376,0.0000
@@ -1497,7 +1526,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-01,MT,Colniza,city,1,0,3,False,38582,5103254,2.59188,0.0000
 2020-05-31,MT,Colniza,city,1,0,2,False,38582,5103254,2.59188,0.0000
 2020-05-30,MT,Colniza,city,1,0,1,False,38582,5103254,2.59188,0.0000
-2020-07-08,MT,Colíder,city,353,5,49,True,33438,5103205,1055.68515,0.0142
+2020-07-09,MT,Colíder,city,368,6,50,True,33438,5103205,1100.54429,0.0163
+2020-07-08,MT,Colíder,city,353,5,49,False,33438,5103205,1055.68515,0.0142
 2020-07-07,MT,Colíder,city,325,4,48,False,33438,5103205,971.94808,0.0123
 2020-07-06,MT,Colíder,city,253,3,47,False,33438,5103205,756.62420,0.0119
 2020-07-05,MT,Colíder,city,252,3,46,False,33438,5103205,753.63359,0.0119
@@ -1546,7 +1576,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,MT,Colíder,city,2,0,3,False,33438,5103205,5.98122,0.0000
 2020-05-22,MT,Colíder,city,1,0,2,False,33438,5103205,2.99061,0.0000
 2020-05-21,MT,Colíder,city,1,0,1,False,33438,5103205,2.99061,0.0000
-2020-07-08,MT,Comodoro,city,76,1,41,True,20763,5103304,366.03574,0.0132
+2020-07-09,MT,Comodoro,city,80,1,42,True,20763,5103304,385.30078,0.0125
+2020-07-08,MT,Comodoro,city,76,1,41,False,20763,5103304,366.03574,0.0132
 2020-07-07,MT,Comodoro,city,70,1,40,False,20763,5103304,337.13818,0.0143
 2020-07-06,MT,Comodoro,city,69,1,39,False,20763,5103304,332.32192,0.0145
 2020-07-05,MT,Comodoro,city,55,1,38,False,20763,5103304,264.89428,0.0182
@@ -1587,7 +1618,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-31,MT,Comodoro,city,2,0,3,False,20763,5103304,9.63252,0.0000
 2020-05-30,MT,Comodoro,city,2,0,2,False,20763,5103304,9.63252,0.0000
 2020-05-29,MT,Comodoro,city,2,0,1,False,20763,5103304,9.63252,0.0000
-2020-07-08,MT,Confresa,city,336,10,77,True,30933,5103353,1086.21860,0.0298
+2020-07-09,MT,Confresa,city,349,10,78,True,30933,5103353,1128.24492,0.0287
+2020-07-08,MT,Confresa,city,336,10,77,False,30933,5103353,1086.21860,0.0298
 2020-07-07,MT,Confresa,city,336,10,76,False,30933,5103353,1086.21860,0.0298
 2020-07-06,MT,Confresa,city,330,9,75,False,30933,5103353,1066.82184,0.0273
 2020-07-05,MT,Confresa,city,330,9,74,False,30933,5103353,1066.82184,0.0273
@@ -1664,7 +1696,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,MT,Confresa,city,1,0,3,False,30933,5103353,3.23279,0.0000
 2020-04-24,MT,Confresa,city,1,0,2,False,30933,5103353,3.23279,0.0000
 2020-04-23,MT,Confresa,city,1,0,1,False,30933,5103353,3.23279,0.0000
-2020-07-08,MT,Conquista D'Oeste,city,18,0,85,True,4038,5103361,445.76523,0.0000
+2020-07-09,MT,Conquista D'Oeste,city,20,0,86,True,4038,5103361,495.29470,0.0000
+2020-07-08,MT,Conquista D'Oeste,city,18,0,85,False,4038,5103361,445.76523,0.0000
 2020-07-07,MT,Conquista D'Oeste,city,18,0,84,False,4038,5103361,445.76523,0.0000
 2020-07-06,MT,Conquista D'Oeste,city,18,0,83,False,4038,5103361,445.76523,0.0000
 2020-07-05,MT,Conquista D'Oeste,city,12,0,82,False,4038,5103361,297.17682,0.0000
@@ -1749,7 +1782,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-17,MT,Conquista D'Oeste,city,1,0,3,False,4038,5103361,24.76474,0.0000
 2020-04-16,MT,Conquista D'Oeste,city,1,0,2,False,4038,5103361,24.76474,0.0000
 2020-04-15,MT,Conquista D'Oeste,city,1,0,1,False,4038,5103361,24.76474,0.0000
-2020-07-08,MT,Cotriguaçu,city,12,2,62,True,19750,5103379,60.75949,0.1667
+2020-07-09,MT,Cotriguaçu,city,12,2,63,True,19750,5103379,60.75949,0.1667
+2020-07-08,MT,Cotriguaçu,city,12,2,62,False,19750,5103379,60.75949,0.1667
 2020-07-07,MT,Cotriguaçu,city,12,2,61,False,19750,5103379,60.75949,0.1667
 2020-07-06,MT,Cotriguaçu,city,12,2,60,False,19750,5103379,60.75949,0.1667
 2020-07-05,MT,Cotriguaçu,city,12,2,59,False,19750,5103379,60.75949,0.1667
@@ -1811,7 +1845,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,MT,Cotriguaçu,city,1,0,3,False,19750,5103379,5.06329,0.0000
 2020-05-09,MT,Cotriguaçu,city,1,0,2,False,19750,5103379,5.06329,0.0000
 2020-05-08,MT,Cotriguaçu,city,1,0,1,False,19750,5103379,5.06329,0.0000
-2020-07-08,MT,Cuiabá,city,5681,278,107,True,612547,5103403,927.43904,0.0489
+2020-07-09,MT,Cuiabá,city,5920,289,108,True,612547,5103403,966.45645,0.0488
+2020-07-08,MT,Cuiabá,city,5681,278,107,False,612547,5103403,927.43904,0.0489
 2020-07-07,MT,Cuiabá,city,5486,272,106,False,612547,5103403,895.60475,0.0496
 2020-07-06,MT,Cuiabá,city,5191,262,105,False,612547,5103403,847.44518,0.0505
 2020-07-05,MT,Cuiabá,city,4949,247,104,False,612547,5103403,807.93800,0.0499
@@ -1918,7 +1953,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,MT,Cuiabá,city,5,0,3,False,612547,5103403,0.81626,0.0000
 2020-03-23,MT,Cuiabá,city,5,0,2,False,612547,5103403,0.81626,0.0000
 2020-03-20,MT,Cuiabá,city,1,0,1,False,612547,5103403,0.16325,0.0000
-2020-07-08,MT,Curvelândia,city,21,1,69,True,5219,5103437,402.37593,0.0476
+2020-07-09,MT,Curvelândia,city,21,1,70,True,5219,5103437,402.37593,0.0476
+2020-07-08,MT,Curvelândia,city,21,1,69,False,5219,5103437,402.37593,0.0476
 2020-07-07,MT,Curvelândia,city,21,1,68,False,5219,5103437,402.37593,0.0476
 2020-07-06,MT,Curvelândia,city,21,1,67,False,5219,5103437,402.37593,0.0476
 2020-07-05,MT,Curvelândia,city,21,1,66,False,5219,5103437,402.37593,0.0476
@@ -1987,7 +2023,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-03,MT,Curvelândia,city,2,0,3,False,5219,5103437,38.32152,0.0000
 2020-05-02,MT,Curvelândia,city,2,0,2,False,5219,5103437,38.32152,0.0000
 2020-05-01,MT,Curvelândia,city,1,0,1,False,5219,5103437,19.16076,0.0000
-2020-07-08,MT,Cáceres,city,420,18,94,True,94376,5102504,445.02840,0.0429
+2020-07-09,MT,Cáceres,city,455,19,95,True,94376,5102504,482.11410,0.0418
+2020-07-08,MT,Cáceres,city,420,18,94,False,94376,5102504,445.02840,0.0429
 2020-07-07,MT,Cáceres,city,402,18,93,False,94376,5102504,425.95575,0.0448
 2020-07-06,MT,Cáceres,city,388,18,92,False,94376,5102504,411.12147,0.0464
 2020-07-05,MT,Cáceres,city,363,18,91,False,94376,5102504,384.63169,0.0496
@@ -2081,7 +2118,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,MT,Cáceres,city,2,0,3,False,94376,5102504,2.11918,0.0000
 2020-04-07,MT,Cáceres,city,2,0,2,False,94376,5102504,2.11918,0.0000
 2020-04-06,MT,Cáceres,city,2,0,1,False,94376,5102504,2.11918,0.0000
-2020-07-08,MT,Denise,city,16,0,43,True,9462,5103452,169.09744,0.0000
+2020-07-09,MT,Denise,city,20,0,44,True,9462,5103452,211.37180,0.0000
+2020-07-08,MT,Denise,city,16,0,43,False,9462,5103452,169.09744,0.0000
 2020-07-07,MT,Denise,city,16,0,42,False,9462,5103452,169.09744,0.0000
 2020-07-06,MT,Denise,city,14,0,41,False,9462,5103452,147.96026,0.0000
 2020-07-05,MT,Denise,city,12,0,40,False,9462,5103452,126.82308,0.0000
@@ -2124,7 +2162,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-29,MT,Denise,city,1,0,3,False,9462,5103452,10.56859,0.0000
 2020-05-28,MT,Denise,city,1,0,2,False,9462,5103452,10.56859,0.0000
 2020-05-27,MT,Denise,city,1,0,1,False,9462,5103452,10.56859,0.0000
-2020-07-08,MT,Diamantino,city,89,2,34,True,22041,5103502,403.79293,0.0225
+2020-07-09,MT,Diamantino,city,89,2,35,True,22041,5103502,403.79293,0.0225
+2020-07-08,MT,Diamantino,city,89,2,34,False,22041,5103502,403.79293,0.0225
 2020-07-07,MT,Diamantino,city,89,2,33,False,22041,5103502,403.79293,0.0225
 2020-07-06,MT,Diamantino,city,80,2,32,False,22041,5103502,362.95994,0.0250
 2020-07-05,MT,Diamantino,city,63,1,31,False,22041,5103502,285.83095,0.0159
@@ -2158,7 +2197,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-07,MT,Diamantino,city,2,0,3,False,22041,5103502,9.07400,0.0000
 2020-06-06,MT,Diamantino,city,2,0,2,False,22041,5103502,9.07400,0.0000
 2020-06-05,MT,Diamantino,city,1,0,1,False,22041,5103502,4.53700,0.0000
-2020-07-08,MT,Dom Aquino,city,42,3,49,True,8178,5103601,513.57300,0.0714
+2020-07-09,MT,Dom Aquino,city,42,3,50,True,8178,5103601,513.57300,0.0714
+2020-07-08,MT,Dom Aquino,city,42,3,49,False,8178,5103601,513.57300,0.0714
 2020-07-07,MT,Dom Aquino,city,36,3,48,False,8178,5103601,440.20543,0.0833
 2020-07-06,MT,Dom Aquino,city,36,2,47,False,8178,5103601,440.20543,0.0556
 2020-07-05,MT,Dom Aquino,city,32,2,46,False,8178,5103601,391.29371,0.0625
@@ -2207,7 +2247,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,MT,Dom Aquino,city,2,0,3,False,8178,5103601,24.45586,0.0000
 2020-05-22,MT,Dom Aquino,city,2,0,2,False,8178,5103601,24.45586,0.0000
 2020-05-21,MT,Dom Aquino,city,2,0,1,False,8178,5103601,24.45586,0.0000
-2020-07-08,MT,Feliz Natal,city,90,2,31,True,14192,5103700,634.16009,0.0222
+2020-07-09,MT,Feliz Natal,city,95,2,32,True,14192,5103700,669.39121,0.0211
+2020-07-08,MT,Feliz Natal,city,90,2,31,False,14192,5103700,634.16009,0.0222
 2020-07-07,MT,Feliz Natal,city,71,2,30,False,14192,5103700,500.28185,0.0282
 2020-07-06,MT,Feliz Natal,city,71,2,29,False,14192,5103700,500.28185,0.0282
 2020-07-05,MT,Feliz Natal,city,71,2,28,False,14192,5103700,500.28185,0.0282
@@ -2238,7 +2279,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-10,MT,Feliz Natal,city,3,0,3,False,14192,5103700,21.13867,0.0000
 2020-06-09,MT,Feliz Natal,city,2,0,2,False,14192,5103700,14.09245,0.0000
 2020-06-08,MT,Feliz Natal,city,2,0,1,False,14192,5103700,14.09245,0.0000
-2020-07-08,MT,Figueirópolis D'Oeste,city,11,1,27,True,3494,5103809,314.82541,0.0909
+2020-07-09,MT,Figueirópolis D'Oeste,city,13,1,28,True,3494,5103809,372.06640,0.0769
+2020-07-08,MT,Figueirópolis D'Oeste,city,11,1,27,False,3494,5103809,314.82541,0.0909
 2020-07-07,MT,Figueirópolis D'Oeste,city,11,1,26,False,3494,5103809,314.82541,0.0909
 2020-07-06,MT,Figueirópolis D'Oeste,city,11,1,25,False,3494,5103809,314.82541,0.0909
 2020-07-05,MT,Figueirópolis D'Oeste,city,9,1,24,False,3494,5103809,257.58443,0.1111
@@ -2265,7 +2307,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-14,MT,Figueirópolis D'Oeste,city,1,1,3,False,3494,5103809,28.62049,1.0000
 2020-06-13,MT,Figueirópolis D'Oeste,city,1,1,2,False,3494,5103809,28.62049,1.0000
 2020-06-12,MT,Figueirópolis D'Oeste,city,1,1,1,False,3494,5103809,28.62049,1.0000
-2020-07-08,MT,Gaúcha do Norte,city,49,0,29,True,7648,5103858,640.69038,0.0000
+2020-07-09,MT,Gaúcha do Norte,city,54,0,30,True,7648,5103858,706.06695,0.0000
+2020-07-08,MT,Gaúcha do Norte,city,49,0,29,False,7648,5103858,640.69038,0.0000
 2020-07-07,MT,Gaúcha do Norte,city,48,0,28,False,7648,5103858,627.61506,0.0000
 2020-07-06,MT,Gaúcha do Norte,city,46,0,27,False,7648,5103858,601.46444,0.0000
 2020-07-05,MT,Gaúcha do Norte,city,38,0,26,False,7648,5103858,496.86192,0.0000
@@ -2294,7 +2337,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-12,MT,Gaúcha do Norte,city,1,0,3,False,7648,5103858,13.07531,0.0000
 2020-06-11,MT,Gaúcha do Norte,city,1,0,2,False,7648,5103858,13.07531,0.0000
 2020-06-10,MT,Gaúcha do Norte,city,1,0,1,False,7648,5103858,13.07531,0.0000
-2020-07-08,MT,General Carneiro,city,93,6,26,True,5540,5103908,1678.70036,0.0645
+2020-07-09,MT,General Carneiro,city,98,6,27,True,5540,5103908,1768.95307,0.0612
+2020-07-08,MT,General Carneiro,city,93,6,26,False,5540,5103908,1678.70036,0.0645
 2020-07-07,MT,General Carneiro,city,70,6,25,False,5540,5103908,1263.53791,0.0857
 2020-07-06,MT,General Carneiro,city,53,6,24,False,5540,5103908,956.67870,0.1132
 2020-07-05,MT,General Carneiro,city,53,4,23,False,5540,5103908,956.67870,0.0755
@@ -2320,7 +2364,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-15,MT,General Carneiro,city,2,0,3,False,5540,5103908,36.10108,0.0000
 2020-06-14,MT,General Carneiro,city,1,0,2,False,5540,5103908,18.05054,0.0000
 2020-06-13,MT,General Carneiro,city,1,0,1,False,5540,5103908,18.05054,0.0000
-2020-07-08,MT,Guarantã do Norte,city,206,2,53,True,35816,5104104,575.16194,0.0097
+2020-07-09,MT,Guarantã do Norte,city,248,2,54,True,35816,5104104,692.42797,0.0081
+2020-07-08,MT,Guarantã do Norte,city,206,2,53,False,35816,5104104,575.16194,0.0097
 2020-07-07,MT,Guarantã do Norte,city,206,1,52,False,35816,5104104,575.16194,0.0049
 2020-07-06,MT,Guarantã do Norte,city,204,1,51,False,35816,5104104,569.57784,0.0049
 2020-07-05,MT,Guarantã do Norte,city,192,1,50,False,35816,5104104,536.07326,0.0052
@@ -2373,7 +2418,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,MT,Guarantã do Norte,city,1,0,3,False,35816,5104104,2.79205,0.0000
 2020-05-18,MT,Guarantã do Norte,city,2,0,2,False,35816,5104104,5.58410,0.0000
 2020-05-17,MT,Guarantã do Norte,city,1,0,1,False,35816,5104104,2.79205,0.0000
-2020-07-08,MT,Guiratinga,city,17,0,43,True,15141,5104203,112.27792,0.0000
+2020-07-09,MT,Guiratinga,city,17,0,44,True,15141,5104203,112.27792,0.0000
+2020-07-08,MT,Guiratinga,city,17,0,43,False,15141,5104203,112.27792,0.0000
 2020-07-07,MT,Guiratinga,city,17,0,42,False,15141,5104203,112.27792,0.0000
 2020-07-06,MT,Guiratinga,city,15,0,41,False,15141,5104203,99.06875,0.0000
 2020-07-05,MT,Guiratinga,city,15,0,40,False,15141,5104203,99.06875,0.0000
@@ -2416,7 +2462,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-29,MT,Guiratinga,city,1,0,3,False,15141,5104203,6.60458,0.0000
 2020-05-28,MT,Guiratinga,city,1,0,2,False,15141,5104203,6.60458,0.0000
 2020-05-27,MT,Guiratinga,city,1,0,1,False,15141,5104203,6.60458,0.0000
-2020-07-08,MT,Importados/Indefinidos,city,124,17,94,True,,,,0.1371
+2020-07-09,MT,Importados/Indefinidos,city,130,17,95,True,,,,0.1308
+2020-07-08,MT,Importados/Indefinidos,city,124,17,94,False,,,,0.1371
 2020-07-07,MT,Importados/Indefinidos,city,123,17,93,False,,,,0.1382
 2020-07-06,MT,Importados/Indefinidos,city,120,16,92,False,,,,0.1333
 2020-07-05,MT,Importados/Indefinidos,city,118,15,91,False,,,,0.1271
@@ -2510,7 +2557,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,MT,Importados/Indefinidos,city,2,0,3,False,,,,0.0000
 2020-04-07,MT,Importados/Indefinidos,city,2,0,2,False,,,,0.0000
 2020-04-06,MT,Importados/Indefinidos,city,2,0,1,False,,,,0.0000
-2020-07-08,MT,Indiavaí,city,4,0,20,True,2752,5104500,145.34884,0.0000
+2020-07-09,MT,Indiavaí,city,4,0,21,True,2752,5104500,145.34884,0.0000
+2020-07-08,MT,Indiavaí,city,4,0,20,False,2752,5104500,145.34884,0.0000
 2020-07-07,MT,Indiavaí,city,4,0,19,False,2752,5104500,145.34884,0.0000
 2020-07-06,MT,Indiavaí,city,4,0,18,False,2752,5104500,145.34884,0.0000
 2020-07-05,MT,Indiavaí,city,4,0,17,False,2752,5104500,145.34884,0.0000
@@ -2530,7 +2578,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-21,MT,Indiavaí,city,2,0,3,False,2752,5104500,72.67442,0.0000
 2020-06-20,MT,Indiavaí,city,2,0,2,False,2752,5104500,72.67442,0.0000
 2020-06-19,MT,Indiavaí,city,1,0,1,False,2752,5104500,36.33721,0.0000
-2020-07-08,MT,Ipiranga do Norte,city,52,1,82,True,7667,5104526,678.23138,0.0192
+2020-07-09,MT,Ipiranga do Norte,city,52,1,83,True,7667,5104526,678.23138,0.0192
+2020-07-08,MT,Ipiranga do Norte,city,52,1,82,False,7667,5104526,678.23138,0.0192
 2020-07-07,MT,Ipiranga do Norte,city,52,1,81,False,7667,5104526,678.23138,0.0192
 2020-07-06,MT,Ipiranga do Norte,city,52,1,80,False,7667,5104526,678.23138,0.0192
 2020-07-05,MT,Ipiranga do Norte,city,33,1,79,False,7667,5104526,430.41607,0.0303
@@ -2612,7 +2661,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,MT,Ipiranga do Norte,city,1,0,3,False,7667,5104526,13.04291,0.0000
 2020-04-19,MT,Ipiranga do Norte,city,1,0,2,False,7667,5104526,13.04291,0.0000
 2020-04-18,MT,Ipiranga do Norte,city,1,0,1,False,7667,5104526,13.04291,0.0000
-2020-07-08,MT,Itanhangá,city,6,0,41,True,6737,5104542,89.06041,0.0000
+2020-07-09,MT,Itanhangá,city,6,0,42,True,6737,5104542,89.06041,0.0000
+2020-07-08,MT,Itanhangá,city,6,0,41,False,6737,5104542,89.06041,0.0000
 2020-07-07,MT,Itanhangá,city,6,0,40,False,6737,5104542,89.06041,0.0000
 2020-07-06,MT,Itanhangá,city,6,0,39,False,6737,5104542,89.06041,0.0000
 2020-07-05,MT,Itanhangá,city,6,0,38,False,6737,5104542,89.06041,0.0000
@@ -2653,7 +2703,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-31,MT,Itanhangá,city,1,0,3,False,6737,5104542,14.84340,0.0000
 2020-05-30,MT,Itanhangá,city,1,0,2,False,6737,5104542,14.84340,0.0000
 2020-05-29,MT,Itanhangá,city,1,0,1,False,6737,5104542,14.84340,0.0000
-2020-07-08,MT,Itaúba,city,24,1,30,True,3802,5104559,631.24671,0.0417
+2020-07-09,MT,Itaúba,city,24,1,31,True,3802,5104559,631.24671,0.0417
+2020-07-08,MT,Itaúba,city,24,1,30,False,3802,5104559,631.24671,0.0417
 2020-07-07,MT,Itaúba,city,22,1,29,False,3802,5104559,578.64282,0.0455
 2020-07-06,MT,Itaúba,city,11,1,28,False,3802,5104559,289.32141,0.0909
 2020-07-05,MT,Itaúba,city,11,1,27,False,3802,5104559,289.32141,0.0909
@@ -2683,7 +2734,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-11,MT,Itaúba,city,0,0,3,False,3802,5104559,,0.0000
 2020-06-10,MT,Itaúba,city,0,0,2,False,3802,5104559,,0.0000
 2020-06-09,MT,Itaúba,city,1,0,1,False,3802,5104559,26.30195,0.0000
-2020-07-08,MT,Itiquira,city,23,0,35,True,13345,5104609,172.34919,0.0000
+2020-07-09,MT,Itiquira,city,26,0,36,True,13345,5104609,194.82952,0.0000
+2020-07-08,MT,Itiquira,city,23,0,35,False,13345,5104609,172.34919,0.0000
 2020-07-07,MT,Itiquira,city,23,0,34,False,13345,5104609,172.34919,0.0000
 2020-07-06,MT,Itiquira,city,23,0,33,False,13345,5104609,172.34919,0.0000
 2020-07-05,MT,Itiquira,city,23,0,32,False,13345,5104609,172.34919,0.0000
@@ -2718,7 +2770,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-06,MT,Itiquira,city,6,0,3,False,13345,5104609,44.96066,0.0000
 2020-06-05,MT,Itiquira,city,4,0,2,False,13345,5104609,29.97377,0.0000
 2020-06-04,MT,Itiquira,city,1,0,1,False,13345,5104609,7.49344,0.0000
-2020-07-08,MT,Jaciara,city,225,6,78,True,27776,5104807,810.05184,0.0267
+2020-07-09,MT,Jaciara,city,241,6,79,True,27776,5104807,867.65553,0.0249
+2020-07-08,MT,Jaciara,city,225,6,78,False,27776,5104807,810.05184,0.0267
 2020-07-07,MT,Jaciara,city,200,6,77,False,27776,5104807,720.04608,0.0300
 2020-07-06,MT,Jaciara,city,188,6,76,False,27776,5104807,676.84332,0.0319
 2020-07-05,MT,Jaciara,city,192,4,75,False,27776,5104807,691.24424,0.0208
@@ -2796,7 +2849,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-24,MT,Jaciara,city,1,0,3,False,27776,5104807,3.60023,0.0000
 2020-04-23,MT,Jaciara,city,1,0,2,False,27776,5104807,3.60023,0.0000
 2020-04-22,MT,Jaciara,city,1,0,1,False,27776,5104807,3.60023,0.0000
-2020-07-08,MT,Jangada,city,67,2,72,True,8409,5104906,796.76537,0.0299
+2020-07-09,MT,Jangada,city,67,2,73,True,8409,5104906,796.76537,0.0299
+2020-07-08,MT,Jangada,city,67,2,72,False,8409,5104906,796.76537,0.0299
 2020-07-07,MT,Jangada,city,59,2,71,False,8409,5104906,701.62921,0.0339
 2020-07-06,MT,Jangada,city,59,2,70,False,8409,5104906,701.62921,0.0339
 2020-07-05,MT,Jangada,city,59,2,69,False,8409,5104906,701.62921,0.0339
@@ -2868,7 +2922,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-30,MT,Jangada,city,2,0,3,False,8409,5104906,23.78404,0.0000
 2020-04-29,MT,Jangada,city,2,0,2,False,8409,5104906,23.78404,0.0000
 2020-04-28,MT,Jangada,city,1,0,1,False,8409,5104906,11.89202,0.0000
-2020-07-08,MT,Jauru,city,6,1,51,True,8793,5105002,68.23610,0.1667
+2020-07-09,MT,Jauru,city,6,1,52,True,8793,5105002,68.23610,0.1667
+2020-07-08,MT,Jauru,city,6,1,51,False,8793,5105002,68.23610,0.1667
 2020-07-07,MT,Jauru,city,5,1,50,False,8793,5105002,56.86341,0.2000
 2020-07-06,MT,Jauru,city,4,1,49,False,8793,5105002,45.49073,0.2500
 2020-07-05,MT,Jauru,city,4,1,48,False,8793,5105002,45.49073,0.2500
@@ -2919,7 +2974,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,MT,Jauru,city,1,0,3,False,8793,5105002,11.37268,0.0000
 2020-05-20,MT,Jauru,city,1,0,2,False,8793,5105002,11.37268,0.0000
 2020-05-19,MT,Jauru,city,1,0,1,False,8793,5105002,11.37268,0.0000
-2020-07-08,MT,Juara,city,54,1,47,True,34974,5105101,154.40041,0.0185
+2020-07-09,MT,Juara,city,54,1,48,True,34974,5105101,154.40041,0.0185
+2020-07-08,MT,Juara,city,54,1,47,False,34974,5105101,154.40041,0.0185
 2020-07-07,MT,Juara,city,53,1,46,False,34974,5105101,151.54114,0.0189
 2020-07-06,MT,Juara,city,52,1,45,False,34974,5105101,148.68188,0.0192
 2020-07-05,MT,Juara,city,52,1,44,False,34974,5105101,148.68188,0.0192
@@ -2966,7 +3022,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,MT,Juara,city,1,0,3,False,34974,5105101,2.85927,0.0000
 2020-05-24,MT,Juara,city,1,0,2,False,34974,5105101,2.85927,0.0000
 2020-05-23,MT,Juara,city,1,0,1,False,34974,5105101,2.85927,0.0000
-2020-07-08,MT,Juruena,city,136,1,23,True,15865,5105176,857.23290,0.0074
+2020-07-09,MT,Juruena,city,141,1,24,True,15865,5105176,888.74882,0.0071
+2020-07-08,MT,Juruena,city,136,1,23,False,15865,5105176,857.23290,0.0074
 2020-07-07,MT,Juruena,city,136,1,22,False,15865,5105176,857.23290,0.0074
 2020-07-06,MT,Juruena,city,116,1,21,False,15865,5105176,731.16924,0.0086
 2020-07-05,MT,Juruena,city,98,1,20,False,15865,5105176,617.71194,0.0102
@@ -2989,7 +3046,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-18,MT,Juruena,city,1,0,3,False,15865,5105176,6.30318,0.0000
 2020-06-17,MT,Juruena,city,1,0,2,False,15865,5105176,6.30318,0.0000
 2020-06-16,MT,Juruena,city,1,0,1,False,15865,5105176,6.30318,0.0000
-2020-07-08,MT,Juscimeira,city,90,1,56,True,11221,5105200,802.06755,0.0111
+2020-07-09,MT,Juscimeira,city,90,1,57,True,11221,5105200,802.06755,0.0111
+2020-07-08,MT,Juscimeira,city,90,1,56,False,11221,5105200,802.06755,0.0111
 2020-07-07,MT,Juscimeira,city,84,1,55,False,11221,5105200,748.59638,0.0119
 2020-07-06,MT,Juscimeira,city,81,1,54,False,11221,5105200,721.86080,0.0123
 2020-07-05,MT,Juscimeira,city,79,1,53,False,11221,5105200,704.03707,0.0127
@@ -3045,7 +3103,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-16,MT,Juscimeira,city,2,0,3,False,11221,5105200,17.82372,0.0000
 2020-05-15,MT,Juscimeira,city,1,0,2,False,11221,5105200,8.91186,0.0000
 2020-05-14,MT,Juscimeira,city,1,0,1,False,11221,5105200,8.91186,0.0000
-2020-07-08,MT,Juína,city,118,7,48,True,40997,5105150,287.82594,0.0593
+2020-07-09,MT,Juína,city,126,7,49,True,40997,5105150,307.33956,0.0556
+2020-07-08,MT,Juína,city,118,7,48,False,40997,5105150,287.82594,0.0593
 2020-07-07,MT,Juína,city,118,7,47,False,40997,5105150,287.82594,0.0593
 2020-07-06,MT,Juína,city,103,7,46,False,40997,5105150,251.23790,0.0680
 2020-07-05,MT,Juína,city,95,6,45,False,40997,5105150,231.72427,0.0632
@@ -3093,7 +3152,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,MT,Juína,city,5,1,3,False,40997,5105150,12.19601,0.2000
 2020-05-23,MT,Juína,city,5,1,2,False,40997,5105150,12.19601,0.2000
 2020-05-22,MT,Juína,city,5,1,1,False,40997,5105150,12.19601,0.2000
-2020-07-08,MT,Lambari D'Oeste,city,45,0,92,True,6121,5105234,735.17399,0.0000
+2020-07-09,MT,Lambari D'Oeste,city,45,0,93,True,6121,5105234,735.17399,0.0000
+2020-07-08,MT,Lambari D'Oeste,city,45,0,92,False,6121,5105234,735.17399,0.0000
 2020-07-07,MT,Lambari D'Oeste,city,41,0,91,False,6121,5105234,669.82519,0.0000
 2020-07-06,MT,Lambari D'Oeste,city,42,0,90,False,6121,5105234,686.16239,0.0000
 2020-07-05,MT,Lambari D'Oeste,city,35,0,89,False,6121,5105234,571.80199,0.0000
@@ -3185,7 +3245,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,MT,Lambari D'Oeste,city,1,0,3,False,6121,5105234,16.33720,0.0000
 2020-04-09,MT,Lambari D'Oeste,city,1,0,2,False,6121,5105234,16.33720,0.0000
 2020-04-08,MT,Lambari D'Oeste,city,1,0,1,False,6121,5105234,16.33720,0.0000
-2020-07-08,MT,Lucas do Rio Verde,city,1062,17,98,True,65534,5105259,1620.53285,0.0160
+2020-07-09,MT,Lucas do Rio Verde,city,1131,19,99,True,65534,5105259,1725.82171,0.0168
+2020-07-08,MT,Lucas do Rio Verde,city,1062,17,98,False,65534,5105259,1620.53285,0.0160
 2020-07-07,MT,Lucas do Rio Verde,city,1003,17,97,False,65534,5105259,1530.50325,0.0169
 2020-07-06,MT,Lucas do Rio Verde,city,965,16,96,False,65534,5105259,1472.51808,0.0166
 2020-07-05,MT,Lucas do Rio Verde,city,909,15,95,False,65534,5105259,1387.06626,0.0165
@@ -3283,7 +3344,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,MT,Lucas do Rio Verde,city,1,1,3,False,65534,5105259,1.52593,1.0000
 2020-04-03,MT,Lucas do Rio Verde,city,1,1,2,False,65534,5105259,1.52593,1.0000
 2020-04-02,MT,Lucas do Rio Verde,city,1,0,1,False,65534,5105259,1.52593,0.0000
-2020-07-08,MT,Luciara,city,1,0,48,True,2077,5105309,48.14636,0.0000
+2020-07-09,MT,Luciara,city,1,0,49,True,2077,5105309,48.14636,0.0000
+2020-07-08,MT,Luciara,city,1,0,48,False,2077,5105309,48.14636,0.0000
 2020-07-07,MT,Luciara,city,1,0,47,False,2077,5105309,48.14636,0.0000
 2020-07-06,MT,Luciara,city,1,0,46,False,2077,5105309,48.14636,0.0000
 2020-07-05,MT,Luciara,city,1,0,45,False,2077,5105309,48.14636,0.0000
@@ -3331,7 +3393,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,MT,Luciara,city,1,0,3,False,2077,5105309,48.14636,0.0000
 2020-05-23,MT,Luciara,city,1,0,2,False,2077,5105309,48.14636,0.0000
 2020-05-22,MT,Luciara,city,1,0,1,False,2077,5105309,48.14636,0.0000
-2020-07-08,MT,Marcelândia,city,171,0,47,True,10499,5105580,1628.72655,0.0000
+2020-07-09,MT,Marcelândia,city,172,0,48,True,10499,5105580,1638.25126,0.0000
+2020-07-08,MT,Marcelândia,city,171,0,47,False,10499,5105580,1628.72655,0.0000
 2020-07-07,MT,Marcelândia,city,159,0,46,False,10499,5105580,1514.42995,0.0000
 2020-07-06,MT,Marcelândia,city,159,0,45,False,10499,5105580,1514.42995,0.0000
 2020-07-05,MT,Marcelândia,city,153,0,44,False,10499,5105580,1457.28165,0.0000
@@ -3378,7 +3441,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,MT,Marcelândia,city,2,0,3,False,10499,5105580,19.04943,0.0000
 2020-05-24,MT,Marcelândia,city,1,0,2,False,10499,5105580,9.52472,0.0000
 2020-05-23,MT,Marcelândia,city,1,0,1,False,10499,5105580,9.52472,0.0000
-2020-07-08,MT,Matupá,city,261,2,49,True,16566,5105606,1575.51612,0.0077
+2020-07-09,MT,Matupá,city,272,2,50,True,16566,5105606,1641.91718,0.0074
+2020-07-08,MT,Matupá,city,261,2,49,False,16566,5105606,1575.51612,0.0077
 2020-07-07,MT,Matupá,city,261,2,48,False,16566,5105606,1575.51612,0.0077
 2020-07-06,MT,Matupá,city,254,2,47,False,16566,5105606,1533.26090,0.0079
 2020-07-05,MT,Matupá,city,223,2,46,False,16566,5105606,1346.13063,0.0090
@@ -3427,7 +3491,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,MT,Matupá,city,4,0,3,False,16566,5105606,24.14584,0.0000
 2020-05-22,MT,Matupá,city,4,0,2,False,16566,5105606,24.14584,0.0000
 2020-05-21,MT,Matupá,city,4,0,1,False,16566,5105606,24.14584,0.0000
-2020-07-08,MT,Mirassol d'Oeste,city,109,1,82,True,27739,5105622,392.94856,0.0092
+2020-07-09,MT,Mirassol d'Oeste,city,130,1,83,True,27739,5105622,468.65424,0.0077
+2020-07-08,MT,Mirassol d'Oeste,city,109,1,82,False,27739,5105622,392.94856,0.0092
 2020-07-07,MT,Mirassol d'Oeste,city,109,1,81,False,27739,5105622,392.94856,0.0092
 2020-07-06,MT,Mirassol d'Oeste,city,93,1,80,False,27739,5105622,335.26803,0.0108
 2020-07-05,MT,Mirassol d'Oeste,city,93,1,79,False,27739,5105622,335.26803,0.0108
@@ -3509,7 +3574,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,MT,Mirassol d'Oeste,city,1,0,3,False,27739,5105622,3.60503,0.0000
 2020-04-19,MT,Mirassol d'Oeste,city,1,0,2,False,27739,5105622,3.60503,0.0000
 2020-04-18,MT,Mirassol d'Oeste,city,1,0,1,False,27739,5105622,3.60503,0.0000
-2020-07-08,MT,Nobres,city,66,3,57,True,15336,5105903,430.35994,0.0455
+2020-07-09,MT,Nobres,city,66,3,58,True,15336,5105903,430.35994,0.0455
+2020-07-08,MT,Nobres,city,66,3,57,False,15336,5105903,430.35994,0.0455
 2020-07-07,MT,Nobres,city,66,3,56,False,15336,5105903,430.35994,0.0455
 2020-07-06,MT,Nobres,city,60,2,55,False,15336,5105903,391.23631,0.0333
 2020-07-05,MT,Nobres,city,54,2,54,False,15336,5105903,352.11268,0.0370
@@ -3566,7 +3632,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,MT,Nobres,city,1,0,3,False,15336,5105903,6.52061,0.0000
 2020-05-14,MT,Nobres,city,1,0,2,False,15336,5105903,6.52061,0.0000
 2020-05-13,MT,Nobres,city,1,0,1,False,15336,5105903,6.52061,0.0000
-2020-07-08,MT,Nortelândia,city,10,0,22,True,5989,5106000,166.97278,0.0000
+2020-07-09,MT,Nortelândia,city,10,0,23,True,5989,5106000,166.97278,0.0000
+2020-07-08,MT,Nortelândia,city,10,0,22,False,5989,5106000,166.97278,0.0000
 2020-07-07,MT,Nortelândia,city,10,0,21,False,5989,5106000,166.97278,0.0000
 2020-07-06,MT,Nortelândia,city,4,0,20,False,5989,5106000,66.78911,0.0000
 2020-07-05,MT,Nortelândia,city,4,0,19,False,5989,5106000,66.78911,0.0000
@@ -3588,7 +3655,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-19,MT,Nortelândia,city,1,0,3,False,5989,5106000,16.69728,0.0000
 2020-06-18,MT,Nortelândia,city,1,0,2,False,5989,5106000,16.69728,0.0000
 2020-06-17,MT,Nortelândia,city,1,0,1,False,5989,5106000,16.69728,0.0000
-2020-07-08,MT,Nossa Senhora do Livramento,city,198,5,58,True,13216,5106109,1498.18402,0.0253
+2020-07-09,MT,Nossa Senhora do Livramento,city,207,6,59,True,13216,5106109,1566.28329,0.0290
+2020-07-08,MT,Nossa Senhora do Livramento,city,198,5,58,False,13216,5106109,1498.18402,0.0253
 2020-07-07,MT,Nossa Senhora do Livramento,city,193,4,57,False,13216,5106109,1460.35109,0.0207
 2020-07-06,MT,Nossa Senhora do Livramento,city,188,4,56,False,13216,5106109,1422.51816,0.0213
 2020-07-05,MT,Nossa Senhora do Livramento,city,184,4,55,False,13216,5106109,1392.25182,0.0217
@@ -3646,7 +3714,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,MT,Nossa Senhora do Livramento,city,1,0,3,False,13216,5106109,7.56659,0.0000
 2020-05-13,MT,Nossa Senhora do Livramento,city,1,0,2,False,13216,5106109,7.56659,0.0000
 2020-05-12,MT,Nossa Senhora do Livramento,city,1,0,1,False,13216,5106109,7.56659,0.0000
-2020-07-08,MT,Nova Bandeirantes,city,30,1,19,True,15288,5106158,196.23234,0.0333
+2020-07-09,MT,Nova Bandeirantes,city,31,1,20,True,15288,5106158,202.77342,0.0323
+2020-07-08,MT,Nova Bandeirantes,city,30,1,19,False,15288,5106158,196.23234,0.0333
 2020-07-07,MT,Nova Bandeirantes,city,29,1,18,False,15288,5106158,189.69126,0.0345
 2020-07-06,MT,Nova Bandeirantes,city,27,1,17,False,15288,5106158,176.60911,0.0370
 2020-07-05,MT,Nova Bandeirantes,city,27,1,16,False,15288,5106158,176.60911,0.0370
@@ -3665,7 +3734,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-22,MT,Nova Bandeirantes,city,1,0,3,False,15288,5106158,6.54108,0.0000
 2020-06-21,MT,Nova Bandeirantes,city,1,0,2,False,15288,5106158,6.54108,0.0000
 2020-06-20,MT,Nova Bandeirantes,city,1,0,1,False,15288,5106158,6.54108,0.0000
-2020-07-08,MT,Nova Brasilândia,city,15,0,24,True,3829,5106208,391.74719,0.0000
+2020-07-09,MT,Nova Brasilândia,city,21,0,25,True,3829,5106208,548.44607,0.0000
+2020-07-08,MT,Nova Brasilândia,city,15,0,24,False,3829,5106208,391.74719,0.0000
 2020-07-07,MT,Nova Brasilândia,city,8,0,23,False,3829,5106208,208.93184,0.0000
 2020-07-06,MT,Nova Brasilândia,city,8,0,22,False,3829,5106208,208.93184,0.0000
 2020-07-05,MT,Nova Brasilândia,city,8,0,21,False,3829,5106208,208.93184,0.0000
@@ -3689,7 +3759,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-17,MT,Nova Brasilândia,city,1,0,3,False,3829,5106208,26.11648,0.0000
 2020-06-16,MT,Nova Brasilândia,city,1,0,2,False,3829,5106208,26.11648,0.0000
 2020-06-15,MT,Nova Brasilândia,city,1,0,1,False,3829,5106208,26.11648,0.0000
-2020-07-08,MT,Nova Canaã do Norte,city,14,0,21,True,12787,5106216,109.48620,0.0000
+2020-07-09,MT,Nova Canaã do Norte,city,14,0,22,True,12787,5106216,109.48620,0.0000
+2020-07-08,MT,Nova Canaã do Norte,city,14,0,21,False,12787,5106216,109.48620,0.0000
 2020-07-07,MT,Nova Canaã do Norte,city,14,0,20,False,12787,5106216,109.48620,0.0000
 2020-07-06,MT,Nova Canaã do Norte,city,14,0,19,False,12787,5106216,109.48620,0.0000
 2020-07-05,MT,Nova Canaã do Norte,city,11,0,18,False,12787,5106216,86.02487,0.0000
@@ -3710,7 +3781,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-20,MT,Nova Canaã do Norte,city,2,0,3,False,12787,5106216,15.64089,0.0000
 2020-06-19,MT,Nova Canaã do Norte,city,2,0,2,False,12787,5106216,15.64089,0.0000
 2020-06-18,MT,Nova Canaã do Norte,city,2,0,1,False,12787,5106216,15.64089,0.0000
-2020-07-08,MT,Nova Guarita,city,6,0,43,True,4519,5108808,132.77274,0.0000
+2020-07-09,MT,Nova Guarita,city,7,0,44,True,4519,5108808,154.90153,0.0000
+2020-07-08,MT,Nova Guarita,city,6,0,43,False,4519,5108808,132.77274,0.0000
 2020-07-07,MT,Nova Guarita,city,6,0,42,False,4519,5108808,132.77274,0.0000
 2020-07-06,MT,Nova Guarita,city,6,0,41,False,4519,5108808,132.77274,0.0000
 2020-07-05,MT,Nova Guarita,city,6,0,40,False,4519,5108808,132.77274,0.0000
@@ -3753,7 +3825,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-29,MT,Nova Guarita,city,3,0,3,False,4519,5108808,66.38637,0.0000
 2020-05-28,MT,Nova Guarita,city,3,0,2,False,4519,5108808,66.38637,0.0000
 2020-05-27,MT,Nova Guarita,city,3,0,1,False,4519,5108808,66.38637,0.0000
-2020-07-08,MT,Nova Lacerda,city,24,1,63,True,6640,5106182,361.44578,0.0417
+2020-07-09,MT,Nova Lacerda,city,40,1,64,True,6640,5106182,602.40964,0.0250
+2020-07-08,MT,Nova Lacerda,city,24,1,63,False,6640,5106182,361.44578,0.0417
 2020-07-07,MT,Nova Lacerda,city,19,1,62,False,6640,5106182,286.14458,0.0526
 2020-07-06,MT,Nova Lacerda,city,19,1,61,False,6640,5106182,286.14458,0.0526
 2020-07-05,MT,Nova Lacerda,city,19,1,60,False,6640,5106182,286.14458,0.0526
@@ -3816,7 +3889,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,MT,Nova Lacerda,city,1,0,3,False,6640,5106182,15.06024,0.0000
 2020-05-08,MT,Nova Lacerda,city,1,0,2,False,6640,5106182,15.06024,0.0000
 2020-05-07,MT,Nova Lacerda,city,1,0,1,False,6640,5106182,15.06024,0.0000
-2020-07-08,MT,Nova Marilândia,city,25,0,32,True,3278,5108857,762.66016,0.0000
+2020-07-09,MT,Nova Marilândia,city,28,0,33,True,3278,5108857,854.17938,0.0000
+2020-07-08,MT,Nova Marilândia,city,25,0,32,False,3278,5108857,762.66016,0.0000
 2020-07-07,MT,Nova Marilândia,city,25,0,31,False,3278,5108857,762.66016,0.0000
 2020-07-06,MT,Nova Marilândia,city,24,0,30,False,3278,5108857,732.15375,0.0000
 2020-07-05,MT,Nova Marilândia,city,23,0,29,False,3278,5108857,701.64735,0.0000
@@ -3848,7 +3922,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-09,MT,Nova Marilândia,city,2,0,3,False,3278,5108857,61.01281,0.0000
 2020-06-08,MT,Nova Marilândia,city,2,0,2,False,3278,5108857,61.01281,0.0000
 2020-06-07,MT,Nova Marilândia,city,1,0,1,False,3278,5108857,30.50641,0.0000
-2020-07-08,MT,Nova Maringá,city,10,0,40,True,8641,5108907,115.72735,0.0000
+2020-07-09,MT,Nova Maringá,city,10,0,41,True,8641,5108907,115.72735,0.0000
+2020-07-08,MT,Nova Maringá,city,10,0,40,False,8641,5108907,115.72735,0.0000
 2020-07-07,MT,Nova Maringá,city,8,0,39,False,8641,5108907,92.58188,0.0000
 2020-07-06,MT,Nova Maringá,city,8,0,38,False,8641,5108907,92.58188,0.0000
 2020-07-05,MT,Nova Maringá,city,8,0,37,False,8641,5108907,92.58188,0.0000
@@ -3888,7 +3963,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-01,MT,Nova Maringá,city,1,0,3,False,8641,5108907,11.57273,0.0000
 2020-05-31,MT,Nova Maringá,city,1,0,2,False,8641,5108907,11.57273,0.0000
 2020-05-30,MT,Nova Maringá,city,1,0,1,False,8641,5108907,11.57273,0.0000
-2020-07-08,MT,Nova Monte Verde,city,9,1,105,True,9178,5108956,98.06058,0.1111
+2020-07-09,MT,Nova Monte Verde,city,9,1,106,True,9178,5108956,98.06058,0.1111
+2020-07-08,MT,Nova Monte Verde,city,9,1,105,False,9178,5108956,98.06058,0.1111
 2020-07-07,MT,Nova Monte Verde,city,9,1,104,False,9178,5108956,98.06058,0.1111
 2020-07-06,MT,Nova Monte Verde,city,7,1,103,False,9178,5108956,76.26934,0.1429
 2020-07-05,MT,Nova Monte Verde,city,7,1,102,False,9178,5108956,76.26934,0.1429
@@ -3993,7 +4069,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-26,MT,Nova Monte Verde,city,1,0,3,False,9178,5108956,10.89562,0.0000
 2020-03-25,MT,Nova Monte Verde,city,1,0,2,False,9178,5108956,10.89562,0.0000
 2020-03-24,MT,Nova Monte Verde,city,1,0,1,False,9178,5108956,10.89562,0.0000
-2020-07-08,MT,Nova Mutum,city,598,14,96,True,45378,5106224,1317.81921,0.0234
+2020-07-09,MT,Nova Mutum,city,655,14,97,True,45378,5106224,1443.43074,0.0214
+2020-07-08,MT,Nova Mutum,city,598,14,96,False,45378,5106224,1317.81921,0.0234
 2020-07-07,MT,Nova Mutum,city,572,14,95,False,45378,5106224,1260.52272,0.0245
 2020-07-06,MT,Nova Mutum,city,546,14,94,False,45378,5106224,1203.22623,0.0256
 2020-07-05,MT,Nova Mutum,city,534,14,93,False,45378,5106224,1176.78170,0.0262
@@ -4089,7 +4166,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-06,MT,Nova Mutum,city,1,0,3,False,45378,5106224,2.20371,0.0000
 2020-04-05,MT,Nova Mutum,city,1,0,2,False,45378,5106224,2.20371,0.0000
 2020-04-04,MT,Nova Mutum,city,1,0,1,False,45378,5106224,2.20371,0.0000
-2020-07-08,MT,Nova Nazaré,city,7,0,17,True,3849,5106174,181.86542,0.0000
+2020-07-09,MT,Nova Nazaré,city,7,0,18,True,3849,5106174,181.86542,0.0000
+2020-07-08,MT,Nova Nazaré,city,7,0,17,False,3849,5106174,181.86542,0.0000
 2020-07-07,MT,Nova Nazaré,city,6,0,16,False,3849,5106174,155.88465,0.0000
 2020-07-06,MT,Nova Nazaré,city,5,0,15,False,3849,5106174,129.90387,0.0000
 2020-07-05,MT,Nova Nazaré,city,5,0,14,False,3849,5106174,129.90387,0.0000
@@ -4106,7 +4184,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-24,MT,Nova Nazaré,city,1,0,3,False,3849,5106174,25.98077,0.0000
 2020-06-23,MT,Nova Nazaré,city,1,0,2,False,3849,5106174,25.98077,0.0000
 2020-06-22,MT,Nova Nazaré,city,1,0,1,False,3849,5106174,25.98077,0.0000
-2020-07-08,MT,Nova Olímpia,city,45,3,55,True,20301,5106232,221.66396,0.0667
+2020-07-09,MT,Nova Olímpia,city,45,3,56,True,20301,5106232,221.66396,0.0667
+2020-07-08,MT,Nova Olímpia,city,45,3,55,False,20301,5106232,221.66396,0.0667
 2020-07-07,MT,Nova Olímpia,city,45,3,54,False,20301,5106232,221.66396,0.0667
 2020-07-06,MT,Nova Olímpia,city,35,2,53,False,20301,5106232,172.40530,0.0571
 2020-07-05,MT,Nova Olímpia,city,35,2,52,False,20301,5106232,172.40530,0.0571
@@ -4161,7 +4240,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MT,Nova Olímpia,city,1,0,3,False,20301,5106232,4.92587,0.0000
 2020-05-16,MT,Nova Olímpia,city,1,0,2,False,20301,5106232,4.92587,0.0000
 2020-05-15,MT,Nova Olímpia,city,1,0,1,False,20301,5106232,4.92587,0.0000
-2020-07-08,MT,Nova Santa Helena,city,55,3,44,True,3718,5106190,1479.28994,0.0545
+2020-07-09,MT,Nova Santa Helena,city,66,3,45,True,3718,5106190,1775.14793,0.0455
+2020-07-08,MT,Nova Santa Helena,city,55,3,44,False,3718,5106190,1479.28994,0.0545
 2020-07-07,MT,Nova Santa Helena,city,55,3,43,False,3718,5106190,1479.28994,0.0545
 2020-07-06,MT,Nova Santa Helena,city,55,3,42,False,3718,5106190,1479.28994,0.0545
 2020-07-05,MT,Nova Santa Helena,city,54,3,41,False,3718,5106190,1452.39376,0.0556
@@ -4205,7 +4285,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-28,MT,Nova Santa Helena,city,4,0,3,False,3718,5106190,107.58472,0.0000
 2020-05-27,MT,Nova Santa Helena,city,4,0,2,False,3718,5106190,107.58472,0.0000
 2020-05-26,MT,Nova Santa Helena,city,4,0,1,False,3718,5106190,107.58472,0.0000
-2020-07-08,MT,Nova Ubiratã,city,70,0,55,True,11982,5106240,584.20965,0.0000
+2020-07-09,MT,Nova Ubiratã,city,82,0,56,True,11982,5106240,684.35987,0.0000
+2020-07-08,MT,Nova Ubiratã,city,70,0,55,False,11982,5106240,584.20965,0.0000
 2020-07-07,MT,Nova Ubiratã,city,61,0,54,False,11982,5106240,509.09698,0.0000
 2020-07-06,MT,Nova Ubiratã,city,57,0,53,False,11982,5106240,475.71357,0.0000
 2020-07-05,MT,Nova Ubiratã,city,57,0,52,False,11982,5106240,475.71357,0.0000
@@ -4260,7 +4341,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MT,Nova Ubiratã,city,3,0,3,False,11982,5106240,25.03756,0.0000
 2020-05-16,MT,Nova Ubiratã,city,1,0,2,False,11982,5106240,8.34585,0.0000
 2020-05-15,MT,Nova Ubiratã,city,1,0,1,False,11982,5106240,8.34585,0.0000
-2020-07-08,MT,Nova Xavantina,city,23,5,55,True,21374,5106257,107.60737,0.2174
+2020-07-09,MT,Nova Xavantina,city,25,5,56,True,21374,5106257,116.96454,0.2000
+2020-07-08,MT,Nova Xavantina,city,23,5,55,False,21374,5106257,107.60737,0.2174
 2020-07-07,MT,Nova Xavantina,city,16,5,54,False,21374,5106257,74.85730,0.3125
 2020-07-06,MT,Nova Xavantina,city,15,4,53,False,21374,5106257,70.17872,0.2667
 2020-07-05,MT,Nova Xavantina,city,14,4,52,False,21374,5106257,65.50014,0.2857
@@ -4315,7 +4397,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MT,Nova Xavantina,city,1,0,3,False,21374,5106257,4.67858,0.0000
 2020-05-16,MT,Nova Xavantina,city,1,0,2,False,21374,5106257,4.67858,0.0000
 2020-05-15,MT,Nova Xavantina,city,1,0,1,False,21374,5106257,4.67858,0.0000
-2020-07-08,MT,Novo Horizonte do Norte,city,2,0,14,True,4004,5106273,49.95005,0.0000
+2020-07-09,MT,Novo Horizonte do Norte,city,3,0,15,True,4004,5106273,74.92507,0.0000
+2020-07-08,MT,Novo Horizonte do Norte,city,2,0,14,False,4004,5106273,49.95005,0.0000
 2020-07-07,MT,Novo Horizonte do Norte,city,2,0,13,False,4004,5106273,49.95005,0.0000
 2020-07-06,MT,Novo Horizonte do Norte,city,2,0,12,False,4004,5106273,49.95005,0.0000
 2020-07-05,MT,Novo Horizonte do Norte,city,2,0,11,False,4004,5106273,49.95005,0.0000
@@ -4329,7 +4412,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-27,MT,Novo Horizonte do Norte,city,2,0,3,False,4004,5106273,49.95005,0.0000
 2020-06-26,MT,Novo Horizonte do Norte,city,1,0,2,False,4004,5106273,24.97502,0.0000
 2020-06-25,MT,Novo Horizonte do Norte,city,1,0,1,False,4004,5106273,24.97502,0.0000
-2020-07-08,MT,Novo Mundo,city,53,1,50,True,9178,5106265,577.46786,0.0189
+2020-07-09,MT,Novo Mundo,city,54,1,51,True,9178,5106265,588.36348,0.0185
+2020-07-08,MT,Novo Mundo,city,53,1,50,False,9178,5106265,577.46786,0.0189
 2020-07-07,MT,Novo Mundo,city,53,1,49,False,9178,5106265,577.46786,0.0189
 2020-07-06,MT,Novo Mundo,city,38,1,48,False,9178,5106265,414.03356,0.0263
 2020-07-05,MT,Novo Mundo,city,38,1,47,False,9178,5106265,414.03356,0.0263
@@ -4379,7 +4463,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,MT,Novo Mundo,city,1,0,3,False,9178,5106265,10.89562,0.0000
 2020-05-21,MT,Novo Mundo,city,1,0,2,False,9178,5106265,10.89562,0.0000
 2020-05-20,MT,Novo Mundo,city,1,0,1,False,9178,5106265,10.89562,0.0000
-2020-07-08,MT,Novo Santo Antônio,city,30,0,41,True,2640,5106315,1136.36364,0.0000
+2020-07-09,MT,Novo Santo Antônio,city,30,0,42,True,2640,5106315,1136.36364,0.0000
+2020-07-08,MT,Novo Santo Antônio,city,30,0,41,False,2640,5106315,1136.36364,0.0000
 2020-07-07,MT,Novo Santo Antônio,city,30,0,40,False,2640,5106315,1136.36364,0.0000
 2020-07-06,MT,Novo Santo Antônio,city,30,0,39,False,2640,5106315,1136.36364,0.0000
 2020-07-05,MT,Novo Santo Antônio,city,30,0,38,False,2640,5106315,1136.36364,0.0000
@@ -4420,7 +4505,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-31,MT,Novo Santo Antônio,city,3,0,3,False,2640,5106315,113.63636,0.0000
 2020-05-30,MT,Novo Santo Antônio,city,3,0,2,False,2640,5106315,113.63636,0.0000
 2020-05-29,MT,Novo Santo Antônio,city,3,0,1,False,2640,5106315,113.63636,0.0000
-2020-07-08,MT,Novo São Joaquim,city,9,0,13,True,5074,5106281,177.37485,0.0000
+2020-07-09,MT,Novo São Joaquim,city,14,0,14,True,5074,5106281,275.91644,0.0000
+2020-07-08,MT,Novo São Joaquim,city,9,0,13,False,5074,5106281,177.37485,0.0000
 2020-07-07,MT,Novo São Joaquim,city,9,0,12,False,5074,5106281,177.37485,0.0000
 2020-07-06,MT,Novo São Joaquim,city,9,0,11,False,5074,5106281,177.37485,0.0000
 2020-07-05,MT,Novo São Joaquim,city,3,0,10,False,5074,5106281,59.12495,0.0000
@@ -4433,7 +4519,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-28,MT,Novo São Joaquim,city,2,0,3,False,5074,5106281,39.41663,0.0000
 2020-06-27,MT,Novo São Joaquim,city,2,0,2,False,5074,5106281,39.41663,0.0000
 2020-06-26,MT,Novo São Joaquim,city,2,0,1,False,5074,5106281,39.41663,0.0000
-2020-07-08,MT,Paranatinga,city,49,0,37,True,22563,5106307,217.16970,0.0000
+2020-07-09,MT,Paranatinga,city,49,0,38,True,22563,5106307,217.16970,0.0000
+2020-07-08,MT,Paranatinga,city,49,0,37,False,22563,5106307,217.16970,0.0000
 2020-07-07,MT,Paranatinga,city,49,0,36,False,22563,5106307,217.16970,0.0000
 2020-07-06,MT,Paranatinga,city,43,0,35,False,22563,5106307,190.57749,0.0000
 2020-07-05,MT,Paranatinga,city,43,0,34,False,22563,5106307,190.57749,0.0000
@@ -4470,7 +4557,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-04,MT,Paranatinga,city,2,0,3,False,22563,5106307,8.86407,0.0000
 2020-06-03,MT,Paranatinga,city,2,0,2,False,22563,5106307,8.86407,0.0000
 2020-06-02,MT,Paranatinga,city,2,0,1,False,22563,5106307,8.86407,0.0000
-2020-07-08,MT,Paranaíta,city,22,0,42,True,11225,5106299,195.99109,0.0000
+2020-07-09,MT,Paranaíta,city,24,0,43,True,11225,5106299,213.80846,0.0000
+2020-07-08,MT,Paranaíta,city,22,0,42,False,11225,5106299,195.99109,0.0000
 2020-07-07,MT,Paranaíta,city,17,0,41,False,11225,5106299,151.44766,0.0000
 2020-07-06,MT,Paranaíta,city,17,0,40,False,11225,5106299,151.44766,0.0000
 2020-07-05,MT,Paranaíta,city,16,0,39,False,11225,5106299,142.53898,0.0000
@@ -4512,7 +4600,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-30,MT,Paranaíta,city,1,0,3,False,11225,5106299,8.90869,0.0000
 2020-05-29,MT,Paranaíta,city,1,0,2,False,11225,5106299,8.90869,0.0000
 2020-05-28,MT,Paranaíta,city,1,0,1,False,11225,5106299,8.90869,0.0000
-2020-07-08,MT,Pedra Preta,city,178,3,49,True,17626,5106372,1009.87178,0.0169
+2020-07-09,MT,Pedra Preta,city,194,3,50,True,17626,5106372,1100.64677,0.0155
+2020-07-08,MT,Pedra Preta,city,178,3,49,False,17626,5106372,1009.87178,0.0169
 2020-07-07,MT,Pedra Preta,city,169,3,48,False,17626,5106372,958.81085,0.0178
 2020-07-06,MT,Pedra Preta,city,169,3,47,False,17626,5106372,958.81085,0.0178
 2020-07-05,MT,Pedra Preta,city,169,3,46,False,17626,5106372,958.81085,0.0178
@@ -4561,7 +4650,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,MT,Pedra Preta,city,2,0,3,False,17626,5106372,11.34687,0.0000
 2020-05-22,MT,Pedra Preta,city,1,0,2,False,17626,5106372,5.67344,0.0000
 2020-05-21,MT,Pedra Preta,city,1,0,1,False,17626,5106372,5.67344,0.0000
-2020-07-08,MT,Peixoto de Azevedo,city,287,2,70,True,34976,5106422,820.56267,0.0070
+2020-07-09,MT,Peixoto de Azevedo,city,288,2,71,True,34976,5106422,823.42177,0.0069
+2020-07-08,MT,Peixoto de Azevedo,city,287,2,70,False,34976,5106422,820.56267,0.0070
 2020-07-07,MT,Peixoto de Azevedo,city,285,2,69,False,34976,5106422,814.84446,0.0070
 2020-07-06,MT,Peixoto de Azevedo,city,234,2,68,False,34976,5106422,669.03019,0.0085
 2020-07-05,MT,Peixoto de Azevedo,city,208,1,67,False,34976,5106422,594.69350,0.0048
@@ -4631,10 +4721,12 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,MT,Peixoto de Azevedo,city,2,0,3,False,34976,5106422,5.71821,0.0000
 2020-05-01,MT,Peixoto de Azevedo,city,2,0,2,False,34976,5106422,5.71821,0.0000
 2020-04-30,MT,Peixoto de Azevedo,city,1,0,1,False,34976,5106422,2.85910,0.0000
-2020-07-08,MT,Planalto da Serra,city,1,0,3,True,2662,5106455,37.56574,0.0000
+2020-07-09,MT,Planalto da Serra,city,1,0,4,True,2662,5106455,37.56574,0.0000
+2020-07-08,MT,Planalto da Serra,city,1,0,3,False,2662,5106455,37.56574,0.0000
 2020-07-07,MT,Planalto da Serra,city,1,0,2,False,2662,5106455,37.56574,0.0000
 2020-07-06,MT,Planalto da Serra,city,1,0,1,False,2662,5106455,37.56574,0.0000
-2020-07-08,MT,Poconé,city,140,6,73,True,32843,5106505,426.27044,0.0429
+2020-07-09,MT,Poconé,city,142,8,74,True,32843,5106505,432.36002,0.0563
+2020-07-08,MT,Poconé,city,140,6,73,False,32843,5106505,426.27044,0.0429
 2020-07-07,MT,Poconé,city,138,6,72,False,32843,5106505,420.18086,0.0435
 2020-07-06,MT,Poconé,city,121,6,71,False,32843,5106505,368.41945,0.0496
 2020-07-05,MT,Poconé,city,119,6,70,False,32843,5106505,362.32987,0.0504
@@ -4707,7 +4799,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-29,MT,Poconé,city,2,0,3,False,32843,5106505,6.08958,0.0000
 2020-04-28,MT,Poconé,city,2,0,2,False,32843,5106505,6.08958,0.0000
 2020-04-27,MT,Poconé,city,2,0,1,False,32843,5106505,6.08958,0.0000
-2020-07-08,MT,Pontal do Araguaia,city,50,0,77,True,6711,5106653,745.04545,0.0000
+2020-07-09,MT,Pontal do Araguaia,city,54,0,78,True,6711,5106653,804.64908,0.0000
+2020-07-08,MT,Pontal do Araguaia,city,50,0,77,False,6711,5106653,745.04545,0.0000
 2020-07-07,MT,Pontal do Araguaia,city,50,0,76,False,6711,5106653,745.04545,0.0000
 2020-07-06,MT,Pontal do Araguaia,city,50,0,75,False,6711,5106653,745.04545,0.0000
 2020-07-05,MT,Pontal do Araguaia,city,50,0,74,False,6711,5106653,745.04545,0.0000
@@ -4784,7 +4877,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,MT,Pontal do Araguaia,city,1,0,3,False,6711,5106653,14.90091,0.0000
 2020-04-24,MT,Pontal do Araguaia,city,1,0,2,False,6711,5106653,14.90091,0.0000
 2020-04-23,MT,Pontal do Araguaia,city,1,0,1,False,6711,5106653,14.90091,0.0000
-2020-07-08,MT,Ponte Branca,city,1,1,62,True,1576,5106703,63.45178,1.0000
+2020-07-09,MT,Ponte Branca,city,1,1,63,True,1576,5106703,63.45178,1.0000
+2020-07-08,MT,Ponte Branca,city,1,1,62,False,1576,5106703,63.45178,1.0000
 2020-07-07,MT,Ponte Branca,city,1,1,61,False,1576,5106703,63.45178,1.0000
 2020-07-06,MT,Ponte Branca,city,1,1,60,False,1576,5106703,63.45178,1.0000
 2020-07-05,MT,Ponte Branca,city,1,1,59,False,1576,5106703,63.45178,1.0000
@@ -4846,7 +4940,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,MT,Ponte Branca,city,1,1,3,False,1576,5106703,63.45178,1.0000
 2020-05-09,MT,Ponte Branca,city,1,0,2,False,1576,5106703,63.45178,0.0000
 2020-05-08,MT,Ponte Branca,city,1,0,1,False,1576,5106703,63.45178,0.0000
-2020-07-08,MT,Pontes e Lacerda,city,514,22,86,True,45436,5106752,1131.26155,0.0428
+2020-07-09,MT,Pontes e Lacerda,city,608,24,87,True,45436,5106752,1338.14596,0.0395
+2020-07-08,MT,Pontes e Lacerda,city,514,22,86,False,45436,5106752,1131.26155,0.0428
 2020-07-07,MT,Pontes e Lacerda,city,489,22,85,False,45436,5106752,1076.23911,0.0450
 2020-07-06,MT,Pontes e Lacerda,city,488,22,84,False,45436,5106752,1074.03821,0.0451
 2020-07-05,MT,Pontes e Lacerda,city,476,22,83,False,45436,5106752,1047.62743,0.0462
@@ -4932,7 +5027,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-16,MT,Pontes e Lacerda,city,1,0,3,False,45436,5106752,2.20090,0.0000
 2020-04-15,MT,Pontes e Lacerda,city,1,0,2,False,45436,5106752,2.20090,0.0000
 2020-04-14,MT,Pontes e Lacerda,city,1,0,1,False,45436,5106752,2.20090,0.0000
-2020-07-08,MT,Porto Alegre do Norte,city,14,0,52,True,12517,5106778,111.84789,0.0000
+2020-07-09,MT,Porto Alegre do Norte,city,15,0,53,True,12517,5106778,119.83702,0.0000
+2020-07-08,MT,Porto Alegre do Norte,city,14,0,52,False,12517,5106778,111.84789,0.0000
 2020-07-07,MT,Porto Alegre do Norte,city,14,0,51,False,12517,5106778,111.84789,0.0000
 2020-07-06,MT,Porto Alegre do Norte,city,12,0,50,False,12517,5106778,95.86962,0.0000
 2020-07-05,MT,Porto Alegre do Norte,city,12,0,49,False,12517,5106778,95.86962,0.0000
@@ -4984,7 +5080,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-20,MT,Porto Alegre do Norte,city,1,0,3,False,12517,5106778,7.98913,0.0000
 2020-05-19,MT,Porto Alegre do Norte,city,1,0,2,False,12517,5106778,7.98913,0.0000
 2020-05-18,MT,Porto Alegre do Norte,city,1,0,1,False,12517,5106778,7.98913,0.0000
-2020-07-08,MT,Porto Esperidião,city,218,8,42,True,12017,5106828,1814.09670,0.0367
+2020-07-09,MT,Porto Esperidião,city,219,9,43,True,12017,5106828,1822.41824,0.0411
+2020-07-08,MT,Porto Esperidião,city,218,8,42,False,12017,5106828,1814.09670,0.0367
 2020-07-07,MT,Porto Esperidião,city,192,8,41,False,12017,5106828,1597.73654,0.0417
 2020-07-06,MT,Porto Esperidião,city,176,7,40,False,12017,5106828,1464.59183,0.0398
 2020-07-05,MT,Porto Esperidião,city,176,7,39,False,12017,5106828,1464.59183,0.0398
@@ -5026,7 +5123,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-30,MT,Porto Esperidião,city,2,0,3,False,12017,5106828,16.64309,0.0000
 2020-05-29,MT,Porto Esperidião,city,2,0,2,False,12017,5106828,16.64309,0.0000
 2020-05-28,MT,Porto Esperidião,city,2,0,1,False,12017,5106828,16.64309,0.0000
-2020-07-08,MT,Porto Estrela,city,9,1,20,True,2963,5106851,303.74620,0.1111
+2020-07-09,MT,Porto Estrela,city,12,1,21,True,2963,5106851,404.99494,0.0833
+2020-07-08,MT,Porto Estrela,city,9,1,20,False,2963,5106851,303.74620,0.1111
 2020-07-07,MT,Porto Estrela,city,9,1,19,False,2963,5106851,303.74620,0.1111
 2020-07-06,MT,Porto Estrela,city,9,1,18,False,2963,5106851,303.74620,0.1111
 2020-07-05,MT,Porto Estrela,city,9,1,17,False,2963,5106851,303.74620,0.1111
@@ -5046,7 +5144,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-21,MT,Porto Estrela,city,1,0,3,False,2963,5106851,33.74958,0.0000
 2020-06-20,MT,Porto Estrela,city,1,0,2,False,2963,5106851,33.74958,0.0000
 2020-06-19,MT,Porto Estrela,city,1,0,1,False,2963,5106851,33.74958,0.0000
-2020-07-08,MT,Porto dos Gaúchos,city,50,1,27,True,5410,5106802,924.21442,0.0200
+2020-07-09,MT,Porto dos Gaúchos,city,50,1,28,True,5410,5106802,924.21442,0.0200
+2020-07-08,MT,Porto dos Gaúchos,city,50,1,27,False,5410,5106802,924.21442,0.0200
 2020-07-07,MT,Porto dos Gaúchos,city,50,1,26,False,5410,5106802,924.21442,0.0200
 2020-07-06,MT,Porto dos Gaúchos,city,44,1,25,False,5410,5106802,813.30869,0.0227
 2020-07-05,MT,Porto dos Gaúchos,city,44,1,24,False,5410,5106802,813.30869,0.0227
@@ -5073,7 +5172,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-14,MT,Porto dos Gaúchos,city,5,0,3,False,5410,5106802,92.42144,0.0000
 2020-06-13,MT,Porto dos Gaúchos,city,5,0,2,False,5410,5106802,92.42144,0.0000
 2020-06-12,MT,Porto dos Gaúchos,city,5,0,1,False,5410,5106802,92.42144,0.0000
-2020-07-08,MT,Poxoréu,city,139,1,69,True,16219,5107008,857.01954,0.0072
+2020-07-09,MT,Poxoréu,city,149,2,70,True,16219,5107008,918.67563,0.0134
+2020-07-08,MT,Poxoréu,city,139,1,69,False,16219,5107008,857.01954,0.0072
 2020-07-07,MT,Poxoréu,city,139,1,68,False,16219,5107008,857.01954,0.0072
 2020-07-06,MT,Poxoréu,city,134,1,67,False,16219,5107008,826.19150,0.0075
 2020-07-05,MT,Poxoréu,city,130,1,66,False,16219,5107008,801.52907,0.0077
@@ -5142,7 +5242,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-03,MT,Poxoréu,city,1,0,3,False,16219,5107008,6.16561,0.0000
 2020-05-02,MT,Poxoréu,city,1,0,2,False,16219,5107008,6.16561,0.0000
 2020-05-01,MT,Poxoréu,city,1,0,1,False,16219,5107008,6.16561,0.0000
-2020-07-08,MT,Primavera do Leste,city,930,19,93,True,62019,5107040,1499.54046,0.0204
+2020-07-09,MT,Primavera do Leste,city,1004,19,94,True,62019,5107040,1618.85874,0.0189
+2020-07-08,MT,Primavera do Leste,city,930,19,93,False,62019,5107040,1499.54046,0.0204
 2020-07-07,MT,Primavera do Leste,city,877,18,92,False,62019,5107040,1414.08278,0.0205
 2020-07-06,MT,Primavera do Leste,city,827,17,91,False,62019,5107040,1333.46233,0.0206
 2020-07-05,MT,Primavera do Leste,city,803,16,90,False,62019,5107040,1294.76451,0.0199
@@ -5235,7 +5336,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-09,MT,Primavera do Leste,city,1,0,3,False,62019,5107040,1.61241,0.0000
 2020-04-08,MT,Primavera do Leste,city,1,0,2,False,62019,5107040,1.61241,0.0000
 2020-04-07,MT,Primavera do Leste,city,1,0,1,False,62019,5107040,1.61241,0.0000
-2020-07-08,MT,Querência,city,281,7,76,True,17479,5107065,1607.64346,0.0249
+2020-07-09,MT,Querência,city,292,7,77,True,17479,5107065,1670.57612,0.0240
+2020-07-08,MT,Querência,city,281,7,76,False,17479,5107065,1607.64346,0.0249
 2020-07-07,MT,Querência,city,263,7,75,False,17479,5107065,1504.66274,0.0266
 2020-07-06,MT,Querência,city,245,6,74,False,17479,5107065,1401.68202,0.0245
 2020-07-05,MT,Querência,city,239,6,73,False,17479,5107065,1367.35511,0.0251
@@ -5311,7 +5413,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,MT,Querência,city,1,0,3,False,17479,5107065,5.72115,0.0000
 2020-04-25,MT,Querência,city,1,0,2,False,17479,5107065,5.72115,0.0000
 2020-04-24,MT,Querência,city,1,0,1,False,17479,5107065,5.72115,0.0000
-2020-07-08,MT,Reserva do Cabaçal,city,7,0,13,True,2732,5107156,256.22255,0.0000
+2020-07-09,MT,Reserva do Cabaçal,city,7,0,14,True,2732,5107156,256.22255,0.0000
+2020-07-08,MT,Reserva do Cabaçal,city,7,0,13,False,2732,5107156,256.22255,0.0000
 2020-07-07,MT,Reserva do Cabaçal,city,7,0,12,False,2732,5107156,256.22255,0.0000
 2020-07-06,MT,Reserva do Cabaçal,city,7,0,11,False,2732,5107156,256.22255,0.0000
 2020-07-05,MT,Reserva do Cabaçal,city,7,0,10,False,2732,5107156,256.22255,0.0000
@@ -5324,7 +5427,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-28,MT,Reserva do Cabaçal,city,1,0,3,False,2732,5107156,36.60322,0.0000
 2020-06-27,MT,Reserva do Cabaçal,city,1,0,2,False,2732,5107156,36.60322,0.0000
 2020-06-26,MT,Reserva do Cabaçal,city,1,0,1,False,2732,5107156,36.60322,0.0000
-2020-07-08,MT,Ribeirão Cascalheira,city,61,1,50,True,10206,5107180,597.68763,0.0164
+2020-07-09,MT,Ribeirão Cascalheira,city,67,1,51,True,10206,5107180,656.47658,0.0149
+2020-07-08,MT,Ribeirão Cascalheira,city,61,1,50,False,10206,5107180,597.68763,0.0164
 2020-07-07,MT,Ribeirão Cascalheira,city,61,0,49,False,10206,5107180,597.68763,0.0000
 2020-07-06,MT,Ribeirão Cascalheira,city,49,0,48,False,10206,5107180,480.10974,0.0000
 2020-07-05,MT,Ribeirão Cascalheira,city,47,0,47,False,10206,5107180,460.51342,0.0000
@@ -5374,7 +5478,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,MT,Ribeirão Cascalheira,city,2,0,3,False,10206,5107180,19.59632,0.0000
 2020-05-21,MT,Ribeirão Cascalheira,city,1,0,2,False,10206,5107180,9.79816,0.0000
 2020-05-20,MT,Ribeirão Cascalheira,city,1,0,1,False,10206,5107180,9.79816,0.0000
-2020-07-08,MT,Ribeirãozinho,city,3,0,14,True,2405,5107198,124.74012,0.0000
+2020-07-09,MT,Ribeirãozinho,city,3,0,15,True,2405,5107198,124.74012,0.0000
+2020-07-08,MT,Ribeirãozinho,city,3,0,14,False,2405,5107198,124.74012,0.0000
 2020-07-07,MT,Ribeirãozinho,city,3,0,13,False,2405,5107198,124.74012,0.0000
 2020-07-06,MT,Ribeirãozinho,city,3,0,12,False,2405,5107198,124.74012,0.0000
 2020-07-05,MT,Ribeirãozinho,city,3,0,11,False,2405,5107198,124.74012,0.0000
@@ -5388,7 +5493,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-27,MT,Ribeirãozinho,city,2,0,3,False,2405,5107198,83.16008,0.0000
 2020-06-26,MT,Ribeirãozinho,city,2,0,2,False,2405,5107198,83.16008,0.0000
 2020-06-25,MT,Ribeirãozinho,city,3,0,1,False,2405,5107198,124.74012,0.0000
-2020-07-08,MT,Rio Branco,city,32,0,78,True,5156,5107206,620.63615,0.0000
+2020-07-09,MT,Rio Branco,city,32,0,79,True,5156,5107206,620.63615,0.0000
+2020-07-08,MT,Rio Branco,city,32,0,78,False,5156,5107206,620.63615,0.0000
 2020-07-07,MT,Rio Branco,city,27,0,77,False,5156,5107206,523.66175,0.0000
 2020-07-06,MT,Rio Branco,city,27,0,76,False,5156,5107206,523.66175,0.0000
 2020-07-05,MT,Rio Branco,city,27,0,75,False,5156,5107206,523.66175,0.0000
@@ -5466,7 +5572,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-24,MT,Rio Branco,city,2,0,3,False,5156,5107206,38.78976,0.0000
 2020-04-23,MT,Rio Branco,city,2,0,2,False,5156,5107206,38.78976,0.0000
 2020-04-22,MT,Rio Branco,city,2,0,1,False,5156,5107206,38.78976,0.0000
-2020-07-08,MT,Rondolândia,city,2,0,55,True,4001,5107578,49.98750,0.0000
+2020-07-09,MT,Rondolândia,city,2,0,56,True,4001,5107578,49.98750,0.0000
+2020-07-08,MT,Rondolândia,city,2,0,55,False,4001,5107578,49.98750,0.0000
 2020-07-07,MT,Rondolândia,city,2,0,54,False,4001,5107578,49.98750,0.0000
 2020-07-06,MT,Rondolândia,city,2,0,53,False,4001,5107578,49.98750,0.0000
 2020-07-05,MT,Rondolândia,city,2,0,52,False,4001,5107578,49.98750,0.0000
@@ -5521,7 +5628,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MT,Rondolândia,city,2,0,3,False,4001,5107578,49.98750,0.0000
 2020-05-16,MT,Rondolândia,city,2,0,2,False,4001,5107578,49.98750,0.0000
 2020-05-15,MT,Rondolândia,city,2,0,1,False,4001,5107578,49.98750,0.0000
-2020-07-08,MT,Rondonópolis,city,1806,81,101,True,232491,5107602,776.80426,0.0449
+2020-07-09,MT,Rondonópolis,city,1973,87,102,True,232491,5107602,848.63500,0.0441
+2020-07-08,MT,Rondonópolis,city,1806,81,101,False,232491,5107602,776.80426,0.0449
 2020-07-07,MT,Rondonópolis,city,1737,78,100,False,232491,5107602,747.12570,0.0449
 2020-07-06,MT,Rondonópolis,city,1523,72,99,False,232491,5107602,655.07912,0.0473
 2020-07-05,MT,Rondonópolis,city,1480,70,98,False,232491,5107602,636.58378,0.0473
@@ -5622,7 +5730,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,MT,Rondonópolis,city,5,0,3,False,232491,5107602,2.15062,0.0000
 2020-03-31,MT,Rondonópolis,city,4,0,2,False,232491,5107602,1.72050,0.0000
 2020-03-30,MT,Rondonópolis,city,3,0,1,False,232491,5107602,1.29037,0.0000
-2020-07-08,MT,Rosário Oeste,city,171,6,65,True,17151,5107701,997.02641,0.0351
+2020-07-09,MT,Rosário Oeste,city,171,6,66,True,17151,5107701,997.02641,0.0351
+2020-07-08,MT,Rosário Oeste,city,171,6,65,False,17151,5107701,997.02641,0.0351
 2020-07-07,MT,Rosário Oeste,city,167,5,64,False,17151,5107701,973.70416,0.0299
 2020-07-06,MT,Rosário Oeste,city,132,5,63,False,17151,5107701,769.63442,0.0379
 2020-07-05,MT,Rosário Oeste,city,132,5,62,False,17151,5107701,769.63442,0.0379
@@ -5687,7 +5796,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,MT,Rosário Oeste,city,1,0,3,False,17151,5107701,5.83056,0.0000
 2020-05-06,MT,Rosário Oeste,city,1,0,2,False,17151,5107701,5.83056,0.0000
 2020-05-05,MT,Rosário Oeste,city,1,0,1,False,17151,5107701,5.83056,0.0000
-2020-07-08,MT,Salto do Céu,city,2,0,13,True,3365,5107750,59.43536,0.0000
+2020-07-09,MT,Salto do Céu,city,2,0,14,True,3365,5107750,59.43536,0.0000
+2020-07-08,MT,Salto do Céu,city,2,0,13,False,3365,5107750,59.43536,0.0000
 2020-07-07,MT,Salto do Céu,city,2,0,12,False,3365,5107750,59.43536,0.0000
 2020-07-06,MT,Salto do Céu,city,2,0,11,False,3365,5107750,59.43536,0.0000
 2020-07-05,MT,Salto do Céu,city,2,0,10,False,3365,5107750,59.43536,0.0000
@@ -5700,7 +5810,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-28,MT,Salto do Céu,city,2,0,3,False,3365,5107750,59.43536,0.0000
 2020-06-27,MT,Salto do Céu,city,2,0,2,False,3365,5107750,59.43536,0.0000
 2020-06-26,MT,Salto do Céu,city,2,0,1,False,3365,5107750,59.43536,0.0000
-2020-07-08,MT,Santa Carmem,city,40,1,34,True,4525,5107248,883.97790,0.0250
+2020-07-09,MT,Santa Carmem,city,40,1,35,True,4525,5107248,883.97790,0.0250
+2020-07-08,MT,Santa Carmem,city,40,1,34,False,4525,5107248,883.97790,0.0250
 2020-07-07,MT,Santa Carmem,city,40,1,33,False,4525,5107248,883.97790,0.0250
 2020-07-06,MT,Santa Carmem,city,34,1,32,False,4525,5107248,751.38122,0.0294
 2020-07-05,MT,Santa Carmem,city,34,1,31,False,4525,5107248,751.38122,0.0294
@@ -5734,7 +5845,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-07,MT,Santa Carmem,city,1,0,3,False,4525,5107248,22.09945,0.0000
 2020-06-06,MT,Santa Carmem,city,1,0,2,False,4525,5107248,22.09945,0.0000
 2020-06-05,MT,Santa Carmem,city,1,0,1,False,4525,5107248,22.09945,0.0000
-2020-07-08,MT,Santa Cruz do Xingu,city,20,0,36,True,2564,5107743,780.03120,0.0000
+2020-07-09,MT,Santa Cruz do Xingu,city,21,0,37,True,2564,5107743,819.03276,0.0000
+2020-07-08,MT,Santa Cruz do Xingu,city,20,0,36,False,2564,5107743,780.03120,0.0000
 2020-07-07,MT,Santa Cruz do Xingu,city,20,0,35,False,2564,5107743,780.03120,0.0000
 2020-07-06,MT,Santa Cruz do Xingu,city,20,0,34,False,2564,5107743,780.03120,0.0000
 2020-07-05,MT,Santa Cruz do Xingu,city,20,0,33,False,2564,5107743,780.03120,0.0000
@@ -5770,7 +5882,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-05,MT,Santa Cruz do Xingu,city,1,0,3,False,2564,5107743,39.00156,0.0000
 2020-06-04,MT,Santa Cruz do Xingu,city,1,0,2,False,2564,5107743,39.00156,0.0000
 2020-06-03,MT,Santa Cruz do Xingu,city,1,0,1,False,2564,5107743,39.00156,0.0000
-2020-07-08,MT,Santa Rita do Trivelato,city,4,0,55,True,3429,5107768,116.65209,0.0000
+2020-07-09,MT,Santa Rita do Trivelato,city,4,0,56,True,3429,5107768,116.65209,0.0000
+2020-07-08,MT,Santa Rita do Trivelato,city,4,0,55,False,3429,5107768,116.65209,0.0000
 2020-07-07,MT,Santa Rita do Trivelato,city,4,0,54,False,3429,5107768,116.65209,0.0000
 2020-07-06,MT,Santa Rita do Trivelato,city,4,0,53,False,3429,5107768,116.65209,0.0000
 2020-07-05,MT,Santa Rita do Trivelato,city,4,0,52,False,3429,5107768,116.65209,0.0000
@@ -5825,7 +5938,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MT,Santa Rita do Trivelato,city,1,0,3,False,3429,5107768,29.16302,0.0000
 2020-05-16,MT,Santa Rita do Trivelato,city,1,0,2,False,3429,5107768,29.16302,0.0000
 2020-05-15,MT,Santa Rita do Trivelato,city,1,0,1,False,3429,5107768,29.16302,0.0000
-2020-07-08,MT,Santa Terezinha,city,3,2,20,True,8371,5107776,35.83801,0.6667
+2020-07-09,MT,Santa Terezinha,city,3,2,21,True,8371,5107776,35.83801,0.6667
+2020-07-08,MT,Santa Terezinha,city,3,2,20,False,8371,5107776,35.83801,0.6667
 2020-07-07,MT,Santa Terezinha,city,3,2,19,False,8371,5107776,35.83801,0.6667
 2020-07-06,MT,Santa Terezinha,city,3,1,18,False,8371,5107776,35.83801,0.3333
 2020-07-05,MT,Santa Terezinha,city,2,1,17,False,8371,5107776,23.89201,0.5000
@@ -5845,7 +5959,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-21,MT,Santa Terezinha,city,1,0,3,False,8371,5107776,11.94600,0.0000
 2020-06-20,MT,Santa Terezinha,city,1,0,2,False,8371,5107776,11.94600,0.0000
 2020-06-19,MT,Santa Terezinha,city,1,0,1,False,8371,5107776,11.94600,0.0000
-2020-07-08,MT,Santo Afonso,city,16,1,41,True,3146,5107263,508.58233,0.0625
+2020-07-09,MT,Santo Afonso,city,16,1,42,True,3146,5107263,508.58233,0.0625
+2020-07-08,MT,Santo Afonso,city,16,1,41,False,3146,5107263,508.58233,0.0625
 2020-07-07,MT,Santo Afonso,city,14,1,40,False,3146,5107263,445.00954,0.0714
 2020-07-06,MT,Santo Afonso,city,14,1,39,False,3146,5107263,445.00954,0.0714
 2020-07-05,MT,Santo Afonso,city,13,1,38,False,3146,5107263,413.22314,0.0769
@@ -5886,7 +6001,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-31,MT,Santo Afonso,city,1,0,3,False,3146,5107263,31.78640,0.0000
 2020-05-30,MT,Santo Afonso,city,1,0,2,False,3146,5107263,31.78640,0.0000
 2020-05-29,MT,Santo Afonso,city,1,0,1,False,3146,5107263,31.78640,0.0000
-2020-07-08,MT,Santo Antônio do Leste,city,10,1,37,True,5174,5107792,193.27406,0.1000
+2020-07-09,MT,Santo Antônio do Leste,city,10,1,38,True,5174,5107792,193.27406,0.1000
+2020-07-08,MT,Santo Antônio do Leste,city,10,1,37,False,5174,5107792,193.27406,0.1000
 2020-07-07,MT,Santo Antônio do Leste,city,10,1,36,False,5174,5107792,193.27406,0.1000
 2020-07-06,MT,Santo Antônio do Leste,city,10,1,35,False,5174,5107792,193.27406,0.1000
 2020-07-05,MT,Santo Antônio do Leste,city,9,1,34,False,5174,5107792,173.94666,0.1111
@@ -5923,7 +6039,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-04,MT,Santo Antônio do Leste,city,2,0,3,False,5174,5107792,38.65481,0.0000
 2020-06-03,MT,Santo Antônio do Leste,city,2,0,2,False,5174,5107792,38.65481,0.0000
 2020-06-02,MT,Santo Antônio do Leste,city,1,0,1,False,5174,5107792,19.32741,0.0000
-2020-07-08,MT,Santo Antônio do Leverger,city,25,0,61,True,16628,5107800,150.34881,0.0000
+2020-07-09,MT,Santo Antônio do Leverger,city,26,0,62,True,16628,5107800,156.36276,0.0000
+2020-07-08,MT,Santo Antônio do Leverger,city,25,0,61,False,16628,5107800,150.34881,0.0000
 2020-07-07,MT,Santo Antônio do Leverger,city,23,0,60,False,16628,5107800,138.32090,0.0000
 2020-07-06,MT,Santo Antônio do Leverger,city,23,0,59,False,16628,5107800,138.32090,0.0000
 2020-07-05,MT,Santo Antônio do Leverger,city,23,0,58,False,16628,5107800,138.32090,0.0000
@@ -5984,7 +6101,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-11,MT,Santo Antônio do Leverger,city,1,0,3,False,16628,5107800,6.01395,0.0000
 2020-05-10,MT,Santo Antônio do Leverger,city,1,0,2,False,16628,5107800,6.01395,0.0000
 2020-05-09,MT,Santo Antônio do Leverger,city,1,0,1,False,16628,5107800,6.01395,0.0000
-2020-07-08,MT,Sapezal,city,282,3,51,True,25881,5107875,1089.60241,0.0106
+2020-07-09,MT,Sapezal,city,327,3,52,True,25881,5107875,1263.47514,0.0092
+2020-07-08,MT,Sapezal,city,282,3,51,False,25881,5107875,1089.60241,0.0106
 2020-07-07,MT,Sapezal,city,272,3,50,False,25881,5107875,1050.96403,0.0110
 2020-07-06,MT,Sapezal,city,265,3,49,False,25881,5107875,1023.91716,0.0113
 2020-07-05,MT,Sapezal,city,253,3,48,False,25881,5107875,977.55110,0.0119
@@ -6035,7 +6153,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-21,MT,Sapezal,city,1,0,3,False,25881,5107875,3.86384,0.0000
 2020-05-20,MT,Sapezal,city,1,0,2,False,25881,5107875,3.86384,0.0000
 2020-05-19,MT,Sapezal,city,1,0,1,False,25881,5107875,3.86384,0.0000
-2020-07-08,MT,Serra Nova Dourada,city,7,0,27,True,1650,5107883,424.24242,0.0000
+2020-07-09,MT,Serra Nova Dourada,city,7,0,28,True,1650,5107883,424.24242,0.0000
+2020-07-08,MT,Serra Nova Dourada,city,7,0,27,False,1650,5107883,424.24242,0.0000
 2020-07-07,MT,Serra Nova Dourada,city,7,0,26,False,1650,5107883,424.24242,0.0000
 2020-07-06,MT,Serra Nova Dourada,city,7,0,25,False,1650,5107883,424.24242,0.0000
 2020-07-05,MT,Serra Nova Dourada,city,7,0,24,False,1650,5107883,424.24242,0.0000
@@ -6062,7 +6181,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-14,MT,Serra Nova Dourada,city,1,0,3,False,1650,5107883,60.60606,0.0000
 2020-06-13,MT,Serra Nova Dourada,city,1,0,2,False,1650,5107883,60.60606,0.0000
 2020-06-12,MT,Serra Nova Dourada,city,1,0,1,False,1650,5107883,60.60606,0.0000
-2020-07-08,MT,Sinop,city,788,33,98,True,142996,5107909,551.06437,0.0419
+2020-07-09,MT,Sinop,city,800,35,99,True,142996,5107909,559.45621,0.0437
+2020-07-08,MT,Sinop,city,788,33,98,False,142996,5107909,551.06437,0.0419
 2020-07-07,MT,Sinop,city,629,31,97,False,142996,5107909,439.87244,0.0493
 2020-07-06,MT,Sinop,city,586,29,96,False,142996,5107909,409.80167,0.0495
 2020-07-05,MT,Sinop,city,570,29,95,False,142996,5107909,398.61255,0.0509
@@ -6160,7 +6280,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-04,MT,Sinop,city,3,0,3,False,142996,5107909,2.09796,0.0000
 2020-04-03,MT,Sinop,city,3,0,2,False,142996,5107909,2.09796,0.0000
 2020-04-02,MT,Sinop,city,3,0,1,False,142996,5107909,2.09796,0.0000
-2020-07-08,MT,Sorriso,city,1079,20,65,True,90313,5107925,1194.73387,0.0185
+2020-07-09,MT,Sorriso,city,1192,22,66,True,90313,5107925,1319.85428,0.0185
+2020-07-08,MT,Sorriso,city,1079,20,65,False,90313,5107925,1194.73387,0.0185
 2020-07-07,MT,Sorriso,city,1031,19,64,False,90313,5107925,1141.58538,0.0184
 2020-07-06,MT,Sorriso,city,1021,17,63,False,90313,5107925,1130.51277,0.0167
 2020-07-05,MT,Sorriso,city,946,16,62,False,90313,5107925,1047.46825,0.0169
@@ -6225,7 +6346,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,MT,Sorriso,city,7,0,3,False,90313,5107925,7.75082,0.0000
 2020-05-06,MT,Sorriso,city,4,0,2,False,90313,5107925,4.42904,0.0000
 2020-05-05,MT,Sorriso,city,4,0,1,False,90313,5107925,4.42904,0.0000
-2020-07-08,MT,São Félix do Araguaia,city,25,0,57,True,11708,5107859,213.52921,0.0000
+2020-07-09,MT,São Félix do Araguaia,city,28,0,58,True,11708,5107859,239.15272,0.0000
+2020-07-08,MT,São Félix do Araguaia,city,25,0,57,False,11708,5107859,213.52921,0.0000
 2020-07-07,MT,São Félix do Araguaia,city,25,0,56,False,11708,5107859,213.52921,0.0000
 2020-07-06,MT,São Félix do Araguaia,city,21,0,55,False,11708,5107859,179.36454,0.0000
 2020-07-05,MT,São Félix do Araguaia,city,19,0,54,False,11708,5107859,162.28220,0.0000
@@ -6282,7 +6404,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-15,MT,São Félix do Araguaia,city,1,0,3,False,11708,5107859,8.54117,0.0000
 2020-05-14,MT,São Félix do Araguaia,city,1,0,2,False,11708,5107859,8.54117,0.0000
 2020-05-13,MT,São Félix do Araguaia,city,1,0,1,False,11708,5107859,8.54117,0.0000
-2020-07-08,MT,São José do Povo,city,25,2,50,True,4063,5107297,615.30889,0.0800
+2020-07-09,MT,São José do Povo,city,25,2,51,True,4063,5107297,615.30889,0.0800
+2020-07-08,MT,São José do Povo,city,25,2,50,False,4063,5107297,615.30889,0.0800
 2020-07-07,MT,São José do Povo,city,25,1,49,False,4063,5107297,615.30889,0.0400
 2020-07-06,MT,São José do Povo,city,25,1,48,False,4063,5107297,615.30889,0.0400
 2020-07-05,MT,São José do Povo,city,24,1,47,False,4063,5107297,590.69653,0.0417
@@ -6332,7 +6455,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,MT,São José do Povo,city,1,0,3,False,4063,5107297,24.61236,0.0000
 2020-05-21,MT,São José do Povo,city,1,0,2,False,4063,5107297,24.61236,0.0000
 2020-05-20,MT,São José do Povo,city,1,0,1,False,4063,5107297,24.61236,0.0000
-2020-07-08,MT,São José do Rio Claro,city,29,1,35,True,20664,5107305,140.34069,0.0345
+2020-07-09,MT,São José do Rio Claro,city,29,1,36,True,20664,5107305,140.34069,0.0345
+2020-07-08,MT,São José do Rio Claro,city,29,1,35,False,20664,5107305,140.34069,0.0345
 2020-07-07,MT,São José do Rio Claro,city,22,1,34,False,20664,5107305,106.46535,0.0455
 2020-07-06,MT,São José do Rio Claro,city,19,1,33,False,20664,5107305,91.94735,0.0526
 2020-07-05,MT,São José do Rio Claro,city,19,1,32,False,20664,5107305,91.94735,0.0526
@@ -6367,7 +6491,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-06,MT,São José do Rio Claro,city,2,1,3,False,20664,5107305,9.67867,0.5000
 2020-06-05,MT,São José do Rio Claro,city,2,1,2,False,20664,5107305,9.67867,0.5000
 2020-06-04,MT,São José do Rio Claro,city,2,1,1,False,20664,5107305,9.67867,0.5000
-2020-07-08,MT,São José do Xingu,city,16,2,50,True,5595,5107354,285.96962,0.1250
+2020-07-09,MT,São José do Xingu,city,16,2,51,True,5595,5107354,285.96962,0.1250
+2020-07-08,MT,São José do Xingu,city,16,2,50,False,5595,5107354,285.96962,0.1250
 2020-07-07,MT,São José do Xingu,city,15,2,49,False,5595,5107354,268.09651,0.1333
 2020-07-06,MT,São José do Xingu,city,12,2,48,False,5595,5107354,214.47721,0.1667
 2020-07-05,MT,São José do Xingu,city,12,2,47,False,5595,5107354,214.47721,0.1667
@@ -6417,7 +6542,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,MT,São José do Xingu,city,1,0,3,False,5595,5107354,17.87310,0.0000
 2020-05-21,MT,São José do Xingu,city,1,0,2,False,5595,5107354,17.87310,0.0000
 2020-05-20,MT,São José do Xingu,city,1,0,1,False,5595,5107354,17.87310,0.0000
-2020-07-08,MT,São José dos Quatro Marcos,city,63,3,94,True,18906,5107107,333.22755,0.0476
+2020-07-09,MT,São José dos Quatro Marcos,city,63,3,95,True,18906,5107107,333.22755,0.0476
+2020-07-08,MT,São José dos Quatro Marcos,city,63,3,94,False,18906,5107107,333.22755,0.0476
 2020-07-07,MT,São José dos Quatro Marcos,city,49,3,93,False,18906,5107107,259.17698,0.0612
 2020-07-06,MT,São José dos Quatro Marcos,city,49,2,92,False,18906,5107107,259.17698,0.0408
 2020-07-05,MT,São José dos Quatro Marcos,city,48,2,91,False,18906,5107107,253.88765,0.0417
@@ -6511,7 +6637,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,MT,São José dos Quatro Marcos,city,2,0,3,False,18906,5107107,10.57865,0.0000
 2020-04-07,MT,São José dos Quatro Marcos,city,2,0,2,False,18906,5107107,10.57865,0.0000
 2020-04-06,MT,São José dos Quatro Marcos,city,2,0,1,False,18906,5107107,10.57865,0.0000
-2020-07-08,MT,São Pedro da Cipa,city,16,1,65,True,4727,5107404,338.48107,0.0625
+2020-07-09,MT,São Pedro da Cipa,city,21,1,66,True,4727,5107404,444.25640,0.0476
+2020-07-08,MT,São Pedro da Cipa,city,16,1,65,False,4727,5107404,338.48107,0.0625
 2020-07-07,MT,São Pedro da Cipa,city,14,1,64,False,4727,5107404,296.17093,0.0714
 2020-07-06,MT,São Pedro da Cipa,city,14,1,63,False,4727,5107404,296.17093,0.0714
 2020-07-05,MT,São Pedro da Cipa,city,13,1,62,False,4727,5107404,275.01587,0.0769
@@ -6576,7 +6703,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-07,MT,São Pedro da Cipa,city,1,0,3,False,4727,5107404,21.15507,0.0000
 2020-05-06,MT,São Pedro da Cipa,city,1,0,2,False,4727,5107404,21.15507,0.0000
 2020-05-05,MT,São Pedro da Cipa,city,1,0,1,False,4727,5107404,21.15507,0.0000
-2020-07-08,MT,Tabaporã,city,54,1,31,True,9489,5107941,569.07999,0.0185
+2020-07-09,MT,Tabaporã,city,54,1,32,True,9489,5107941,569.07999,0.0185
+2020-07-08,MT,Tabaporã,city,54,1,31,False,9489,5107941,569.07999,0.0185
 2020-07-07,MT,Tabaporã,city,52,1,30,False,9489,5107941,548.00295,0.0192
 2020-07-06,MT,Tabaporã,city,44,1,29,False,9489,5107941,463.69480,0.0227
 2020-07-05,MT,Tabaporã,city,41,1,28,False,9489,5107941,432.07925,0.0244
@@ -6607,7 +6735,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-10,MT,Tabaporã,city,1,0,3,False,9489,5107941,10.53852,0.0000
 2020-06-09,MT,Tabaporã,city,1,0,2,False,9489,5107941,10.53852,0.0000
 2020-06-08,MT,Tabaporã,city,1,0,1,False,9489,5107941,10.53852,0.0000
-2020-07-08,MT,Tangará da Serra,city,933,11,99,True,103750,5107958,899.27711,0.0118
+2020-07-09,MT,Tangará da Serra,city,1027,11,100,True,103750,5107958,989.87952,0.0107
+2020-07-08,MT,Tangará da Serra,city,933,11,99,False,103750,5107958,899.27711,0.0118
 2020-07-07,MT,Tangará da Serra,city,901,11,98,False,103750,5107958,868.43373,0.0122
 2020-07-06,MT,Tangará da Serra,city,855,11,97,False,103750,5107958,824.09639,0.0129
 2020-07-05,MT,Tangará da Serra,city,816,10,96,False,103750,5107958,786.50602,0.0123
@@ -6706,7 +6835,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-03,MT,Tangará da Serra,city,4,0,3,False,103750,5107958,3.85542,0.0000
 2020-04-02,MT,Tangará da Serra,city,2,0,2,False,103750,5107958,1.92771,0.0000
 2020-04-01,MT,Tangará da Serra,city,1,0,1,False,103750,5107958,0.96386,0.0000
-2020-07-08,MT,Tapurah,city,143,0,59,True,13705,5108006,1043.41481,0.0000
+2020-07-09,MT,Tapurah,city,162,0,60,True,13705,5108006,1182.05035,0.0000
+2020-07-08,MT,Tapurah,city,143,0,59,False,13705,5108006,1043.41481,0.0000
 2020-07-07,MT,Tapurah,city,125,0,58,False,13705,5108006,912.07588,0.0000
 2020-07-06,MT,Tapurah,city,116,0,57,False,13705,5108006,846.40642,0.0000
 2020-07-05,MT,Tapurah,city,108,0,56,False,13705,5108006,788.03356,0.0000
@@ -6765,7 +6895,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-13,MT,Tapurah,city,3,0,3,False,13705,5108006,21.88982,0.0000
 2020-05-12,MT,Tapurah,city,3,0,2,False,13705,5108006,21.88982,0.0000
 2020-05-11,MT,Tapurah,city,3,0,1,False,13705,5108006,21.88982,0.0000
-2020-07-08,MT,Terra Nova do Norte,city,33,0,48,True,9667,5108055,341.36754,0.0000
+2020-07-09,MT,Terra Nova do Norte,city,34,0,49,True,9667,5108055,351.71201,0.0000
+2020-07-08,MT,Terra Nova do Norte,city,33,0,48,False,9667,5108055,341.36754,0.0000
 2020-07-07,MT,Terra Nova do Norte,city,31,0,47,False,9667,5108055,320.67860,0.0000
 2020-07-06,MT,Terra Nova do Norte,city,31,0,46,False,9667,5108055,320.67860,0.0000
 2020-07-05,MT,Terra Nova do Norte,city,31,0,45,False,9667,5108055,320.67860,0.0000
@@ -6813,7 +6944,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,MT,Terra Nova do Norte,city,1,0,3,False,9667,5108055,10.34447,0.0000
 2020-05-23,MT,Terra Nova do Norte,city,1,0,2,False,9667,5108055,10.34447,0.0000
 2020-05-22,MT,Terra Nova do Norte,city,1,0,1,False,9667,5108055,10.34447,0.0000
-2020-07-08,MT,Tesouro,city,6,0,9,True,3805,5108105,157.68725,0.0000
+2020-07-09,MT,Tesouro,city,6,0,10,True,3805,5108105,157.68725,0.0000
+2020-07-08,MT,Tesouro,city,6,0,9,False,3805,5108105,157.68725,0.0000
 2020-07-07,MT,Tesouro,city,6,0,8,False,3805,5108105,157.68725,0.0000
 2020-07-06,MT,Tesouro,city,5,0,7,False,3805,5108105,131.40604,0.0000
 2020-07-05,MT,Tesouro,city,5,0,6,False,3805,5108105,131.40604,0.0000
@@ -6822,9 +6954,11 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-07-02,MT,Tesouro,city,1,0,3,False,3805,5108105,26.28121,0.0000
 2020-07-01,MT,Tesouro,city,1,0,2,False,3805,5108105,26.28121,0.0000
 2020-06-30,MT,Tesouro,city,1,0,1,False,3805,5108105,26.28121,0.0000
-2020-07-08,MT,Torixoréu,city,1,0,2,True,3609,5108204,27.70851,0.0000
+2020-07-09,MT,Torixoréu,city,1,0,3,True,3609,5108204,27.70851,0.0000
+2020-07-08,MT,Torixoréu,city,1,0,2,False,3609,5108204,27.70851,0.0000
 2020-07-07,MT,Torixoréu,city,1,0,1,False,3609,5108204,27.70851,0.0000
-2020-07-08,MT,União do Sul,city,16,0,94,True,3525,5108303,453.90071,0.0000
+2020-07-09,MT,União do Sul,city,20,0,95,True,3525,5108303,567.37589,0.0000
+2020-07-08,MT,União do Sul,city,16,0,94,False,3525,5108303,453.90071,0.0000
 2020-07-07,MT,União do Sul,city,16,0,93,False,3525,5108303,453.90071,0.0000
 2020-07-06,MT,União do Sul,city,13,0,92,False,3525,5108303,368.79433,0.0000
 2020-07-05,MT,União do Sul,city,13,0,91,False,3525,5108303,368.79433,0.0000
@@ -6918,7 +7052,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-08,MT,União do Sul,city,1,0,3,False,3525,5108303,28.36879,0.0000
 2020-04-07,MT,União do Sul,city,1,0,2,False,3525,5108303,28.36879,0.0000
 2020-04-06,MT,União do Sul,city,1,0,1,False,3525,5108303,28.36879,0.0000
-2020-07-08,MT,Vale de São Domingos,city,8,1,62,True,3127,5108352,255.83626,0.1250
+2020-07-09,MT,Vale de São Domingos,city,13,1,63,True,3127,5108352,415.73393,0.0769
+2020-07-08,MT,Vale de São Domingos,city,8,1,62,False,3127,5108352,255.83626,0.1250
 2020-07-07,MT,Vale de São Domingos,city,8,1,61,False,3127,5108352,255.83626,0.1250
 2020-07-06,MT,Vale de São Domingos,city,8,1,60,False,3127,5108352,255.83626,0.1250
 2020-07-05,MT,Vale de São Domingos,city,8,1,59,False,3127,5108352,255.83626,0.1250
@@ -6980,7 +7115,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,MT,Vale de São Domingos,city,2,1,3,False,3127,5108352,63.95907,0.5000
 2020-05-09,MT,Vale de São Domingos,city,2,1,2,False,3127,5108352,63.95907,0.5000
 2020-05-08,MT,Vale de São Domingos,city,2,1,1,False,3127,5108352,63.95907,0.5000
-2020-07-08,MT,Vera,city,38,1,45,True,11309,5108501,336.01556,0.0263
+2020-07-09,MT,Vera,city,40,1,46,True,11309,5108501,353.70059,0.0250
+2020-07-08,MT,Vera,city,38,1,45,False,11309,5108501,336.01556,0.0263
 2020-07-07,MT,Vera,city,38,1,44,False,11309,5108501,336.01556,0.0263
 2020-07-06,MT,Vera,city,38,1,43,False,11309,5108501,336.01556,0.0263
 2020-07-05,MT,Vera,city,28,1,42,False,11309,5108501,247.59041,0.0357
@@ -7025,7 +7161,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-27,MT,Vera,city,1,0,3,False,11309,5108501,8.84251,0.0000
 2020-05-26,MT,Vera,city,1,0,2,False,11309,5108501,8.84251,0.0000
 2020-05-25,MT,Vera,city,1,0,1,False,11309,5108501,8.84251,0.0000
-2020-07-08,MT,Vila Bela da Santíssima Trindade,city,177,5,80,True,16128,5105507,1097.47024,0.0282
+2020-07-09,MT,Vila Bela da Santíssima Trindade,city,195,5,81,True,16128,5105507,1209.07738,0.0256
+2020-07-08,MT,Vila Bela da Santíssima Trindade,city,177,5,80,False,16128,5105507,1097.47024,0.0282
 2020-07-07,MT,Vila Bela da Santíssima Trindade,city,163,5,79,False,16128,5105507,1010.66468,0.0307
 2020-07-06,MT,Vila Bela da Santíssima Trindade,city,162,5,78,False,16128,5105507,1004.46429,0.0309
 2020-07-05,MT,Vila Bela da Santíssima Trindade,city,142,5,77,False,16128,5105507,880.45635,0.0352
@@ -7105,7 +7242,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-22,MT,Vila Bela da Santíssima Trindade,city,1,0,3,False,16128,5105507,6.20040,0.0000
 2020-04-21,MT,Vila Bela da Santíssima Trindade,city,1,0,2,False,16128,5105507,6.20040,0.0000
 2020-04-20,MT,Vila Bela da Santíssima Trindade,city,1,0,1,False,16128,5105507,6.20040,0.0000
-2020-07-08,MT,Vila Rica,city,109,3,55,True,26037,5108600,418.63502,0.0275
+2020-07-09,MT,Vila Rica,city,117,3,56,True,26037,5108600,449.36053,0.0256
+2020-07-08,MT,Vila Rica,city,109,3,55,False,26037,5108600,418.63502,0.0275
 2020-07-07,MT,Vila Rica,city,105,3,54,False,26037,5108600,403.27227,0.0286
 2020-07-06,MT,Vila Rica,city,94,3,53,False,26037,5108600,361.02470,0.0319
 2020-07-05,MT,Vila Rica,city,92,3,52,False,26037,5108600,353.34332,0.0326
@@ -7160,7 +7298,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,MT,Vila Rica,city,4,0,3,False,26037,5108600,15.36275,0.0000
 2020-05-16,MT,Vila Rica,city,4,0,2,False,26037,5108600,15.36275,0.0000
 2020-05-15,MT,Vila Rica,city,4,0,1,False,26037,5108600,15.36275,0.0000
-2020-07-08,MT,Várzea Grande,city,1883,165,106,True,284971,5108402,660.76899,0.0876
+2020-07-09,MT,Várzea Grande,city,1964,170,107,True,284971,5108402,689.19294,0.0866
+2020-07-08,MT,Várzea Grande,city,1883,165,106,False,284971,5108402,660.76899,0.0876
 2020-07-07,MT,Várzea Grande,city,1768,164,105,False,284971,5108402,620.41401,0.0928
 2020-07-06,MT,Várzea Grande,city,1678,160,104,False,284971,5108402,588.83185,0.0954
 2020-07-05,MT,Várzea Grande,city,1597,156,103,False,284971,5108402,560.40790,0.0977
@@ -7266,7 +7405,8 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-25,MT,Várzea Grande,city,2,0,3,False,284971,5108402,0.70183,0.0000
 2020-03-24,MT,Várzea Grande,city,1,0,2,False,284971,5108402,0.35091,0.0000
 2020-03-23,MT,Várzea Grande,city,1,0,1,False,284971,5108402,0.35091,0.0000
-2020-07-08,MT,Água Boa,city,132,3,61,True,25721,5100201,513.19933,0.0227
+2020-07-09,MT,Água Boa,city,132,3,62,True,25721,5100201,513.19933,0.0227
+2020-07-08,MT,Água Boa,city,132,3,61,False,25721,5100201,513.19933,0.0227
 2020-07-07,MT,Água Boa,city,128,3,60,False,25721,5100201,497.64784,0.0234
 2020-07-06,MT,Água Boa,city,126,3,59,False,25721,5100201,489.87209,0.0238
 2020-07-05,MT,Água Boa,city,92,3,58,False,25721,5100201,357.68438,0.0326
