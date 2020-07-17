@@ -1,6 +1,6 @@
 ## Uruguay
 
-> Last updated at Jul 16 2020 00:44:38 UTC.
+> Last updated at Jul 17 2020 00:44:51 UTC.
 
 
 | Departament | Dataset |
