@@ -26,7 +26,7 @@ def scrape_peru():
 
     for table in tables:
         headers = [th.get_text().strip() for th in table.find_all('th')]
-        if len(headers) > 0 and 'Departamentos' == headers[0]:
+        if len(headers) > 0 and 'Departamento' == headers[0]:
             per_departament_table = table
 
     updated_files = []
@@ -36,13 +36,13 @@ def scrape_peru():
 
     for tr in per_departament_table.tbody.find_all('tr'):
         cols = [td.get_text().strip() for td in tr.find_all('td')]
-        if len(cols) != 10:
+        if len(cols) != 8:
             continue
 
         departament = cols[0]
 
         cases = int(not_number_regexp.sub('', cols[2]))
-        deaths = int(not_number_regexp.sub('', cols[4]))
+        deaths = int(not_number_regexp.sub('', cols[3]))
 
         if 'Lima' in departament:
             departament = 'Lima'
