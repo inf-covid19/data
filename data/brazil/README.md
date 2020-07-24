@@ -1,6 +1,6 @@
 ## Brazil
 
-> Last updated at Jul 24 2020 13:33:50 UTC.
+> Last updated at Jul 24 2020 20:33:25 UTC.
 
 
 | State               | Dataset            |
