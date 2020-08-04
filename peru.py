@@ -36,13 +36,13 @@ def scrape_peru():
 
     for tr in per_departament_table.tbody.find_all('tr'):
         cols = [td.get_text().strip() for td in tr.find_all('td')]
-        if len(cols) != 9:
+        if len(cols) != 11:
             continue
 
         departament = cols[0]
 
         cases = int(not_number_regexp.sub('', cols[2]))
-        deaths = int(not_number_regexp.sub('', cols[3]))
+        deaths = int(not_number_regexp.sub('', cols[4]))
 
         if 'Lima' in departament:
             departament = 'Lima'
