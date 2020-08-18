@@ -1,6 +1,6 @@
 ## United States of America
 
-> Last updated at Aug 17 2020 08:33:49 UTC.
+> Last updated at Aug 18 2020 21:33:48 UTC.
 
 
 | State | Dataset |
