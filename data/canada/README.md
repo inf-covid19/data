@@ -1,6 +1,6 @@
 ## Canada
 
-> Last updated at Aug 18 2020 02:33:52 UTC.
+> Last updated at Aug 19 2020 01:33:59 UTC.
 
 
 | Region | Dataset |
