@@ -1,5 +1,6 @@
 date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_population_2019,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
-2020-08-26,RO,,state,53119,1100,152,True,1777225,11,2988.87310,0.0207
+2020-08-27,RO,,state,53805,1109,153,True,1777225,11,3027.47260,0.0206
+2020-08-26,RO,,state,53119,1100,152,False,1777225,11,2988.87310,0.0207
 2020-08-25,RO,,state,52514,1087,151,False,1777225,11,2954.83127,0.0207
 2020-08-24,RO,,state,51791,1073,150,False,1777225,11,2914.14987,0.0207
 2020-08-23,RO,,state,51421,1065,149,False,1777225,11,2893.33090,0.0207
@@ -151,7 +152,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RO,,state,3,0,3,False,1777225,11,0.16880,0.0000
 2020-03-21,RO,,state,3,0,2,False,1777225,11,0.16880,0.0000
 2020-03-20,RO,,state,1,0,1,False,1777225,11,0.05627,0.0000
-2020-08-24,RO,Alta Floresta D'Oeste,city,463,7,104,True,22945,1100015,2017.86882,0.0151
+2020-08-26,RO,Alta Floresta D'Oeste,city,484,8,106,True,22945,1100015,2109.39202,0.0165
+2020-08-25,RO,Alta Floresta D'Oeste,city,482,7,105,False,22945,1100015,2100.67553,0.0145
+2020-08-24,RO,Alta Floresta D'Oeste,city,463,7,104,False,22945,1100015,2017.86882,0.0151
 2020-08-23,RO,Alta Floresta D'Oeste,city,463,7,103,False,22945,1100015,2017.86882,0.0151
 2020-08-22,RO,Alta Floresta D'Oeste,city,453,6,102,False,22945,1100015,1974.28634,0.0132
 2020-08-21,RO,Alta Floresta D'Oeste,city,434,6,101,False,22945,1100015,1891.47963,0.0138
@@ -255,7 +258,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,RO,Alta Floresta D'Oeste,city,1,0,3,False,22945,1100015,4.35825,0.0000
 2020-05-03,RO,Alta Floresta D'Oeste,city,1,0,2,False,22945,1100015,4.35825,0.0000
 2020-05-02,RO,Alta Floresta D'Oeste,city,1,0,1,False,22945,1100015,4.35825,0.0000
-2020-08-24,RO,Alto Alegre dos Parecis,city,161,4,102,True,13241,1100379,1215.92025,0.0248
+2020-08-26,RO,Alto Alegre dos Parecis,city,163,4,104,True,13241,1100379,1231.02485,0.0245
+2020-08-25,RO,Alto Alegre dos Parecis,city,161,4,103,False,13241,1100379,1215.92025,0.0248
+2020-08-24,RO,Alto Alegre dos Parecis,city,161,4,102,False,13241,1100379,1215.92025,0.0248
 2020-08-23,RO,Alto Alegre dos Parecis,city,157,4,101,False,13241,1100379,1185.71105,0.0255
 2020-08-22,RO,Alto Alegre dos Parecis,city,157,4,100,False,13241,1100379,1185.71105,0.0255
 2020-08-21,RO,Alto Alegre dos Parecis,city,157,4,99,False,13241,1100379,1185.71105,0.0255
@@ -357,7 +362,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,RO,Alto Alegre dos Parecis,city,4,0,3,False,13241,1100379,30.20920,0.0000
 2020-05-05,RO,Alto Alegre dos Parecis,city,4,0,2,False,13241,1100379,30.20920,0.0000
 2020-05-04,RO,Alto Alegre dos Parecis,city,2,0,1,False,13241,1100379,15.10460,0.0000
-2020-08-24,RO,Alto Paraíso,city,267,5,117,True,21428,1100403,1246.03323,0.0187
+2020-08-26,RO,Alto Paraíso,city,273,5,119,True,21428,1100403,1274.03397,0.0183
+2020-08-25,RO,Alto Paraíso,city,272,5,118,False,21428,1100403,1269.36718,0.0184
+2020-08-24,RO,Alto Paraíso,city,267,5,117,False,21428,1100403,1246.03323,0.0187
 2020-08-23,RO,Alto Paraíso,city,254,5,116,False,21428,1100403,1185.36494,0.0197
 2020-08-22,RO,Alto Paraíso,city,248,5,115,False,21428,1100403,1157.36420,0.0202
 2020-08-21,RO,Alto Paraíso,city,248,5,114,False,21428,1100403,1157.36420,0.0202
@@ -474,7 +481,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-20,RO,Alto Paraíso,city,1,0,3,False,21428,1100403,4.66679,0.0000
 2020-04-19,RO,Alto Paraíso,city,1,0,2,False,21428,1100403,4.66679,0.0000
 2020-04-18,RO,Alto Paraíso,city,1,0,1,False,21428,1100403,4.66679,0.0000
-2020-08-24,RO,Alvorada D'Oeste,city,106,5,100,True,14411,1100346,735.54923,0.0472
+2020-08-26,RO,Alvorada D'Oeste,city,106,5,102,True,14411,1100346,735.54923,0.0472
+2020-08-25,RO,Alvorada D'Oeste,city,105,5,101,False,14411,1100346,728.61009,0.0476
+2020-08-24,RO,Alvorada D'Oeste,city,106,5,100,False,14411,1100346,735.54923,0.0472
 2020-08-23,RO,Alvorada D'Oeste,city,105,4,99,False,14411,1100346,728.61009,0.0381
 2020-08-22,RO,Alvorada D'Oeste,city,103,4,98,False,14411,1100346,714.73180,0.0388
 2020-08-21,RO,Alvorada D'Oeste,city,99,3,97,False,14411,1100346,686.97523,0.0303
@@ -574,7 +583,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,RO,Alvorada D'Oeste,city,4,0,3,False,14411,1100346,27.75657,0.0000
 2020-05-07,RO,Alvorada D'Oeste,city,2,0,2,False,14411,1100346,13.87829,0.0000
 2020-05-06,RO,Alvorada D'Oeste,city,1,0,1,False,14411,1100346,6.93914,0.0000
-2020-08-24,RO,Ariquemes,city,4145,66,124,True,107863,1100023,3842.83767,0.0159
+2020-08-26,RO,Ariquemes,city,4277,71,126,True,107863,1100023,3965.21513,0.0166
+2020-08-25,RO,Ariquemes,city,4238,69,125,False,107863,1100023,3929.05816,0.0163
+2020-08-24,RO,Ariquemes,city,4145,66,124,False,107863,1100023,3842.83767,0.0159
 2020-08-23,RO,Ariquemes,city,4207,66,123,False,107863,1100023,3900.31800,0.0157
 2020-08-22,RO,Ariquemes,city,4101,64,122,False,107863,1100023,3802.04519,0.0156
 2020-08-21,RO,Ariquemes,city,4024,63,121,False,107863,1100023,3730.65834,0.0157
@@ -698,7 +709,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-12,RO,Ariquemes,city,7,0,3,False,107863,1100023,6.48971,0.0000
 2020-04-11,RO,Ariquemes,city,2,0,2,False,107863,1100023,1.85420,0.0000
 2020-04-10,RO,Ariquemes,city,2,0,1,False,107863,1100023,1.85420,0.0000
-2020-08-24,RO,Buritis,city,454,8,119,True,39654,1100452,1144.90341,0.0176
+2020-08-26,RO,Buritis,city,501,8,121,True,39654,1100452,1263.42866,0.0160
+2020-08-25,RO,Buritis,city,454,8,120,False,39654,1100452,1144.90341,0.0176
+2020-08-24,RO,Buritis,city,454,8,119,False,39654,1100452,1144.90341,0.0176
 2020-08-23,RO,Buritis,city,451,8,118,False,39654,1100452,1137.33797,0.0177
 2020-08-22,RO,Buritis,city,434,7,117,False,39654,1100452,1094.46714,0.0161
 2020-08-21,RO,Buritis,city,432,7,116,False,39654,1100452,1089.42351,0.0162
@@ -817,7 +830,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-18,RO,Buritis,city,1,0,3,False,39654,1100452,2.52181,0.0000
 2020-04-17,RO,Buritis,city,1,0,2,False,39654,1100452,2.52181,0.0000
 2020-04-16,RO,Buritis,city,1,0,1,False,39654,1100452,2.52181,0.0000
-2020-08-24,RO,Cabixi,city,73,4,104,True,5312,1100031,1374.24699,0.0548
+2020-08-26,RO,Cabixi,city,74,4,106,True,5312,1100031,1393.07229,0.0541
+2020-08-25,RO,Cabixi,city,74,4,105,False,5312,1100031,1393.07229,0.0541
+2020-08-24,RO,Cabixi,city,73,4,104,False,5312,1100031,1374.24699,0.0548
 2020-08-23,RO,Cabixi,city,73,4,103,False,5312,1100031,1374.24699,0.0548
 2020-08-22,RO,Cabixi,city,70,4,102,False,5312,1100031,1317.77108,0.0571
 2020-08-21,RO,Cabixi,city,70,4,101,False,5312,1100031,1317.77108,0.0571
@@ -921,7 +936,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,RO,Cabixi,city,0,0,3,False,5312,1100031,,0.0000
 2020-05-03,RO,Cabixi,city,0,0,2,False,5312,1100031,,0.0000
 2020-05-02,RO,Cabixi,city,1,0,1,False,5312,1100031,18.82530,0.0000
-2020-08-24,RO,Cacaulândia,city,66,0,94,True,6230,1100601,1059.39005,0.0000
+2020-08-26,RO,Cacaulândia,city,73,0,96,True,6230,1100601,1171.74960,0.0000
+2020-08-25,RO,Cacaulândia,city,69,0,95,False,6230,1100601,1107.54414,0.0000
+2020-08-24,RO,Cacaulândia,city,66,0,94,False,6230,1100601,1059.39005,0.0000
 2020-08-23,RO,Cacaulândia,city,63,0,93,False,6230,1100601,1011.23596,0.0000
 2020-08-22,RO,Cacaulândia,city,59,0,92,False,6230,1100601,947.03050,0.0000
 2020-08-21,RO,Cacaulândia,city,59,0,91,False,6230,1100601,947.03050,0.0000
@@ -1015,7 +1032,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,RO,Cacaulândia,city,2,0,3,False,6230,1100601,32.10273,0.0000
 2020-05-13,RO,Cacaulândia,city,3,0,2,False,6230,1100601,48.15409,0.0000
 2020-05-12,RO,Cacaulândia,city,1,0,1,False,6230,1100601,16.05136,0.0000
-2020-08-24,RO,Cacoal,city,1465,21,106,True,85359,1100049,1716.28065,0.0143
+2020-08-26,RO,Cacoal,city,1610,22,108,True,85359,1100049,1886.15143,0.0137
+2020-08-25,RO,Cacoal,city,1557,21,107,False,85359,1100049,1824.06073,0.0135
+2020-08-24,RO,Cacoal,city,1465,21,106,False,85359,1100049,1716.28065,0.0143
 2020-08-23,RO,Cacoal,city,1461,21,105,False,85359,1100049,1711.59456,0.0144
 2020-08-22,RO,Cacoal,city,1461,21,104,False,85359,1100049,1711.59456,0.0144
 2020-08-21,RO,Cacoal,city,1434,21,103,False,85359,1100049,1679.96345,0.0146
@@ -1121,7 +1140,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,RO,Cacoal,city,2,0,3,False,85359,1100049,2.34305,0.0000
 2020-05-01,RO,Cacoal,city,1,0,2,False,85359,1100049,1.17152,0.0000
 2020-04-30,RO,Cacoal,city,1,0,1,False,85359,1100049,1.17152,0.0000
-2020-08-24,RO,Campo Novo de Rondônia,city,126,4,104,True,14139,1100700,891.15213,0.0317
+2020-08-26,RO,Campo Novo de Rondônia,city,132,5,106,True,14139,1100700,933.58795,0.0379
+2020-08-25,RO,Campo Novo de Rondônia,city,131,5,105,False,14139,1100700,926.51531,0.0382
+2020-08-24,RO,Campo Novo de Rondônia,city,126,4,104,False,14139,1100700,891.15213,0.0317
 2020-08-23,RO,Campo Novo de Rondônia,city,125,4,103,False,14139,1100700,884.07950,0.0320
 2020-08-22,RO,Campo Novo de Rondônia,city,116,4,102,False,14139,1100700,820.42577,0.0345
 2020-08-21,RO,Campo Novo de Rondônia,city,116,4,101,False,14139,1100700,820.42577,0.0345
@@ -1225,7 +1246,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-04,RO,Campo Novo de Rondônia,city,1,1,3,False,14139,1100700,7.07264,1.0000
 2020-05-03,RO,Campo Novo de Rondônia,city,1,1,2,False,14139,1100700,7.07264,1.0000
 2020-05-02,RO,Campo Novo de Rondônia,city,1,1,1,False,14139,1100700,7.07264,1.0000
-2020-08-24,RO,Candeias do Jamari,city,1136,21,110,True,26693,1100809,4255.79740,0.0185
+2020-08-26,RO,Candeias do Jamari,city,1168,21,112,True,26693,1100809,4375.67902,0.0180
+2020-08-25,RO,Candeias do Jamari,city,1147,21,111,False,26693,1100809,4297.00671,0.0183
+2020-08-24,RO,Candeias do Jamari,city,1136,21,110,False,26693,1100809,4255.79740,0.0185
 2020-08-23,RO,Candeias do Jamari,city,1114,21,109,False,26693,1100809,4173.37879,0.0189
 2020-08-22,RO,Candeias do Jamari,city,1111,21,108,False,26693,1100809,4162.13989,0.0189
 2020-08-21,RO,Candeias do Jamari,city,1105,21,107,False,26693,1100809,4139.66208,0.0190
@@ -1335,7 +1358,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-28,RO,Candeias do Jamari,city,3,0,3,False,26693,1100809,11.23890,0.0000
 2020-04-27,RO,Candeias do Jamari,city,1,0,2,False,26693,1100809,3.74630,0.0000
 2020-04-26,RO,Candeias do Jamari,city,1,0,1,False,26693,1100809,3.74630,0.0000
-2020-08-24,RO,Castanheiras,city,48,0,68,True,3052,1100908,1572.73919,0.0000
+2020-08-26,RO,Castanheiras,city,48,0,70,True,3052,1100908,1572.73919,0.0000
+2020-08-25,RO,Castanheiras,city,49,0,69,False,3052,1100908,1605.50459,0.0000
+2020-08-24,RO,Castanheiras,city,48,0,68,False,3052,1100908,1572.73919,0.0000
 2020-08-23,RO,Castanheiras,city,46,0,67,False,3052,1100908,1507.20839,0.0000
 2020-08-22,RO,Castanheiras,city,46,0,66,False,3052,1100908,1507.20839,0.0000
 2020-08-21,RO,Castanheiras,city,46,0,65,False,3052,1100908,1507.20839,0.0000
@@ -1403,7 +1428,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-13,RO,Castanheiras,city,11,0,3,False,3052,1100908,360.41940,0.0000
 2020-06-12,RO,Castanheiras,city,7,0,2,False,3052,1100908,229.35780,0.0000
 2020-06-11,RO,Castanheiras,city,3,0,1,False,3052,1100908,98.29620,0.0000
-2020-08-24,RO,Cerejeiras,city,184,6,85,True,16323,1100056,1127.24377,0.0326
+2020-08-26,RO,Cerejeiras,city,186,6,87,True,16323,1100056,1139.49642,0.0323
+2020-08-25,RO,Cerejeiras,city,186,6,86,False,16323,1100056,1139.49642,0.0323
+2020-08-24,RO,Cerejeiras,city,184,6,85,False,16323,1100056,1127.24377,0.0326
 2020-08-23,RO,Cerejeiras,city,183,6,84,False,16323,1100056,1121.11744,0.0328
 2020-08-22,RO,Cerejeiras,city,178,6,83,False,16323,1100056,1090.48582,0.0337
 2020-08-21,RO,Cerejeiras,city,175,6,82,False,16323,1100056,1072.10684,0.0343
@@ -1488,7 +1515,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-24,RO,Cerejeiras,city,1,1,3,False,16323,1100056,6.12632,1.0000
 2020-05-23,RO,Cerejeiras,city,1,1,2,False,16323,1100056,6.12632,1.0000
 2020-05-22,RO,Cerejeiras,city,1,1,1,False,16323,1100056,6.12632,1.0000
-2020-08-24,RO,Chupinguaia,city,430,2,74,True,11182,1100924,3845.46593,0.0047
+2020-08-26,RO,Chupinguaia,city,466,4,76,True,11182,1100924,4167.41191,0.0086
+2020-08-25,RO,Chupinguaia,city,450,4,75,False,11182,1100924,4024.32481,0.0089
+2020-08-24,RO,Chupinguaia,city,430,2,74,False,11182,1100924,3845.46593,0.0047
 2020-08-23,RO,Chupinguaia,city,430,2,73,False,11182,1100924,3845.46593,0.0047
 2020-08-22,RO,Chupinguaia,city,430,2,72,False,11182,1100924,3845.46593,0.0047
 2020-08-21,RO,Chupinguaia,city,429,2,71,False,11182,1100924,3836.52298,0.0047
@@ -1562,7 +1591,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-05,RO,Chupinguaia,city,4,0,3,False,11182,1100924,35.77178,0.0000
 2020-06-04,RO,Chupinguaia,city,4,0,2,False,11182,1100924,35.77178,0.0000
 2020-06-03,RO,Chupinguaia,city,4,0,1,False,11182,1100924,35.77178,0.0000
-2020-08-24,RO,Colorado do Oeste,city,105,0,71,True,15882,1100064,661.12580,0.0000
+2020-08-26,RO,Colorado do Oeste,city,107,0,73,True,15882,1100064,673.71868,0.0000
+2020-08-25,RO,Colorado do Oeste,city,107,0,72,False,15882,1100064,673.71868,0.0000
+2020-08-24,RO,Colorado do Oeste,city,105,0,71,False,15882,1100064,661.12580,0.0000
 2020-08-23,RO,Colorado do Oeste,city,104,0,70,False,15882,1100064,654.82937,0.0000
 2020-08-22,RO,Colorado do Oeste,city,104,0,69,False,15882,1100064,654.82937,0.0000
 2020-08-21,RO,Colorado do Oeste,city,104,0,68,False,15882,1100064,654.82937,0.0000
@@ -1633,7 +1664,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-08,RO,Colorado do Oeste,city,2,0,3,False,15882,1100064,12.59287,0.0000
 2020-06-07,RO,Colorado do Oeste,city,2,0,2,False,15882,1100064,12.59287,0.0000
 2020-06-06,RO,Colorado do Oeste,city,2,0,1,False,15882,1100064,12.59287,0.0000
-2020-08-24,RO,Corumbiara,city,28,2,71,True,7391,1100072,378.83913,0.0714
+2020-08-26,RO,Corumbiara,city,30,2,73,True,7391,1100072,405.89907,0.0667
+2020-08-25,RO,Corumbiara,city,28,2,72,False,7391,1100072,378.83913,0.0714
+2020-08-24,RO,Corumbiara,city,28,2,71,False,7391,1100072,378.83913,0.0714
 2020-08-23,RO,Corumbiara,city,27,2,70,False,7391,1100072,365.30916,0.0741
 2020-08-22,RO,Corumbiara,city,26,2,69,False,7391,1100072,351.77919,0.0769
 2020-08-21,RO,Corumbiara,city,25,2,68,False,7391,1100072,338.24922,0.0800
@@ -1704,7 +1737,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-08,RO,Corumbiara,city,5,0,3,False,7391,1100072,67.64984,0.0000
 2020-06-07,RO,Corumbiara,city,4,0,2,False,7391,1100072,54.11988,0.0000
 2020-06-06,RO,Corumbiara,city,4,0,1,False,7391,1100072,54.11988,0.0000
-2020-08-24,RO,Costa Marques,city,172,2,83,True,18331,1100080,938.30124,0.0116
+2020-08-26,RO,Costa Marques,city,179,2,85,True,18331,1100080,976.48792,0.0112
+2020-08-25,RO,Costa Marques,city,180,2,84,False,18331,1100080,981.94316,0.0111
+2020-08-24,RO,Costa Marques,city,172,2,83,False,18331,1100080,938.30124,0.0116
 2020-08-23,RO,Costa Marques,city,172,2,82,False,18331,1100080,938.30124,0.0116
 2020-08-22,RO,Costa Marques,city,172,2,81,False,18331,1100080,938.30124,0.0116
 2020-08-21,RO,Costa Marques,city,158,2,80,False,18331,1100080,861.92788,0.0127
@@ -1787,7 +1822,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-26,RO,Costa Marques,city,1,0,3,False,18331,1100080,5.45524,0.0000
 2020-05-25,RO,Costa Marques,city,1,0,2,False,18331,1100080,5.45524,0.0000
 2020-05-24,RO,Costa Marques,city,1,0,1,False,18331,1100080,5.45524,0.0000
-2020-08-24,RO,Cujubim,city,227,6,107,True,25215,1100940,900.25778,0.0264
+2020-08-26,RO,Cujubim,city,241,6,109,True,25215,1100940,955.78029,0.0249
+2020-08-25,RO,Cujubim,city,237,6,108,False,25215,1100940,939.91672,0.0253
+2020-08-24,RO,Cujubim,city,227,6,107,False,25215,1100940,900.25778,0.0264
 2020-08-23,RO,Cujubim,city,221,5,106,False,25215,1100940,876.46242,0.0226
 2020-08-22,RO,Cujubim,city,219,5,105,False,25215,1100940,868.53064,0.0228
 2020-08-21,RO,Cujubim,city,219,5,104,False,25215,1100940,868.53064,0.0228
@@ -1894,7 +1931,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-01,RO,Cujubim,city,1,1,3,False,25215,1100940,3.96589,1.0000
 2020-04-30,RO,Cujubim,city,1,1,2,False,25215,1100940,3.96589,1.0000
 2020-04-29,RO,Cujubim,city,1,1,1,False,25215,1100940,3.96589,1.0000
-2020-08-24,RO,Espigão D'Oeste,city,436,8,105,True,32374,1100098,1346.75975,0.0183
+2020-08-26,RO,Espigão D'Oeste,city,443,8,107,True,32374,1100098,1368.38203,0.0181
+2020-08-25,RO,Espigão D'Oeste,city,438,8,106,False,32374,1100098,1352.93754,0.0183
+2020-08-24,RO,Espigão D'Oeste,city,436,8,105,False,32374,1100098,1346.75975,0.0183
 2020-08-23,RO,Espigão D'Oeste,city,424,8,104,False,32374,1100098,1309.69296,0.0189
 2020-08-22,RO,Espigão D'Oeste,city,422,8,103,False,32374,1100098,1303.51517,0.0190
 2020-08-21,RO,Espigão D'Oeste,city,422,8,102,False,32374,1100098,1303.51517,0.0190
@@ -1999,7 +2038,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-03,RO,Espigão D'Oeste,city,1,0,3,False,32374,1100098,3.08890,0.0000
 2020-05-02,RO,Espigão D'Oeste,city,1,0,2,False,32374,1100098,3.08890,0.0000
 2020-05-01,RO,Espigão D'Oeste,city,1,0,1,False,32374,1100098,3.08890,0.0000
-2020-08-24,RO,Governador Jorge Teixeira,city,71,0,106,True,7767,1101005,914.12386,0.0000
+2020-08-26,RO,Governador Jorge Teixeira,city,84,0,108,True,7767,1101005,1081.49865,0.0000
+2020-08-25,RO,Governador Jorge Teixeira,city,75,0,107,False,7767,1101005,965.62379,0.0000
+2020-08-24,RO,Governador Jorge Teixeira,city,71,0,106,False,7767,1101005,914.12386,0.0000
 2020-08-23,RO,Governador Jorge Teixeira,city,71,0,105,False,7767,1101005,914.12386,0.0000
 2020-08-22,RO,Governador Jorge Teixeira,city,71,0,104,False,7767,1101005,914.12386,0.0000
 2020-08-21,RO,Governador Jorge Teixeira,city,74,0,103,False,7767,1101005,952.74881,0.0000
@@ -2105,7 +2146,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,RO,Governador Jorge Teixeira,city,3,0,3,False,7767,1101005,38.62495,0.0000
 2020-05-01,RO,Governador Jorge Teixeira,city,3,0,2,False,7767,1101005,38.62495,0.0000
 2020-04-30,RO,Governador Jorge Teixeira,city,3,0,1,False,7767,1101005,38.62495,0.0000
-2020-08-24,RO,Guajará-Mirim,city,2664,80,106,True,46174,1100106,5769.48066,0.0300
+2020-08-26,RO,Guajará-Mirim,city,2692,82,108,True,46174,1100106,5830.12085,0.0305
+2020-08-25,RO,Guajará-Mirim,city,2673,82,107,False,46174,1100106,5788.97215,0.0307
+2020-08-24,RO,Guajará-Mirim,city,2664,80,106,False,46174,1100106,5769.48066,0.0300
 2020-08-23,RO,Guajará-Mirim,city,2649,79,105,False,46174,1100106,5736.99485,0.0298
 2020-08-22,RO,Guajará-Mirim,city,2637,79,104,False,46174,1100106,5711.00619,0.0300
 2020-08-21,RO,Guajará-Mirim,city,2635,79,103,False,46174,1100106,5706.67475,0.0300
@@ -2211,7 +2254,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,RO,Guajará-Mirim,city,6,2,3,False,46174,1100106,12.99433,0.3333
 2020-05-01,RO,Guajará-Mirim,city,4,1,2,False,46174,1100106,8.66288,0.2500
 2020-04-30,RO,Guajará-Mirim,city,4,1,1,False,46174,1100106,8.66288,0.2500
-2020-08-24,RO,Importados/Indefinidos,city,0,0,112,True,,,,0.0000
+2020-08-26,RO,Importados/Indefinidos,city,0,0,114,True,,,,0.0000
+2020-08-25,RO,Importados/Indefinidos,city,0,0,113,False,,,,0.0000
+2020-08-24,RO,Importados/Indefinidos,city,0,0,112,False,,,,0.0000
 2020-08-23,RO,Importados/Indefinidos,city,0,0,111,False,,,,0.0000
 2020-08-22,RO,Importados/Indefinidos,city,0,0,110,False,,,,0.0000
 2020-08-21,RO,Importados/Indefinidos,city,0,0,109,False,,,,0.0000
@@ -2323,7 +2368,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-26,RO,Importados/Indefinidos,city,0,1,3,False,,,,0.0000
 2020-04-25,RO,Importados/Indefinidos,city,0,1,2,False,,,,0.0000
 2020-04-24,RO,Importados/Indefinidos,city,0,1,1,False,,,,0.0000
-2020-08-24,RO,Itapuã do Oeste,city,342,6,109,True,10458,1101104,3270.22375,0.0175
+2020-08-26,RO,Itapuã do Oeste,city,343,6,111,True,10458,1101104,3279.78581,0.0175
+2020-08-25,RO,Itapuã do Oeste,city,342,6,110,False,10458,1101104,3270.22375,0.0175
+2020-08-24,RO,Itapuã do Oeste,city,342,6,109,False,10458,1101104,3270.22375,0.0175
 2020-08-23,RO,Itapuã do Oeste,city,333,6,108,False,10458,1101104,3184.16523,0.0180
 2020-08-22,RO,Itapuã do Oeste,city,333,6,107,False,10458,1101104,3184.16523,0.0180
 2020-08-21,RO,Itapuã do Oeste,city,333,6,106,False,10458,1101104,3184.16523,0.0180
@@ -2432,7 +2479,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-29,RO,Itapuã do Oeste,city,1,0,3,False,10458,1101104,9.56206,0.0000
 2020-04-28,RO,Itapuã do Oeste,city,2,0,2,False,10458,1101104,19.12412,0.0000
 2020-04-27,RO,Itapuã do Oeste,city,1,0,1,False,10458,1101104,9.56206,0.0000
-2020-08-24,RO,Jaru,city,1472,22,135,True,51775,1100114,2843.07098,0.0149
+2020-08-26,RO,Jaru,city,1492,22,137,True,51775,1100114,2881.69966,0.0147
+2020-08-25,RO,Jaru,city,1482,22,136,False,51775,1100114,2862.38532,0.0148
+2020-08-24,RO,Jaru,city,1472,22,135,False,51775,1100114,2843.07098,0.0149
 2020-08-23,RO,Jaru,city,1454,22,134,False,51775,1100114,2808.30517,0.0151
 2020-08-22,RO,Jaru,city,1431,22,133,False,51775,1100114,2763.88218,0.0154
 2020-08-21,RO,Jaru,city,1416,22,132,False,51775,1100114,2734.91067,0.0155
@@ -2567,7 +2616,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-01,RO,Jaru,city,1,0,3,False,51775,1100114,1.93143,0.0000
 2020-03-31,RO,Jaru,city,1,0,2,False,51775,1100114,1.93143,0.0000
 2020-03-30,RO,Jaru,city,1,0,1,False,51775,1100114,1.93143,0.0000
-2020-08-24,RO,Ji-Paraná,city,1773,38,144,True,128969,1100122,1374.74897,0.0214
+2020-08-26,RO,Ji-Paraná,city,1837,41,146,True,128969,1100122,1424.37330,0.0223
+2020-08-25,RO,Ji-Paraná,city,1788,38,145,False,128969,1100122,1386.37967,0.0213
+2020-08-24,RO,Ji-Paraná,city,1773,38,144,False,128969,1100122,1374.74897,0.0214
 2020-08-23,RO,Ji-Paraná,city,1716,38,143,False,128969,1100122,1330.55230,0.0221
 2020-08-22,RO,Ji-Paraná,city,1714,38,142,False,128969,1100122,1329.00154,0.0222
 2020-08-21,RO,Ji-Paraná,city,1657,38,141,False,128969,1100122,1284.80488,0.0229
@@ -2711,7 +2762,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-22,RO,Ji-Paraná,city,1,0,3,False,128969,1100122,0.77538,0.0000
 2020-03-21,RO,Ji-Paraná,city,1,0,2,False,128969,1100122,0.77538,0.0000
 2020-03-20,RO,Ji-Paraná,city,1,0,1,False,128969,1100122,0.77538,0.0000
-2020-08-24,RO,Machadinho D'Oeste,city,767,5,102,True,39991,1100130,1917.93153,0.0065
+2020-08-26,RO,Machadinho D'Oeste,city,804,5,104,True,39991,1100130,2010.45235,0.0062
+2020-08-25,RO,Machadinho D'Oeste,city,802,5,103,False,39991,1100130,2005.45123,0.0062
+2020-08-24,RO,Machadinho D'Oeste,city,767,5,102,False,39991,1100130,1917.93153,0.0065
 2020-08-23,RO,Machadinho D'Oeste,city,724,5,101,False,39991,1100130,1810.40734,0.0069
 2020-08-22,RO,Machadinho D'Oeste,city,724,5,100,False,39991,1100130,1810.40734,0.0069
 2020-08-21,RO,Machadinho D'Oeste,city,722,4,99,False,39991,1100130,1805.40622,0.0055
@@ -2813,7 +2866,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-06,RO,Machadinho D'Oeste,city,1,0,3,False,39991,1100130,2.50056,0.0000
 2020-05-05,RO,Machadinho D'Oeste,city,0,0,2,False,39991,1100130,,0.0000
 2020-05-04,RO,Machadinho D'Oeste,city,1,0,1,False,39991,1100130,2.50056,0.0000
-2020-08-24,RO,Ministro Andreazza,city,18,1,84,True,9660,1101203,186.33540,0.0556
+2020-08-26,RO,Ministro Andreazza,city,19,1,86,True,9660,1101203,196.68737,0.0526
+2020-08-25,RO,Ministro Andreazza,city,18,1,85,False,9660,1101203,186.33540,0.0556
+2020-08-24,RO,Ministro Andreazza,city,18,1,84,False,9660,1101203,186.33540,0.0556
 2020-08-23,RO,Ministro Andreazza,city,18,1,83,False,9660,1101203,186.33540,0.0556
 2020-08-22,RO,Ministro Andreazza,city,17,1,82,False,9660,1101203,175.98344,0.0588
 2020-08-21,RO,Ministro Andreazza,city,18,1,81,False,9660,1101203,186.33540,0.0556
@@ -2897,7 +2952,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-25,RO,Ministro Andreazza,city,1,0,3,False,9660,1101203,10.35197,0.0000
 2020-05-24,RO,Ministro Andreazza,city,1,0,2,False,9660,1101203,10.35197,0.0000
 2020-05-23,RO,Ministro Andreazza,city,1,0,1,False,9660,1101203,10.35197,0.0000
-2020-08-24,RO,Mirante da Serra,city,83,3,103,True,10947,1101302,758.19859,0.0361
+2020-08-26,RO,Mirante da Serra,city,88,3,105,True,10947,1101302,803.87321,0.0341
+2020-08-25,RO,Mirante da Serra,city,87,3,104,False,10947,1101302,794.73828,0.0345
+2020-08-24,RO,Mirante da Serra,city,83,3,103,False,10947,1101302,758.19859,0.0361
 2020-08-23,RO,Mirante da Serra,city,83,3,102,False,10947,1101302,758.19859,0.0361
 2020-08-22,RO,Mirante da Serra,city,83,3,101,False,10947,1101302,758.19859,0.0361
 2020-08-21,RO,Mirante da Serra,city,83,3,100,False,10947,1101302,758.19859,0.0361
@@ -3000,7 +3057,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-05,RO,Mirante da Serra,city,3,0,3,False,10947,1101302,27.40477,0.0000
 2020-05-04,RO,Mirante da Serra,city,1,0,2,False,10947,1101302,9.13492,0.0000
 2020-05-03,RO,Mirante da Serra,city,1,0,1,False,10947,1101302,9.13492,0.0000
-2020-08-24,RO,Monte Negro,city,193,3,100,True,15852,1101401,1217.51199,0.0155
+2020-08-26,RO,Monte Negro,city,200,3,102,True,15852,1101401,1261.67045,0.0150
+2020-08-25,RO,Monte Negro,city,198,3,101,False,15852,1101401,1249.05375,0.0152
+2020-08-24,RO,Monte Negro,city,193,3,100,False,15852,1101401,1217.51199,0.0155
 2020-08-23,RO,Monte Negro,city,188,3,99,False,15852,1101401,1185.97022,0.0160
 2020-08-22,RO,Monte Negro,city,188,3,98,False,15852,1101401,1185.97022,0.0160
 2020-08-21,RO,Monte Negro,city,187,3,97,False,15852,1101401,1179.66187,0.0160
@@ -3100,7 +3159,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,RO,Monte Negro,city,0,0,3,False,15852,1101401,,0.0000
 2020-05-07,RO,Monte Negro,city,0,0,2,False,15852,1101401,,0.0000
 2020-05-06,RO,Monte Negro,city,1,0,1,False,15852,1101401,6.30835,0.0000
-2020-08-24,RO,Nova Brasilândia D'Oeste,city,256,2,100,True,20474,1100148,1250.36632,0.0078
+2020-08-26,RO,Nova Brasilândia D'Oeste,city,262,2,102,True,20474,1100148,1279.67178,0.0076
+2020-08-25,RO,Nova Brasilândia D'Oeste,city,260,2,101,False,20474,1100148,1269.90329,0.0077
+2020-08-24,RO,Nova Brasilândia D'Oeste,city,256,2,100,False,20474,1100148,1250.36632,0.0078
 2020-08-23,RO,Nova Brasilândia D'Oeste,city,253,1,99,False,20474,1100148,1235.71359,0.0040
 2020-08-22,RO,Nova Brasilândia D'Oeste,city,243,1,98,False,20474,1100148,1186.87115,0.0041
 2020-08-21,RO,Nova Brasilândia D'Oeste,city,243,1,97,False,20474,1100148,1186.87115,0.0041
@@ -3200,7 +3261,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-08,RO,Nova Brasilândia D'Oeste,city,2,0,3,False,20474,1100148,9.76849,0.0000
 2020-05-07,RO,Nova Brasilândia D'Oeste,city,2,0,2,False,20474,1100148,9.76849,0.0000
 2020-05-06,RO,Nova Brasilândia D'Oeste,city,2,0,1,False,20474,1100148,9.76849,0.0000
-2020-08-24,RO,Nova Mamoré,city,758,6,94,True,30583,1100338,2478.50113,0.0079
+2020-08-26,RO,Nova Mamoré,city,787,6,96,True,30583,1100338,2573.32505,0.0076
+2020-08-25,RO,Nova Mamoré,city,780,6,95,False,30583,1100338,2550.43652,0.0077
+2020-08-24,RO,Nova Mamoré,city,758,6,94,False,30583,1100338,2478.50113,0.0079
 2020-08-23,RO,Nova Mamoré,city,741,6,93,False,30583,1100338,2422.91469,0.0081
 2020-08-22,RO,Nova Mamoré,city,745,6,92,False,30583,1100338,2435.99385,0.0081
 2020-08-21,RO,Nova Mamoré,city,744,6,91,False,30583,1100338,2432.72406,0.0081
@@ -3294,7 +3357,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,RO,Nova Mamoré,city,3,0,3,False,30583,1100338,9.80937,0.0000
 2020-05-13,RO,Nova Mamoré,city,2,0,2,False,30583,1100338,6.53958,0.0000
 2020-05-12,RO,Nova Mamoré,city,2,0,1,False,30583,1100338,6.53958,0.0000
-2020-08-24,RO,Nova União,city,126,2,80,True,6970,1101435,1807.74749,0.0159
+2020-08-26,RO,Nova União,city,131,2,82,True,6970,1101435,1879.48350,0.0153
+2020-08-25,RO,Nova União,city,130,2,81,False,6970,1101435,1865.13630,0.0154
+2020-08-24,RO,Nova União,city,126,2,80,False,6970,1101435,1807.74749,0.0159
 2020-08-23,RO,Nova União,city,120,1,79,False,6970,1101435,1721.66428,0.0083
 2020-08-22,RO,Nova União,city,119,1,78,False,6970,1101435,1707.31707,0.0084
 2020-08-21,RO,Nova União,city,118,1,77,False,6970,1101435,1692.96987,0.0085
@@ -3374,7 +3439,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-29,RO,Nova União,city,0,0,3,False,6970,1101435,,0.0000
 2020-05-28,RO,Nova União,city,0,0,2,False,6970,1101435,,0.0000
 2020-05-27,RO,Nova União,city,1,0,1,False,6970,1101435,14.34720,0.0000
-2020-08-24,RO,Novo Horizonte do Oeste,city,49,1,106,True,8538,1100502,573.90490,0.0204
+2020-08-26,RO,Novo Horizonte do Oeste,city,49,1,108,True,8538,1100502,573.90490,0.0204
+2020-08-25,RO,Novo Horizonte do Oeste,city,49,1,107,False,8538,1100502,573.90490,0.0204
+2020-08-24,RO,Novo Horizonte do Oeste,city,49,1,106,False,8538,1100502,573.90490,0.0204
 2020-08-23,RO,Novo Horizonte do Oeste,city,49,1,105,False,8538,1100502,573.90490,0.0204
 2020-08-22,RO,Novo Horizonte do Oeste,city,48,1,104,False,8538,1100502,562.19255,0.0208
 2020-08-21,RO,Novo Horizonte do Oeste,city,47,1,103,False,8538,1100502,550.48021,0.0213
@@ -3480,7 +3547,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-02,RO,Novo Horizonte do Oeste,city,1,0,3,False,8538,1100502,11.71234,0.0000
 2020-05-01,RO,Novo Horizonte do Oeste,city,1,0,2,False,8538,1100502,11.71234,0.0000
 2020-04-30,RO,Novo Horizonte do Oeste,city,1,0,1,False,8538,1100502,11.71234,0.0000
-2020-08-24,RO,Ouro Preto do Oeste,city,684,17,126,True,36035,1100155,1898.15457,0.0249
+2020-08-26,RO,Ouro Preto do Oeste,city,712,17,128,True,36035,1100155,1975.85681,0.0239
+2020-08-25,RO,Ouro Preto do Oeste,city,714,17,127,False,36035,1100155,1981.40697,0.0238
+2020-08-24,RO,Ouro Preto do Oeste,city,684,17,126,False,36035,1100155,1898.15457,0.0249
 2020-08-23,RO,Ouro Preto do Oeste,city,653,16,125,False,36035,1100155,1812.12710,0.0245
 2020-08-22,RO,Ouro Preto do Oeste,city,653,16,124,False,36035,1100155,1812.12710,0.0245
 2020-08-21,RO,Ouro Preto do Oeste,city,652,16,123,False,36035,1100155,1809.35202,0.0245
@@ -3606,7 +3675,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-10,RO,Ouro Preto do Oeste,city,1,0,3,False,36035,1100155,2.77508,0.0000
 2020-04-09,RO,Ouro Preto do Oeste,city,1,0,2,False,36035,1100155,2.77508,0.0000
 2020-04-08,RO,Ouro Preto do Oeste,city,1,0,1,False,36035,1100155,2.77508,0.0000
-2020-08-24,RO,Parecis,city,16,1,57,True,6074,1101450,263.41785,0.0625
+2020-08-26,RO,Parecis,city,16,1,59,True,6074,1101450,263.41785,0.0625
+2020-08-25,RO,Parecis,city,16,1,58,False,6074,1101450,263.41785,0.0625
+2020-08-24,RO,Parecis,city,16,1,57,False,6074,1101450,263.41785,0.0625
 2020-08-23,RO,Parecis,city,16,1,56,False,6074,1101450,263.41785,0.0625
 2020-08-22,RO,Parecis,city,16,1,55,False,6074,1101450,263.41785,0.0625
 2020-08-21,RO,Parecis,city,16,1,54,False,6074,1101450,263.41785,0.0625
@@ -3663,7 +3734,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-24,RO,Parecis,city,1,0,3,False,6074,1101450,16.46362,0.0000
 2020-06-23,RO,Parecis,city,1,0,2,False,6074,1101450,16.46362,0.0000
 2020-06-22,RO,Parecis,city,1,0,1,False,6074,1101450,16.46362,0.0000
-2020-08-24,RO,Pimenta Bueno,city,508,9,114,True,36660,1100189,1385.70649,0.0177
+2020-08-26,RO,Pimenta Bueno,city,526,10,116,True,36660,1100189,1434.80633,0.0190
+2020-08-25,RO,Pimenta Bueno,city,518,10,115,False,36660,1100189,1412.98418,0.0193
+2020-08-24,RO,Pimenta Bueno,city,508,9,114,False,36660,1100189,1385.70649,0.0177
 2020-08-23,RO,Pimenta Bueno,city,507,8,113,False,36660,1100189,1382.97872,0.0158
 2020-08-22,RO,Pimenta Bueno,city,507,8,112,False,36660,1100189,1382.97872,0.0158
 2020-08-21,RO,Pimenta Bueno,city,500,8,111,False,36660,1100189,1363.88434,0.0160
@@ -3777,7 +3850,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-24,RO,Pimenta Bueno,city,0,0,3,False,36660,1100189,,0.0000
 2020-04-23,RO,Pimenta Bueno,city,0,0,2,False,36660,1100189,,0.0000
 2020-04-21,RO,Pimenta Bueno,city,1,0,1,False,36660,1100189,2.72777,0.0000
-2020-08-24,RO,Pimenteiras do Oeste,city,152,4,82,True,2169,1101468,7007.83771,0.0263
+2020-08-26,RO,Pimenteiras do Oeste,city,158,4,84,True,2169,1101468,7284.46289,0.0253
+2020-08-25,RO,Pimenteiras do Oeste,city,157,4,83,False,2169,1101468,7238.35869,0.0255
+2020-08-24,RO,Pimenteiras do Oeste,city,152,4,82,False,2169,1101468,7007.83771,0.0263
 2020-08-23,RO,Pimenteiras do Oeste,city,142,4,81,False,2169,1101468,6546.79576,0.0282
 2020-08-22,RO,Pimenteiras do Oeste,city,142,4,80,False,2169,1101468,6546.79576,0.0282
 2020-08-21,RO,Pimenteiras do Oeste,city,142,4,79,False,2169,1101468,6546.79576,0.0282
@@ -3859,7 +3934,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-27,RO,Pimenteiras do Oeste,city,2,0,3,False,2169,1101468,92.20839,0.0000
 2020-05-26,RO,Pimenteiras do Oeste,city,2,0,2,False,2169,1101468,92.20839,0.0000
 2020-05-25,RO,Pimenteiras do Oeste,city,2,0,1,False,2169,1101468,92.20839,0.0000
-2020-08-24,RO,Porto Velho,city,26044,623,143,True,529544,1100205,4918.19377,0.0239
+2020-08-26,RO,Porto Velho,city,26294,634,145,True,529544,1100205,4965.40420,0.0241
+2020-08-25,RO,Porto Velho,city,26130,628,144,False,529544,1100205,4934.43415,0.0240
+2020-08-24,RO,Porto Velho,city,26044,623,143,False,529544,1100205,4918.19377,0.0239
 2020-08-23,RO,Porto Velho,city,25959,622,142,False,529544,1100205,4902.14222,0.0240
 2020-08-22,RO,Porto Velho,city,25772,622,141,False,529544,1100205,4866.82882,0.0241
 2020-08-21,RO,Porto Velho,city,25574,617,140,False,529544,1100205,4829.43816,0.0241
@@ -4002,7 +4079,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-03-24,RO,Porto Velho,city,4,0,3,False,529544,1100205,0.75537,0.0000
 2020-03-22,RO,Porto Velho,city,2,0,2,False,529544,1100205,0.37768,0.0000
 2020-03-21,RO,Porto Velho,city,2,0,1,False,529544,1100205,0.37768,0.0000
-2020-08-24,RO,Presidente Médici,city,360,3,94,True,18986,1100254,1896.13399,0.0083
+2020-08-26,RO,Presidente Médici,city,379,3,96,True,18986,1100254,1996.20773,0.0079
+2020-08-25,RO,Presidente Médici,city,367,3,95,False,18986,1100254,1933.00327,0.0082
+2020-08-24,RO,Presidente Médici,city,360,3,94,False,18986,1100254,1896.13399,0.0083
 2020-08-23,RO,Presidente Médici,city,357,3,93,False,18986,1100254,1880.33288,0.0084
 2020-08-22,RO,Presidente Médici,city,342,3,92,False,18986,1100254,1801.32729,0.0088
 2020-08-21,RO,Presidente Médici,city,341,3,91,False,18986,1100254,1796.06025,0.0088
@@ -4096,7 +4175,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,RO,Presidente Médici,city,0,0,3,False,18986,1100254,,0.0000
 2020-05-13,RO,Presidente Médici,city,0,0,2,False,18986,1100254,,0.0000
 2020-05-12,RO,Presidente Médici,city,1,0,1,False,18986,1100254,5.26704,0.0000
-2020-08-24,RO,Primavera de Rondônia,city,16,0,105,True,2856,1101476,560.22409,0.0000
+2020-08-26,RO,Primavera de Rondônia,city,16,0,107,True,2856,1101476,560.22409,0.0000
+2020-08-25,RO,Primavera de Rondônia,city,16,0,106,False,2856,1101476,560.22409,0.0000
+2020-08-24,RO,Primavera de Rondônia,city,16,0,105,False,2856,1101476,560.22409,0.0000
 2020-08-23,RO,Primavera de Rondônia,city,16,0,104,False,2856,1101476,560.22409,0.0000
 2020-08-22,RO,Primavera de Rondônia,city,16,0,103,False,2856,1101476,560.22409,0.0000
 2020-08-21,RO,Primavera de Rondônia,city,16,0,102,False,2856,1101476,560.22409,0.0000
@@ -4201,7 +4282,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-03,RO,Primavera de Rondônia,city,1,0,3,False,2856,1101476,35.01401,0.0000
 2020-05-02,RO,Primavera de Rondônia,city,1,0,2,False,2856,1101476,35.01401,0.0000
 2020-05-01,RO,Primavera de Rondônia,city,1,0,1,False,2856,1101476,35.01401,0.0000
-2020-08-24,RO,Rio Crespo,city,99,0,89,True,3764,1100262,2630.18066,0.0000
+2020-08-26,RO,Rio Crespo,city,102,0,91,True,3764,1100262,2709.88310,0.0000
+2020-08-25,RO,Rio Crespo,city,102,0,90,False,3764,1100262,2709.88310,0.0000
+2020-08-24,RO,Rio Crespo,city,99,0,89,False,3764,1100262,2630.18066,0.0000
 2020-08-23,RO,Rio Crespo,city,96,0,88,False,3764,1100262,2550.47821,0.0000
 2020-08-22,RO,Rio Crespo,city,96,0,87,False,3764,1100262,2550.47821,0.0000
 2020-08-21,RO,Rio Crespo,city,96,0,86,False,3764,1100262,2550.47821,0.0000
@@ -4290,7 +4373,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-19,RO,Rio Crespo,city,1,0,3,False,3764,1100262,26.56748,0.0000
 2020-05-18,RO,Rio Crespo,city,1,0,2,False,3764,1100262,26.56748,0.0000
 2020-05-17,RO,Rio Crespo,city,2,0,1,False,3764,1100262,53.13496,0.0000
-2020-08-24,RO,Rolim de Moura,city,1182,16,129,True,55058,1100288,2146.82698,0.0135
+2020-08-26,RO,Rolim de Moura,city,1215,16,131,True,55058,1100288,2206.76378,0.0132
+2020-08-25,RO,Rolim de Moura,city,1188,16,130,False,55058,1100288,2157.72458,0.0135
+2020-08-24,RO,Rolim de Moura,city,1182,16,129,False,55058,1100288,2146.82698,0.0135
 2020-08-23,RO,Rolim de Moura,city,1163,16,128,False,55058,1100288,2112.31792,0.0138
 2020-08-22,RO,Rolim de Moura,city,1162,16,127,False,55058,1100288,2110.50165,0.0138
 2020-08-21,RO,Rolim de Moura,city,1164,16,126,False,55058,1100288,2114.13419,0.0137
@@ -4419,7 +4504,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-07,RO,Rolim de Moura,city,1,0,3,False,55058,1100288,1.81627,0.0000
 2020-04-06,RO,Rolim de Moura,city,1,0,2,False,55058,1100288,1.81627,0.0000
 2020-04-05,RO,Rolim de Moura,city,1,0,1,False,55058,1100288,1.81627,0.0000
-2020-08-24,RO,Santa Luzia D'Oeste,city,89,0,91,True,6495,1100296,1370.28483,0.0000
+2020-08-26,RO,Santa Luzia D'Oeste,city,94,0,93,True,6495,1100296,1447.26713,0.0000
+2020-08-25,RO,Santa Luzia D'Oeste,city,92,0,92,False,6495,1100296,1416.47421,0.0000
+2020-08-24,RO,Santa Luzia D'Oeste,city,89,0,91,False,6495,1100296,1370.28483,0.0000
 2020-08-23,RO,Santa Luzia D'Oeste,city,89,0,90,False,6495,1100296,1370.28483,0.0000
 2020-08-22,RO,Santa Luzia D'Oeste,city,89,0,89,False,6495,1100296,1370.28483,0.0000
 2020-08-21,RO,Santa Luzia D'Oeste,city,89,0,88,False,6495,1100296,1370.28483,0.0000
@@ -4510,7 +4597,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-17,RO,Santa Luzia D'Oeste,city,2,0,3,False,6495,1100296,30.79292,0.0000
 2020-05-16,RO,Santa Luzia D'Oeste,city,2,0,2,False,6495,1100296,30.79292,0.0000
 2020-05-15,RO,Santa Luzia D'Oeste,city,2,0,1,False,6495,1100296,30.79292,0.0000
-2020-08-24,RO,Seringueiras,city,110,0,86,True,11856,1101500,927.80027,0.0000
+2020-08-26,RO,Seringueiras,city,112,0,88,True,11856,1101500,944.66937,0.0000
+2020-08-25,RO,Seringueiras,city,112,0,87,False,11856,1101500,944.66937,0.0000
+2020-08-24,RO,Seringueiras,city,110,0,86,False,11856,1101500,927.80027,0.0000
 2020-08-23,RO,Seringueiras,city,109,0,85,False,11856,1101500,919.36572,0.0000
 2020-08-22,RO,Seringueiras,city,109,0,84,False,11856,1101500,919.36572,0.0000
 2020-08-21,RO,Seringueiras,city,109,0,83,False,11856,1101500,919.36572,0.0000
@@ -4596,7 +4685,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-23,RO,Seringueiras,city,1,0,3,False,11856,1101500,8.43455,0.0000
 2020-05-22,RO,Seringueiras,city,1,0,2,False,11856,1101500,8.43455,0.0000
 2020-05-20,RO,Seringueiras,city,1,0,1,False,11856,1101500,8.43455,0.0000
-2020-08-24,RO,São Felipe D'Oeste,city,76,1,98,True,5172,1101484,1469.45089,0.0132
+2020-08-26,RO,São Felipe D'Oeste,city,76,1,100,True,5172,1101484,1469.45089,0.0132
+2020-08-25,RO,São Felipe D'Oeste,city,76,1,99,False,5172,1101484,1469.45089,0.0132
+2020-08-24,RO,São Felipe D'Oeste,city,76,1,98,False,5172,1101484,1469.45089,0.0132
 2020-08-23,RO,São Felipe D'Oeste,city,75,1,97,False,5172,1101484,1450.11601,0.0133
 2020-08-22,RO,São Felipe D'Oeste,city,75,1,96,False,5172,1101484,1450.11601,0.0133
 2020-08-21,RO,São Felipe D'Oeste,city,75,1,95,False,5172,1101484,1450.11601,0.0133
@@ -4694,7 +4785,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-10,RO,São Felipe D'Oeste,city,1,0,3,False,5172,1101484,19.33488,0.0000
 2020-05-09,RO,São Felipe D'Oeste,city,1,0,2,False,5172,1101484,19.33488,0.0000
 2020-05-08,RO,São Felipe D'Oeste,city,1,0,1,False,5172,1101484,19.33488,0.0000
-2020-08-24,RO,São Francisco do Guaporé,city,137,2,87,True,20266,1101492,676.00908,0.0146
+2020-08-26,RO,São Francisco do Guaporé,city,145,2,89,True,20266,1101492,715.48406,0.0138
+2020-08-25,RO,São Francisco do Guaporé,city,144,2,88,False,20266,1101492,710.54969,0.0139
+2020-08-24,RO,São Francisco do Guaporé,city,137,2,87,False,20266,1101492,676.00908,0.0146
 2020-08-23,RO,São Francisco do Guaporé,city,133,2,86,False,20266,1101492,656.27159,0.0150
 2020-08-22,RO,São Francisco do Guaporé,city,133,2,85,False,20266,1101492,656.27159,0.0150
 2020-08-21,RO,São Francisco do Guaporé,city,132,2,84,False,20266,1101492,651.33722,0.0152
@@ -4781,7 +4874,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,RO,São Francisco do Guaporé,city,2,0,3,False,20266,1101492,9.86875,0.0000
 2020-05-20,RO,São Francisco do Guaporé,city,1,0,2,False,20266,1101492,4.93437,0.0000
 2020-05-19,RO,São Francisco do Guaporé,city,1,0,1,False,20266,1101492,4.93437,0.0000
-2020-08-24,RO,São Miguel do Guaporé,city,824,16,94,True,23005,1100320,3581.83004,0.0194
+2020-08-26,RO,São Miguel do Guaporé,city,833,16,96,True,23005,1100320,3620.95197,0.0192
+2020-08-25,RO,São Miguel do Guaporé,city,832,16,95,False,23005,1100320,3616.60509,0.0192
+2020-08-24,RO,São Miguel do Guaporé,city,824,16,94,False,23005,1100320,3581.83004,0.0194
 2020-08-23,RO,São Miguel do Guaporé,city,824,16,93,False,23005,1100320,3581.83004,0.0194
 2020-08-22,RO,São Miguel do Guaporé,city,824,16,92,False,23005,1100320,3581.83004,0.0194
 2020-08-21,RO,São Miguel do Guaporé,city,813,14,91,False,23005,1100320,3534.01434,0.0172
@@ -4875,7 +4970,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-14,RO,São Miguel do Guaporé,city,1,0,3,False,23005,1100320,4.34688,0.0000
 2020-05-13,RO,São Miguel do Guaporé,city,1,0,2,False,23005,1100320,4.34688,0.0000
 2020-05-12,RO,São Miguel do Guaporé,city,1,0,1,False,23005,1100320,4.34688,0.0000
-2020-08-24,RO,Teixeirópolis,city,20,1,71,True,4308,1101559,464.25255,0.0500
+2020-08-26,RO,Teixeirópolis,city,22,1,73,True,4308,1101559,510.67781,0.0455
+2020-08-25,RO,Teixeirópolis,city,22,1,72,False,4308,1101559,510.67781,0.0455
+2020-08-24,RO,Teixeirópolis,city,20,1,71,False,4308,1101559,464.25255,0.0500
 2020-08-23,RO,Teixeirópolis,city,18,1,70,False,4308,1101559,417.82730,0.0556
 2020-08-22,RO,Teixeirópolis,city,18,1,69,False,4308,1101559,417.82730,0.0556
 2020-08-21,RO,Teixeirópolis,city,18,1,68,False,4308,1101559,417.82730,0.0556
@@ -4946,7 +5043,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-06-08,RO,Teixeirópolis,city,1,0,3,False,4308,1101559,23.21263,0.0000
 2020-06-07,RO,Teixeirópolis,city,1,0,2,False,4308,1101559,23.21263,0.0000
 2020-06-06,RO,Teixeirópolis,city,1,0,1,False,4308,1101559,23.21263,0.0000
-2020-08-24,RO,Theobroma,city,93,0,99,True,10444,1101609,890.46342,0.0000
+2020-08-26,RO,Theobroma,city,92,0,101,True,10444,1101609,880.88855,0.0000
+2020-08-25,RO,Theobroma,city,93,0,100,False,10444,1101609,890.46342,0.0000
+2020-08-24,RO,Theobroma,city,93,0,99,False,10444,1101609,890.46342,0.0000
 2020-08-23,RO,Theobroma,city,92,0,98,False,10444,1101609,880.88855,0.0000
 2020-08-22,RO,Theobroma,city,92,0,97,False,10444,1101609,880.88855,0.0000
 2020-08-21,RO,Theobroma,city,92,0,96,False,10444,1101609,880.88855,0.0000
@@ -5045,7 +5144,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-09,RO,Theobroma,city,2,0,3,False,10444,1101609,19.14975,0.0000
 2020-05-08,RO,Theobroma,city,2,0,2,False,10444,1101609,19.14975,0.0000
 2020-05-07,RO,Theobroma,city,2,0,1,False,10444,1101609,19.14975,0.0000
-2020-08-24,RO,Urupá,city,125,2,113,True,11467,1101708,1090.08459,0.0160
+2020-08-26,RO,Urupá,city,138,2,115,True,11467,1101708,1203.45339,0.0145
+2020-08-25,RO,Urupá,city,135,2,114,False,11467,1101708,1177.29136,0.0148
+2020-08-24,RO,Urupá,city,125,2,113,False,11467,1101708,1090.08459,0.0160
 2020-08-23,RO,Urupá,city,121,2,112,False,11467,1101708,1055.20188,0.0165
 2020-08-22,RO,Urupá,city,121,2,111,False,11467,1101708,1055.20188,0.0165
 2020-08-21,RO,Urupá,city,119,2,110,False,11467,1101708,1037.76053,0.0168
@@ -5158,7 +5259,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-04-25,RO,Urupá,city,1,0,3,False,11467,1101708,8.72068,0.0000
 2020-04-24,RO,Urupá,city,1,0,2,False,11467,1101708,8.72068,0.0000
 2020-04-23,RO,Urupá,city,1,0,1,False,11467,1101708,8.72068,0.0000
-2020-08-24,RO,Vale do Anari,city,125,1,105,True,11204,1101757,1115.67297,0.0080
+2020-08-26,RO,Vale do Anari,city,128,1,107,True,11204,1101757,1142.44913,0.0078
+2020-08-25,RO,Vale do Anari,city,126,1,106,False,11204,1101757,1124.59836,0.0079
+2020-08-24,RO,Vale do Anari,city,125,1,105,False,11204,1101757,1115.67297,0.0080
 2020-08-23,RO,Vale do Anari,city,121,1,104,False,11204,1101757,1079.97144,0.0083
 2020-08-22,RO,Vale do Anari,city,120,1,103,False,11204,1101757,1071.04605,0.0083
 2020-08-21,RO,Vale do Anari,city,119,1,102,False,11204,1101757,1062.12067,0.0084
@@ -5263,7 +5366,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-03,RO,Vale do Anari,city,1,0,3,False,11204,1101757,8.92538,0.0000
 2020-05-02,RO,Vale do Anari,city,1,0,2,False,11204,1101757,8.92538,0.0000
 2020-05-01,RO,Vale do Anari,city,1,0,1,False,11204,1101757,8.92538,0.0000
-2020-08-24,RO,Vale do Paraíso,city,75,2,87,True,6825,1101807,1098.90110,0.0267
+2020-08-26,RO,Vale do Paraíso,city,76,2,89,True,6825,1101807,1113.55311,0.0263
+2020-08-25,RO,Vale do Paraíso,city,75,2,88,False,6825,1101807,1098.90110,0.0267
+2020-08-24,RO,Vale do Paraíso,city,75,2,87,False,6825,1101807,1098.90110,0.0267
 2020-08-23,RO,Vale do Paraíso,city,74,2,86,False,6825,1101807,1084.24908,0.0270
 2020-08-22,RO,Vale do Paraíso,city,74,2,85,False,6825,1101807,1084.24908,0.0270
 2020-08-21,RO,Vale do Paraíso,city,74,2,84,False,6825,1101807,1084.24908,0.0270
@@ -5350,7 +5455,9 @@ date,state,city,place_type,confirmed,deaths,order_for_place,is_last,estimated_po
 2020-05-22,RO,Vale do Paraíso,city,5,0,3,False,6825,1101807,73.26007,0.0000
 2020-05-20,RO,Vale do Paraíso,city,5,0,2,False,6825,1101807,73.26007,0.0000
 2020-05-19,RO,Vale do Paraíso,city,5,0,1,False,6825,1101807,73.26007,0.0000
-2020-08-24,RO,Vilhena,city,2392,35,129,True,99854,1100304,2395.49743,0.0146
+2020-08-26,RO,Vilhena,city,2636,35,131,True,99854,1100304,2639.85419,0.0133
+2020-08-25,RO,Vilhena,city,2550,35,130,False,99854,1100304,2553.72844,0.0137
+2020-08-24,RO,Vilhena,city,2392,35,129,False,99854,1100304,2395.49743,0.0146
 2020-08-23,RO,Vilhena,city,2377,35,128,False,99854,1100304,2380.47549,0.0147
 2020-08-22,RO,Vilhena,city,2371,35,127,False,99854,1100304,2374.46672,0.0148
 2020-08-21,RO,Vilhena,city,2340,34,126,False,99854,1100304,2343.42140,0.0145
