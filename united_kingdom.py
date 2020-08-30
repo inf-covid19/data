@@ -8,7 +8,7 @@ from helpers import ensure_dirs
 
 
 ENGLAND_CASES_BY_AREA = 'https://coronavirus.data.gov.uk/downloads/csv/coronavirus-cases_latest.csv'
-DEATHS_BY_AREA = 'https://coronavirus.data.gov.uk/downloads/csv/coronavirus-deaths_latest.csv'
+DEATHS_BY_AREA = 'https://api.coronavirus-staging.data.gov.uk/v1/data?filters=areaType=nation&structure=%7B%22areaType%22:%22areaType%22,%22areaName%22:%22areaName%22,%22areaCode%22:%22areaCode%22,%22date%22:%22date%22,%22newDeaths28DaysByDeathDate%22:%22newDeaths28DaysByDeathDate%22,%22cumDeaths28DaysByDeathDate%22:%22cumDeaths28DaysByDeathDate%22%7D&format=csv'
 UK_CASES_BY_AREA = 'https://cdn.jsdelivr.net/gh/emmadoughty/Daily_COVID-19/Data/cases_by_area.csv'
 
 
@@ -26,7 +26,7 @@ def scrape_united_kingdom():
 
     deaths_df = pd.read_csv(deaths_by_area_url, parse_dates=[3])
     deaths_df = deaths_df.set_index(
-        ['Area name', 'Area type', 'Reporting date'])
+        ['areaName', 'areaType', 'date'])
 
     df = pd.read_csv(UK_CASES_BY_AREA, parse_dates=[0], dayfirst=True)
     df = df.rename(columns={
@@ -45,11 +45,11 @@ def scrape_united_kingdom():
     def fill_deaths(row):
         area_type = row['place_type']
         if area_type == 'country':
-            area_type = 'Nation'
+            area_type = 'nation'
         key = (row['region'], area_type, row['date'])
         if not key in deaths_df.index:
             return np.NaN
-        return deaths_df.loc[key]['Cumulative deaths']
+        return deaths_df.loc[key]['cumDeaths28DaysByDeathDate']
 
     df['deaths'] = df.apply(fill_deaths, axis=1)
 
