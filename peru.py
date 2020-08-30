@@ -26,7 +26,7 @@ def scrape_peru():
 
     for table in tables:
         headers = [th.get_text().strip() for th in table.find_all('th')]
-        if len(headers) > 0 and 'Departamento' == headers[0]:
+        if len(headers) > 0 and 'Departamento' in headers[0]:
             per_departament_table = table
 
     updated_files = []
@@ -35,14 +35,15 @@ def scrape_peru():
     mapped = {}
 
     for tr in per_departament_table.tbody.find_all('tr'):
+        headers = [th.get_text().strip() for th in tr.find_all('th')]
         cols = [td.get_text().strip() for td in tr.find_all('td')]
-        if len(cols) != 11:
+        if len(cols) != 10:
             continue
 
-        departament = cols[0]
+        departament = headers[0]
 
-        cases = int(not_number_regexp.sub('', cols[2]))
-        deaths = int(not_number_regexp.sub('', cols[4]))
+        cases = int(not_number_regexp.sub('', cols[1]))
+        deaths = int(not_number_regexp.sub('', cols[3]))
 
         if 'Lima' in departament:
             departament = 'Lima'
@@ -102,7 +103,7 @@ def get_readme_contents():
 
 DEPARTAMENT_ISO = {
     'Amazonas': 'PE-AMA',
-    'Áncash': 'PE-ANC',
+    'Ancash': 'PE-ANC',
     'Apurímac': 'PE-APU',
     'Arequipa': 'PE-ARE',
     'Ayacucho': 'PE-AYA',
