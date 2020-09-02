@@ -1,12 +1,12 @@
 ## Peru
 
-> Last updated at Aug 30 2020 16:48:37 UTC.
+> Last updated at Sep 02 2020 00:55:46 UTC.
 
 
 | Departament | Dataset |
 | ----------- | ------- |
 | Amazonas | [`pe-ama.csv`](pe-ama.csv) |
-| Ancash | [`pe-anc.csv`](pe-anc.csv) |
+| Áncash | [`pe-anc.csv`](pe-anc.csv) |
 | Apurímac | [`pe-apu.csv`](pe-apu.csv) |
 | Arequipa | [`pe-are.csv`](pe-are.csv) |
 | Ayacucho | [`pe-aya.csv`](pe-aya.csv) |

@@ -103,7 +103,7 @@ def get_readme_contents():
 
 DEPARTAMENT_ISO = {
     'Amazonas': 'PE-AMA',
-    'Ancash': 'PE-ANC',
+    'Áncash': 'PE-ANC',
     'Apurímac': 'PE-APU',
     'Arequipa': 'PE-ARE',
     'Ayacucho': 'PE-AYA',
