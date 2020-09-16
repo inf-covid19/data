@@ -47,4 +47,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Ensure everything is working
-        run: test -z "$(cat /tmp/update-run.txt | grep Failed)"
+        run: |
+          test -z "$(cat /tmp/update-run.txt | grep Failed)"
+          test -z "$(cat /tmp/update-run.txt | grep Traceback)"
