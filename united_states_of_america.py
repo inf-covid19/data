@@ -6,7 +6,7 @@ from helpers import ensure_dirs
 
 
 COUNTIES_DATASET = 'https://github.com/nytimes/covid-19-data/raw/master/us-counties.csv'
-STATES_DATASET = 'https://github.com/nytimes/covid-19-data/raw/master/us-states.csv
+STATES_DATASET = 'https://github.com/nytimes/covid-19-data/raw/master/us-states.csv'
 
 
 def scrape_united_states_of_america():
