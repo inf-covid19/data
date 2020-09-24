@@ -3,6 +3,7 @@ import numpy as np
 from os import getcwd, path
 import datetime
 import requests
+import io
 
 from helpers import ensure_dirs
 
@@ -19,12 +20,12 @@ def scrape_united_kingdom():
     ensure_dirs(uk_dir, tmp_dir)
 
     england_cases_by_area_url = requests.get(ENGLAND_CASES_BY_AREA).url
-    deaths_by_area_url = requests.get(DEATHS_BY_AREA).url
+    deaths_by_area_csv = requests.get(DEATHS_BY_AREA, verify=False).text
 
     headers = ['date', 'country', 'region',
                'place_type', 'geo_code', 'cases', 'deaths']
 
-    deaths_df = pd.read_csv(deaths_by_area_url, parse_dates=[3])
+    deaths_df = pd.read_csv(io.StringIO(deaths_by_area_csv), parse_dates=[3])
     deaths_df = deaths_df.set_index(
         ['areaName', 'areaType', 'date'])
 
