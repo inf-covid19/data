@@ -1,6 +1,6 @@
 ## Chile
 
-> Last updated at Oct 04 2020 01:13:10 UTC.
+> Last updated at Oct 05 2020 01:12:32 UTC.
 
 
 | Region | Dataset |
