@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Oct 15 2020 09:38:31 UTC.
+> Last updated at Oct 16 2020 09:36:29 UTC.
 
 
 | Country | Dataset |
@@ -180,6 +180,7 @@
 | Sint Maarten | [`sint_maarten.csv`](sint_maarten.csv) |
 | Slovakia | [`slovakia.csv`](slovakia.csv) |
 | Slovenia | [`slovenia.csv`](slovenia.csv) |
+| Solomon Islands | [`solomon_islands.csv`](solomon_islands.csv) |
 | Somalia | [`somalia.csv`](somalia.csv) |
 | South Africa | [`south_africa.csv`](south_africa.csv) |
 | South Korea | [`south_korea.csv`](south_korea.csv) |
