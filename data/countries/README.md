@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Oct 24 2020 09:37:36 UTC.
+> Last updated at Oct 25 2020 10:38:36 UTC.
 
 
 | Country | Dataset |
@@ -212,6 +212,7 @@
 | Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
 | Venezuela | [`venezuela.csv`](venezuela.csv) |
 | Vietnam | [`vietnam.csv`](vietnam.csv) |
+| Wallis and Futuna | [`wallis_and_futuna.csv`](wallis_and_futuna.csv) |
 | Western Sahara | [`western_sahara.csv`](western_sahara.csv) |
 | Yemen | [`yemen.csv`](yemen.csv) |
 | Zambia | [`zambia.csv`](zambia.csv) |
