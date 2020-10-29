@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Oct 28 2020 11:37:40 UTC.
+> Last updated at Oct 29 2020 10:42:26 UTC.
 
 
 | Country | Dataset |
@@ -129,6 +129,7 @@
 | Maldives | [`maldives.csv`](maldives.csv) |
 | Mali | [`mali.csv`](mali.csv) |
 | Malta | [`malta.csv`](malta.csv) |
+| Marshall Islands | [`marshall_islands.csv`](marshall_islands.csv) |
 | Mauritania | [`mauritania.csv`](mauritania.csv) |
 | Mauritius | [`mauritius.csv`](mauritius.csv) |
 | Mexico | [`mexico.csv`](mexico.csv) |
