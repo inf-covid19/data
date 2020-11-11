@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Nov 10 2020 10:33:48 UTC.
+> Last updated at Nov 11 2020 10:34:08 UTC.
 
 
 | Country | Dataset |
@@ -211,6 +211,7 @@
 | United States Virgin Islands | [`united_states_virgin_islands.csv`](united_states_virgin_islands.csv) |
 | Uruguay | [`uruguay.csv`](uruguay.csv) |
 | Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
+| Vanuatu | [`vanuatu.csv`](vanuatu.csv) |
 | Venezuela | [`venezuela.csv`](venezuela.csv) |
 | Vietnam | [`vietnam.csv`](vietnam.csv) |
 | Wallis and Futuna | [`wallis_and_futuna.csv`](wallis_and_futuna.csv) |
