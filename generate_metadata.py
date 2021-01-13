@@ -21,7 +21,7 @@ def meta_countries(countries={}):
         countries[country_key] = {
             'name': head.countriesAndTerritories,
             'file': country_file,
-            'geoId': head.geoId,
+            # 'geoId': head.geoId,
             'countryTerritoryCode': head.countryterritoryCode,
             'regions': {},
             'parent': head.continentExp,
@@ -125,7 +125,7 @@ def meta_sweden(countries={}):
 
 def meta_united_kingdom(countries={}):
     regions_file = glob.glob('data/united_kingdom/*.csv')
-    country = 'United_Kingdom'
+    country = 'United Kingdom'
 
     regions = {}
 
@@ -158,9 +158,9 @@ def meta_united_kingdom(countries={}):
     return countries
 
 
-def meta_united_states_of_america(countries={}):
-    regions_file = glob.glob('data/united_states_of_america/*.csv')
-    country = 'United_States_of_America'
+def meta_united_states(countries={}):
+    regions_file = glob.glob('data/united_states/*.csv')
+    country = 'United States'
 
     regions = {}
 
@@ -435,7 +435,7 @@ if __name__ == "__main__":
         meta_spain,
         meta_sweden,
         meta_united_kingdom,
-        meta_united_states_of_america,
+        meta_united_states,
         meta_chile,
         meta_bolivia,
         meta_argentina,
