@@ -5,7 +5,8 @@ import pandas as pd
 
 from helpers import ensure_dirs
 
-COUNTRIES_DATA = 'https://opendata.ecdc.europa.eu/covid19/casedistribution/csv'
+# COUNTRIES_DATA = 'https://opendata.ecdc.europa.eu/covid19/casedistribution/csv'
+COUNTRIES_DATA = 'https://covid.ourworldindata.org/data/owid-covid-data.csv'
 
 
 def scrape_countries():
@@ -16,13 +17,24 @@ def scrape_countries():
     countries = {}
     df = pd.read_csv(COUNTRIES_DATA, parse_dates=[0], dayfirst=True)
 
-    for country in df['countriesAndTerritories'].unique():
-        is_country = df['countriesAndTerritories'] == country
+    for country in df['location'].unique():
+        is_country = df['location'] == country
         country_filename = country.lower().replace(' ', '_') + '.csv'
         country_file = path.join(countries_dir, country_filename)
         countries[country] = country_filename
 
         country_df = df[is_country]
+
+        country_df.rename(columns={
+            "date": "dateRep",
+            "new_cases": "cases",
+            "new_deaths": "deaths",
+            "location": "countriesAndTerritories",
+            "iso_code": "countryterritoryCode",
+            "population": "popData2019",
+            "continent": "continentExp",
+        }, inplace=True)
+
         country_df.to_csv(country_file, index=False, float_format='%.f')
 
     with open(path.join(countries_dir, 'README.md'), 'w') as readme_f:
