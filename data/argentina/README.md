@@ -1,6 +1,6 @@
 ## Argentina
 
-> Last updated at Jan 14 2021 23:14:58 UTC.
+> Last updated at Jan 15 2021 23:17:55 UTC.
 
 
 | Region | Dataset |
