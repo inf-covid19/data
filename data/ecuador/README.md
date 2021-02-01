@@ -1,6 +1,6 @@
 ## Ecuador
 
-> Last updated at Jan 31 2021 21:43:55 UTC.
+> Last updated at Feb 01 2021 01:37:34 UTC.
 
 
 | Province | Dataset |
