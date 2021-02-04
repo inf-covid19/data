@@ -1,11 +1,12 @@
 ## Countries
 
-> Last updated at Feb 04 2021 15:40:43 UTC.
+> Last updated at Feb 04 2021 19:35:42 UTC.
 
 
 | Country | Dataset |
 | ------ | ------- |
 | Afghanistan | [`afghanistan.csv`](afghanistan.csv) |
+| Africa | [`africa.csv`](africa.csv) |
 | Albania | [`albania.csv`](albania.csv) |
 | Algeria | [`algeria.csv`](algeria.csv) |
 | Andorra | [`andorra.csv`](andorra.csv) |
@@ -13,6 +14,7 @@
 | Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
 | Argentina | [`argentina.csv`](argentina.csv) |
 | Armenia | [`armenia.csv`](armenia.csv) |
+| Asia | [`asia.csv`](asia.csv) |
 | Australia | [`australia.csv`](australia.csv) |
 | Austria | [`austria.csv`](austria.csv) |
 | Azerbaijan | [`azerbaijan.csv`](azerbaijan.csv) |
@@ -63,6 +65,8 @@
 | Estonia | [`estonia.csv`](estonia.csv) |
 | Eswatini | [`eswatini.csv`](eswatini.csv) |
 | Ethiopia | [`ethiopia.csv`](ethiopia.csv) |
+| Europe | [`europe.csv`](europe.csv) |
+| European Union | [`european_union.csv`](european_union.csv) |
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
 | France | [`france.csv`](france.csv) |
@@ -132,8 +136,10 @@
 | Nicaragua | [`nicaragua.csv`](nicaragua.csv) |
 | Niger | [`niger.csv`](niger.csv) |
 | Nigeria | [`nigeria.csv`](nigeria.csv) |
+| North America | [`north_america.csv`](north_america.csv) |
 | North Macedonia | [`north_macedonia.csv`](north_macedonia.csv) |
 | Norway | [`norway.csv`](norway.csv) |
+| Oceania | [`oceania.csv`](oceania.csv) |
 | Oman | [`oman.csv`](oman.csv) |
 | Pakistan | [`pakistan.csv`](pakistan.csv) |
 | Palestine | [`palestine.csv`](palestine.csv) |
@@ -165,6 +171,7 @@
 | Solomon Islands | [`solomon_islands.csv`](solomon_islands.csv) |
 | Somalia | [`somalia.csv`](somalia.csv) |
 | South Africa | [`south_africa.csv`](south_africa.csv) |
+| South America | [`south_america.csv`](south_america.csv) |
 | South Korea | [`south_korea.csv`](south_korea.csv) |
 | South Sudan | [`south_sudan.csv`](south_sudan.csv) |
 | Spain | [`spain.csv`](spain.csv) |
