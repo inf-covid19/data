@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Feb 16 2021 09:41:15 UTC.
+> Last updated at Feb 20 2021 08:43:30 UTC.
 
 
 | Country | Dataset |
@@ -120,6 +120,7 @@
 | Liechtenstein | [`liechtenstein.csv`](liechtenstein.csv) |
 | Lithuania | [`lithuania.csv`](lithuania.csv) |
 | Luxembourg | [`luxembourg.csv`](luxembourg.csv) |
+| Macao | [`macao.csv`](macao.csv) |
 | Madagascar | [`madagascar.csv`](madagascar.csv) |
 | Malawi | [`malawi.csv`](malawi.csv) |
 | Malaysia | [`malaysia.csv`](malaysia.csv) |
