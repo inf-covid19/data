@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Feb 22 2021 09:37:03 UTC.
+> Last updated at Feb 22 2021 10:37:20 UTC.
 
 
 | Country | Dataset |
@@ -71,6 +71,7 @@
 | Europe | [`europe.csv`](europe.csv) |
 | European Union | [`european_union.csv`](european_union.csv) |
 | Faeroe Islands | [`faeroe_islands.csv`](faeroe_islands.csv) |
+| Falkland Islands | [`falkland_islands.csv`](falkland_islands.csv) |
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
 | France | [`france.csv`](france.csv) |
