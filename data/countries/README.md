@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 19 2021 09:46:20 UTC.
+> Last updated at Apr 19 2021 10:45:23 UTC.
 
 
 | Country | Dataset |
@@ -53,6 +53,7 @@
 | Cote d'Ivoire | [`cote_d'ivoire.csv`](cote_d'ivoire.csv) |
 | Croatia | [`croatia.csv`](croatia.csv) |
 | Cuba | [`cuba.csv`](cuba.csv) |
+| Curacao | [`curacao.csv`](curacao.csv) |
 | Cyprus | [`cyprus.csv`](cyprus.csv) |
 | Czechia | [`czechia.csv`](czechia.csv) |
 | Democratic Republic of Congo | [`democratic_republic_of_congo.csv`](democratic_republic_of_congo.csv) |
@@ -142,6 +143,7 @@
 | Mozambique | [`mozambique.csv`](mozambique.csv) |
 | Myanmar | [`myanmar.csv`](myanmar.csv) |
 | Namibia | [`namibia.csv`](namibia.csv) |
+| Nauru | [`nauru.csv`](nauru.csv) |
 | Nepal | [`nepal.csv`](nepal.csv) |
 | Netherlands | [`netherlands.csv`](netherlands.csv) |
 | New Zealand | [`new_zealand.csv`](new_zealand.csv) |
@@ -201,6 +203,7 @@
 | Thailand | [`thailand.csv`](thailand.csv) |
 | Timor | [`timor.csv`](timor.csv) |
 | Togo | [`togo.csv`](togo.csv) |
+| Tonga | [`tonga.csv`](tonga.csv) |
 | Trinidad and Tobago | [`trinidad_and_tobago.csv`](trinidad_and_tobago.csv) |
 | Tunisia | [`tunisia.csv`](tunisia.csv) |
 | Turkey | [`turkey.csv`](turkey.csv) |
