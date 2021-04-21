@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 21 2021 08:48:34 UTC.
+> Last updated at Apr 21 2021 09:46:49 UTC.
 
 
 | Country | Dataset |
@@ -15,6 +15,7 @@
 | Antigua and Barbuda | [`antigua_and_barbuda.csv`](antigua_and_barbuda.csv) |
 | Argentina | [`argentina.csv`](argentina.csv) |
 | Armenia | [`armenia.csv`](armenia.csv) |
+| Aruba | [`aruba.csv`](aruba.csv) |
 | Asia | [`asia.csv`](asia.csv) |
 | Australia | [`australia.csv`](australia.csv) |
 | Austria | [`austria.csv`](austria.csv) |
