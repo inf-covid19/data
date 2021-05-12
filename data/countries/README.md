@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 12 2021 13:52:05 UTC.
+> Last updated at May 12 2021 14:43:06 UTC.
 
 
 | Country | Dataset |
@@ -77,6 +77,7 @@
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
 | France | [`france.csv`](france.csv) |
+| French Polynesia | [`french_polynesia.csv`](french_polynesia.csv) |
 | Gabon | [`gabon.csv`](gabon.csv) |
 | Gambia | [`gambia.csv`](gambia.csv) |
 | Georgia | [`georgia.csv`](georgia.csv) |
@@ -147,6 +148,7 @@
 | Nauru | [`nauru.csv`](nauru.csv) |
 | Nepal | [`nepal.csv`](nepal.csv) |
 | Netherlands | [`netherlands.csv`](netherlands.csv) |
+| New Caledonia | [`new_caledonia.csv`](new_caledonia.csv) |
 | New Zealand | [`new_zealand.csv`](new_zealand.csv) |
 | Nicaragua | [`nicaragua.csv`](nicaragua.csv) |
 | Niger | [`niger.csv`](niger.csv) |
@@ -209,6 +211,7 @@
 | Tunisia | [`tunisia.csv`](tunisia.csv) |
 | Turkey | [`turkey.csv`](turkey.csv) |
 | Turks and Caicos Islands | [`turks_and_caicos_islands.csv`](turks_and_caicos_islands.csv) |
+| Tuvalu | [`tuvalu.csv`](tuvalu.csv) |
 | Uganda | [`uganda.csv`](uganda.csv) |
 | Ukraine | [`ukraine.csv`](ukraine.csv) |
 | United Arab Emirates | [`united_arab_emirates.csv`](united_arab_emirates.csv) |
@@ -220,6 +223,7 @@
 | Vatican | [`vatican.csv`](vatican.csv) |
 | Venezuela | [`venezuela.csv`](venezuela.csv) |
 | Vietnam | [`vietnam.csv`](vietnam.csv) |
+| Wallis and Futuna | [`wallis_and_futuna.csv`](wallis_and_futuna.csv) |
 | World | [`world.csv`](world.csv) |
 | Yemen | [`yemen.csv`](yemen.csv) |
 | Zambia | [`zambia.csv`](zambia.csv) |
