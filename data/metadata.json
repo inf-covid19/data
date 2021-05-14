@@ -35155,6 +35155,13 @@
     "regions": {},
     "parent": "North America"
   },
+  "High income": {
+    "name": "High income",
+    "file": "data/countries/high_income.csv",
+    "countryTerritoryCode": "OWID_HIC",
+    "regions": {},
+    "parent": ""
+  },
   "Holy_See": {
     "name": "Holy_See",
     "file": "data/countries/holy_see.csv",
@@ -35371,6 +35378,20 @@
     "countryTerritoryCode": "LTU",
     "regions": {},
     "parent": "Europe"
+  },
+  "Low income": {
+    "name": "Low income",
+    "file": "data/countries/low_income.csv",
+    "countryTerritoryCode": "OWID_LIC",
+    "regions": {},
+    "parent": ""
+  },
+  "Lower middle income": {
+    "name": "Lower middle income",
+    "file": "data/countries/lower_middle_income.csv",
+    "countryTerritoryCode": "OWID_LMC",
+    "regions": {},
+    "parent": ""
   },
   "Luxembourg": {
     "name": "Luxembourg",
@@ -58865,6 +58886,13 @@
     "countryTerritoryCode": "USA",
     "regions": {},
     "parent": "America"
+  },
+  "Upper middle income": {
+    "name": "Upper middle income",
+    "file": "data/countries/upper_middle_income.csv",
+    "countryTerritoryCode": "OWID_UMC",
+    "regions": {},
+    "parent": ""
   },
   "Uruguay": {
     "name": "Uruguay",
