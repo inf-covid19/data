@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 17 2021 09:49:44 UTC.
+> Last updated at May 17 2021 13:07:26 UTC.
 
 
 | Country | Dataset |
@@ -94,7 +94,6 @@
 | Guinea-Bissau | [`guinea-bissau.csv`](guinea-bissau.csv) |
 | Guyana | [`guyana.csv`](guyana.csv) |
 | Haiti | [`haiti.csv`](haiti.csv) |
-| High income | [`high_income.csv`](high_income.csv) |
 | Honduras | [`honduras.csv`](honduras.csv) |
 | Hong Kong | [`hong_kong.csv`](hong_kong.csv) |
 | Hungary | [`hungary.csv`](hungary.csv) |
@@ -125,8 +124,6 @@
 | Libya | [`libya.csv`](libya.csv) |
 | Liechtenstein | [`liechtenstein.csv`](liechtenstein.csv) |
 | Lithuania | [`lithuania.csv`](lithuania.csv) |
-| Low income | [`low_income.csv`](low_income.csv) |
-| Lower middle income | [`lower_middle_income.csv`](lower_middle_income.csv) |
 | Luxembourg | [`luxembourg.csv`](luxembourg.csv) |
 | Macao | [`macao.csv`](macao.csv) |
 | Madagascar | [`madagascar.csv`](madagascar.csv) |
@@ -223,7 +220,6 @@
 | United Arab Emirates | [`united_arab_emirates.csv`](united_arab_emirates.csv) |
 | United Kingdom | [`united_kingdom.csv`](united_kingdom.csv) |
 | United States | [`united_states.csv`](united_states.csv) |
-| Upper middle income | [`upper_middle_income.csv`](upper_middle_income.csv) |
 | Uruguay | [`uruguay.csv`](uruguay.csv) |
 | Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
 | Vanuatu | [`vanuatu.csv`](vanuatu.csv) |
