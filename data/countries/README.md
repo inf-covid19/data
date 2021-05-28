@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 28 2021 10:14:51 UTC.
+> Last updated at May 28 2021 13:36:24 UTC.
 
 
 | Country | Dataset |
@@ -114,6 +114,7 @@
 | Jordan | [`jordan.csv`](jordan.csv) |
 | Kazakhstan | [`kazakhstan.csv`](kazakhstan.csv) |
 | Kenya | [`kenya.csv`](kenya.csv) |
+| Kiribati | [`kiribati.csv`](kiribati.csv) |
 | Kosovo | [`kosovo.csv`](kosovo.csv) |
 | Kuwait | [`kuwait.csv`](kuwait.csv) |
 | Kyrgyzstan | [`kyrgyzstan.csv`](kyrgyzstan.csv) |
