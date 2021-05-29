@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 29 2021 12:08:00 UTC.
+> Last updated at May 29 2021 13:45:05 UTC.
 
 
 | Country | Dataset |
@@ -52,6 +52,7 @@
 | Colombia | [`colombia.csv`](colombia.csv) |
 | Comoros | [`comoros.csv`](comoros.csv) |
 | Congo | [`congo.csv`](congo.csv) |
+| Cook Islands | [`cook_islands.csv`](cook_islands.csv) |
 | Costa Rica | [`costa_rica.csv`](costa_rica.csv) |
 | Cote d'Ivoire | [`cote_d'ivoire.csv`](cote_d'ivoire.csv) |
 | Croatia | [`croatia.csv`](croatia.csv) |
