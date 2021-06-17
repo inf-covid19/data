@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Jun 17 2021 08:44:16 UTC.
+> Last updated at Jun 17 2021 10:45:30 UTC.
 
 
 | Country | Dataset |
@@ -170,6 +170,7 @@
 | Paraguay | [`paraguay.csv`](paraguay.csv) |
 | Peru | [`peru.csv`](peru.csv) |
 | Philippines | [`philippines.csv`](philippines.csv) |
+| Pitcairn | [`pitcairn.csv`](pitcairn.csv) |
 | Poland | [`poland.csv`](poland.csv) |
 | Portugal | [`portugal.csv`](portugal.csv) |
 | Qatar | [`qatar.csv`](qatar.csv) |
