@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Jul 08 2021 08:41:43 UTC.
+> Last updated at Jul 08 2021 10:41:09 UTC.
 
 
 | Country | Dataset |
@@ -157,6 +157,7 @@
 | Nicaragua | [`nicaragua.csv`](nicaragua.csv) |
 | Niger | [`niger.csv`](niger.csv) |
 | Nigeria | [`nigeria.csv`](nigeria.csv) |
+| Niue | [`niue.csv`](niue.csv) |
 | North America | [`north_america.csv`](north_america.csv) |
 | North Macedonia | [`north_macedonia.csv`](north_macedonia.csv) |
 | Northern Cyprus | [`northern_cyprus.csv`](northern_cyprus.csv) |
