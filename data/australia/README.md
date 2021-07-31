@@ -1,6 +1,6 @@
 ## Australia
 
-> Last updated at Jul 30 2021 11:36:10 UTC.
+> Last updated at Jul 31 2021 17:00:21 UTC.
 
 
 | Region | Dataset |
