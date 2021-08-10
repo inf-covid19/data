@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Aug 10 2021 10:41:24 UTC.
+> Last updated at Aug 10 2021 11:35:58 UTC.
 
 
 | Country | Dataset |
@@ -213,6 +213,7 @@
 | Thailand | [`thailand.csv`](thailand.csv) |
 | Timor | [`timor.csv`](timor.csv) |
 | Togo | [`togo.csv`](togo.csv) |
+| Tokelau | [`tokelau.csv`](tokelau.csv) |
 | Tonga | [`tonga.csv`](tonga.csv) |
 | Trinidad and Tobago | [`trinidad_and_tobago.csv`](trinidad_and_tobago.csv) |
 | Tunisia | [`tunisia.csv`](tunisia.csv) |
