@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Aug 22 2021 08:39:45 UTC.
+> Last updated at Aug 23 2021 05:36:05 UTC.
 
 
 | Country | Dataset |
@@ -165,6 +165,7 @@
 | Oceania | [`oceania.csv`](oceania.csv) |
 | Oman | [`oman.csv`](oman.csv) |
 | Pakistan | [`pakistan.csv`](pakistan.csv) |
+| Palau | [`palau.csv`](palau.csv) |
 | Palestine | [`palestine.csv`](palestine.csv) |
 | Panama | [`panama.csv`](panama.csv) |
 | Papua New Guinea | [`papua_new_guinea.csv`](papua_new_guinea.csv) |
