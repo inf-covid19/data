@@ -1,12 +1,13 @@
 ## United States of America
 
-> Last updated at Sep 22 2021 20:38:46 UTC.
+> Last updated at Sep 24 2021 16:58:16 UTC.
 
 
 | State | Dataset |
 | ------ | ------- |
 | Alabama | [`01.csv`](01.csv) |
 | Alaska | [`02.csv`](02.csv) |
+| American Samoa | [`60.csv`](60.csv) |
 | Arizona | [`04.csv`](04.csv) |
 | Arkansas | [`05.csv`](05.csv) |
 | California | [`06.csv`](06.csv) |
