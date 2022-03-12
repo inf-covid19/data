@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Mar 11 2022 18:43:39 UTC.
+> Last updated at Mar 12 2022 01:43:39 UTC.
 
 
 | Country | Dataset |
@@ -239,7 +239,6 @@
 | Venezuela | [`venezuela.csv`](venezuela.csv) |
 | Vietnam | [`vietnam.csv`](vietnam.csv) |
 | Wallis and Futuna | [`wallis_and_futuna.csv`](wallis_and_futuna.csv) |
-| Western Sahara | [`western_sahara.csv`](western_sahara.csv) |
 | World | [`world.csv`](world.csv) |
 | Yemen | [`yemen.csv`](yemen.csv) |
 | Zambia | [`zambia.csv`](zambia.csv) |
