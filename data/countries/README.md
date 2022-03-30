@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Mar 30 2022 10:43:00 UTC.
+> Last updated at Mar 30 2022 15:47:38 UTC.
 
 
 | Country | Dataset |
@@ -178,6 +178,7 @@
 | Pitcairn | [`pitcairn.csv`](pitcairn.csv) |
 | Poland | [`poland.csv`](poland.csv) |
 | Portugal | [`portugal.csv`](portugal.csv) |
+| Puerto Rico | [`puerto_rico.csv`](puerto_rico.csv) |
 | Qatar | [`qatar.csv`](qatar.csv) |
 | Romania | [`romania.csv`](romania.csv) |
 | Russia | [`russia.csv`](russia.csv) |
