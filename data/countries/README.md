@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Apr 03 2022 08:41:54 UTC.
+> Last updated at Apr 03 2022 18:43:56 UTC.
 
 
 | Country | Dataset |
@@ -90,6 +90,7 @@
 | Greece | [`greece.csv`](greece.csv) |
 | Greenland | [`greenland.csv`](greenland.csv) |
 | Grenada | [`grenada.csv`](grenada.csv) |
+| Guam | [`guam.csv`](guam.csv) |
 | Guatemala | [`guatemala.csv`](guatemala.csv) |
 | Guernsey | [`guernsey.csv`](guernsey.csv) |
 | Guinea | [`guinea.csv`](guinea.csv) |
@@ -164,6 +165,7 @@
 | North America | [`north_america.csv`](north_america.csv) |
 | North Macedonia | [`north_macedonia.csv`](north_macedonia.csv) |
 | Northern Cyprus | [`northern_cyprus.csv`](northern_cyprus.csv) |
+| Northern Mariana Islands | [`northern_mariana_islands.csv`](northern_mariana_islands.csv) |
 | Norway | [`norway.csv`](norway.csv) |
 | Oceania | [`oceania.csv`](oceania.csv) |
 | Oman | [`oman.csv`](oman.csv) |
@@ -232,6 +234,7 @@
 | United Arab Emirates | [`united_arab_emirates.csv`](united_arab_emirates.csv) |
 | United Kingdom | [`united_kingdom.csv`](united_kingdom.csv) |
 | United States | [`united_states.csv`](united_states.csv) |
+| United States Virgin Islands | [`united_states_virgin_islands.csv`](united_states_virgin_islands.csv) |
 | Upper middle income | [`upper_middle_income.csv`](upper_middle_income.csv) |
 | Uruguay | [`uruguay.csv`](uruguay.csv) |
 | Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
