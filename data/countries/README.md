@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 15 2022 17:44:16 UTC.
+> Last updated at May 15 2022 19:36:59 UTC.
 
 
 | Country | Dataset |
@@ -163,6 +163,7 @@
 | Nigeria | [`nigeria.csv`](nigeria.csv) |
 | Niue | [`niue.csv`](niue.csv) |
 | North America | [`north_america.csv`](north_america.csv) |
+| North Korea | [`north_korea.csv`](north_korea.csv) |
 | North Macedonia | [`north_macedonia.csv`](north_macedonia.csv) |
 | Northern Cyprus | [`northern_cyprus.csv`](northern_cyprus.csv) |
 | Northern Mariana Islands | [`northern_mariana_islands.csv`](northern_mariana_islands.csv) |
