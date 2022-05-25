@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at May 25 2022 02:36:11 UTC.
+> Last updated at May 25 2022 05:42:55 UTC.
 
 
 | Country | Dataset |
@@ -189,7 +189,6 @@
 | Saint Helena | [`saint_helena.csv`](saint_helena.csv) |
 | Saint Kitts and Nevis | [`saint_kitts_and_nevis.csv`](saint_kitts_and_nevis.csv) |
 | Saint Lucia | [`saint_lucia.csv`](saint_lucia.csv) |
-| Saint Pierre and Miquelon | [`saint_pierre_and_miquelon.csv`](saint_pierre_and_miquelon.csv) |
 | Saint Vincent and the Grenadines | [`saint_vincent_and_the_grenadines.csv`](saint_vincent_and_the_grenadines.csv) |
 | Samoa | [`samoa.csv`](samoa.csv) |
 | San Marino | [`san_marino.csv`](san_marino.csv) |
