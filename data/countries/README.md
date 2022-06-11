@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Jun 11 2022 08:42:33 UTC.
+> Last updated at Jun 11 2022 15:40:29 UTC.
 
 
 | Country | Dataset |
