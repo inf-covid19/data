@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Jul 16 2022 08:44:16 UTC.
+> Last updated at Jul 16 2022 09:40:13 UTC.
 
 
 | Country | Dataset |
@@ -207,3 +207,45 @@
 | Somalia | [`somalia.csv`](somalia.csv) |
 | South Africa | [`south_africa.csv`](south_africa.csv) |
 | South America | [`south_america.csv`](south_america.csv) |
+| South Korea | [`south_korea.csv`](south_korea.csv) |
+| South Sudan | [`south_sudan.csv`](south_sudan.csv) |
+| Spain | [`spain.csv`](spain.csv) |
+| Sri Lanka | [`sri_lanka.csv`](sri_lanka.csv) |
+| Sudan | [`sudan.csv`](sudan.csv) |
+| Suriname | [`suriname.csv`](suriname.csv) |
+| Sweden | [`sweden.csv`](sweden.csv) |
+| Switzerland | [`switzerland.csv`](switzerland.csv) |
+| Syria | [`syria.csv`](syria.csv) |
+| Taiwan | [`taiwan.csv`](taiwan.csv) |
+| Tajikistan | [`tajikistan.csv`](tajikistan.csv) |
+| Tanzania | [`tanzania.csv`](tanzania.csv) |
+| Thailand | [`thailand.csv`](thailand.csv) |
+| Timor | [`timor.csv`](timor.csv) |
+| Togo | [`togo.csv`](togo.csv) |
+| Tokelau | [`tokelau.csv`](tokelau.csv) |
+| Tonga | [`tonga.csv`](tonga.csv) |
+| Trinidad and Tobago | [`trinidad_and_tobago.csv`](trinidad_and_tobago.csv) |
+| Tunisia | [`tunisia.csv`](tunisia.csv) |
+| Turkey | [`turkey.csv`](turkey.csv) |
+| Turkmenistan | [`turkmenistan.csv`](turkmenistan.csv) |
+| Turks and Caicos Islands | [`turks_and_caicos_islands.csv`](turks_and_caicos_islands.csv) |
+| Tuvalu | [`tuvalu.csv`](tuvalu.csv) |
+| Uganda | [`uganda.csv`](uganda.csv) |
+| Ukraine | [`ukraine.csv`](ukraine.csv) |
+| United Arab Emirates | [`united_arab_emirates.csv`](united_arab_emirates.csv) |
+| United Kingdom | [`united_kingdom.csv`](united_kingdom.csv) |
+| United States | [`united_states.csv`](united_states.csv) |
+| United States Virgin Islands | [`united_states_virgin_islands.csv`](united_states_virgin_islands.csv) |
+| Upper middle income | [`upper_middle_income.csv`](upper_middle_income.csv) |
+| Uruguay | [`uruguay.csv`](uruguay.csv) |
+| Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
+| Vanuatu | [`vanuatu.csv`](vanuatu.csv) |
+| Vatican | [`vatican.csv`](vatican.csv) |
+| Venezuela | [`venezuela.csv`](venezuela.csv) |
+| Vietnam | [`vietnam.csv`](vietnam.csv) |
+| Wallis and Futuna | [`wallis_and_futuna.csv`](wallis_and_futuna.csv) |
+| Western Sahara | [`western_sahara.csv`](western_sahara.csv) |
+| World | [`world.csv`](world.csv) |
+| Yemen | [`yemen.csv`](yemen.csv) |
+| Zambia | [`zambia.csv`](zambia.csv) |
+| Zimbabwe | [`zimbabwe.csv`](zimbabwe.csv) |
