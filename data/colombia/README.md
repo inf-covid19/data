@@ -1,6 +1,6 @@
 ## Colombia
 
-> Last updated at Sep 17 2022 21:41:51 UTC.
+> Last updated at Sep 17 2022 22:43:49 UTC.
 
 
 | Departament | Dataset |
