@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Oct 19 2022 08:01:18 UTC.
+> Last updated at Oct 19 2022 14:56:02 UTC.
 
 
 | Country | Dataset |
@@ -68,6 +68,7 @@
 | Ecuador | [`ecuador.csv`](ecuador.csv) |
 | Egypt | [`egypt.csv`](egypt.csv) |
 | El Salvador | [`el_salvador.csv`](el_salvador.csv) |
+| England | [`england.csv`](england.csv) |
 | Equatorial Guinea | [`equatorial_guinea.csv`](equatorial_guinea.csv) |
 | Eritrea | [`eritrea.csv`](eritrea.csv) |
 | Estonia | [`estonia.csv`](estonia.csv) |
@@ -166,6 +167,7 @@
 | North Korea | [`north_korea.csv`](north_korea.csv) |
 | North Macedonia | [`north_macedonia.csv`](north_macedonia.csv) |
 | Northern Cyprus | [`northern_cyprus.csv`](northern_cyprus.csv) |
+| Northern Ireland | [`northern_ireland.csv`](northern_ireland.csv) |
 | Northern Mariana Islands | [`northern_mariana_islands.csv`](northern_mariana_islands.csv) |
 | Norway | [`norway.csv`](norway.csv) |
 | Oceania | [`oceania.csv`](oceania.csv) |
@@ -195,6 +197,7 @@
 | San Marino | [`san_marino.csv`](san_marino.csv) |
 | Sao Tome and Principe | [`sao_tome_and_principe.csv`](sao_tome_and_principe.csv) |
 | Saudi Arabia | [`saudi_arabia.csv`](saudi_arabia.csv) |
+| Scotland | [`scotland.csv`](scotland.csv) |
 | Senegal | [`senegal.csv`](senegal.csv) |
 | Serbia | [`serbia.csv`](serbia.csv) |
 | Seychelles | [`seychelles.csv`](seychelles.csv) |
@@ -243,6 +246,7 @@
 | Vatican | [`vatican.csv`](vatican.csv) |
 | Venezuela | [`venezuela.csv`](venezuela.csv) |
 | Vietnam | [`vietnam.csv`](vietnam.csv) |
+| Wales | [`wales.csv`](wales.csv) |
 | Wallis and Futuna | [`wallis_and_futuna.csv`](wallis_and_futuna.csv) |
 | Western Sahara | [`western_sahara.csv`](western_sahara.csv) |
 | World | [`world.csv`](world.csv) |
