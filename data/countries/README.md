@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Mar 08 2023 07:36:59 UTC.
+> Last updated at Mar 08 2023 14:38:21 UTC.
 
 
 | Country | Dataset |
@@ -9,6 +9,7 @@
 | Africa | [`africa.csv`](africa.csv) |
 | Albania | [`albania.csv`](albania.csv) |
 | Algeria | [`algeria.csv`](algeria.csv) |
+| American Samoa | [`american_samoa.csv`](american_samoa.csv) |
 | Andorra | [`andorra.csv`](andorra.csv) |
 | Angola | [`angola.csv`](angola.csv) |
 | Anguilla | [`anguilla.csv`](anguilla.csv) |
@@ -81,6 +82,7 @@
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
 | France | [`france.csv`](france.csv) |
+| French Guiana | [`french_guiana.csv`](french_guiana.csv) |
 | French Polynesia | [`french_polynesia.csv`](french_polynesia.csv) |
 | Gabon | [`gabon.csv`](gabon.csv) |
 | Gambia | [`gambia.csv`](gambia.csv) |
@@ -91,6 +93,7 @@
 | Greece | [`greece.csv`](greece.csv) |
 | Greenland | [`greenland.csv`](greenland.csv) |
 | Grenada | [`grenada.csv`](grenada.csv) |
+| Guadeloupe | [`guadeloupe.csv`](guadeloupe.csv) |
 | Guam | [`guam.csv`](guam.csv) |
 | Guatemala | [`guatemala.csv`](guatemala.csv) |
 | Guernsey | [`guernsey.csv`](guernsey.csv) |
@@ -105,7 +108,6 @@
 | Iceland | [`iceland.csv`](iceland.csv) |
 | India | [`india.csv`](india.csv) |
 | Indonesia | [`indonesia.csv`](indonesia.csv) |
-| International | [`international.csv`](international.csv) |
 | Iran | [`iran.csv`](iran.csv) |
 | Iraq | [`iraq.csv`](iraq.csv) |
 | Ireland | [`ireland.csv`](ireland.csv) |
@@ -141,8 +143,10 @@
 | Mali | [`mali.csv`](mali.csv) |
 | Malta | [`malta.csv`](malta.csv) |
 | Marshall Islands | [`marshall_islands.csv`](marshall_islands.csv) |
+| Martinique | [`martinique.csv`](martinique.csv) |
 | Mauritania | [`mauritania.csv`](mauritania.csv) |
 | Mauritius | [`mauritius.csv`](mauritius.csv) |
+| Mayotte | [`mayotte.csv`](mayotte.csv) |
 | Mexico | [`mexico.csv`](mexico.csv) |
 | Micronesia (country) | [`micronesia_(country).csv`](micronesia_(country).csv) |
 | Moldova | [`moldova.csv`](moldova.csv) |
@@ -185,12 +189,15 @@
 | Portugal | [`portugal.csv`](portugal.csv) |
 | Puerto Rico | [`puerto_rico.csv`](puerto_rico.csv) |
 | Qatar | [`qatar.csv`](qatar.csv) |
+| Reunion | [`reunion.csv`](reunion.csv) |
 | Romania | [`romania.csv`](romania.csv) |
 | Russia | [`russia.csv`](russia.csv) |
 | Rwanda | [`rwanda.csv`](rwanda.csv) |
+| Saint Barthelemy | [`saint_barthelemy.csv`](saint_barthelemy.csv) |
 | Saint Helena | [`saint_helena.csv`](saint_helena.csv) |
 | Saint Kitts and Nevis | [`saint_kitts_and_nevis.csv`](saint_kitts_and_nevis.csv) |
 | Saint Lucia | [`saint_lucia.csv`](saint_lucia.csv) |
+| Saint Martin (French part) | [`saint_martin_(french_part).csv`](saint_martin_(french_part).csv) |
 | Saint Pierre and Miquelon | [`saint_pierre_and_miquelon.csv`](saint_pierre_and_miquelon.csv) |
 | Saint Vincent and the Grenadines | [`saint_vincent_and_the_grenadines.csv`](saint_vincent_and_the_grenadines.csv) |
 | Samoa | [`samoa.csv`](samoa.csv) |
