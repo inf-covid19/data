@@ -1,6 +1,6 @@
 ## Countries
 
-> Last updated at Jul 26 2024 17:35:49 UTC.
+> Last updated at Jul 29 2024 11:36:20 UTC.
 
 
 | Country | Dataset |
@@ -66,6 +66,7 @@
 | Djibouti | [`djibouti.csv`](djibouti.csv) |
 | Dominica | [`dominica.csv`](dominica.csv) |
 | Dominican Republic | [`dominican_republic.csv`](dominican_republic.csv) |
+| East Timor | [`east_timor.csv`](east_timor.csv) |
 | Ecuador | [`ecuador.csv`](ecuador.csv) |
 | Egypt | [`egypt.csv`](egypt.csv) |
 | El Salvador | [`el_salvador.csv`](el_salvador.csv) |
@@ -76,8 +77,8 @@
 | Eswatini | [`eswatini.csv`](eswatini.csv) |
 | Ethiopia | [`ethiopia.csv`](ethiopia.csv) |
 | Europe | [`europe.csv`](europe.csv) |
-| European Union | [`european_union.csv`](european_union.csv) |
-| Faeroe Islands | [`faeroe_islands.csv`](faeroe_islands.csv) |
+| European Union (27) | [`european_union_(27).csv`](european_union_(27).csv) |
+| Faroe Islands | [`faroe_islands.csv`](faroe_islands.csv) |
 | Falkland Islands | [`falkland_islands.csv`](falkland_islands.csv) |
 | Fiji | [`fiji.csv`](fiji.csv) |
 | Finland | [`finland.csv`](finland.csv) |
@@ -101,7 +102,7 @@
 | Guinea-Bissau | [`guinea-bissau.csv`](guinea-bissau.csv) |
 | Guyana | [`guyana.csv`](guyana.csv) |
 | Haiti | [`haiti.csv`](haiti.csv) |
-| High income | [`high_income.csv`](high_income.csv) |
+| High-income countries | [`high-income_countries.csv`](high-income_countries.csv) |
 | Honduras | [`honduras.csv`](honduras.csv) |
 | Hong Kong | [`hong_kong.csv`](hong_kong.csv) |
 | Hungary | [`hungary.csv`](hungary.csv) |
@@ -132,8 +133,8 @@
 | Libya | [`libya.csv`](libya.csv) |
 | Liechtenstein | [`liechtenstein.csv`](liechtenstein.csv) |
 | Lithuania | [`lithuania.csv`](lithuania.csv) |
-| Low income | [`low_income.csv`](low_income.csv) |
-| Lower middle income | [`lower_middle_income.csv`](lower_middle_income.csv) |
+| Low-income countries | [`low-income_countries.csv`](low-income_countries.csv) |
+| Lower-middle-income countries | [`lower-middle-income_countries.csv`](lower-middle-income_countries.csv) |
 | Luxembourg | [`luxembourg.csv`](luxembourg.csv) |
 | Macao | [`macao.csv`](macao.csv) |
 | Madagascar | [`madagascar.csv`](madagascar.csv) |
@@ -230,7 +231,6 @@
 | Tajikistan | [`tajikistan.csv`](tajikistan.csv) |
 | Tanzania | [`tanzania.csv`](tanzania.csv) |
 | Thailand | [`thailand.csv`](thailand.csv) |
-| Timor | [`timor.csv`](timor.csv) |
 | Togo | [`togo.csv`](togo.csv) |
 | Tokelau | [`tokelau.csv`](tokelau.csv) |
 | Tonga | [`tonga.csv`](tonga.csv) |
@@ -246,7 +246,7 @@
 | United Kingdom | [`united_kingdom.csv`](united_kingdom.csv) |
 | United States | [`united_states.csv`](united_states.csv) |
 | United States Virgin Islands | [`united_states_virgin_islands.csv`](united_states_virgin_islands.csv) |
-| Upper middle income | [`upper_middle_income.csv`](upper_middle_income.csv) |
+| Upper-middle-income countries | [`upper-middle-income_countries.csv`](upper-middle-income_countries.csv) |
 | Uruguay | [`uruguay.csv`](uruguay.csv) |
 | Uzbekistan | [`uzbekistan.csv`](uzbekistan.csv) |
 | Vanuatu | [`vanuatu.csv`](vanuatu.csv) |

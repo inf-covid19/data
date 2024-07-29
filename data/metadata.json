@@ -34780,6 +34780,13 @@
     "regions": {},
     "parent": "North America"
   },
+  "East Timor": {
+    "name": "East Timor",
+    "file": "data/countries/east_timor.csv",
+    "countryTerritoryCode": "TLS",
+    "regions": {},
+    "parent": "Asia"
+  },
   "Ecuador": {
     "name": "Ecuador",
     "file": "data/countries/ecuador.csv",
@@ -35008,6 +35015,13 @@
     "regions": {},
     "parent": ""
   },
+  "European Union (27)": {
+    "name": "European Union (27)",
+    "file": "data/countries/european_union_(27).csv",
+    "countryTerritoryCode": "OWID_EUN",
+    "regions": {},
+    "parent": ""
+  },
   "Faeroe Islands": {
     "name": "Faeroe Islands",
     "file": "data/countries/faeroe_islands.csv",
@@ -35029,8 +35043,8 @@
     "regions": {},
     "parent": "America"
   },
-  "Faroe_Islands": {
-    "name": "Faroe_Islands",
+  "Faroe Islands": {
+    "name": "Faroe Islands",
     "file": "data/countries/faroe_islands.csv",
     "countryTerritoryCode": "FRO",
     "regions": {},
@@ -35200,6 +35214,13 @@
   "High income": {
     "name": "High income",
     "file": "data/countries/high_income.csv",
+    "countryTerritoryCode": "OWID_HIC",
+    "regions": {},
+    "parent": ""
+  },
+  "High-income countries": {
+    "name": "High-income countries",
+    "file": "data/countries/high-income_countries.csv",
     "countryTerritoryCode": "OWID_HIC",
     "regions": {},
     "parent": ""
@@ -35435,9 +35456,23 @@
     "regions": {},
     "parent": ""
   },
+  "Low-income countries": {
+    "name": "Low-income countries",
+    "file": "data/countries/low-income_countries.csv",
+    "countryTerritoryCode": "OWID_LIC",
+    "regions": {},
+    "parent": ""
+  },
   "Lower middle income": {
     "name": "Lower middle income",
     "file": "data/countries/lower_middle_income.csv",
+    "countryTerritoryCode": "OWID_LMC",
+    "regions": {},
+    "parent": ""
+  },
+  "Lower-middle-income countries": {
+    "name": "Lower-middle-income countries",
+    "file": "data/countries/lower-middle-income_countries.csv",
     "countryTerritoryCode": "OWID_LMC",
     "regions": {},
     "parent": ""
@@ -59062,6 +59097,13 @@
   "Upper middle income": {
     "name": "Upper middle income",
     "file": "data/countries/upper_middle_income.csv",
+    "countryTerritoryCode": "OWID_UMC",
+    "regions": {},
+    "parent": ""
+  },
+  "Upper-middle-income countries": {
+    "name": "Upper-middle-income countries",
+    "file": "data/countries/upper-middle-income_countries.csv",
     "countryTerritoryCode": "OWID_UMC",
     "regions": {},
     "parent": ""
